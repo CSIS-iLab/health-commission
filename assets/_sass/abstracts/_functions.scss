@@ -1,0 +1,9 @@
+/*=================================
+=            Functions            =
+=================================*/
+
+$browser-context: 16px;
+@function calculate-rem($size) {
+    $remSize: $size / $browser-context;
+    @return #{$remSize}rem;
+}
