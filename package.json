@@ -1,7 +1,7 @@
 {
-  "name": "csis-jekyll-starter",
+  "name": "csis-health-commission",
   "version": "0.0.0",
-  "description": "A Jekyll starter kit for CSIS iDeas Lab projects.",
+  "description": "Website for the CSIS Commission on Strengthening America's Health Security.",
   "main": "gulpfile.js",
   "scripts": {
     "preinstall": "bundle install --path vendor/bundle",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CSIS-iLab/csis-jekyll-starter.git"
+    "url": "https://github.com/CSIS-iLab/health-commission.git"
   },
   "keywords": [
     "Autoprefixer",

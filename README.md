@@ -1,5 +1,5 @@
-# CSIS Jekyll Starter Kit
-This is a Jekyll starter kit based on [Frasco](https://github.com/ixkaito/frasco/) that utilizes gulp, Sass, Autoprefixer, PostCSS, Webpack, imagemin, and Browsersync to speed-up development.
+# CSIS Commission on Strengthening America's Health Security
+The website for the CSIS Commission on Strengthening America's Health Security. It is built on the [CSIS Jekyll Starter](https://github.com/CSIS-iLab/csis-jekyll-starter) that utilizes gulp, Sass, Autoprefixer, PostCSS, Webpack, imagemin, and Browsersync to speed-up development.
 
 ## Table of Contents
 * [Quick-Start Instructions](#quick-start-instructions)
@@ -12,7 +12,7 @@ This is a Jekyll starter kit based on [Frasco](https://github.com/ixkaito/frasco
 
 ## Quick-start Instructions
 ```shell
-$ git clone https://github.com/CSIS-iLab/csis-jekyll-starter.git
+$ git clone https://github.com/CSIS-iLab/health-commission.git
 $ cd csis-jekyll-starter
 $ npm install
 $ npm start
@@ -59,6 +59,27 @@ For more information on what is included and modifying the default configuration
 - [UglifyJS](https://github.com/mishoo/UglifyJS2)
 - [imagemin](https://github.com/imagemin/imagemin)
 - [Browsersync](https://www.browsersync.io/)
+
+## Contributing
+### Branching
+When modifying the code base, always make a new branch. Unless it's necessary to do otherwise, all branches should be created off of `master`.
+
+Branches should use the following naming conventions:
+| Branch type | Name       | Example                     |
+|-------------|------------|-----------------------------|
+| New Feature | `feature/<short description of feature>` | `feature/header-navigation` |
+| Bug Fixes   | `bug/<short description of bug>`| `bug/mobile-navigation` |
+| Documentation | `docs/<short description of documentation being updated>` | `docs/readme` |
+| Code clean-up/refactoring | `refactor/<short description>` | `refactor/apply-linting` |
+| Content Updates | `content/<short description of content>` | `content/add-new-posts` |
+
+When ready to merge, submit a Pull Request into `master`. All code will be reviewed by the lead developer on the project before being merged into `master`.
+
+### Commit Messages
+Write clear and concise commit messages describing the changes you are making and why. If there are any issues associated with the commit, include the issue # in the commit title.
+
+### CSS Styles
+* This project uses the [BEM](http://getbem.com/introduction/) naming convention.
 
 ## Copyright / License
 

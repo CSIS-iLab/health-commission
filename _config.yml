@@ -1,4 +1,4 @@
-title: "CSIS Jekyll Starter Project"
+title: "CSIS Commission on Strengthening America's Health Security"
 email: csisideaslab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Quick starter project for Jekyll including full setup for gulp, Sass, Autoprefixer, Bourbon/Neat/Bitters, Browserify, imagemin, Browsersync, PostCSS etc. Built on top of Frasco
@@ -14,8 +14,6 @@ plugins:
   - jekyll-seo-tag
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
   - frasco.config.js
   - Gemfile
