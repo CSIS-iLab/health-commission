@@ -1,0 +1,15 @@
+---
+label: Series
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Title
+  label: Title
+  name: title
+  config:
+    required: true
+- type: boolean
+  label: Is this a featured series?
+  name: is_featured
+  description: If yes, this series will appear on the home page and archive page
