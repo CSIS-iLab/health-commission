@@ -1,0 +1,14 @@
+- type: commentary
+  title: commentary
+  filterable: true    
+- type: event
+  title: event
+  filterable: true
+- type: documentary
+  filterable: true
+- type: news
+  title: news
+  filterable: true
+- type: report
+  title: report
+  filterable: true
