@@ -1,0 +1,24 @@
+<article class="post-block" role="article" data-content-type="{{ post.content_type }}">
+  {% if include.show_image and post.image.size > 0 %}
+  <a href="{{ post.url | relative_url }}" class="post-block__img"><img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" title="{{ post.title | escape }}" /></a>
+  {% endif %}
+  <header class="post-block__header" role="header">
+    Content Type &mdash; Series
+    <h2 class="post-block__title"><a href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a></h2>
+    Authors<br />
+    Publish Date
+  </header>
+  {% if include.hide_excerpt != true %}
+    <main class="post-block__content" role="main">
+      <p>{{ post.excerpt }}</p>
+    </main>
+  {% endif %}
+  <footer class="post-block__footer" role="footer">
+    Themes List
+  </footer>
+  {% if include.show_image and post.image.size > 0 %}
+  <div class="post-block__clear"></div>
+  {% endif %}
+</article>
