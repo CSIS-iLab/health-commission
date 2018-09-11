@@ -113,6 +113,17 @@
   color: $color-white;
 }
 
+%h1 {
+  font-family: $font-georgia;
+  @include font-size(32px);
+  line-height: 1.31;
+
+  @include breakpoint('medium') {
+    @include font-size(56px);
+    line-height: 1.2;
+  }
+}
+
 %h2 {
   font-family: $font-europa;
   @include font-size(26px);
