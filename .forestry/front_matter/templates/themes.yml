@@ -1,0 +1,32 @@
+---
+label: Themes
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  config:
+    required: true
+  label: title
+  description: Full Name
+  name: title
+- type: text
+  name: short_title
+  label: Short title
+- type: file
+  name: image
+  label: Image
+- type: select
+  name: indepth_overview
+  config:
+    source:
+      type: datafiles
+  label: in-depth overview
+- type: select
+  config:
+    source:
+      type: datafiles
+  label: featured post
+  name: featured_post
+- type: text
+  name: description
+  label: description
