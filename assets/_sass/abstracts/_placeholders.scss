@@ -2,4 +2,401 @@
 =            Placeholders            =
 ====================================*/
 
+%aside-heading {
+  font-family: $font-europa;
+  @include font-size(13px);
+  letter-spacing: 1.4px;
+  color: $color-black;
 
+  @include breakpoint('medium') {
+    @include font-size(14px);
+    letter-spacing: 1.5px;
+  }
+}
+
+%aside-list-item {
+  font-family: $font-georgia;
+  @include font-size(16px);
+  line-height: 1.5;
+}
+
+%bio-name {
+  font-family: $font-europa;
+  @include font-size(18px);
+  line-height: 1.78;
+  letter-spacing: 1px;
+  font-weight: bold;
+  color: $color-black;
+}
+
+%bio-name-lg {
+  font-family: $font-europa;
+  @include font-size(24px);
+  line-height: 1.33;
+  text-align: center;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(26px);
+    line-height: 1.23;
+  }
+}
+
+%bio-title {
+  font-family: $font-europa;
+  @include font-size(16px);
+  color: $color-dust;
+}
+
+%blockquote {
+  font-family: $font-europa;
+  @include font-size(24px);
+  line-height: 1.3;
+  color: $color-dust;
+
+  @include breakpoint('medium') {
+    @include font-size(30px);
+    line-height: 1.33;
+  }
+}
+
+%body-text {
+  font-family: $font-georgia;
+  @include font-size(16px);
+  line-height: 1.5;
+
+  @include breakpoint('medium') {
+    @include font-size(16px);
+    line-height: 1.55;
+  }
+}
+
+%btn {
+  font-family: $font-europa;
+  @include font-size(14px);
+  letter-spacing: 1.5px;
+}
+
+%filter-labels {
+  font-family: $font-europa;
+  @include font-size(14px);
+  line-height: 1.43;
+  letter-spacing: 0.8px;
+}
+
+%footer-copyright {
+  font-family: $font-europa;
+  @include font-size(12px);
+  line-height: 1.33;
+  color: $color-dark-silver;
+}
+
+%footer-description {
+  font-family: $font-georgia;
+  @include font-size(16px);
+  line-height: 1.81;
+  color: $color-dark-silver;
+}
+
+%footer-list-item {
+  font-family: $font-europa;
+  @include font-size(14px);
+  line-height: 1.29;
+  color: $color-dark-silver;
+}
+
+%footer-section-title {
+  font-family: $font-europa;
+  @include font-size(16px);
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  color: $color-white;
+}
+
+%h1 {
+  font-family: $font-georgia;
+  @include font-size(32px);
+  line-height: 1.31;
+
+  @include breakpoint('medium') {
+    @include font-size(56px);
+    line-height: 1.2;
+  }
+}
+
+%h2 {
+  font-family: $font-europa;
+  @include font-size(26px);
+  line-height: 1.38;
+  color: $color-dark-blue;
+
+  @include breakpoint('medium') {
+    @include font-size(32px);
+    line-height: 1;
+    letter-spacing: 0.5px;
+  }
+}
+
+%h3 {
+  font-family: $font-europa;
+  @include font-size(22px);
+  line-height: 1.45;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(24px);
+    line-height: 1.33;
+  }
+}
+
+%h4 {
+  font-family: $font-europa;
+  @include font-size(20px);
+  line-height: 1.6;
+  font-weight: bold;
+  color: $color-black;
+}
+
+%header-nav-dropdown-heading {
+  font-family: $font-europa;
+  @include font-size(16px);
+  font-weight: bold;
+  line-height: 2;
+  letter-spacing: 0.9px;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(18px);
+    line-height: 1.78;
+    letter-spacing: 1px;
+    color: $color-dust;
+  }
+}
+
+%header-nav-dropdown-link {
+  font-family: $font-europa;
+  @include font-size(17px);
+  line-height: 1.18;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(16px);
+    line-height: 1.25;
+    color: $color-dark-silver;
+  }
+}
+
+%header-nav-link {
+  font-family: $font-georgia;
+  @include font-size(22px);
+  line-height: 1.09;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    font-family: $font-europa;
+    @include font-size(16px);
+    color: $color-white;
+  }
+}
+
+%label {
+  font-family: $font-europa;
+  @include font-size(13px);
+  letter-spacing: 1.4px;
+
+  @include breakpoint('medium') {
+    @include font-size(14px);
+    letter-spacing: 1.5px;
+  }
+}
+
+%label-lg {
+  font-family: $font-europa;
+  @include font-size(13px);
+  letter-spacing: 1.6px;
+
+  @include breakpoint('medium') {
+    @include font-size(14px);
+    letter-spacing: 1.8px;
+  }
+}
+
+%page-description {
+  font-family: $font-georgia;
+  @include font-size(22px);
+  font-style: italic;
+  line-height: 1.64;
+  color: $color-black;
+}
+
+%page-title {
+  font-family: $font-georgia;
+  @include font-size(32px);
+  line-height: 1.31;
+
+  @include breakpoint('medium') {
+    @include font-size(56px);
+    line-height: 1.2;
+  }
+}
+
+%pagination-item {
+  font-family: $font-europa;
+  @include font-size(16px);
+}
+
+%photo-caption-credit {
+  font-family: $font-europa;
+  @include font-size(14px);
+  line-height: 1.29;
+  color: $color-gray;
+}
+
+%photo-caption-desc {
+  font-family: $font-europa;
+  @include font-size(14px);
+  line-height: 1.29;
+  color: $color-gray-brown;
+}
+
+%post-body {
+  font-family: $font-georgia;
+  @include font-size(20px);
+  line-height: 1.6;
+
+  @include breakpoint('medium') {
+    @include font-size(18px);
+    line-height: 1.78;
+  }
+}
+
+%post-block-meta {
+  font-family: $font-europa;
+  @include font-size(14px);
+}
+
+%post-block-meta-themes {
+  font-family: $font-europa;
+  @include font-size(13px);
+  font-weight: bold;
+  letter-spacing: 0.8px;
+
+  @include breakpoint('medium') {
+    @include font-size(14px);
+    letter-spacing: 0.9px;
+  }
+}
+
+%post-block-meta-date {
+  font-family: $font-europa;
+  @include font-size(13px);
+  color: $color-warm-gray;
+
+  @include breakpoint('medium') {
+    @include font-size(14px);
+  }
+}
+
+%post-block-post-title {
+  font-family: $font-georgia;
+  @include font-size(20px);
+  line-height: 1.25;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(24px);
+    line-height: 1.25;
+  }
+}
+
+%post-block-post-title-featured {
+  font-family: $font-georgia;
+  @include font-size(26px);
+  line-height: 1.27;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(28px);
+    line-height: 1.18;
+  }
+}
+
+%post-intro {
+  font-family: $font-georgia;
+  @include font-size(20px);
+  font-style: italic;
+  line-height: 1.6;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(24px);
+    line-height: 1.67;
+  }
+}
+
+%post-meta {
+  font-family: $font-europa;
+  @include font-size(15px);
+  letter-spacing: 0.9px;
+  color: $color-off-white;
+
+  @include breakpoint('medium') {
+    @include font-size(18px);
+    letter-spacing: 0;
+  }
+}
+
+%post-meta-date {
+  font-family: $font-europa;
+  @include font-size(15px);
+  letter-spacing: 0.9px;
+  color: $color-off-white;
+
+  @include breakpoint('medium') {
+     @include font-size(14px);
+    letter-spacing: 0.9px;
+  }
+}
+
+%search-placeholder {
+  font-family: $font-georgia;
+  @include font-size(20px);
+  font-style: italic;
+  color: $color-gray;
+}
+
+%section-title {
+  font-family: $font-europa;
+  @include font-size(18px);
+  line-height: 1.78;
+  letter-spacing: 1px;
+  color: $color-black;
+}
+
+%section-title-lg {
+  font-family: $font-europa;
+  @include font-size(22px);
+  line-height: 1.45;
+  letter-spacing: 1.2px;
+  color: $color-black;
+}
+
+%table-title {
+  font-family: $font-europa;
+  @include font-size(22px);
+  line-height: 1.45;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(26px);
+    line-height: 1.23;
+  }
+}
+
+%tag {
+  font-family: $font-europa;
+  @include font-size(14px);
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: $color-gray-brown;
+}

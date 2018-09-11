@@ -3,33 +3,32 @@ button,
 input,
 select,
 textarea {
-	color: $color__text-main;
-	font-family: $font__main;
-	@include font-size(16px);
-	line-height: $font__line-height-body;
+	@extend %body-text;
 }
 
 /*================================
 =            Headings            =
 ================================*/
 
-%h1 {}
+h1 {
+	@extend %h1 !optional;
+}
 
-%h2 {}
+h2 {
+	@extend %h2 !optional;
+	margin: 0;
+}
 
-%h3 {}
+h3 {
+	@extend %h3 !optional;
+	margin: 0.5rem 0;
+}
 
-%h4 {}
+h4 {
+	@extend %h4 !optional;
+	margin: 0.5rem 0;
+}
 
-%h5 {}
-
-%h6 {}
-
-// h1 { @extend %h1 }
-// h2 { @extend %h2 }
-// h3 { @extend %h3 }
-// h4 { @extend %h4 }
-// h5 { @extend %h5 }
 
 /*============================
 =            Copy            =
@@ -37,7 +36,6 @@ textarea {
 
 p {
 	margin: 0 0 1rem;
-	line-height: $font__line-height-body;
 }
 
 p + h2,
@@ -65,15 +63,19 @@ dfn, cite, em, i {
 }
 
 blockquote {
-
+	@extend %blockquote;
+	
 	p {
+		font-family: inherit;
+		font-size: inherit;
+		line-height: inherit;
+		color: inherit;
+		font-weight: inherit;
 		margin-bottom: 0;
 	}
 
 	cite {}
 }
-
-blockquote, blockquote p {}
 
 blockquote, q {
 	quotes: "" "";
@@ -108,11 +110,6 @@ code, kbd, tt, var {
 abbr, acronym {
 	border-bottom: 1px dotted $color__border-abbr;
 	cursor: help;
-}
-
-mark, ins {
-	background: $color__background-ins;
-	text-decoration: none;
 }
 
 big {

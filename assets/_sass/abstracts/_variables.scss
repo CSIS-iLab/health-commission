@@ -4,29 +4,56 @@
 
 /*----------  Colors  ----------*/
 
-$black: #000;
-$white: #fff;
+$color-white: #ffffff;
+$color-black: #000000;
+$color-dust: #b89e69;
+$color-warm-gray: #7d7d7d;
+$color-light-brown: #d7c7a4;
+$color-dark-sand: #a58d5d;
+$color-dark-blue: #143459;
+$color-gray-brown: #4a4a4a;
+$color-slate: #5a6c7a;
+$color-silver: #d8d9dc;
+$color-dark-silver: #c4ccd2;
+$color-off-white: #f2f2f2;
+$color-gray: #999999;
+$color-dusty-lavender: #c3c2c3;
+$color-light-gray: #eaeaea;
+$color-beige: #efe6d0;
+$color-purple: #8e6c89;
+$color-dark-purple: #643b5e;
+$color-brown: #968f80;
+$color-dark-brown: #58544a;
+$color-orange: #f26522;
+$color-dark-orange: #be4911;
+$color-turquoise: #47acb1;
+$color-dark-turquoise: #2f7679;
+$color-yellow: #f5a623;
+$color-dark-yellow: #c18015;
 
-$color__background-body: $white;
-$color__background-screen: $white;
-$color__background-hr: $black;
-$color__background-pre: #eee;
-$color__background-ins: #fff9c0;
 
-$color__text-screen: $black;
-$color__text-input: $black;
-$color__text-input-focus: $black;
-$color__link: $black;
-$color__link-visited: $black;
-$color__link-hover: $black;
-$color__text-main: $black;
+$color__background-body: $color-white;
+$color__background-screen: $color-white;
+$color__background-hr: $color-black;
+$color__background-pre: $color-light-gray;
 
-$color__border-input: $black;
-$color__border-abbr: #666;
+$color__text-screen: $color-black;
+$color__text-input: $color-black;
+$color__text-input-focus: $color-black;
+$color__link: $color-black;
+$color__link-visited: $color-black;
+$color__link-hover: $color-black;
+$color__text-main: $color-black;
+
+$color__border-input: $color-black;
+$color__border-abbr: $color-gray;
 
 /*----------  Typography  ----------*/
 
-$font__main: sans-serif;
+$font-europa: sans-serif;
+$font-georgia: Georgia, Times, "Times New Roman", serif;
+
+$font__main: $font-georgia;
 $font__code: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
 $font__pre: "Courier 10 Pitch", Courier, monospace;
 $font__line-height-body: 1.67;
