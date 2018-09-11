@@ -19,12 +19,14 @@ fields:
   name: indepth_overview
   config:
     source:
-      type: datafiles
+      type: pages
+      section: jekyll-posts
   label: in-depth overview
 - type: select
   config:
     source:
-      type: datafiles
+      type: pages
+      section: jekyll-posts
   label: featured post
   name: featured_post
 - type: text
