@@ -1,14 +1,19 @@
 - type: commentary
-  title: commentary
-  filterable: true    
+  title_single: Commentary
+  title_plural: Commentaries
+  filterable: true
 - type: event
-  title: event
+  title_single: Event
+  title_plural: Events
   filterable: true
 - type: documentary
+  title_single: documentary
+  title_plural: Documentaries
   filterable: true
 - type: news
-  title: news
+  title_single: News
   filterable: true
 - type: report
-  title: report
+  title_single: Report
+  title_plural: Reports
   filterable: true
