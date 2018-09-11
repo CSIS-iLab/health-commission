@@ -1,0 +1,38 @@
+/*==================================
+=            Post Block            =
+==================================*/
+
+.post-block {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid $color-silver;
+
+  &:first-of-type {
+    border-top: 0;
+  }
+  
+  &__title {
+    @extend %post-block-post-title;
+
+    a:hover {
+      color: $color-dust;
+    }
+  }
+
+  &__img {
+    float: right;
+    max-width: 20%;
+    margin-left: 2rem;
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  &__clear {
+    @include clearfix-after();
+  }
+}
+
