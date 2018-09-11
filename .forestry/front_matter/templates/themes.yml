@@ -16,11 +16,11 @@ fields:
   name: image
   label: Image
 - type: text
-  label: image caption
+  label: Image Caption
   name: image_caption
 - type: text
-  name: description
-  label: image credit
+  name: image_credit
+  label: Image Credit
 - type: select
   name: indepth_overview
   config:
