@@ -31,7 +31,6 @@ $color-dark-turquoise: #2f7679;
 $color-yellow: #f5a623;
 $color-dark-yellow: #c18015;
 
-
 $color__background-body: $color-white;
 $color__background-screen: $color-white;
 $color__background-hr: $color-black;
@@ -48,6 +47,7 @@ $color__text-main: $color-black;
 $color__border-input: $color-black;
 $color__border-abbr: $color-gray;
 
+
 /*----------  Typography  ----------*/
 
 $font-europa: sans-serif;
@@ -59,4 +59,15 @@ $font__pre: "Courier 10 Pitch", Courier, monospace;
 $font__line-height-body: 1.67;
 $font__line-height-pre: 1.6;
 
+
 /*----------  Structure  ----------*/
+
+$size-wrapper-max-width: 1280px;
+$size-wrapper-full-max-width: 1440px;
+$size-page-content-max-width: 980px;
+$size-page-text-max-width: 700px;
+$size-post-media-max-width: 475px;
+$size-wrapper-padding: 50px;
+$size-wrapper-padding-mobile: 16px;
+$size-page-content-padding: 50px;
+
