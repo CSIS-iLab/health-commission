@@ -26,6 +26,24 @@ body {
     }
 }
 
+.wrapper {
+    margin: 0 auto;
+    padding-left: $size-wrapper-padding-mobile;
+    padding-right: $size-wrapper-padding-mobile;
 
+    @include breakpoint('medium') {
+      max-width: $size-wrapper-max-width;
+      padding-left: $size-wrapper-padding;
+      padding-right: $size-wrapper-padding;
+    }
+}
+
+.wrapper-full {
+    @extend .wrapper;
+
+    @include breakpoint('medium') {
+      max-width: $size-wrapper-full-max-width;
+    }
+}
 
 
