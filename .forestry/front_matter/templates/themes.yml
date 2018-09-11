@@ -15,6 +15,12 @@ fields:
 - type: file
   name: image
   label: Image
+- type: text
+  label: image caption
+  name: image_caption
+- type: text
+  name: description
+  label: image credit
 - type: select
   name: indepth_overview
   config:
@@ -29,6 +35,3 @@ fields:
       section: jekyll-posts
   label: featured post
   name: featured_post
-- type: text
-  name: description
-  label: description
