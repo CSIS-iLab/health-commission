@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _data
+  path: _data/content_types.yml
   label: Content Types
   create: all
   match: "**/*"
