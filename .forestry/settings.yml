@@ -15,11 +15,6 @@ sections:
   create: all
 - type: heading
   label: DATA
-- type: directory
-  path: _data/content_types.yml
-  label: Content Types
-  create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
