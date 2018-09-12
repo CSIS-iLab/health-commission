@@ -22,6 +22,14 @@ fields:
       type: datafiles
   label: Content Type
   hidden: false
+- type: list
+  label: Authors
+  name: authors
+  config:
+    min: '1'
+    use_select: true
+    source:
+      type: datafiles
 - type: select
   name: theme
   config:
