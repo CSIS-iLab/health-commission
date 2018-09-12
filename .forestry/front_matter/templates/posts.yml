@@ -58,3 +58,12 @@ fields:
 - type: field_group
   name: is_commission_related
   label: Is Commission Related?
+  fields:
+  - type: text
+  - type: select
+    name: related_event
+    config:
+      source:
+        type: pages
+        section: jekyll-posts
+    label: Related Event
