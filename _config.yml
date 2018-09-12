@@ -12,6 +12,10 @@ collections:
     title: All Articles
     output: true
     permalink: "/:path/articles/"
+  themes:
+    title: Themes
+    output: true
+    permalink: "/:path/themes/"
 
 # Default front matter values for a collection will be defined here
 defaults:
