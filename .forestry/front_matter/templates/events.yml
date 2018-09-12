@@ -25,3 +25,20 @@ fields:
   label: Content Type
   name: content_type
   hidden: true
+- type: tag_list
+  label: Tags
+  name: tags
+  description: List of keywords
+- type: file
+  name: image
+  label: Image
+- type: text
+  name: image_caption
+  label: Image Caption
+- type: text
+  name: image_credit
+  label: Image Credit
+- type: image_gallery
+  name: documents
+  label: Documents
+  description: Upload PDFs here
