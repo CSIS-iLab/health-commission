@@ -29,3 +29,13 @@ fields:
       type: pages
   label: Theme
   description: First theme will be the primary theme
+- type: select
+  name: series
+  config:
+    source:
+      type: datafiles
+  label: Series
+- type: tag_list
+  name: tags
+  label: Tags
+  description: List of keywords
