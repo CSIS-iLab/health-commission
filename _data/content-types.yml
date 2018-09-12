@@ -6,10 +6,6 @@
   title_single: Event
   title_plural: Events
   filterable: true
-- type: documentary
-  title_single: documentary
-  title_plural: Documentaries
-  filterable: true
 - type: news
   title_single: News
   title_plural: News
