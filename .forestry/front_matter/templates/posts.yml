@@ -27,11 +27,6 @@ fields:
       type: datafiles
   label: Content Type
   hidden: false
-- type: list
-  name: keywords
-  label: Keywords
-  config:
-    min: '1'
 - type: select
   name: theme
   config:
@@ -45,6 +40,14 @@ fields:
     source:
       type: datafiles
   label: Series
+- type: list
+  name: keywords
+  label: Keywords
+  config:
+    min: '1'
+    use_select: true
+    source:
+      type: pages
 - type: file
   name: image
   label: Image
