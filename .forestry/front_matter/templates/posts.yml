@@ -53,10 +53,10 @@ fields:
 - type: text
   name: image_credit
   label: Image Credit
-- type: image_gallery
+- type: file
   label: PDF
   name: pdf
-  description: Upload PDF here
+  description: Upload file
 - type: textarea
   name: references
   label: References
