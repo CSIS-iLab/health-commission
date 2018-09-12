@@ -2,4 +2,15 @@
 label: Authors
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  label: Name
+  config:
+    required: false
+  name: name
+- type: text
+  name: title
+  label: Job Title
+- type: textarea
+  label: Description
+  description: Short Biography
