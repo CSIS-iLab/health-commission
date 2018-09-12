@@ -1,0 +1,31 @@
+---
+label: Posts
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+- type: text
+  name: author
+  label: Author
+- type: textarea
+  name: excerpt
+  label: Excerpt
+- type: select
+  name: content_type
+  config:
+    source:
+      type: datafiles
+  label: Content Type
+  hidden: false
+- type: select
+  name: theme
+  config:
+    source:
+      type: pages
+  label: Theme
+  description: First theme will be the primary theme
