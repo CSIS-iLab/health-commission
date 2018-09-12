@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: _data/content_types.yml
-  label: Content Typess
 - type: jekyll-posts
   label: Posts
   create: all
@@ -15,6 +12,9 @@ sections:
   create: all
 - type: heading
   label: DATA
+- type: document
+  path: _data/content_types.yml
+  label: Content Typess
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
