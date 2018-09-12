@@ -6,12 +6,12 @@ fields:
 - type: text
   config:
     required: true
-  label: title
+  label: Title
   description: Full Name
   name: title
 - type: text
   name: short_title
-  label: Short title
+  label: Short Title
 - type: file
   name: image
   label: Image
@@ -22,16 +22,16 @@ fields:
   name: image_credit
   label: Image Credit
 - type: select
-  name: indepth_overview
+  name: in_depth_overview
   config:
     source:
       type: pages
       section: jekyll-posts
-  label: in-depth overview
+  label: In-Depth Overview
 - type: select
   config:
     source:
       type: pages
       section: jekyll-posts
-  label: featured post
+  label: Featured Post
   name: featured_post
