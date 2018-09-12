@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/content_types.yml
   label: Content Typess
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
@@ -19,7 +18,7 @@ sections:
 - type: directory
   path: _data/content_types.yml
   label: Content Types
-  create: all
+  create: none
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"

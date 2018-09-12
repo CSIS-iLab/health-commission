@@ -52,3 +52,6 @@ fields:
   label: PDF
   name: pdf
   description: Upload PDF here
+- type: textarea
+  name: references
+  label: References
