@@ -27,6 +27,11 @@ fields:
       type: datafiles
   label: Content Type
   hidden: false
+- type: list
+  name: keywords
+  label: Keywords
+  config:
+    min: '1'
 - type: select
   name: theme
   config:
@@ -34,11 +39,6 @@ fields:
       type: pages
   label: Theme
   description: First theme will be the primary theme
-- type: list
-  name: keywords
-  label: Keywords
-  config:
-    min: '1'
 - type: select
   name: series
   config:
