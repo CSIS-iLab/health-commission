@@ -12,6 +12,7 @@
   filterable: true
 - type: news
   title_single: News
+  title_plural: News
   filterable: true
 - type: report
   title_single: Report
