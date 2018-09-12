@@ -14,7 +14,7 @@ sections:
   label: DATA
 - type: document
   path: _data/content_types.yml
-  label: Content Typess
+  label: Content Types
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
