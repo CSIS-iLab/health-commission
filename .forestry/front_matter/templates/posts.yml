@@ -39,3 +39,16 @@ fields:
   name: tags
   label: Tags
   description: List of keywords
+- type: file
+  name: image
+  label: Image
+- type: text
+  name: image_caption
+  label: Image Caption
+- type: text
+  name: image_credit
+  label: Image Credit
+- type: image_gallery
+  label: PDF
+  name: pdf
+  description: Upload PDF here
