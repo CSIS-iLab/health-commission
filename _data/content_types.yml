@@ -1,0 +1,16 @@
+- type: commentary
+  title_single: Commentary
+  title_plural: Commentaries
+  filterable: true
+- type: event
+  title_single: Event
+  title_plural: Events
+  filterable: true
+- type: news
+  title_single: News
+  title_plural: News
+  filterable: true
+- type: report
+  title_single: Report
+  title_plural: Reports
+  filterable: true
