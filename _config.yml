@@ -29,6 +29,12 @@ defaults:
   values:
     layout: post
     permalink: "/articles/:slug/"
+- scope:
+    path: ''
+    type: 'series'
+  values:
+    layout: post
+    permalink: "/series/:slug/"
 
 # Build settings
 markdown: kramdown
