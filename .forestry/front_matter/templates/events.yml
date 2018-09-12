@@ -2,4 +2,26 @@
 label: Events
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: text
+  name: date
+  label: Date
+  config:
+    required: true
+- type: textarea
+  name: excerpt
+  label: Excerpt
+- type: select
+  config:
+    source:
+      type: datafiles
+      section: jekyll-posts
+    required: true
+  label: Content Type
+  name: content_type
+  hidden: true
