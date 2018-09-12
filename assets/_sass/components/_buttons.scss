@@ -1,0 +1,9 @@
+.btn {
+  @extend %btn;
+  text-transform: uppercase;
+  background-color: $color-off-white;
+  border: none;
+  color: $color-black;
+  padding: calculate-rem(6px) calculate-rem(14px) calculate-rem(7px)
+    calculate-rem(12px);
+}
