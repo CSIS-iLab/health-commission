@@ -1,6 +1,6 @@
 ---
 title: 'sample title'
-date: 
+date:
 excerpt: 'excerpt about event!'
 content_type:
 image:
