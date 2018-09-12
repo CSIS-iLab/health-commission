@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "sample title"
 short_title: "short title sample"
 image:   https://via.placeholder.com/475x350
