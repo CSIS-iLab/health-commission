@@ -1,9 +1,13 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path:
-webhook_url:
+admin_path: 
+webhook_url: 
 sections:
+- type: document
+  path: _data/content_types.yml
+  label: Content Typess
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
