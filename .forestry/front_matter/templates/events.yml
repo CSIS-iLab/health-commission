@@ -35,11 +35,6 @@ fields:
 - type: field_group_list
   name: links
   label: Links
-- type: image_gallery
-  name: documents
-  label: Documents
-  description: Upload PDFs here
-- type: datetime
 - type: textarea
   name: reference
   label: Reference
@@ -47,6 +42,11 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: image_gallery
+  name: documents
+  label: Documents
+  description: Upload PDFs here
+- type: datetime
 pages:
 - _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
