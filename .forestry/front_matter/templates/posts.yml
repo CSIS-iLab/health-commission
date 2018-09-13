@@ -74,4 +74,5 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/managing-the-promise-and-threat-of-evolving-biotechnology.md
 - _posts/preventing-and-responding-to-high-risk-disease-outbreaks.md
