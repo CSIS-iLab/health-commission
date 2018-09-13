@@ -28,6 +28,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/jim-greenwood.md
 - _authors/admiral-jonathan-greenert.md
 - _authors/tom-frieden.md
 - _authors/u-s-congresswoman-anna-eshoo.md
