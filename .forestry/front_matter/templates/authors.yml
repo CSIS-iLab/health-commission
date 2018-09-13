@@ -4,10 +4,8 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: long_title
-  label: Title
-  config:
-    required: true
+  name: title
+  label: Name
 - type: text
   name: role
   label: Role in Commission
@@ -15,8 +13,10 @@ fields:
   name: short_title
   label: Short Title
 - type: text
-  name: title
-  label: Name
+  name: long_title
+  label: Title
+  config:
+    required: true
 - type: boolean
   name: has_photo
   label: Has Photo
