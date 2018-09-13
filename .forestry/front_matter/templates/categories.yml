@@ -10,3 +10,11 @@ fields:
       type: pages
       section: series
   label: Series
+- type: list
+  name: themes
+  label: Themes
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: themes
