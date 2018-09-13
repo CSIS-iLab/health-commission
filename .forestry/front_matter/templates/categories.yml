@@ -17,12 +17,3 @@ fields:
       type: pages
       section: series
   label: Series
-- type: select
-  name: tags
-  config:
-    source:
-      type: pages
-  label: Tags
-- type: tag_list
-  name: tags
-  label: Tags
