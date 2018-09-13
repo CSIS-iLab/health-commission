@@ -5,12 +5,19 @@ excerpt: On August 6, 2018, the CSIS Commission on Strengthening America’s Hea
   Security hosted a public event on U.S. leadership in meeting the burgeoning health
   needs of vulnerable populations living in the midst of conflict and disorder.
 content_type: ''
-tags: []
+tags:
+- Public Event
 image: ''
 image_caption: ''
 image_credit: ''
 documents: []
 undefined: ''
+location: University of Washington, Seattle, WA
+themes: _themes/protecting-health-security-in-the-face-of-global-disorder.md
+series: _series/access-to-critical-health-services-in-a-disordered-world.md
+links:
+- https://www.csis.org/events/health-security-disordered-world
+reference: ''
 
 ---
 In today’s world, chronic wars and unstable and fragile states have proliferated, giving rise to over 65 million refugees and displaced persons. This has brought forward ever more urgent needs to detect and control disease outbreaks, ensure reproductive, maternal, and child health services, sustain immunizations, and protect against violence. How is the United States to lead in meeting these critical health security needs?
