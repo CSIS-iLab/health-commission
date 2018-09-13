@@ -1,0 +1,18 @@
+{% if page.themes == nil %}
+<!-- remove nil -->
+    <ul class="themes-list">
+      {% assign themes = "Managing Biotechnology,Health Security in Global Disorder,Preventing and Responding to Outbreaks,Drug Resistance,Developing Countermeasures" | split: ',' %}
+
+      {% for theme in themes %}
+      <li class="themes-list_{{ theme | slugify }}">
+        <a href="" class="themes-list_{{ theme | slugify }}__icon">
+          <i class="icon-rect"></i>
+        </a>
+        <a href="" class="themes-list_{{ theme | slugify }}__name">
+          {{theme || escape }}
+        </a>
+      </li>
+      {% endfor %}
+
+    </ul>
+{% endif %}
