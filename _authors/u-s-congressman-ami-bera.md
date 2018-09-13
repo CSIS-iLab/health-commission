@@ -10,7 +10,6 @@ short_bio: "**Congressman Ami Bera** represents California’s 7th Congressional
   elected to Congress, Rep. Bera practiced medicine, served as Chief Medical Officer
   for Sacramento County, directed care management at a seven-hospital system, and
   taught medicine at the University of California, Davis."
-published: false
 
 ---
 **Congressman Ami Bera** represents California’s 7th Congressional District and is the Vice Ranking Member on the House Foreign Affairs Committee. Bera is the longest-serving Indian American currently in Congress and has been a member of the Foreign Affairs Committee since 2013.  
