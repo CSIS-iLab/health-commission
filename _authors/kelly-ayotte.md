@@ -1,6 +1,6 @@
 ---
-title: Kelly Ayotte
-date: 2018-09-13 14:54:58 +0000
+title: Former Senator (NH)
+date: 2018-09-13 00:00:00 +0000
 name: Kelly Ayotte
 role: Co-Chair
 short_title: ''
