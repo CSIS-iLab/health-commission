@@ -28,6 +28,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/ambassador-karl-hofmann.md
 - _authors/rebecca-hersman.md
 - _authors/margaret-peggy-hamburg.md
 - _authors/general-carter-ham.md
