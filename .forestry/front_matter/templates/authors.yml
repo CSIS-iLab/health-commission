@@ -4,13 +4,13 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: name
-  label: Namee
-- type: text
+  name: Title
   label: Title
+- type: text
+  label: Name
   config:
     required: false
-  name: title
+  name: name
 - type: text
   name: role
   label: Role in Commission
