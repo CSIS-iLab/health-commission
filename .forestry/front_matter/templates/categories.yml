@@ -21,10 +21,3 @@ fields:
       type: pages
       section: series
   label: Series
-- type: tag_list
-  name: tags
-  label: Tags
-- type: select
-  config:
-    source:
-      type: datafiles
