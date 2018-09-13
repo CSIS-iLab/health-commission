@@ -1,0 +1,38 @@
+.about-table-contents {
+  /// missing icon for icon-right-open ///
+  & .i {
+    color: $color-dust;
+    font-weight: 400;
+    font-family: $font-europa;
+    transform: scale(0.5, 1.1);
+    display: inline-block;
+  }
+
+  ul {
+    li {
+      list-style-type: none;
+      line-height: 2;
+      &:first-of-type {
+        @extend %btn;
+        text-transform: uppercase;
+      }
+      & .i {
+        @include font-size(20px);
+      }
+      &:nth-of-type(n + 2) a:hover {
+        color: $color-dust;
+      }
+    }
+    padding-inline-start: calculate-rem(24px);
+    position: relative;
+    &:before {
+      content: '';
+      position: absolute;
+      top: 3px;
+      left: 0;
+      width: 3px;
+      height: 100%;
+      background-color: $color-dusty-lavender;
+    }
+  }
+}
