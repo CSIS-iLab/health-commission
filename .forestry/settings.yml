@@ -10,13 +10,6 @@ sections:
   templates:
   - posts
 - type: directory
-  path: _themes
-  label: Themes
-  create: all
-  match: "**/*"
-  templates:
-  - themes
-- type: directory
   path: _events
   label: Events
   create: all
@@ -24,12 +17,12 @@ sections:
   templates:
   - events
 - type: directory
-  path: _authors
-  label: Authors
+  path: _themes
+  label: Themes
   create: all
   match: "**/*"
   templates:
-  - authors
+  - themes
 - type: directory
   path: _series
   label: Series
@@ -37,6 +30,20 @@ sections:
   match: "**/*"
   templates:
   - series
+- type: directory
+  path: _keywords
+  label: Tags
+  create: all
+  match: "**/*"
+  templates:
+  - authors
+- type: directory
+  path: _authors
+  label: Authors
+  create: all
+  match: "**/*"
+  templates:
+  - authors
 - type: jekyll-pages
   label: Pages
   create: all
