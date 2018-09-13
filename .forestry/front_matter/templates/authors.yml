@@ -9,11 +9,11 @@ fields:
     required: false
   name: name
 - type: text
-  name: title
-  label: Job Title
-- type: textarea
-  label: Description
-  description: Short Biography
+  name: role
+  label: Role in Commission
+- type: text
+  name: short_title
+  label: Short Title
 pages:
 - _authors/kelly-ayotte.md
 - _authors/test.md
