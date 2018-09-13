@@ -18,3 +18,11 @@ fields:
       type: pages
       section: series
   label: Series
+- type: list
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: tags
+  label: Tags
+  name: tags
