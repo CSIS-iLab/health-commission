@@ -7,6 +7,5 @@ long_title: Senior Adviser, Transnational Threats Project and Human Rights Initi
   CSIS
 has_photo: false
 short_bio: ''
-published: false
 
 ---
