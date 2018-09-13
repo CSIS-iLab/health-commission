@@ -8,3 +8,5 @@ fields:
   name: title
   config:
     required: true
+pages:
+- _series/access-to-critical-health-services-in-a-disordered-world.md
