@@ -21,3 +21,10 @@ fields:
       type: pages
       section: series
   label: Series
+- type: select
+  name: tags
+  config:
+    source:
+      type: pages
+      section: tags
+  label: Tags
