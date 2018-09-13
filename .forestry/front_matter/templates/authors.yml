@@ -40,8 +40,8 @@ fields:
     schema:
       format: markdown
 pages:
-- _authors/emily-foecke-munden.md
 - _authors/samantha-stroman.md
+- _authors/emily-foecke-munden.md
 - _authors/j-stephen-morrison.md
 - _authors/tom-inglesby.md
 - _authors/jennifer-kates.md
