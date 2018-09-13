@@ -7,6 +7,8 @@ image_caption: ''
 image_credit: ''
 in_depth_overview: ''
 featured_post: ''
+short_description: High-risk disease outbreaks are a real and growing threat to U.S.
+  national security at home and abroad.
 published: false
 
 ---
