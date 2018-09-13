@@ -7,6 +7,34 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: directory
+  path: _themes
+  label: Themes
+  create: all
+  match: "**/*"
+  templates:
+  - themes
+- type: directory
+  path: _events
+  label: Events
+  create: all
+  match: "**/*"
+  templates:
+  - events
+- type: directory
+  path: _authors
+  label: Authors
+  create: all
+  match: "**/*"
+  templates:
+  - authors
+- type: directory
+  path: _series
+  label: Series
+  create: all
+  match: "**/*"
+  templates:
+  - series
 - type: jekyll-pages
   label: Pages
   create: all
