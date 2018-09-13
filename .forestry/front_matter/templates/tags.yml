@@ -7,6 +7,8 @@ fields:
   label: Title
   name: title
 pages:
+- _keywords/yemen.md
+- _keywords/afghanistan.md
 - _keywords/syria.md
 - _keywords/geneva-conventions.md
 - _keywords/polio.md
