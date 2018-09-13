@@ -16,7 +16,7 @@ collections:
     title: Series
     output: true
     permalink: "/:path/series/"
-  posts:
+  events:
     title: Events
     output: true
     permalink: "/:path/events/"
@@ -43,7 +43,7 @@ defaults:
     path: ''
     type: 'events'
   values:
-    layout: events
+    layout: post
     permalink: "/events/:slug/"
 
 # Build settings
