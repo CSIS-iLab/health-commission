@@ -9,4 +9,5 @@ fields:
   config:
     required: true
 pages:
+- _series/health-security-dimensions-of-geopolitical-crises.md
 - _series/access-to-critical-health-services-in-a-disordered-world.md
