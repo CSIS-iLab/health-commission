@@ -7,7 +7,7 @@ short_description: The reality of the disordered world demands U.S. leadership a
 image: ''
 image_caption: ''
 image_credit: ''
-in_depth_overview: ''
+in_depth_overview: _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 featured_post: _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 
 ---
