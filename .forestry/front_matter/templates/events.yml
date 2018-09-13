@@ -32,14 +32,21 @@ fields:
 - type: text
   name: image_credit
   label: Image Credit
+- type: field_group_list
+  name: links
+  label: Links
 - type: image_gallery
   name: documents
   label: Documents
   description: Upload PDFs here
 - type: datetime
-- type: field_group_list
-  name: links
-  label: Links
+- type: textarea
+  name: reference
+  label: Reference
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
