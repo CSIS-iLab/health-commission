@@ -46,8 +46,8 @@ fields:
   name: further_reading
   label: Further Reading
 pages:
+- _themes/protecting-health-security-in-the-face-of-global-disorder.md
 - _themes/managing-the-risks-of-evolving-biotechnology.md
 - _themes/developing-effective-countermeasures.md
 - _themes/high-risk-disease-outbreaks.md
-- _themes/protecting-health-security-in-the-face-of-global-disorder.md
 - _themes/winning-the-fight-against-drug-resistance.md
