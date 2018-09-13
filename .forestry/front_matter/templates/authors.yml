@@ -15,4 +15,5 @@ fields:
   label: Description
   description: Short Biography
 pages:
+- _keywords/north-korea.md
 - _authors/test.md
