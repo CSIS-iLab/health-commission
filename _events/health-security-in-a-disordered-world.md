@@ -11,7 +11,6 @@ image_caption: ''
 image_credit: ''
 documents: []
 undefined: ''
-published: false
 
 ---
 In today’s world, chronic wars and unstable and fragile states have proliferated, giving rise to over 65 million refugees and displaced persons. This has brought forward ever more urgent needs to detect and control disease outbreaks, ensure reproductive, maternal, and child health services, sustain immunizations, and protect against violence. How is the United States to lead in meeting these critical health security needs?
