@@ -15,4 +15,5 @@ fields:
   label: Description
   description: Short Biography
 pages:
+- _authors/kelly-ayotte.md
 - _authors/test.md
