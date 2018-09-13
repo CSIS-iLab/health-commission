@@ -40,6 +40,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/rocco-casagrande.md
 - _authors/beth-cameron.md
 - _authors/juan-zarate.md
 - _authors/u-s-senator-todd-young.md
