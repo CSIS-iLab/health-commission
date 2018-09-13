@@ -74,6 +74,6 @@ fields:
     schema:
       format: markdown
 pages:
-- _posts/winning-the-fight-against-antimicrobial-drug-resistance.md
+- _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 - _posts/managing-the-promise-and-threat-of-evolving-biotechnology.md
 - _posts/preventing-and-responding-to-high-risk-disease-outbreaks.md
