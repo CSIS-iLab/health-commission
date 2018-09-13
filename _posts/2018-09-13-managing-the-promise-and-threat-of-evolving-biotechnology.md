@@ -4,7 +4,63 @@ date: 2018-09-13 00:00:00 +0000
 authors: []
 excerpt: ''
 content_type: ''
-themes: _themes/managing-the-risks-of-evolving-biotechnology.md
+themes:
+- '0': _
+  '1': t
+  '2': h
+  '3': e
+  '4': m
+  '5': e
+  '6': s
+  '7': "/"
+  '8': m
+  '9': a
+  '10': n
+  '11': a
+  '12': g
+  '13': i
+  '14': n
+  '15': g
+  '16': "-"
+  '17': t
+  '18': h
+  '19': e
+  '20': "-"
+  '21': r
+  '22': i
+  '23': s
+  '24': k
+  '25': s
+  '26': "-"
+  '27': o
+  '28': f
+  '29': "-"
+  '30': e
+  '31': v
+  '32': o
+  '33': l
+  '34': v
+  '35': i
+  '36': n
+  '37': g
+  '38': "-"
+  '39': b
+  '40': i
+  '41': o
+  '42': t
+  '43': e
+  '44': c
+  '45': h
+  '46': n
+  '47': o
+  '48': l
+  '49': o
+  '50': g
+  '51': y
+  '52': "."
+  '53': m
+  '54': d
+  theme: _themes/managing-the-risks-of-evolving-biotechnology.md
 series: ''
 tags: []
 image: ''
@@ -44,6 +100,8 @@ references: |-
   \[9\] “USG Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern,” U.S. Department of Health and Human Services, September 24, 2014, [https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.](https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx. "https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.")
 
   \[10\] “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens,” U.S. Department of Health and Human Services, 2017, [https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.](https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf. "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.")
+links: []
+event: ''
 
 ---
 ## Key Challenges
