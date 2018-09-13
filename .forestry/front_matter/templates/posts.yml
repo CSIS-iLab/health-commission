@@ -24,7 +24,7 @@ fields:
   name: content_type
   config:
     source:
-      type: pages
+      type: datafiles
       section: content-typess
   label: Content Type
   hidden: false
@@ -60,15 +60,15 @@ fields:
         section: jekyll-posts
     label: Related Event
 - type: textarea
-  name: references
-  label: References
+  name: further_reading
+  label: Further Reading
   config:
     wysiwyg: true
     schema:
       format: markdown
 - type: textarea
-  name: further_reading
-  label: Further Reading
+  name: references
+  label: References
   config:
     wysiwyg: true
     schema:
