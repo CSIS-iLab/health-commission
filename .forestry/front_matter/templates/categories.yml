@@ -21,10 +21,11 @@ fields:
       type: pages
       section: series
   label: Series
-- type: select
+- type: list
   name: keywords
+  label: Tags
   config:
+    use_select: true
     source:
       type: pages
       section: tags
-  label: Tags
