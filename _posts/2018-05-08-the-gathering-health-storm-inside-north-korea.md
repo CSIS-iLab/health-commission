@@ -6,7 +6,7 @@ excerpt: Health realities in North Korea are grim, poorly understood, and seldom
   as part of the larger problem of potential instability on the Korean peninsula.
 content_type: ''
 themes:
-- {}
+- theme: _themes/protecting-health-security-in-the-face-of-global-disorder.md
 - theme: _themes/winning-the-fight-against-drug-resistance.md
 series: _series/health-security-dimensions-of-geopolitical-crises.md
 tags:
