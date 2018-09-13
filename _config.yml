@@ -43,7 +43,7 @@ defaults:
     path: ''
     type: 'themes'
   values:
-    layout: post
+    layout: themes
     permalink: "/themes/:slug/"
 
 # Build settings
