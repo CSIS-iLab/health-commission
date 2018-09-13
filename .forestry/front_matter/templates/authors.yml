@@ -4,19 +4,19 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: name
   label: Name
+- type: text
+  label: Title
   config:
     required: false
-  name: name
+  name: title
 - type: text
   name: role
   label: Role in Commission
 - type: text
   name: short_title
   label: Short Title
-- type: text
-  name: title
-  label: Title
 - type: boolean
   name: has_photo
   label: Has Photo
