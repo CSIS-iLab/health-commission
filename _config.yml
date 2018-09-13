@@ -12,6 +12,10 @@ collections:
     title: All Articles
     output: true
     permalink: "/:path/articles/"
+  series:
+    title: Series
+    output: true
+    permalink: "/:path/series/"
 
 # Default front matter values for a collection will be defined here
 defaults:
@@ -25,6 +29,12 @@ defaults:
   values:
     layout: post
     permalink: "/articles/:slug/"
+- scope:
+    path: ''
+    type: 'series'
+  values:
+    layout: post
+    permalink: "/series/:slug/"
 
 # Build settings
 markdown: kramdown
