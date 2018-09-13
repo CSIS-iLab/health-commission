@@ -42,3 +42,5 @@ fields:
   name: documents
   label: Documents
   description: Upload PDFs here
+pages:
+- _events/commission-launch.md
