@@ -18,6 +18,13 @@ fields:
   name: has_photo
   label: Has Photo
   default: false
+- type: textarea
+  name: short_bio
+  label: Short Bio
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _authors/kelly-ayotte.md
 - _authors/test.md
