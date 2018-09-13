@@ -27,27 +27,6 @@ fields:
       type: datafiles
   label: Content Type
   hidden: false
-- type: select
-  name: theme
-  config:
-    source:
-      type: pages
-  label: Theme
-  description: First theme will be the primary theme
-- type: select
-  name: series
-  config:
-    source:
-      type: datafiles
-  label: Series
-- type: list
-  name: keywords
-  label: Keywords
-  config:
-    min: '1'
-    use_select: true
-    source:
-      type: pages
 - type: file
   name: image
   label: Image
@@ -89,5 +68,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: include
+  name: categories
+  label: Categories
+  template: categories
 pages:
 - _posts/preventing-and-responding-to-high-risk-disease-outbreaks.md
