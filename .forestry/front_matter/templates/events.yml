@@ -16,6 +16,10 @@ fields:
 - type: textarea
   name: excerpt
   label: Excerpt
+- type: include
+  name: ''
+  label: ''
+  template: categories
 - type: text
   name: content_type
   label: Content type
@@ -43,16 +47,6 @@ fields:
   name: documents
   label: Documents
   description: Upload PDFs here
-- type: list
-  name: tags
-  label: tags
-  description: Choose keywords here
-  config:
-    min: '1'
-    use_select: true
-    source:
-      type: pages
-      section: themes
 pages:
 - _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
