@@ -11,7 +11,6 @@ short_bio: "**Ambassador Karl Hofmann** is the President and CEO of Population S
   and reproductive health, malaria, water and sanitation, HIV, and non-communicable
   diseases. Prior to joining PSI, Mr. Hofmann was a career American diplomat for 23
   years."
-published: false
 
 ---
 **Ambassador Karl Hofmann** is the President and CEO of Population Services International (PSI), a non-profit global health organization based in Washington, D.C. PSI operates in over 50 countries worldwide, with programs in family planning and reproductive health, malaria, water and sanitation, HIV, and non-communicable diseases. For over 45 years, PSI has measurably improved the health of people in the developing world, making it easier for them to lead healthier lives and plan the families they desire.  
