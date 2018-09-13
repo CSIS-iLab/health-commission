@@ -6,7 +6,7 @@ image: ''
 image_caption: ''
 image_credit: ''
 in_depth_overview: ''
-featured_post: ''
+featured_post: _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 short_description: High-risk disease outbreaks are a real and growing threat to U.S.
   national security at home and abroad.
 
