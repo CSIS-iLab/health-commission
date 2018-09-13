@@ -27,3 +27,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- _authors/julie-louise-gerberding-m-d-mph.md
