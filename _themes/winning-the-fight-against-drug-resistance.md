@@ -7,7 +7,7 @@ short_description: Antimicrobial drug resistance is a complex, long-range global
 image: ''
 image_caption: ''
 image_credit: ''
-in_depth_overview: ''
+in_depth_overview: _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 featured_post: ''
 
 ---
