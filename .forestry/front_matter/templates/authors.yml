@@ -27,10 +27,3 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: textarea
-  name: long_bio
-  label: Long Bio
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
