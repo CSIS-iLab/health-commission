@@ -28,4 +28,5 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/u-s-congressman-ami-bera.md
 - _authors/julie-louise-gerberding-m-d-mph.md
