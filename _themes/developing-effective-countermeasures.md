@@ -9,7 +9,6 @@ image_caption: ''
 image_credit: ''
 in_depth_overview: ''
 featured_post: ''
-published: false
 
 ---
 Medical countermeasures, which include vaccines, therapies, and diagnostics, are critical for U.S. response to health crises. Since the anthrax attacks in 2001, the U.S. government has sought to develop and improve its capacity to detect and respond to biomedical crises, both naturally occurring and deliberately induced, and to develop and stockpile countermeasures. Additionally, there has been an effort to develop fundamental base platform technologies upon which a range of medical countermeasures can be developed, reducing time and cost requirements. U.S. government initiatives have resulted in new legal authorities, funding, and strategic planning to respond to an attack, an accident, or a pandemic outbreak.
