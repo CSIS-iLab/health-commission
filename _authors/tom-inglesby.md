@@ -12,6 +12,5 @@ short_bio: "**Tom Inglesby** is the Director of the Center for Health Security o
   in the Department of Environmental Health and Engineering in the Johns Hopkins Bloomberg
   School of Public Health with a Joint Appointment in the Johns Hopkins School of
   Medicine."
-published: false
 
 ---
