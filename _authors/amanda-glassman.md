@@ -12,6 +12,5 @@ short_bio: "**Amanda Glassman** is chief operating officer and senior fellow at 
   for global health policy at the Center from 2010 to 2016, and principal technical
   lead for health and other positions at the Inter-American Development Bank for 14
   years."
-published: false
 
 ---
