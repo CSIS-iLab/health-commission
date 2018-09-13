@@ -5,54 +5,7 @@ authors: []
 excerpt: ''
 content_type: ''
 themes:
-- '0': _
-  '1': t
-  '2': h
-  '3': e
-  '4': m
-  '5': e
-  '6': s
-  '7': "/"
-  '8': d
-  '9': e
-  '10': v
-  '11': e
-  '12': l
-  '13': o
-  '14': p
-  '15': i
-  '16': n
-  '17': g
-  '18': "-"
-  '19': e
-  '20': f
-  '21': f
-  '22': e
-  '23': c
-  '24': t
-  '25': i
-  '26': v
-  '27': e
-  '28': "-"
-  '29': c
-  '30': o
-  '31': u
-  '32': n
-  '33': t
-  '34': e
-  '35': r
-  '36': m
-  '37': e
-  '38': a
-  '39': s
-  '40': u
-  '41': r
-  '42': e
-  '43': s
-  '44': "."
-  '45': m
-  '46': d
-  theme: _themes/developing-effective-countermeasures.md
+- _themes/developing-effective-countermeasures.md
 series: ''
 tags: []
 image: ''
