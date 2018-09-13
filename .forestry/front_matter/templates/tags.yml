@@ -7,5 +7,6 @@ fields:
   label: Title
   name: title
 pages:
+- _keywords/influenza.md
 - _keywords/tuberculosis.md
 - _keywords/north-korea.md
