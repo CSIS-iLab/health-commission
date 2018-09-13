@@ -12,6 +12,5 @@ short_bio: "**Rebecca Katz** is an Associate Professor and Director of the Cente
   to Georgetown, she spent ten years at The George Washington University as faculty
   in the Milken Institute School of Public Health. Her research is focused on global
   health security, public health preparedness and health diplomacy."
-published: false
 
 ---
