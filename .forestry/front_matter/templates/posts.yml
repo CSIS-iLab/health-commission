@@ -66,15 +66,8 @@ fields:
     config:
       source:
         type: pages
-        section: jekyll-posts
+        section: events
     label: Related Event
-- type: select
-  name: event
-  config:
-    source:
-      type: pages
-      section: events
-  label: Event
 - type: textarea
   name: references
   label: References
