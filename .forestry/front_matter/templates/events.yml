@@ -16,14 +16,21 @@ fields:
 - type: textarea
   name: excerpt
   label: Excerpt
-- type: include
-  name: ''
-  label: ''
-  template: categories
 - type: text
   name: content_type
   label: Content type
   hidden: true
+  default: events
+- type: list
+  name: tags
+  label: tags
+  description: Choose keywords here
+  config:
+    min: '1'
+    use_select: true
+    source:
+      type: pages
+      section: themes
 - type: file
   name: image
   label: Image
@@ -33,20 +40,10 @@ fields:
 - type: text
   name: image_credit
   label: Image Credit
-- type: list
-  name: links
-  label: Links
-- type: textarea
-  name: references
-  label: References
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: image_gallery
   name: documents
   label: Documents
-  description: Upload PDFs here
+  description: Upload PDFs here with user-friendly titles.
 pages:
 - _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
