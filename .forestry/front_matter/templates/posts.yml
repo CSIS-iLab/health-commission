@@ -78,3 +78,5 @@ fields:
         type: pages
         section: jekyll-posts
     label: Related Event
+pages:
+- _posts/preventing-and-responding-to-high-risk-disease-outbreaks.md
