@@ -28,6 +28,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/juan-zarate.md
 - _authors/u-s-senator-todd-young.md
 - _authors/christine-wormuth.md
 - _authors/u-s-senator-patty-murray.md
