@@ -23,10 +23,6 @@ fields:
   template: categories
   label: Categories
   name: categories
-- type: tag_list
-  label: Tags
-  name: tags
-  description: List of keywords
 - type: file
   name: image
   label: Image
