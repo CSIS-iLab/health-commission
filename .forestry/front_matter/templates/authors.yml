@@ -26,5 +26,6 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/julie-louise-gerberding-m-d-mph.md
 - _authors/kelly-ayotte.md
 - _authors/test.md
