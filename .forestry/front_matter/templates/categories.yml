@@ -20,3 +20,14 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- type: field_group_list
+  name: themes
+  label: Themes
+  fields:
+  - type: select
+    name: theme
+    config:
+      source:
+        type: pages
+        section: themes
+    label: Theme
