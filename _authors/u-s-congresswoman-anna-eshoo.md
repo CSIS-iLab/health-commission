@@ -11,7 +11,6 @@ short_bio: "**Congresswoman Anna Eshoo** is the current representative from Cali
   and children, protected the environment, and encouraged development of clean energy
   technology. Congresswoman Eshoo is a senior member of the House Energy and Commerce
   Committee."
-published: false
 
 ---
 **Congresswoman Anna Eshoo** is the current representative from California’s 18th district. For over two decades in Congress, she has defended consumers, promoted American competitiveness and innovation, fought for access to health care for families and children, protected the environment, and encouraged development of clean energy technology. Congresswoman Eshoo was first sworn in as a Member of the United States House of Representatives in January 1993, after serving on the San Mateo County Board of Supervisors for 10 years.  

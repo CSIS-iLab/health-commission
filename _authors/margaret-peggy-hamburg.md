@@ -9,7 +9,6 @@ short_bio: "**Margaret “Peggy” Hamburg** is the foreign secretary of the Nat
   Academy of Medicine (NAM) and 2018 president of the American Association for the
   Advancement of Science (AAAS). Hamburg previously served as commissioner of the
   U.S. Food and Drug Administration from 2009 to 2015."
-published: false
 
 ---
 **Dr. Margaret “Peggy” Hamburg** is an internationally recognized leader in public health and medicine. She currently serves as the foreign secretary of the National Academy of Medicine (NAM) and 2018 president of the American Association for the Advancement of Science (AAAS). In her role at NAM, Hamburg is senior adviser on international matters and liaison with other Academies of  Science and Medicine around the world.  

@@ -3,14 +3,17 @@ label: Categories
 hide_body: false
 is_partial: true
 fields:
-- type: list
+- type: field_group_list
   name: themes
   label: Themes
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: themes
+  fields:
+  - type: select
+    name: theme
+    config:
+      source:
+        type: pages
+        section: themes
+    label: Theme
 - type: select
   name: series
   config:
@@ -19,10 +22,11 @@ fields:
       section: series
   label: Series
 - type: list
+  name: keywords
+  label: Tags
   config:
     use_select: true
     source:
       type: pages
       section: tags
-  label: Tags
-  name: tags
+  default: []

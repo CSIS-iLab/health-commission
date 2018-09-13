@@ -6,6 +6,5 @@ short_title: ''
 long_title: R-OK
 has_photo: false
 short_bio: ''
-published: false
 
 ---

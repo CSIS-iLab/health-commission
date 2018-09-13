@@ -10,7 +10,6 @@ short_bio: "**Nancy Lindborg** is the President of the United States Institute o
   for preventing and resolving violent conflict around the world. Previously, she
   served as the assistant administrator for the Bureau for Democracy, Conflict and
   Humanitarian Assistance at USAID and as president of Mercy Corps."
-published: false
 
 ---
 **Nancy Lindborg** has served since February 2015 as President of the United States Institute of Peace (USIP), an independent institution founded by Congress to provide practical solutions for preventing and resolving violent conflict around the world.  

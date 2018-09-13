@@ -11,7 +11,6 @@ short_bio: "**Ambassador Jimmy Kolker** is a non-resident senior associate with 
   for Global Affairs at the U.S. Department of Health and Human Services (HHS), where
   he served as the Department’s chief health diplomat. His 30-year State Foreign Service
   career included ambassador posts in Burkina Faso and Uganda."
-published: false
 
 ---
 **Ambassador Jimmy Kolker** is a non-resident senior associate with the CSIS Global Health Policy Center. He retired in January 2017 as Assistant Secretary for Global Affairs at the U.S. Department of Health and Human Services (HHS). In this role, Ambassador Kolker was the Department’s chief health diplomat, representing the United States at World Health Organization meetings and as alternate Board Member of the Global Fund to Fight AIDS, Tuberculosis and Malaria.  

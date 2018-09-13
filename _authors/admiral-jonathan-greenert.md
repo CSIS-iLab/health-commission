@@ -9,7 +9,6 @@ short_bio: "**Admiral Jonathan Greenert** is the John M. Shalikashvili Chair in 
   Security Studies at The National Bureau of Asian Research (NBR). At NBR, Admiral
   Greenert informs debates on critical issues in the Asia-Pacific. He previously served
   as the 30th chief of naval operations from 2011 to 2015."
-published: false
 
 ---
 **Admiral Jonathan Greenert** is the John M. Shalikashvili Chair in National Security Studies at The National Bureau of Asian Research (NBR). At NBR, Admiral Greenert informs debates on critical issues in the Asia-Pacific through briefings to congressional members, military, media, and administration officials; meetings with senior-level counterparts in Asia; and research, speaking, and writing. Prior to joining NBR, he served as the 30th chief of naval operations from 2011 to 2015.  

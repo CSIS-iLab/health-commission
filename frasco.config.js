@@ -53,6 +53,7 @@ module.exports = {
     posts:    '_posts',
     series:   '_series',
     themes:   '_themes',
+    events:   '_events',
   },
 
   js: {

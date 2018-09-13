@@ -9,7 +9,6 @@ short_bio: "**Trevor Mundel** is the president of the Global Health Division at 
   Bill and Melinda Gates Foundation, where he leads the foundation’s efforts to develop
   high-impact interventions against the leading causes of death and disability in
   developing countries. Previously, Trevor was global head of development with Novartis."
-published: false
 
 ---
 **Trevor Mundel** is the president of the Global Health Division at the Bill and Melinda Gates Foundation, where he leads the foundation’s efforts to develop high-impact interventions against the leading causes of death and disability in developing countries. He manages the foundation’s disease-specific R&D investments in HIV, tuberculosis, malaria, pneumonia, enteric and diarrheal diseases, and neglected tropical diseases. He also manages cross-cutting product development programs, including Discovery & Translational Sciences, Innovative Technology Solutions, Integrated Development, and Vaccine Development & Surveillance. This work relies on close collaboration with an international network of grantees and partners.  

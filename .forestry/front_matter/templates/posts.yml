@@ -64,13 +64,6 @@ fields:
         type: pages
         section: jekyll-posts
     label: Related Event
-- type: textarea
-  name: further_reading
-  label: Further Reading
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: list
   name: links
   label: Links

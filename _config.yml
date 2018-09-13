@@ -20,6 +20,10 @@ collections:
     title: Themes
     output: true
     permalink: "/:path/themes/"
+  events:
+    title: Events
+    output: true
+    permalink: "/:path/events/"
 
 # Default front matter values for a collection will be defined here
 defaults:
@@ -45,6 +49,10 @@ defaults:
   values:
     layout: post
     permalink: "/themes/:slug/"
+    type: 'events'
+  values:
+    layout: post
+    permalink: "/events/:slug/"
 
 # Build settings
 markdown: kramdown

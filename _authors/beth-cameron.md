@@ -13,7 +13,6 @@ short_bio: "**Beth Cameron** is the Vice President for Global Biological Policy 
   capability, and improve pandemic preparedness. She previously helped develop and
   launch the Global Health Security Agenda when she served on the National Security
   Council staff."
-published: false
 
 ---
 **Beth Cameron** is NTI’s vice president for global biological policy and programs and oversees NTI’s biosecurity program (NTI | bio).  

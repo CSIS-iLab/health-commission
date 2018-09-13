@@ -9,7 +9,6 @@ short_bio: "**Christine Wormuth** is the director of the International Security 
   Defense Policy Center at RAND Corporation. Prior to joining RAND, she was director
   of the Adrienne Arsht Center for Resilience at the Atlantic Council and Under-Secretary
   of Defense for Policy (USDP) at the U.S. Department of Defense."
-published: false
 
 ---
 **Christine Wormuth** is the director of the International Security and Defense Policy Center at RAND Corporation. Prior to joining RAND, she was director of the Adrienne Arsht Center for Resilience, which was established at the Atlantic Council in 2017 to advance approaches that promote the abilities of nations, cities, communities, and individuals to respond and adapt effectively to disruptions emerging from today’s unpredictable global environment.  

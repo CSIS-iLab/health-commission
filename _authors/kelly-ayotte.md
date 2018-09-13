@@ -8,6 +8,5 @@ has_photo: false
 short_bio: ''
 Title: Former Senator (NH)
 long_title: Former Senator (NH)
-published: false
 
 ---

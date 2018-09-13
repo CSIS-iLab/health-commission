@@ -10,7 +10,6 @@ short_bio: "**Ambassador Laura Holgate** is the Vice President for Materials Ris
   to the Vienna Office of the United Nations and the International Atomic Energy Agency
   and as Special Assistant to the President and Senior Director for Weapons of Mass
   Destruction Terrorism and Threat Reduction on the National Security Council."
-published: false
 
 ---
 **Ambassador Laura S. H. Holgate** is the Vice President for Materials Risk Management at the Nuclear Threat Initiative (NTI), where she leads NTI’s work to secure, reduce and manage nuclear and radiological materials. Previously, she served as U.S. Representative to the Vienna Office of the United Nations and the International Atomic Energy Agency from July 2016 to January 2017. In this role, Ambassador Holgate advanced U.S. policies regarding multilateral approaches to reduce global threats. She also promoted gender balance in the staff and programming of the Vienna-based international organizations.  
