@@ -1,23 +1,31 @@
 ---
 footer:
-- name: Phone Number
-  text: "(202) 887-0200"
-- name: Email Address
-  text: GHPC@csis.org
-single_post:
-- name: From the Commission
-  text: The topics discussed on this page were informed by conversations held by the
-    CSIS Commission with experts and opinion leaders.
-events: The CSIS Commission on Strengthening America’s Health Security aims to chart
-  a bold vision for the future of U.S. leadership in global health security, at home
-  and abroad.
-about_the_commission:
-- name: Blurb
-  text: The CSIS Commission on Strengthening America’s Health Security aims to chart
+  'About the Commission': 'The CSIS Commission on Strengthening America’s Health Security aims to chart
     a bold vision for the future of U.S. leadership in global health security, at
-    home and abroad.
-- name: About
-  text: 'The CSIS Commission on Strengthening America’s Health Security is a two-year
+    home and abroad. Recent events demonstrate the growing linkages between global
+    health challenges and U.S. national security interests – between what touches
+    Americans directly in their communities and what touches them indirectly from
+    outside U.S. borders. We see an emerging recognition of the need for a stronger,
+    more coherent, better integrated, and more reliably sustained U.S. approach to
+    health security. The Commission offers the opportunity to build a pragmatic, actionable
+    consensus. The Commission brings together a distinguished and diverse group of
+    senior leaders who bridge the health and security fields, comprising members of
+    Congress, past administrations, industry, foundations, universities, and NGOs.
+    This is a two-year effort organized by the CSIS Global Health Policy Center.'
+  'Phone number': "(202) 887-0200"
+  'Email Address': GHPC@csis.org
+single_post:
+  'From the Commission': 'The topics discussed on this page were informed by conversations held by the
+    CSIS Commission with experts and opinion leaders.'
+events:
+  'Blurb': 'The CSIS Commission on Strengthening America’s Health Security aims to chart
+    a bold vision for the future of U.S. leadership in global health security, at
+    home and abroad.'
+about_the_commission:
+  'Blurb': 'The CSIS Commission on Strengthening America’s Health Security aims to chart
+    a bold vision for the future of U.S. leadership in global health security, at
+    home and abroad.'
+  'About': 'The CSIS Commission on Strengthening America’s Health Security is a two-year
     effort organized by the CSIS Global Health Policy Center. The Commission brings
     together a distinguished and diverse group of high-level opinion leaders who bridge
     security and health, comprising members of Congress, past administrations, industry,
@@ -57,24 +65,21 @@ about_the_commission:
     bring about new resources, and heighten the engagement of industry and security
     institutions, in partnership with other partner countries, multilateral institutions,
     and civil organizations.'
-- name: Credits
-  text: ''
-- name: Funder acknowledgements
-  text: This project is funded through the generous support of the Bill & Melinda
+  'Credits': ''
+  'Funder acknowledgements': This project is funded through the generous support of the Bill & Melinda
     Gates Foundation.
-commission_members_and_contributors: The CSIS Commission on Strengthening America’s
-  Health Security brings together a distinguished and diverse group of high-level
-  opinion leaders who bridge security and health.
+commission_members_and_contributors:
+  'Blurb': 'The CSIS Commission on Strengthening America’s Health Security brings together
+    a distinguished and diverse group of high-level opinion leaders who bridge security
+    and health.'
 home_page:
-- name: Mission Statement
-  text: The CSIS Commission on Strengthening America’s Health Security aims to chart
+  'Mission Statement': 'The CSIS Commission on Strengthening America’s Health Security aims to chart
     a bold vision for the future of U.S. leadership in global health security, at
     home and abroad. Recent events demonstrate the growing linkages between global
     health challenges and U.S. national security interests. We see an emerging recognition
     of the need for a stronger, more coherent, better integrated, and more reliably
     sustained U.S. approach to health security. The Commission offers the opportunity
-    to build a pragmatic, actionable consensus.
-- name: Meet The Members
-  text: The CSIS Commission on Strengthening America’s Health Security brings together
+    to build a pragmatic, actionable consensus.'
+  'Meet The Members': 'The CSIS Commission on Strengthening America’s Health Security brings together
     a distinguished and diverse group of high-level opinion leaders who bridge security
-    and health.
+    and health.'
