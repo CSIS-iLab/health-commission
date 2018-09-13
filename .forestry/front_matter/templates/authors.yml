@@ -40,6 +40,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/jeffrey-l-sturchio.md
 - _authors/david-a-relman.md
 - _authors/jeremy-konyndyk.md
 - _authors/rebecca-katz.md
