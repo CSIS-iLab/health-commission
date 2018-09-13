@@ -16,7 +16,7 @@ fields:
   label: Short Title
 - type: text
   name: title
-  label: Title
+  label: Name
 - type: boolean
   name: has_photo
   label: Has Photo
