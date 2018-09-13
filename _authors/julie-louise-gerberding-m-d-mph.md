@@ -10,6 +10,7 @@ short_bio: "**Dr. Julie Gerberding** is Executive Vice President and Chief Patie
   policy, philanthropic and other functions. She joined Merck in 2010 as president
   of Merck Vaccines. Dr. Gerberding previously served as Director of the U.S. Centers
   for Disease Control and Prevention (CDC) from 2002 to 2009."
+Title: Executive Vice President and Chief Patient Officer, Merck & Co, Inc.
 published: false
 
 ---
