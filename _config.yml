@@ -15,7 +15,7 @@ collections:
   series:
     title: Series
     output: true
-    permaline: "/:path/series"
+    permaline: "/:path/series/"
 
 # Default front matter values for a collection will be defined here
 defaults:
