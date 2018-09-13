@@ -40,6 +40,10 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/julie-louise-gerberding-m-d-mph.md
+- _authors/ambassador-mark-dybul.md
+- _authors/tom-frieden.md
+- _authors/admiral-jonathan-greenert.md
 - _authors/margaret-peggy-hamburg.md
 - _authors/rebecca-hersman.md
 - _authors/ambassador-karl-hofmann.md
@@ -66,10 +70,6 @@ pages:
 - _authors/juan-zarate.md
 - _authors/general-carter-ham.md
 - _authors/jim-greenwood.md
-- _authors/admiral-jonathan-greenert.md
-- _authors/tom-frieden.md
 - _authors/u-s-congresswoman-anna-eshoo.md
-- _authors/ambassador-mark-dybul.md
 - _authors/steve-davis.md
 - _authors/u-s-congressman-tom-cole.md
-- _authors/julie-louise-gerberding-m-d-mph.md
