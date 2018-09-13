@@ -52,6 +52,10 @@ sections:
 - type: document
   path: _data/content_types.yml
   label: Content Types
+- type: document
+  path: _data/language.yml
+  label: Language
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
