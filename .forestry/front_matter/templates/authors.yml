@@ -40,6 +40,14 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/margaret-peggy-hamburg.md
+- _authors/rebecca-hersman.md
+- _authors/ambassador-karl-hofmann.md
+- _authors/u-s-congressman-ami-bera.md
+- _authors/laura-s-h-holgate-ambassador-ret.md
+- _authors/ambassador-jimmy-kolker.md
+- _authors/nancy-lindborg.md
+- _authors/trevor-mundel.md
 - _authors/u-s-senator-patty-murray.md
 - _authors/christine-wormuth.md
 - _authors/u-s-senator-todd-young.md
@@ -56,14 +64,6 @@ pages:
 - _authors/amanda-glassman.md
 - _authors/beth-cameron.md
 - _authors/juan-zarate.md
-- _authors/trevor-mundel.md
-- _authors/nancy-lindborg.md
-- _authors/ambassador-jimmy-kolker.md
-- _authors/laura-s-h-holgate-ambassador-ret.md
-- _authors/u-s-congressman-ami-bera.md
-- _authors/ambassador-karl-hofmann.md
-- _authors/rebecca-hersman.md
-- _authors/margaret-peggy-hamburg.md
 - _authors/general-carter-ham.md
 - _authors/jim-greenwood.md
 - _authors/admiral-jonathan-greenert.md
