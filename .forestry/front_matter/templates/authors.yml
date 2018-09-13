@@ -28,6 +28,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/u-s-senator-patty-murray.md
 - _authors/trevor-mundel.md
 - _authors/nancy-lindborg.md
 - _authors/ambassador-jimmy-kolker.md
