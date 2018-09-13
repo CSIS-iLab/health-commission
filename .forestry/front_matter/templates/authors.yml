@@ -28,6 +28,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/steve-davis.md
 - _authors/u-s-congressman-tom-cole.md
 - _authors/u-s-congressman-ami-bera.md
 - _authors/julie-louise-gerberding-m-d-mph.md
