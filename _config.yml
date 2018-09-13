@@ -20,6 +20,11 @@ collections:
     title: Events
     output: true
     permalink: "/:path/events/"
+  authors:
+    title: Authors
+    output: true
+    permalink: "/:path/authors/"
+
 
 # Default front matter values for a collection will be defined here
 defaults:
@@ -45,6 +50,12 @@ defaults:
   values:
     layout: post
     permalink: "/events/:slug/"
+- scope:
+    path: ''
+    type: 'authors'
+  values:
+    layout: post
+    permalink: "/authors/:slug/"
 
 
 # Build settings
