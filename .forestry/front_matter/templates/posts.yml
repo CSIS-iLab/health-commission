@@ -74,6 +74,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/managing-the-promise-and-threat-of-evolving-biotechnology.md
 - _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 - _posts/2018-09-13-accelerating-medical-countermeasures.md
 - _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
