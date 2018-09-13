@@ -6,10 +6,7 @@ excerpt: The CSIS Commission on Strengthening America’s Health Security offici
   of the Commission for its two-year life span.
 content_type: ''
 tags:
-- Disordered World
-- Geopolitical Crises
-- North Korea
-- Tuberculosis
+- _keywords/commission-meeting.md
 image: ''
 image_caption: Commission Co-Chairs Kelly Ayotte (left) and Julie Gerberding at the
   April 17 Commission launch.
@@ -17,8 +14,10 @@ image_credit: ''
 documents: []
 undefined: ''
 location: CSIS
-themes: ''
+themes: []
 series: ''
+links: []
+references: ''
 
 ---
 The CSIS Commission on Strengthening America’s Health Security officially launched on April 17, 2018. Commissioners gathered to discuss the major objectives of the Commission for its two-year life span.
