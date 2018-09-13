@@ -32,6 +32,9 @@ fields:
 - type: text
   name: image_credit
   label: Image Credit
+- type: list
+  name: links
+  label: Links
 - type: textarea
   name: reference
   label: Reference
@@ -44,9 +47,6 @@ fields:
   label: Documents
   description: Upload PDFs here
 - type: datetime
-- type: list
-  name: links
-  label: Links
 pages:
 - _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
