@@ -3,6 +3,18 @@ label: Authors
 hide_body: false
 is_partial: false
 fields:
+- type: select
+  name: type
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - commission
+    - expert
+    - secretariat
+  label: Type
+  default: commission
 - type: text
   name: title
   label: Name
