@@ -40,6 +40,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/j-stephen-morrison.md
 - _authors/tom-inglesby.md
 - _authors/jennifer-kates.md
 - _authors/rebecca-katz.md
