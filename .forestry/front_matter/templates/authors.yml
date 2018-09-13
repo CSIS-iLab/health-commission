@@ -14,3 +14,5 @@ fields:
 - type: textarea
   label: Description
   description: Short Biography
+pages:
+- _authors/test.md
