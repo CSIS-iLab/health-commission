@@ -10,19 +10,19 @@ image_credit: ''
 in_depth_overview: _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 featured_post: ''
 further_reading: |-
-  CDC. “Antibiotic/Antimicrobial Resistance.” Last updated March 29, 2018. https://www.cdc.gov/drugresistance/index.html.
+  CDC. “Antibiotic/Antimicrobial Resistance.” Last updated March 29, 2018. [https://www.cdc.gov/drugresistance/index.html.](https://www.cdc.gov/drugresistance/index.html. "https://www.cdc.gov/drugresistance/index.html.")
 
-  CDC. “International Activities to Combat AR.” Last updated June 14, 2018. https://www.cdc.gov/drugresistance/intl-actvities.html.
+  CDC. “International Activities to Combat AR.” Last updated June 14, 2018. [https://www.cdc.gov/drugresistance/intl-actvities.html.](https://www.cdc.gov/drugresistance/intl-actvities.html. "https://www.cdc.gov/drugresistance/intl-actvities.html.")
 
-  Coukell, Alan and Tim Jinks. “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project. October 26, 2016. http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.
+  Coukell, Alan and Tim Jinks. “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project. October 26, 2016. [http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.](http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics. "http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.")
 
-  The Pew Charitable Trusts Antibiotic Resistance Project. “Trends in U.S. Antibiotic Use, 2018.” August 1, 2018. http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview.
+  The Pew Charitable Trusts Antibiotic Resistance Project. “Trends in U.S. Antibiotic Use, 2018.” August 1, 2018. [http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview.](http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview. "http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview.")
 
-  The White House. “National Action Plan for Combating Antibiotic-Resistant Bacteria.” March 2015. https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf
+  The White House. “National Action Plan for Combating Antibiotic-Resistant Bacteria.” March 2015. [https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf](https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf "https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf")
 
-  WHO. “Antimicrobial resistance.” February 15, 2018. http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.
+  WHO. “Antimicrobial resistance.” February 15, 2018. [http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.](http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. "http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.")
 
-  World Health Assembly. “Global action plan on antimicrobial resistance.” May 2015. http://www.who.int/antimicrobial-resistance/global-action-plan/en/.
+  World Health Assembly. “Global action plan on antimicrobial resistance.” May 2015. [http://www.who.int/antimicrobial-resistance/global-action-plan/en/.](http://www.who.int/antimicrobial-resistance/global-action-plan/en/. "http://www.who.int/antimicrobial-resistance/global-action-plan/en/.")
 
 ---
 Antimicrobial resistance (AMR) is a complex, long-range global crisis threatening the foundations on which modern medicine is built. At least 2 million people are infected annually with resistant bacteria in the United States, costing an estimated $20-35 billion and resulting in 23,000 deaths. AMR encompasses all microorganisms that become resistant to drugs that were once effective against them. Rising rates of drug resistance in infectious disease like tuberculosis (TB), HIV, and malaria, as well as hospital-acquired infections, have elevated the issue of AMR, precipitating high-level dialogues, both international and domestic, focused on the pressing question of how best to contain and respond to this trend. AMR is now recognized as a top tier health security threat: if common infections become once again deadly, we face a potential “post-antibiotic apocalypse.” Through a security lens, as resistance threats become increasingly endemic in high conflict, high instability regions, risks of military exposure and possible retransmission grow, threatening military readiness.
