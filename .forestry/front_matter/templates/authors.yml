@@ -1,0 +1,36 @@
+---
+label: Authors
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: name
+  label: Name
+  config:
+    required: true
+- type: text
+  name: role
+  label: Role in Commission
+- type: text
+  name: short_title
+  label: Short Title
+- type: text
+  name: title
+  label: Title
+- type: boolean
+  name: has_photo
+  label: Has Photo
+- type: textarea
+  name: short_bio
+  label: Short Bio
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: long_bio
+  label: Long Bio
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
