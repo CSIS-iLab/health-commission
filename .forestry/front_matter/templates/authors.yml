@@ -28,6 +28,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/general-carter-ham.md
 - _authors/jim-greenwood.md
 - _authors/admiral-jonathan-greenert.md
 - _authors/tom-frieden.md
