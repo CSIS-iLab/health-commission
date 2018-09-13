@@ -1,6 +1,6 @@
 ---
 title: Beth Cameron
-type: commission
+type: expert
 date: 2018-09-13 15:25:54 +0000
 role: ''
 short_title: Nuclear Threat Initiative
