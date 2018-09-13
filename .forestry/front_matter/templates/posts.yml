@@ -27,6 +27,10 @@ fields:
       type: datafiles
   label: Content Type
   hidden: false
+- type: include
+  name: categories
+  label: Categories
+  template: categories
 - type: file
   name: image
   label: Image
@@ -68,9 +72,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: include
-  name: categories
-  label: Categories
-  template: categories
 pages:
 - _posts/preventing-and-responding-to-high-risk-disease-outbreaks.md
