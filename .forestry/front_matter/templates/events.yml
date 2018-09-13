@@ -48,5 +48,5 @@ fields:
   label: Documents
   description: Upload PDFs here
 pages:
-- _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
+- _events/commission-launch.md
