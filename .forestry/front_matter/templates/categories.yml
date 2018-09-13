@@ -1,0 +1,28 @@
+---
+label: Categories
+hide_body: false
+is_partial: true
+fields:
+- type: select
+  name: themes
+  config:
+    source:
+      type: pages
+      section: themes
+  label: Themes
+- type: select
+  name: series
+  config:
+    source:
+      type: pages
+      section: series
+  label: Series
+- type: select
+  name: tags
+  config:
+    source:
+      type: pages
+  label: Tags
+- type: tag_list
+  name: tags
+  label: Tags
