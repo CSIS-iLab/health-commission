@@ -42,6 +42,9 @@ fields:
       section: jekyll-posts
   label: Featured Post
   name: featured_post
+- type: textarea
+  name: further_reading
+  label: Further Reading
 pages:
 - _themes/developing-effective-countermeasures.md
 - _themes/high-risk-disease-outbreaks.md
