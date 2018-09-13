@@ -35,5 +35,12 @@ fields:
       section: jekyll-posts
   label: Featured Post
   name: featured_post
+- type: textarea
+  name: short_description
+  label: Short Description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _themes/high-risk-disease-outbreaks.md
