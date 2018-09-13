@@ -4,7 +4,46 @@ date: 2018-09-13 00:00:00 +0000
 authors: []
 excerpt: ''
 content_type: ''
-themes: _themes/high-risk-disease-outbreaks.md
+themes:
+- '0': _
+  '1': t
+  '2': h
+  '3': e
+  '4': m
+  '5': e
+  '6': s
+  '7': "/"
+  '8': h
+  '9': i
+  '10': g
+  '11': h
+  '12': "-"
+  '13': r
+  '14': i
+  '15': s
+  '16': k
+  '17': "-"
+  '18': d
+  '19': i
+  '20': s
+  '21': e
+  '22': a
+  '23': s
+  '24': e
+  '25': "-"
+  '26': o
+  '27': u
+  '28': t
+  '29': b
+  '30': r
+  '31': e
+  '32': a
+  '33': k
+  '34': s
+  '35': "."
+  '36': m
+  '37': d
+  theme: _themes/high-risk-disease-outbreaks.md
 series: ''
 tags: []
 image: ''
@@ -60,6 +99,8 @@ references: |-
   \[15\] Ibid.
 
   \[16\] Ibid.
+links: []
+event: ''
 
 ---
 ## Key Challenges
