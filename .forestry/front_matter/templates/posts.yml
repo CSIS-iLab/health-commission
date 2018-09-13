@@ -64,9 +64,6 @@ fields:
         type: pages
         section: jekyll-posts
     label: Related Event
-- type: list
-  name: links
-  label: Links
 - type: select
   name: event
   config:
