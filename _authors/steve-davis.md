@@ -10,7 +10,6 @@ short_bio: "**Steve Davis**, president and CEO of PATH, is a social innovator an
   pioneer. Before joining PATH, Steve was director of Social Innovation at McKinsey
   & Company, CEO of the global digital media firm Corbis, and interim director of
   the Infectious Disease Research Institute."
-published: false
 
 ---
 **Steve Davis** is a social innovator and global health problem-solver who has been both a human rights lawyer and internet pioneer. He believes in running PATH as a forward-looking business, and he is dedicated to shifting economic power to countries and people who have for too long been thought of as beneficiaries of global largesse instead of decision-makers and drivers of social change.  
