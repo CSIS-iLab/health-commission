@@ -28,6 +28,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/admiral-jonathan-greenert.md
 - _authors/tom-frieden.md
 - _authors/u-s-congresswoman-anna-eshoo.md
 - _authors/ambassador-mark-dybul.md
