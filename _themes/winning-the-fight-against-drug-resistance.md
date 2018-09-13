@@ -9,7 +9,6 @@ image_caption: ''
 image_credit: ''
 in_depth_overview: ''
 featured_post: ''
-published: false
 
 ---
 Antimicrobial resistance (AMR) is a complex, long-range global crisis threatening the foundations on which modern medicine is built. At least 2 million people are infected annually with resistant bacteria in the United States, costing an estimated $20-35 billion and resulting in 23,000 deaths. AMR encompasses all microorganisms that become resistant to drugs that were once effective against them. Rising rates of drug resistance in infectious disease like tuberculosis (TB), HIV, and malaria, as well as hospital-acquired infections, have elevated the issue of AMR, precipitating high-level dialogues, both international and domestic, focused on the pressing question of how best to contain and respond to this trend. AMR is now recognized as a top tier health security threat: if common infections become once again deadly, we face a potential “post-antibiotic apocalypse.” Through a security lens, as resistance threats become increasingly endemic in high conflict, high instability regions, risks of military exposure and possible retransmission grow, threatening military readiness.
