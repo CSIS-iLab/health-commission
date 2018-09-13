@@ -5,59 +5,7 @@ authors: []
 excerpt: ''
 content_type: ''
 themes:
-- '0': _
-  '1': t
-  '2': h
-  '3': e
-  '4': m
-  '5': e
-  '6': s
-  '7': "/"
-  '8': w
-  '9': i
-  '10': n
-  '11': n
-  '12': i
-  '13': n
-  '14': g
-  '15': "-"
-  '16': t
-  '17': h
-  '18': e
-  '19': "-"
-  '20': f
-  '21': i
-  '22': g
-  '23': h
-  '24': t
-  '25': "-"
-  '26': a
-  '27': g
-  '28': a
-  '29': i
-  '30': n
-  '31': s
-  '32': t
-  '33': "-"
-  '34': d
-  '35': r
-  '36': u
-  '37': g
-  '38': "-"
-  '39': r
-  '40': e
-  '41': s
-  '42': i
-  '43': s
-  '44': t
-  '45': a
-  '46': n
-  '47': c
-  '48': e
-  '49': "."
-  '50': m
-  '51': d
-  theme: _themes/winning-the-fight-against-drug-resistance.md
+- _themes/winning-the-fight-against-drug-resistance.md
 series: ''
 tags: []
 image: ''
