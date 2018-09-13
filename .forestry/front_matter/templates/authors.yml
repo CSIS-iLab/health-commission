@@ -1,37 +1,14 @@
 ---
 label: Authors
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
-- type: select
-  name: type
-  config:
-    source:
-      type: simple
-    required: true
-    options:
-    - commission
-    - expert
-    - secretariat
-  label: Type
-  default: commission
 - type: text
   name: title
   label: Name
 - type: text
-  name: role
-  label: Role in Commission
-- type: text
   name: short_title
   label: Short Title
-- type: text
-  name: long_title
-  label: Title
-  config:
-    required: true
-- type: boolean
-  name: has_photo
-  label: Has Photo
 - type: textarea
   name: short_bio
   label: Short Bio
