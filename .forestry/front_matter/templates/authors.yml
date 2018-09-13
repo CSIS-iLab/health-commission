@@ -40,6 +40,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/tom-inglesby.md
 - _authors/amanda-glassman.md
 - _authors/rocco-casagrande.md
 - _authors/beth-cameron.md
