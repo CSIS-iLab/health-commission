@@ -16,15 +16,9 @@ fields:
   label: Date
   config:
     required: true
-- type: select
-  config:
-    source:
-      type: datafiles
-      section: jekyll-posts
-    required: true
-  label: Content Type
-  name: content_type
-  hidden: true
+- type: text
+  name: location
+  label: Location
 - type: tag_list
   label: Tags
   name: tags
