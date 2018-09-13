@@ -10,7 +10,6 @@ short_bio: "**Jeffrey L. Sturchio** is President & CEO of Rabin Martin, a global
   strategy consulting firm. Jeff is a global health thought leader and trusted counselor
   for senior leaders in the private sector, multilateral organizations, governments,
   NGOs and foundations."
-published: false
 
 ---
 **Jeffrey L. Sturchio** is President & CEO of Rabin Martin, a global health strategy consulting firm. Jeff is a global health thought leader and trusted counselor for senior leaders in the private sector, multilateral organizations, governments, NGOs and foundations.  
