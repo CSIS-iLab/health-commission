@@ -20,6 +20,10 @@ fields:
 - type: textarea
   name: excerpt
   label: Excerpt
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: select
   name: content_type
   config:
