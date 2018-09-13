@@ -37,6 +37,9 @@ fields:
   label: Documents
   description: Upload PDFs here
 - type: datetime
+- type: field_group_list
+  name: links
+  label: Links
 pages:
 - _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
