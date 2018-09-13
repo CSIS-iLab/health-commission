@@ -44,4 +44,5 @@ fields:
   description: Upload PDFs here
 - type: datetime
 pages:
+- _events/health-security-in-a-disordered-world.md
 - _events/commission-launch.md
