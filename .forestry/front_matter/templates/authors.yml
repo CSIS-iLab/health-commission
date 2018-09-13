@@ -4,9 +4,6 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: Title
-  label: Title
-- type: text
   label: Name
   config:
     required: false
@@ -17,6 +14,9 @@ fields:
 - type: text
   name: short_title
   label: Short Title
+- type: text
+  name: Title
+  label: Title
 - type: boolean
   name: has_photo
   label: Has Photo
