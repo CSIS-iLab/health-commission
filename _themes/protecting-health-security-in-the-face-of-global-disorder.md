@@ -8,7 +8,7 @@ image: ''
 image_caption: ''
 image_credit: ''
 in_depth_overview: ''
-featured_post: ''
+featured_post: _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 
 ---
 In today’s world, chronic wars and unstable and fragile states have proliferated, giving rise to the displacement of over 68 million people. This reordering of populations is not likely to be reversed in the near future and is already resulting in major, permanent, often insecure settlements. The traditional sources of global, domestic, and local order are increasingly frayed. Global disorder spans chronic and emerging conflicts, fragile states, gross malgovernance, and empty stateless spaces. It is here to stay, is evolving swiftly, and is generating destabilizing new health security threats.
