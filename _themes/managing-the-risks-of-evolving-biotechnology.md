@@ -7,8 +7,8 @@ short_description: Biotechnology is moving swiftly and holds the potential to re
 image: ''
 image_caption: ''
 image_credit: ''
-in_depth_overview: ''
-featured_post: _posts/managing-the-promise-and-threat-of-evolving-biotechnology.md
+in_depth_overview: _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
+featured_post: _posts/2018-02-14-welcome-to-jekyll.markdown
 
 ---
 We face dynamic new technologies that excite, frighten, and outrun us. Biotechnology is moving swiftly and disruptively while governments lag behind and struggle to catch up with the steps necessary to manage risks and advantages. Policymakers are alternately fascinated, confused, and lacking in confidence of the state of play, the drivers, what lies ahead and what steps need to be taken to facilitate, regulate, and protect against innovation in biotechnology.
