@@ -73,10 +73,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: select
-  config:
-    source:
-      type: pages
-      section: content-typess
 pages:
 - _posts/preventing-and-responding-to-high-risk-disease-outbreaks.md
