@@ -8,11 +8,6 @@ fields:
   name: title
   config:
     required: true
-- type: text
-  name: date
-  label: Date
-  config:
-    required: true
 - type: textarea
   name: excerpt
   label: Excerpt
@@ -42,5 +37,11 @@ fields:
   name: documents
   label: Documents
   description: Upload PDFs here
+- type: datetime
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
 pages:
 - _events/commission-launch.md
