@@ -16,6 +16,10 @@ collections:
     title: Series
     output: true
     permalink: "/:path/series/"
+  themes:
+    title: Themes
+    output: true
+    permalink: "/:path/themes/"
   events:
     title: Events
     output: true
@@ -46,6 +50,10 @@ defaults:
     permalink: "/series/:slug/"
 - scope:
     path: ''
+    type: 'themes'
+  values:
+    layout: post
+    permalink: "/themes/:slug/"
     type: 'events'
   values:
     layout: post
@@ -56,7 +64,6 @@ defaults:
   values:
     layout: post
     permalink: "/authors/:slug/"
-
 
 # Build settings
 markdown: kramdown

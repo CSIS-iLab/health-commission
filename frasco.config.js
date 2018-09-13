@@ -52,6 +52,7 @@ module.exports = {
     layouts:  '_layouts',
     posts:    '_posts',
     series:   '_series',
+    themes:   '_themes',
     events:   '_events',
     authors:  '_authors',
   },
