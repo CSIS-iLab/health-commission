@@ -43,7 +43,7 @@ defaults:
     path: ''
     type: 'events'
   values:
-    layout: post
+    layout: events
     permalink: "/events/:slug/"
 
 # Build settings
