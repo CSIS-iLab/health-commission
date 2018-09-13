@@ -61,9 +61,6 @@ fields:
   label: PDF
   name: pdf
   description: Upload file
-- type: textarea
-  name: references
-  label: References
 - type: field_group
   name: is_commission_related
   label: Is Commission Related?
@@ -78,5 +75,19 @@ fields:
         type: pages
         section: jekyll-posts
     label: Related Event
+- type: textarea
+  name: references
+  label: References
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: further_reading
+  label: Further Reading
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _posts/preventing-and-responding-to-high-risk-disease-outbreaks.md
