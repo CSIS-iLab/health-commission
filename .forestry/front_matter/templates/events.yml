@@ -36,8 +36,8 @@ fields:
   name: links
   label: Links
 - type: textarea
-  name: reference
-  label: Reference
+  name: references
+  label: References
   config:
     wysiwyg: true
     schema:
