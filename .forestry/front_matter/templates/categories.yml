@@ -3,13 +3,6 @@ label: Categories
 hide_body: false
 is_partial: true
 fields:
-- type: select
-  name: series
-  config:
-    source:
-      type: pages
-      section: series
-  label: Series
 - type: list
   name: themes
   label: Themes
@@ -18,3 +11,10 @@ fields:
     source:
       type: pages
       section: themes
+- type: select
+  name: series
+  config:
+    source:
+      type: pages
+      section: series
+  label: Series
