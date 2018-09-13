@@ -10,15 +10,15 @@ image_credit: ''
 in_depth_overview: _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
 featured_post: _posts/2018-02-14-welcome-to-jekyll.markdown
 further_reading: |-
-  National Research Council. “Biotechnology Research in an Age of Terrorism.” The National Academies Press. 2004. https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism.
+  National Research Council. “Biotechnology Research in an Age of Terrorism.” The National Academies Press. 2004. [https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism.](https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism. "https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism.")
 
-  “Federal Experts Security Advisory Panel (FESAP).” U.S. Department of Health and Human Services. Last reviewed September 13, 2017. https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx.
+  “Federal Experts Security Advisory Panel (FESAP).” U.S. Department of Health and Human Services. Last reviewed September 13, 2017. [https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx.](https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx. "https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx.")
 
-  “United States Government Policy for Oversight of Life Sciences DURC.” U.S. Department of Health and Human Services. March 29, 2012. https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx.
+  “United States Government Policy for Oversight of Life Sciences DURC.” U.S. Department of Health and Human Services. March 29, 2012. [https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx.](https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx. "https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx.")
 
-  “USG Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern.” U.S. Department of Health and Human Services. September 24, 2014. https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.
+  “USG Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern.” U.S. Department of Health and Human Services. September 24, 2014. [https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.](https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx. "https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.")
 
-  “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens.” U.S. Department of Health and Human Services. 2017. https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.
+  “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens.” U.S. Department of Health and Human Services. 2017. [https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.](https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf. "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.")
 
 ---
 We face dynamic new technologies that excite, frighten, and outrun us. Biotechnology is moving swiftly and disruptively while governments lag behind and struggle to catch up with the steps necessary to manage risks and advantages. Policymakers are alternately fascinated, confused, and lacking in confidence of the state of play, the drivers, what lies ahead and what steps need to be taken to facilitate, regulate, and protect against innovation in biotechnology.
