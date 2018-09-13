@@ -11,7 +11,6 @@ short_bio: "**Rocco Casagrande** is the Managing Director of Gryphon Scientific 
   and managing the safety and security risks of cutting-edge biological research.
   Dr. Casagrande began his public-sector career as a U.N. weapons inspector in pre-war
   Iraq where he led the U.N.'s biological analysis laboratories."
-published: false
 
 ---
 **Rocco Casagrande** began his public-sector career as a U.N. weapons inspector in pre-war Iraq where he led the U.N.'s biological analysis laboratories. Today, as a founder and Managing Partner of Gryphon Scientific, he is a widely respected thought leader on defense against weapons of mass destruction and managing the safety and security risks of cutting-edge biological research and commercial biotechnologies. Over the past 20 years, Dr. Casagrande has led more than 50 projects on assessing the threat posed by use of chemical, biological, radiological and nuclear weapons, understanding vulnerabilities exploited by these attacks, and devising mechanisms to prevent such attacks or improve the response to these attacks. Much of his work involves the science behind the misuse of dangerous pathogens to create biological weapons.  
