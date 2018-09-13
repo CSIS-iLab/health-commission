@@ -29,8 +29,12 @@ fields:
   name: content_type
   config:
     source:
-      type: datafiles
-      file: _data-content_types-yml
+      type: simple
+      file: ''
+    options:
+    - commentary
+    - report
+    - news
   label: Content Type
   hidden: false
 - type: include
