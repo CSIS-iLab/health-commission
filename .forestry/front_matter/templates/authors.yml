@@ -40,6 +40,12 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/u-s-senator-patty-murray.md
+- _authors/christine-wormuth.md
+- _authors/u-s-senator-todd-young.md
+- _authors/rocco-casagrande.md
+- _authors/jeremy-konyndyk.md
+- _authors/david-a-relman.md
 - _authors/jeffrey-l-sturchio.md
 - _authors/j-stephen-morrison.md
 - _authors/samantha-stroman.md
@@ -47,15 +53,9 @@ pages:
 - _authors/tom-inglesby.md
 - _authors/jennifer-kates.md
 - _authors/rebecca-katz.md
-- _authors/david-a-relman.md
-- _authors/jeremy-konyndyk.md
 - _authors/amanda-glassman.md
-- _authors/rocco-casagrande.md
 - _authors/beth-cameron.md
 - _authors/juan-zarate.md
-- _authors/u-s-senator-todd-young.md
-- _authors/christine-wormuth.md
-- _authors/u-s-senator-patty-murray.md
 - _authors/trevor-mundel.md
 - _authors/nancy-lindborg.md
 - _authors/ambassador-jimmy-kolker.md
