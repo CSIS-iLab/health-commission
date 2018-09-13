@@ -74,7 +74,7 @@ fields:
     schema:
       format: markdown
 pages:
-- _posts/protecting-health-security-in-a-disordered-world.md
+- _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 - _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 - _posts/managing-the-promise-and-threat-of-evolving-biotechnology.md
 - _posts/preventing-and-responding-to-high-risk-disease-outbreaks.md
