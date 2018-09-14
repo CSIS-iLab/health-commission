@@ -56,7 +56,7 @@ sections:
   path: _data/language.yml
   label: Language
 upload_dir: health-commission
-public_path: ''
+public_path: https://res.cloudinary.com/csisideaslab/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
