@@ -1,9 +1,13 @@
 ---
 title: The Gathering Health Storm Inside North Korea
-keywords: []
+keywords:
+- _keywords/disordered-world.md
+- _keywords/drug-resistance.md
+- _keywords/geopolitical-crises.md
+- _keywords/north-korea.md
+- _keywords/tuberculosis.md
 is_commission_related:
-  description: The topics discussed on this page were informed by conversations held
-    during a Commission meeting held on [ DATE ]
+  description: ''
   related_event: ''
 date: 2018-05-07 14:45:37 +0000
 authors:
@@ -18,10 +22,12 @@ excerpt: Health realities in North Korea are grim, poorly understood, and seldom
   as part of the larger problem of potential instability on the Korean peninsula.
 content_type: commentary
 series: _series/health-security-dimensions-of-geopolitical-crises.md
-themes: []
-image: ''
+themes:
+- _themes/protecting-health-security-in-the-face-of-global-disorder.md
+- _themes/winning-the-fight-against-drug-resistance.md
+image: "/uploads/Health-Storm-NK.jpg"
 image_caption: ''
-image_credit: ''
+image_credit: Getty Images
 pdf: ''
 references: ''
 
