@@ -1,21 +1,22 @@
 .themes-list {
   display: flex;
   flex-flow: wrap;
-
   @each $name, $colors in $themes {
     $color: nth($colors, 1);
     $hover: nth($colors, 2);
     &_#{$name} {
-      display: flex;
-      align-items: start;
-      flex: 1 100%;
-      @include breakpoint('medium') {
-        align-items: center;
-        flex: none;
+      list-style-type: none;
+      a {
+        display: flex;
+        align-items: start;
+        flex: 1 100%;
+        @include breakpoint('medium') {
+          align-items: center;
+          flex: none;
+        }
       }
       &__name {
         @extend %post-block-meta-themes;
-        // font-weight: normal;
         text-transform: uppercase;
       }
       &:hover &__name {
@@ -24,7 +25,10 @@
       &__icon {
         @extend %post-block-meta-themes;
         font-size: 0.1rem;
-        margin: 3px 12px;
+        margin: 2px 12px;
+        @include breakpoint('medium') {
+          margin: 0px 12px;
+        }
         color: $color;
         &:visited {
           color: $color;
