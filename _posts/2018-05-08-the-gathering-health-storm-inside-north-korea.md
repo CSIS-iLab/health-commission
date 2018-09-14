@@ -1,7 +1,8 @@
 ---
 title: The Gathering Health Storm Inside North Korea
 date: 2018-05-08 03:27:02 +0000
-authors: []
+authors:
+- _authors/kelly-ayotte.md
 excerpt: Health realities in North Korea are grim, poorly understood, and seldom studied
   as part of the larger problem of potential instability on the Korean peninsula.
 content_type: ''
@@ -15,12 +16,13 @@ image_caption: ''
 image_credit: ''
 pdf: ''
 is_commission_related:
-  description: ''
-  related_event: ''
+  description: Fake Event Description
+  related_event: _events/commission-launch.md
 further_reading: ''
 references: ''
 links: []
 event: ''
+keywords: []
 
 ---
 Health realities in North Korea are grim, poorly understood, and seldom studied as part of the larger problem of potential instability on the Korean peninsula. Yet, while accurate health data is often elusive and there is evidence of recent gains, the advanced state of deterioration is undeniable. Moreover, North Korea’s health decay is genuinely exceptional: in the dangers it poses, its unusual root causes, the astonishing contrast between North and South Korea, and the limited number and limited impact of key external organizations. This peculiar situation merits much higher attention, as we ponder the uncertain future of North Korea and the region at large–-whether the situation worsens, improves due to ongoing talks, or simply stays the same. There are proactive high-level diplomatic steps that the United States and others can and should initiate today to improve the immediate health and humanitarian situation inside North Korea, while planning for the future.
