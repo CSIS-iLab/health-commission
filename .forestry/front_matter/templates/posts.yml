@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/ebola-in-america-epidemic-of-fear.md
 - _posts/2017-09-06-the-new-barbarianism.md
 - _posts/2018-03-13-a-ripe-moment-for-reducing-vaccine-preventable-disease.md
 - _posts/2017-04-17-meeting-basic-health-needs-in-a-venezuela-in-crisis-what-roles-can-the-united-states-and-international-community-play.md
