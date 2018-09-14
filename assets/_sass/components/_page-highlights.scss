@@ -1,0 +1,96 @@
+.page-highlights {
+  background-color: $color-off-white;
+  @include box-shadow(0, 2px, 8px, 5px, rgba(39, 39, 39, 0.16));
+  width: 65.5%;
+  display: flex;
+  justify-content: flex-end;
+  .row {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  & > .row {
+    & > .col:nth-of-type(2) {
+      background-color: $color-dust;
+      flex-shrink: 0;
+    }
+  }
+
+  &.triple {
+    display: none;
+    @include breakpoint(medium) {
+      display: flex;
+      .triple-row {
+        &_col-1-2__1-2 {
+          padding: calculate-rem(32px) calculate-rem(96px) calculate-rem(18px)
+            calculate-rem(24px);
+        }
+
+        &_col-1-2__2-2 {
+          padding: calculate-rem(32px) calculate-rem(24px) calculate-rem(18px)
+            calculate-rem(24px);
+          position: relative;
+          &:before {
+            position: absolute;
+            background-color: $color-dusty-lavender;
+            content: '';
+            height: 75%;
+            width: 2px;
+            left: 0;
+            top: 0;
+          }
+        }
+        &_col-2-2 {
+          padding: calculate-rem(32px) calculate-rem(24px) calculate-rem(18px)
+            calculate-rem(24px);
+        }
+      }
+      .row {
+        flex: 1 1 260px;
+      }
+      .col {
+        flex: 1 1 260px;
+        box-sizing: border-box;
+        max-width: 260px;
+      }
+    }
+  }
+
+  &.double {
+    .double-row {
+      &_col-1-2 {
+        padding: calculate-rem(32px) calculate-rem(66px) calculate-rem(48px)
+          calculate-rem(24px);
+      }
+      &_col-2-2 {
+        display: none;
+        @include breakpoint(medium) {
+          width: 300px;
+          display: block;
+          padding: calculate-rem(18px) calculate-rem(24px) calculate-rem(60px)
+            calculate-rem(32px);
+        }
+      }
+    }
+    .col {
+      &:first-of-type {
+        max-width: calc(1140px - 34.5%);
+      }
+    }
+  }
+
+  &.single {
+    .single-row {
+      &_col-1-1 {
+        padding: calculate-rem(32px) calculate-rem(54px) calculate-rem(48px)
+          calculate-rem(24px);
+      }
+    }
+
+    .col {
+      &:first-of-type {
+        max-width: calc(1440px - 34.5%);
+      }
+    }
+  }
+}

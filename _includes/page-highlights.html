@@ -1,0 +1,72 @@
+<div class="page-highlights triple">
+
+{% if page.collection != 'posts' %}
+<div class="row triple-row">
+  <div class="row triple-row_col-1-2">
+
+    <div class="col triple-row_col-1-2__1-2">
+DOWNLOAD PDF
+    </div>
+
+    <div class="col triple-row_col-1-2__2-2">
+CITE THIS PAGE
+    </div>
+
+  </div>
+
+  <div class="col triple-row_col-2-2">
+Share🐦
+  </div>
+</div>
+
+{% endif %}
+
+</div><p ></p ><div class="page-highlights double">
+  <!-- remove -->
+
+{% if page.collection != 'events' or page.collection != 'themes' %}
+  <div class="row double-row">
+    <div class="col double-row_col-1-2">
+      Amet porttitor eget dolor morbi non arcu. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Urna nec tincidunt praesent semper feugiat. Euismod lacinia at quis et uis blandit turpis cursus in hac habitasse platea dictumst.<br/>
+      Photo Credit: Omic/Anadolu Agency/Getty Images
+    </div>
+
+    <div class="col double-row_col-2-2">
+      {% if page.collection != 'events' %}
+        🐦 Share
+      {% endif %}
+
+      {% if page.collection != 'themes' %}
+        FEATURED POST<br />
+        Finding The Best Medical Care in the World<br />
+        By Dr. Jonathan Doe<br />
+        MAY 10, 2018<br />
+      {% endif %}
+
+    </div>
+  </div>
+
+{% endif %}
+
+</div><p ></p ><div class="page-highlights single">
+<!-- remove -->
+
+  {% if page.collection_type != 'events' or page.name != "about.md" %}
+  <div class="row single-row">
+    <div class="col single-row_col-1-1">
+
+    {% if page.collection_type != 'events' %}
+      Amet porttitor eget dolor morbi non arcu. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Urna nec tincidunt praesent semper feugiat.<br/>
+      Photo Credit: Omic/Anadolu Agency/Getty Images
+    {% endif %}
+
+    {% if page.name != "about.md" %}
+      Amet porttitor eget dolor morbi non arcu. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Urna nec tincidunt praesent semper feugiat.<br/>
+      Photo Credit: Omic/Anadolu Agency/Getty Images
+    {% endif %}
+
+  </div>
+  </div>
+</div>
+
+  {% endif %}
