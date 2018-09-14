@@ -111,10 +111,11 @@ How exactly did North Korea reach this point? Most fundamentally, it is because 
 	<thead>
     	<tr>
         	<th colspan="3" class="table-title">
-            	Indicators
+    
           	</th>
       	</tr>  
       	<tr>
+          	<th>Indicators</th>	
           	<th>Total Population (2017)</th>
       		<th>Life Expectancy At Birth (2016)</th>
      		<th>Average Height (2009)</th>
