@@ -3,7 +3,9 @@ title: The Gathering Health Storm Inside North Korea
 date: 2018-05-08 03:27:02 +0000
 authors:
 - _authors/j-stephen-morrison.md
+- _authors/test.md
 - _authors/rebecca-hersman.md
+- _authors/missing-author-2.md
 - _authors/ambassador-mark-dybul.md
 - _authors/margaret-peggy-hamburg.md
 - _authors/ambassador-jimmy-kolker.md
