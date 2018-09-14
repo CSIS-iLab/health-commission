@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/european-leadership-in-humanitarian-aid-and-emergency-health-response.md
 - _posts/2018-06-21-the-global-threat-of-yellow-fever.md
 - _posts/2018-06-28-the-role-of-the-ifrc-in-humanitarian-response-and-preparedness.md
 - _posts/2018-09-14-ebola-in-america-epidemic-of-fear.md
