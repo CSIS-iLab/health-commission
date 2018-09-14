@@ -25,7 +25,7 @@ image_credit: Getty Images
 pdf: ''
 is_commission_related:
   description: ''
-  related_event: _events/commission-launch.md
+  related_event: ''
 further_reading: ''
 references: ''
 links: []
@@ -40,6 +40,53 @@ Health realities in North Korea are grim, poorly understood, and seldom studied 
 When it comes to health security in North Korea, much of the discussion has focused on suspicions that Pyongyang maintains clandestine stocks of chemical and biological weapons. Nonetheless, another conspicuous and immediate health security threat posed by North Korea is a more conventional one—the very tangible possibility that instability or conflict in North Korea could prompt a mass exodus of North Korean refugees carrying multidrug resistant tuberculosis (MDR-TB) to China and South Korea.
 
 North Korea has an exceptionally high incidence of untreated drug-susceptible tuberculosis and rising MDR-TB. Though there has been no national survey on MDR-TB, independent experts estimate there are 5,000 to 6,000 MDR-TB cases, and there’s a good chance the true numbers are much higher. The Eugene Bell Foundation tested 947 TB samples in 2007–2009 and found that 76.9 percent of TB patients had MDR-TB. At present, there are no fewer than 120,000 patients receiving TB treatment through international programs. As the table below attests, North Korea is a glaring standout globally with respect to tuberculosis.
+
+<table>
+	<thead>
+    	<tr>
+        	<th colspan="4" class="table-title">
+            	Estimates of TB Burden (2016)
+          	</th>
+      	</tr>  
+      	<tr>
+          	<th>North Korea</th>
+      		<th>South Korea</th>
+     		<th>China</th>
+          	<th>Russia</th>
+     		<th>India</th>
+          	<th>South Africa</th>
+      	</tr>
+	</thead>
+  	<tbody>
+  		<tr>
+          	<th>Mortality Rate Per 100,000 (Excludes HIV + TB)</th>
+      		<th>43</th>
+     		<th>5.1</th>
+          	<th>2.8</th>
+     		<th>8.2</th>
+          	<th>32</th>
+          	<th>41</th>
+      	</tr>
+      	<tr>
+          	<th>Incidence Rate Per 100,000 (Includes HIV + TB)</th>
+      		<th>513</th>
+     		<th>77</th>
+          	<th>64</th>
+     		<th>66</th>
+          	<th>211</th>
+          	<th>781</th>
+      	</tr>
+      	<tr>
+          	<th>Incidence Rate Per 100,000 (MDR/RR-TB)</th>
+      		<th>22</th>
+     		<th>4.8</th>
+          	<th>5.2</th>
+     		<th>44</th>
+          	<th>11</th>
+          	<th>34</th>
+      	</tr>
+  	</tbody>
+</table>
 
 Though the socialized health system established 60 years ago does reach every community and includes many dedicated career personnel, that means little when it is woefully underfinanced and composed of many undertrained staff, barren medicine cabinets, and 60-year-old diagnostics. The only way to address TB and other infectious diseases effectively is through a holistic approach to the fundamental problems of poverty in North Korea, rooted in the lack of clean water, basic nutrition, and electrical power. Elementary preparedness capacities to prevent, detect, and respond to pandemics fall far short. This is a government whose only recourse during previous health crises (Middle East respiratory syndrome \[MERS\], Ebola, and pandemic flu) was a panicked shutdown.
 
