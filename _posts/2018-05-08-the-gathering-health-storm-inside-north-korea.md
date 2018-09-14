@@ -86,6 +86,13 @@ North Korea has an exceptionally high incidence of untreated drug-susceptible tu
           	<th>34</th>
       	</tr>
   	</tbody>
+  	<tfoot>
+  		<tr>
+      		<td colspan="4">
+              Source: World Health Organization Global Tuberculosis Report 2017
+          	</td>
+      	</tr>
+  	</tfoot>
 </table>
 
 Though the socialized health system established 60 years ago does reach every community and includes many dedicated career personnel, that means little when it is woefully underfinanced and composed of many undertrained staff, barren medicine cabinets, and 60-year-old diagnostics. The only way to address TB and other infectious diseases effectively is through a holistic approach to the fundamental problems of poverty in North Korea, rooted in the lack of clean water, basic nutrition, and electrical power. Elementary preparedness capacities to prevent, detect, and respond to pandemics fall far short. This is a government whose only recourse during previous health crises (Middle East respiratory syndrome \[MERS\], Ebola, and pandemic flu) was a panicked shutdown.
@@ -99,6 +106,54 @@ The United Nations estimates that 10.5 million people, or 42 percent of the popu
 North Korea’s biggest national tragedy, arguably, is that such a conspicuously large number of its citizens are stunted—a profound, irreversible loss of the nation’s human potential due to a permanent inability to develop physically and mentally. According to North Korea’s own estimates, contained in its 2012 National Nutritional Survey, stunting dropped between 2000 and 2012 from 45.2 percent to 27.9 percent, aided by a rise in health commitments from the government (from 5.9 percent of gross domestic product in 2000 to 6.4 percent in 2014), expanded UN efforts, and the absence in that period of severe drought. If those numbers are accurate (UN estimates track closely with the North Korean numbers), roughly 3 in 10 citizens at the least are stunted, a function of the chronic lack of micronutrients, proteins, and oils.
 
 How exactly did North Korea reach this point? Most fundamentally, it is because North Korea’s leadership has disregarded the public’s welfare in pursuit of grossly skewed national priorities, most significantly developing its nuclear weapons program. It was not always this way. For a long time, it looked like North Korea was doing as well—if not much better—than South Korea. North Korea inherited basic health infrastructure created under the Japanese occupation. Over the course of the 1950s and 1960s, North Korea’s gross domestic product exceeded South Korea’s, and the North Korean state dramatically expanded its investments in infrastructure and industry. It was not until the early 1970s that the North and South’s developmental pathways diverged.
+
+<table>
+	<thead>
+    	<tr>
+        	<th colspan="3" class="table-title">
+            	Indicators
+          	</th>
+      	</tr>  
+      	<tr>
+          	<th>Total Population (2017)</th>
+      		<th>Life Expectancy At Birth (2016)</th>
+     		<th>Average Height (2009)</th>
+          	<th>Gross Domestic Product Per Capita (2017)</th>
+     		<th>Paved Roadways (2016)</th>
+          	<th>Electrification (2016)</th>
+          	<th>Active Military Personnel (2017)</th>
+      	</tr>
+	</thead>
+  	<tbody>
+  		<tr>
+          	<th>North Korea</th>
+      		<th>25.3 million</th>
+     		<th>72 years old</th>
+          	<th>165.5 - 170.5 cm</th>
+     		<th>$1,700</th>
+          	<th>2.8 percent</th>
+          	<th>30 percent</th>
+         	<th>1,190,000</th>
+      	</tr>
+      	<tr>
+          	<th>South Korea</th>
+      		<th>51.2 million</th>
+     		<th>82 years old</th>
+          	<th>173.5 cm</th>
+     		<th>$39,400</th>
+          	<th>92.4 percent</th>
+          	<th>100 percent</th>
+          	<th>630,000</th>
+      	</tr>
+  	</tbody>
+  	<tfoot>
+  		<tr>
+      		<td colspan="3">
+              Sources: World Bank, CIA Factbook, Journal of Economics and Human Biology, IISS
+          	</td>
+      	</tr>
+  	</tfoot>
+</table>
 
 North Korea’s deterioration in the years since is the result of choice, priorities, and neglect—not accident—stretching across the Kim family dynasty. It grows out of a form of governance, executed over the decades, that categorizes populations into politically defined castes and gives excessive preference to protecting elites. It emerged from the shocks of the 1990s when Soviet subsidies suddenly ended and chronic mismanagement created a famine in 1994–1998 that left over 1 million dead. It flows from the conscious decision, in the post–Cold War era, to radically center resources and power in the hands of the military, with huge shares dedicated to the pursuit of nuclear weapons and an ambitious missile program, as part of North Korea’s strategy to counter the perceived threat from the United States. Implicitly, the health decay of the past 25 years is the flip side, the price North Korea’s citizens have paid for the regime’s quest to concentrate its grip on power and resources and survive by entering the nuclear club.
 
