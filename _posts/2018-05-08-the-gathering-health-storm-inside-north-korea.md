@@ -25,7 +25,7 @@ image_credit: Getty Images
 pdf: ''
 is_commission_related:
   description: ''
-  related_event: ''
+  related_event: _events/commission-launch.md
 further_reading: ''
 references: ''
 links: []
