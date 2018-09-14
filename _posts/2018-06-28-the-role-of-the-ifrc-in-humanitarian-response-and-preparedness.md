@@ -26,9 +26,10 @@ pdf: ''
 references: ''
 
 ---
-[https://soundcloud.com/csis-57169780/the-role-of-the-ifrc-in-humanitarian-response-and-preparedness](https://soundcloud.com/csis-57169780/the-role-of-the-ifrc-in-humanitarian-response-and-preparedness "https://soundcloud.com/csis-57169780/the-role-of-the-ifrc-in-humanitarian-response-and-preparedness") 
+[https://soundcloud.com/csis-57169780/the-role-of-the-ifrc-in-humanitarian-response-and-preparedness](https://soundcloud.com/csis-57169780/the-role-of-the-ifrc-in-humanitarian-response-and-preparedness "https://soundcloud.com/csis-57169780/the-role-of-the-ifrc-in-humanitarian-response-and-preparedness")
 
-  
 _This podcast with IFRC Secretary General Elhadj As Sy, recorded for the CSIS Global Health Policy Center podcast series_ Take as Directed_, examines global outbreak preparedness and response efforts, a critical component of global health security and an integral focus of the work of the CSIS Commission. Following the recording of this podcast, the CSIS Commission hosted a private lunch discussion with Mr. Sy._
 
 In this episode of the CSIS Global Health Policy Center podcast series _Take as Directed_, Elhadj As Sy, Secretary General of the International Federation of Red Cross and Red Crescent Societies (IFRC), joins CSIS Commission Secretariat Co-Director J. Stephen Morrison to discuss the different roles that IFRC plays across the vast array of populations they serve, their current work on the Ebola outbreak in the Democratic Republic of Congo, and the lessons they learned from the previous outbreak. Mr. Sy has also been named co-chair of the Global Preparedness Monitoring Board, and he describes the current state of the planning for this new independent monitoring body launched by the WHO and the World Bank on May 24th at the 71st World Health Assembly.
+
+Hosted by J. Stephen Morrison. Produced by Alex Bush. Edited by Ribka Gemilangsari.
