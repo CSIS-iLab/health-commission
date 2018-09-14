@@ -57,6 +57,6 @@ sections:
   label: Language
 upload_dir: health-commission
 public_path: https://res.cloudinary.com/csisideaslab/image/upload
-front_matter_path: ''
-use_front_matter_path: 
+front_matter_path: https://res.cloudinary.com/csisideaslab/image/upload
+use_front_matter_path: true
 file_template: ":filename:"
