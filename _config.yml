@@ -65,6 +65,8 @@ defaults:
     layout: post
     permalink: "/authors/:slug/"
 
+cloudinary_url: https://res.cloudinary.com/csisideaslab/image/upload/
+
 # Build settings
 markdown: kramdown
 

@@ -1,0 +1,16 @@
+{% if include.path %}
+{% assign image_name = include.path | split: "/upload/" | last %}
+<img
+  sizes="(max-width: 320px) 320px,
+        (max-width: 375px) 335px,
+        (max-width: 480px) 440px,
+        (max-width: 675px) 635px,
+        800px"
+  srcset="{{ site.cloudinary_url }}f_auto,q_70,w_320/{{ image_name }} 320w,
+          {{ site.cloudinary_url }}f_auto,q_70,w_335/{{ image_name }} 335w,
+          {{ site.cloudinary_url }}f_auto,q_70,w_480/{{ image_name }} 480w,
+          {{ site.cloudinary_url }}f_auto,q_70,w_635/{{ image_name }} 635w,
+          {{ site.cloudinary_url }}f_auto,w_800/{{ image_name }} 800w"
+  src="{{ site.cloudinary_url }}f_auto,w_800/v1536943052/health-commission/{{ image_name }}" title="{{ include.alt }}"
+  alt="{{ include.alt }}" />
+{% endif %}
