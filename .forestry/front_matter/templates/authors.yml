@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/author-3.md
 - _authors/missing-author-2.md
 - _authors/julie-louise-gerberding-m-d-mph.md
 - _authors/tom-frieden.md
