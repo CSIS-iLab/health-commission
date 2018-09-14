@@ -1,0 +1,14 @@
+{% if site.data.content_types.size > 0 %}
+<section class="content-types-filter">
+  <span class="post-meta-label">Filter By Type</span>
+  <ul class="content-types-list">
+    {% assign filterable_types = site.data.content_types | where: 'filterable', 'true' | sort: 'title' %}
+    {% for type in filterable_types %}
+    <li class="checkbox-container">
+      <input type="checkbox" id="{{ type.type }}" value="{{ type.type }}">
+      <label for="{{ type.type }}">{{ type.title || escape }}</label>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
