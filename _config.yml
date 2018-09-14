@@ -54,6 +54,8 @@ defaults:
   values:
     layout: post
     permalink: "/themes/:slug/"
+- scope:
+    path: ''
     type: 'events'
   values:
     layout: post
@@ -64,6 +66,8 @@ defaults:
   values:
     layout: post
     permalink: "/authors/:slug/"
+
+cloudinary_url: https://res.cloudinary.com/csisideaslab/image/upload/
 
 # Build settings
 markdown: kramdown
