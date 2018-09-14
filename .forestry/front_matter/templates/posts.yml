@@ -62,7 +62,7 @@ fields:
     name: description
     label: Description
     default: The topics discussed on this page were informed by conversations held
-      during a Commission meeting held on ...
+      during a Commission meeting held on [ DATE ]
   - type: select
     name: related_event
     config:
