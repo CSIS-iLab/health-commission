@@ -19,7 +19,7 @@ series: _series/health-security-dimensions-of-geopolitical-crises.md
 tags:
 - _keywords/north-korea.md
 - _keywords/tuberculosis.md
-image: "/uploads/Health-Storm-NK-1.jpg"
+image: ''
 image_caption: ''
 image_credit: Getty Images
 pdf: ''
