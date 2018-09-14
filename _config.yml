@@ -54,6 +54,8 @@ defaults:
   values:
     layout: post
     permalink: "/themes/:slug/"
+- scope:
+    path: ''
     type: 'events'
   values:
     layout: post
