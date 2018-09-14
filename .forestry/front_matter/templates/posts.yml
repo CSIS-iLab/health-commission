@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/the-spanish-flu-a-century-later-2018-is-not-that-different-from-1918.md
 - _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 - _posts/2018-09-13-accelerating-medical-countermeasures.md
 - _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
