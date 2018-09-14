@@ -16,7 +16,7 @@ authors:
 - _authors/test.md
 - _authors/missing-author-2.md
 excerpt: ''
-content_type: news
+content_type: commentary
 series: ''
 themes: []
 image: ''
