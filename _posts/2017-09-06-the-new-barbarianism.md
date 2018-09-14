@@ -6,6 +6,7 @@ keywords:
 - _keywords/yemen.md
 - _keywords/afghanistan.md
 - _keywords/humanitarian.md
+- _keywords/video.md
 is_commission_related:
   description: The topics discussed on this page were informed by conversations held
     during a Commission meeting held on [ DATE ]
