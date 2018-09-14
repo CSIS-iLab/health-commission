@@ -45,10 +45,11 @@ North Korea has an exceptionally high incidence of untreated drug-susceptible tu
 	<thead>
     	<tr>
         	<th colspan="4" class="table-title">
-            	Estimates of TB Burden (2016)
+            	 
           	</th>
       	</tr>  
       	<tr>
+         	<th>Estimates of TB Burden (2016)</th>
           	<th>North Korea</th>
       		<th>South Korea</th>
      		<th>China</th>
