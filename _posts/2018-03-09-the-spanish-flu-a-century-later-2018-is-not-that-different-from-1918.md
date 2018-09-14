@@ -8,6 +8,7 @@ is_commission_related:
 date: 2018-03-09 16:08:32 +0000
 authors:
 - _authors/j-stephen-morrison.md
+- _authors/test.md
 excerpt: The Spanish influenza cataclysm ignited 100 years ago, and while we certainly
   live today in a superior state of preparedness, modernization and globalization
   have also driven up health security risks.
