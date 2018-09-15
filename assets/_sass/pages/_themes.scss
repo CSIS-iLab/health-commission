@@ -3,11 +3,41 @@
 ==============================*/
 
 .themes {
+  .page-header__title {
+    $block-size: calculate-rem(72px);
+    position: relative;
+
+    @include breakpoint('medium') {
+      padding-left: calc(#{$block-size} + 1rem);
+    }
+
+    &::before {
+      content: '';
+      display: block;
+      width: $block-size;
+      height: 1em;
+      margin-bottom: 1rem;
+
+      @include breakpoint('medium') {
+        position: absolute;
+        top: 14px;
+        left: 0;
+        height: 0.7em;
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  @each $name, $colors in $themes {
+    $color: nth($colors, 1);
+    &.themes--#{$name} .page-header__title::before {
+      background-color: $color;
+    }
+  }
 
   &__overview_btn {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 2rem auto;
     width: fit-content;
   }
 }
