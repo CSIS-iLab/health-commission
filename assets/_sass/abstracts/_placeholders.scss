@@ -271,7 +271,7 @@
 
 %post-body {
   font-family: $font-georgia;
-  @include font-size(20px);
+  @include font-size(16px);
   line-height: 1.6;
 
   @include breakpoint('medium') {

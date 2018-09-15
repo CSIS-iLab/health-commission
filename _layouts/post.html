@@ -18,8 +18,14 @@ layout: default
     </div>
   </section>
   <section class="post__content e-content" itemprop="articleBody">
-    <strong>Note:</strong> Look at footnotes formatting
+    {% if page.collection == 'posts' and page.image.size > 0 %}
+    <figure class="post__feature-image post__content-overflow">
+      {% include cloudinary-responsive-img.html path=page.image title=page.image_caption alt=page.image_caption %}
+      {%- include img-caption.html desc=page.image_caption source=page.image_credit -%}
+    </figure>
+    {% endif %}
     {{ content }}
+    <strong>Note:</strong> Look at footnotes formatting
   </section>
   <footer class="post__footer" role="footer">
     Tags<br />

@@ -4,7 +4,7 @@
 
 .post {
   &__header {
-    margin-bottom: calculate-rem(24px);
+    margin: 0 auto 3rem;
     padding-bottom: 1rem;
     border-bottom: 1px solid $color-silver;
 
@@ -24,10 +24,44 @@
         margin-bottom: 0;
       }
     }
-
   }
 
   &__excerpt {
     @extend %post-intro;
+  }
+
+  &__content {
+    max-width: $size-page-content-max-width;
+    margin: 0 auto;
+    @extend %post-body;
+
+    & > :not(&-overflow) {
+      @include breakpoint('medium') {
+        max-width: $size-page-text-max-width;
+        margin-left: auto;
+        margin-right: auto; 
+      }
+    }
+
+    &-overflow {
+      @include breakpoint('medium') {
+        @include post-overflow-content();
+      }
+
+      &--left {
+        @include breakpoint('medium') {
+          @include post-overflow-content('left');
+        }
+      }
+    }
+  }
+
+  &__feature-image {
+    margin: 0 0 2rem 0;
+
+    @include breakpoint('medium') {
+      margin-bottom: 1rem;
+      margin-left: 2rem;
+    }
   }
 }
