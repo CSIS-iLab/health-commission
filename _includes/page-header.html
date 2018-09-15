@@ -5,10 +5,12 @@ style="background-image:url('{{ page.image | relative_url }}');"
 {% endif %}
 
 <header class="page-header" role="header" {{ background_img }}>
-{% if page.collection == 'posts' %}
-  {% include page-header-post.html %}
-{% else %}
-  <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}</h1>
-{% endif %}
-Page Highlights include goes here
+  <div class="wrapper">
+  {% if page.collection == 'posts' %}
+    {% include page-header-post.html %}
+  {% else %}
+    <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}</h1>
+  {% endif %}
+  Page Highlights include goes here
+  </div>
 </header>
