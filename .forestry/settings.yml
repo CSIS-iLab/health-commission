@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: _data/keywords.yml
-  label: Tags
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
@@ -34,6 +30,9 @@ sections:
   match: "**/*"
   templates:
   - series
+- type: document
+  path: _data/keywords.yml
+  label: Tags
 - type: directory
   path: _keywords
   label: Tags
