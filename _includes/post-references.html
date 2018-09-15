@@ -1,0 +1,6 @@
+{% if page.references.size > 0 %}
+  <section class="post__references">
+    <h3 class="section-title">{{ site.data.language.single_post.references }}</h3>
+    {{ page.references | markdownify }}
+  </section>
+{% endif %}

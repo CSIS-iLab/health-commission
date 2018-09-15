@@ -7,9 +7,8 @@ fields:
   label: Title
   name: title
 pages:
-- _keywords/geopolitical-crises.md
-- _keywords/drug-resistance.md
-- _keywords/disordered-world.md
+- _keywords/podcast.md
+- _keywords/video.md
 - _keywords/public-event.md
 - _keywords/commission-meeting.md
 - _keywords/ebola.md
@@ -24,4 +23,3 @@ pages:
 - _keywords/venezuela.md
 - _keywords/influenza.md
 - _keywords/tuberculosis.md
-- _keywords/north-korea.md

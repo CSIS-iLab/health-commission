@@ -1,0 +1,99 @@
+/*============================
+=            Post            =
+============================*/
+
+.post {
+  &__header {
+    margin: 0 auto 3rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid $color-silver;
+
+    @include breakpoint('medium') {
+      display: flex;
+      margin-bottom: calculate-rem(48px);
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+
+    &-meta {
+      margin-bottom: 1rem;
+      @include breakpoint('medium') {
+        flex: 1 0 $size-page-highlights-width;
+        max-width: $size-page-highlights-width;
+        margin-right: 2rem;
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  &__excerpt {
+    @extend %post-intro;
+  }
+
+  &__content {
+    max-width: $size-page-content-max-width;
+    margin: 0 auto 3rem;
+    @extend %post-body;
+
+    & > :not(&-overflow) {
+      @include breakpoint('medium') {
+        max-width: $size-page-text-max-width;
+        margin-left: auto;
+        margin-right: auto; 
+      }
+    }
+
+    &-overflow {
+      @include breakpoint('medium') {
+        @include post-overflow-content();
+      }
+
+      &--left {
+        @include breakpoint('medium') {
+          @include post-overflow-content('left');
+        }
+      }
+    }
+  }
+
+  &__feature-image {
+    margin: 0 0 2rem 0;
+
+    @include breakpoint('medium') {
+      margin-bottom: 1rem;
+      margin-left: 2rem;
+    }
+  }
+
+  &__footer {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap: 2rem;
+    max-width: $size-page-text-max-width;
+    margin: 0 auto;
+  }
+
+  &__references,
+  &__authors-full {
+    position: relative;
+    grid-column: span 2;
+    padding-top: 2rem;
+    
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 50%;
+      width: 100vw;
+      height: 1px;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      background-color: $color-silver;
+    }
+
+    p:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}

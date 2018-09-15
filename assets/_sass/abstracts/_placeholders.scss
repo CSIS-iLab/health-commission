@@ -113,6 +113,15 @@
   color: $color-white;
 }
 
+%full-width-content {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
 %h1 {
   font-family: $font-georgia;
   @include font-size(32px);
@@ -233,6 +242,7 @@
   font-family: $font-georgia;
   @include font-size(32px);
   line-height: 1.31;
+  font-weight: normal;
 
   @include breakpoint('medium') {
     @include font-size(56px);
@@ -261,7 +271,7 @@
 
 %post-body {
   font-family: $font-georgia;
-  @include font-size(20px);
+  @include font-size(16px);
   line-height: 1.6;
 
   @include breakpoint('medium') {
@@ -372,6 +382,7 @@
   @include font-size(18px);
   line-height: 1.78;
   letter-spacing: 1px;
+  font-weight: normal;
   color: $color-black;
 }
 

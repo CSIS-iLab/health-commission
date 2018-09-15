@@ -1,6 +1,20 @@
 # Includes Parameters
 Documentation on parameters used for includes throughout the site. For information on includes see the [Jekyll docs](https://jekyllrb.com/docs/includes/).
 
+## img-caption
+Displays the caption and source for a photo.
+`{%- include img-caption.html tag='p' desc=page.image_caption source=page.image_credit -%}`
+
+- `tag`: The HTML tag to use. Default is `figcaption`
+- `desc`: The image caption
+- `source`: The image source (optional)
+
+## page-header-background-img
+Used by the `page-header` include to capture a `style` attribute for the page header's background image.
+`{% include page-header-background-img.html image_url=page.image %}`
+
+- `image_url`: The URL to the image to display
+
 ## post-block
 `{% include post-block.html hide_excerpt=true show_image=true %}`
 
