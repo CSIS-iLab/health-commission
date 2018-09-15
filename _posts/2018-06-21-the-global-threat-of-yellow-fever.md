@@ -1,8 +1,8 @@
 ---
 title: The Global Threat of Yellow Fever
 keywords:
-- _keywords/ebola.md
-- _keywords/podcast.md
+- Ebola
+- Podcast
 is_commission_related:
   description: The topics discussed on this page were informed by conversations held
     during a Commission meeting held on [ DATE ]

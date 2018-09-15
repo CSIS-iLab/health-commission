@@ -1,12 +1,12 @@
 ---
 title: The New Barbarianism
 keywords:
-- _keywords/geneva-conventions.md
-- _keywords/syria.md
-- _keywords/yemen.md
-- _keywords/afghanistan.md
-- _keywords/humanitarian.md
-- _keywords/video.md
+- Geneva Conventions
+- Syria
+- Yemen
+- Afghanistan
+- Humanitarian
+- Video
 is_commission_related:
   description: The topics discussed on this page were informed by conversations held
     during a Commission meeting held on [ DATE ]

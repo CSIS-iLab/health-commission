@@ -1,8 +1,8 @@
 ---
 title: 'Ebola in America: Epidemic of Fear'
 keywords:
-- _keywords/ebola.md
-- _keywords/video.md
+- Ebola
+- Video
 is_commission_related:
   description: ''
   related_event: ''

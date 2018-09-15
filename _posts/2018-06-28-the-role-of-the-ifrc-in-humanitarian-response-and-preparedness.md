@@ -1,8 +1,8 @@
 ---
 title: The Role of the IFRC in Humanitarian Response and Preparedness
 keywords:
-- _keywords/ebola.md
-- _keywords/podcast.md
+- Ebola
+- Podcast
 is_commission_related:
   description: ''
   related_event: ''

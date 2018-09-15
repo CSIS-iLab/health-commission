@@ -1,8 +1,8 @@
 ---
 title: A Ripe Moment for Reducing Vaccine-Preventable Disease
 keywords:
-- _keywords/vaccines.md
-- _keywords/immunizations.md
+- Vaccines
+- Immunizations
 is_commission_related:
   description: ''
   related_event: ''

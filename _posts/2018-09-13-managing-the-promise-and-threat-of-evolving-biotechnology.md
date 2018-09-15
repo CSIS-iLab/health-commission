@@ -7,7 +7,6 @@ content_type: ''
 themes:
 - _themes/managing-biotechnology.md
 series: ''
-tags: []
 image: ''
 image_caption: ''
 image_credit: ''
@@ -46,7 +45,6 @@ references: |-
 
   \[10\] “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens,” U.S. Department of Health and Human Services, 2017, [https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.](https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf. "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.")
 links: []
-event: ''
 
 ---
 ## Key Challenges

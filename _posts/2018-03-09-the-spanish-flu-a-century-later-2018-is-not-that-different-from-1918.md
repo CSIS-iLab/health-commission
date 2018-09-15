@@ -1,7 +1,7 @@
 ---
 title: 'The Spanish Flu a Century Later: 2018 is Not That Different From 1918'
 keywords:
-- _keywords/influenza.md
+- Influenza
 is_commission_related:
   description: ''
   related_event: ''

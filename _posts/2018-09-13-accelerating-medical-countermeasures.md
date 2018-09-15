@@ -7,7 +7,6 @@ content_type: ''
 themes:
 - _themes/developing-countermeasures.md
 series: ''
-tags: []
 image: ''
 image_caption: ''
 image_credit: ''
@@ -50,7 +49,6 @@ references: |-
 
   \[13\] CEPI, “Mission,” accessed August 2018, [http://cepi.net/mission.](http://cepi.net/mission. "http://cepi.net/mission.")
 links: []
-event: ''
 
 ---
 ## Key Challenges

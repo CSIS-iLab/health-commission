@@ -7,7 +7,6 @@ content_type: ''
 themes:
 - _themes/drug-resistance.md
 series: ''
-tags: []
 image: ''
 image_caption: ''
 image_credit: ''
@@ -60,7 +59,6 @@ references: |-
 
   \[15\] Office of the Assistant Secretary for Health, “Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (PACCARB),” last reviewed August 21, 2018, [https://www.hhs.gov/ash/advisory-committees/paccarb/index.html.](https://www.hhs.gov/ash/advisory-committees/paccarb/index.html. "https://www.hhs.gov/ash/advisory-committees/paccarb/index.html.")
 links: []
-event: ''
 
 ---
 ## Key Challenges
