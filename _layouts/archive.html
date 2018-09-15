@@ -6,12 +6,8 @@ layout: default
   {% include page-header.html %}
   <section class="archive__header">
     <div class="post__header-meta">
-      {% if page.collection == 'authors' %}
-      <p>{{ page.short_bio | markdownify }}</p>
-      {% else %}
-      {{ page.excerpt | remove: '
-      <p>' | remove: '</p>' }}
-      {% endif %}
+      <p class="post__excerpt">{{ page.excerpt | remove: '
+        <p>' | remove: '</p>' }}</p>
     </div>
     {{ excerpt }}
     Pagination<br />

@@ -10,7 +10,7 @@ fields:
   name: short_title
   label: Short Title
 - type: textarea
-  name: short_bio
+  name: excerpt
   label: Short Bio
   config:
     wysiwyg: true

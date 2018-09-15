@@ -7,7 +7,7 @@ short_title: Stanford University
 long_title: Thomas C. and Joan M. Merigan Professor, Departments of Medicine and of
   Microbiology & Immunology, Stanford University
 has_photo: true
-short_bio: "**David A. Relman** is the Thomas C. and Joan M. Merigan Professor in
+excerpt: "**David A. Relman** is the Thomas C. and Joan M. Merigan Professor in
   the Departments of Medicine, and of Microbiology & Immunology, and Senior Fellow
   at the Freeman Spogli Institute for International Studies at Stanford University.
   He is also Chief of Infectious Diseases at the Veterans Affairs Palo Alto Health

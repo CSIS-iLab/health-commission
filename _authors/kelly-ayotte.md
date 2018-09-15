@@ -5,7 +5,7 @@ name: Kelly Ayotte
 role: Co-Chair
 short_title: ''
 has_photo: false
-short_bio: ''
+excerpt: ''
 Title: Former Senator (NH)
 long_title: Former Senator (NH)
 

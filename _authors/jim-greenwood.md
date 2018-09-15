@@ -5,7 +5,7 @@ role: ''
 short_title: Biotechnology Innovation Organization
 long_title: President and CEO, Biotechnology Innovation Organization
 has_photo: true
-short_bio: "**Jim Greenwood** is President and CEO of the Biotechnology Innovation
+excerpt: "**Jim Greenwood** is President and CEO of the Biotechnology Innovation
   Organization (BIO) in Washington, D.C. BIO represents 1,000 biotechnology companies,
   academic institutions, state biotechnology centers, and related organizations across
   the United States and in more than 30 countries worldwide. Greenwood previously
