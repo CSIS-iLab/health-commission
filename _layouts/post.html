@@ -13,9 +13,7 @@ layout: default
       {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
       Themes List
     </div>
-    <div class="from-the-commission">
-      From the Commission (Replace entire div with include)
-    </div>
+    {%- include from-commission.html -%}
   </section>
   <section class="post__content e-content" itemprop="articleBody">
     {% if page.collection == 'posts' and page.image.size > 0 %}
