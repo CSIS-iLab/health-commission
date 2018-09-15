@@ -1,6 +1,12 @@
 # Includes Parameters
 Documentation on parameters used for includes throughout the site. For information on includes see the [Jekyll docs](https://jekyllrb.com/docs/includes/).
 
+## page-header-background-img
+Used by the `page-header` include to capture a `style` attribute for the page header's background image.
+`{% include page-header-background-img.html image_url=page.image %}`
+
+- `image_url`: The URL to the image to display
+
 ## post-block
 `{% include post-block.html hide_excerpt=true show_image=true %}`
 

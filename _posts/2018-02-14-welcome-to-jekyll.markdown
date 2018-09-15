@@ -6,6 +6,9 @@ categories: jekyll update
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1536943052/health-commission/photo-1529928750697-1d9646312221.jpg
 authors:
 - _authors/kelly-ayotte.md
+themes:
+- _themes/high-risk-disease-outbreaks.md
+- _themes/global-disorder.md
 
 ---
 Test Cloudinary integration.

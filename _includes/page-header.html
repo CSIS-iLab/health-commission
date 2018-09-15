@@ -1,7 +1,12 @@
 {% if page.image.size > 0 %}
-{% capture background_img %}
-style="background-image:url('{{ page.image | relative_url }}');"
-{% endcapture %}
+  {% include page-header-background-img.html image_url=page.image %}
+{% endif %}
+
+{% if page.collection == 'posts' and page.themes.size > 0 %}
+  {% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
+  {% if primary_theme.image.size > 0 %}
+    {% include page-header-background-img.html image_url=primary_theme.image %}
+  {% endif %}
 {% endif %}
 
 <header class="page-header" role="header" {{ background_img }}>
