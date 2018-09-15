@@ -46,7 +46,7 @@ defaults:
     path: ''
     type: 'series'
   values:
-    layout: post
+    layout: archive
     permalink: "/series/:slug/"
 - scope:
     path: ''
@@ -64,7 +64,7 @@ defaults:
     path: ''
     type: 'authors'
   values:
-    layout: post
+    layout: archive
     permalink: "/authors/:slug/"
 
 cloudinary_url: https://res.cloudinary.com/csisideaslab/image/upload/
