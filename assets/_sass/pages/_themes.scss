@@ -48,5 +48,11 @@
     background-color: $color-off-white;
     @include fullWidthBackground($color-off-white);
   }
+
+  &__more-posts {
+    display: block;
+    width: fit-content;
+    margin: 3rem auto 0;
+  }
 }
 

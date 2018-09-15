@@ -11,4 +11,5 @@
   {% for post in theme_posts limit: post_list_limit %}
   {% include post-block.html %}
   {% endfor %}
+  <a href="/search?theme={{ page.short_title | slugify }}" class="btn btn--dark-gray themes__more-posts">{{ site.data.language.single_post.more_posts }}</a>
 </div>
