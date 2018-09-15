@@ -40,5 +40,13 @@
     margin: 2rem auto;
     width: fit-content;
   }
+
+  &__related-posts {
+    position: relative;
+    grid-column: span 2;
+    padding: 4rem 0;
+    background-color: $color-off-white;
+    @include fullWidthBackground($color-off-white);
+  }
 }
 

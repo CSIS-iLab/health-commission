@@ -1,4 +1,4 @@
-<article class="post-block" role="article" data-content-type="{{ post.content_type }}">
+<article class="post-block {{ include.class }}" role="article" data-content-type="{{ post.content_type }}">
   {% if include.show_image and post.image.size > 0 %}
   <a href="{{ post.url | relative_url }}" class="post-block__img"><img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" title="{{ post.title | escape }}" /></a>
   {% endif %}

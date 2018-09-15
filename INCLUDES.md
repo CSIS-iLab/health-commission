@@ -20,3 +20,4 @@ Used by the `page-header` include to capture a `style` attribute for the page he
 
 - `hide_excerpt`: Set to `true` to hide the post excerpt
 - `show_image`: Set to `true` to show the post thumbnail
+- `class`: Add additional classes to block. Useful for specifying a featured post

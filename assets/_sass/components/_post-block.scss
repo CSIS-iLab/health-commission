@@ -8,6 +8,7 @@
   border-top: 1px solid $color-silver;
 
   &:first-of-type {
+    padding-top: 0;
     border-top: 0;
   }
   
@@ -21,7 +22,7 @@
 
   &__img {
     float: right;
-    max-width: 20%;
+    max-width: 40%;
     margin-left: 2rem;
 
     img {
@@ -33,6 +34,12 @@
 
   &__clear {
     @include clearfix-after();
+  }
+
+  &.post-block--featured {
+    .post-block__title {
+      @extend %post-block-post-title-featured;
+    }
   }
 }
 
