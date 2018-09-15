@@ -5,10 +5,17 @@ layout: default
 
   {% include page-header.html %}
   <section class="post__header">
-    Excerpt<br />
-    Photo Credit<br />
-    Themes List<br />
-    From the Commission
+    <div class="post__header-meta">
+      {% if page.collection == 'posts' %}
+        <p class="post__excerpt">{{ page.excerpt | remove: '
+        <p>' | remove: '</p>' }}</p>
+      {% endif %}
+      {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+      Themes List
+    </div>
+    <div class="from-the-commission">
+      From the Commission (Replace entire div with include)
+    </div>
   </section>
   <section class="post__content e-content" itemprop="articleBody">
     <strong>Note:</strong> Look at footnotes formatting

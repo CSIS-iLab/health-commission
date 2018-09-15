@@ -1,0 +1,33 @@
+/*============================
+=            Post            =
+============================*/
+
+.post {
+  &__header {
+    margin-bottom: calculate-rem(24px);
+    padding-bottom: 1rem;
+    border-bottom: 1px solid $color-silver;
+
+    @include breakpoint('medium') {
+      display: flex;
+      margin-bottom: calculate-rem(48px);
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+
+    &-meta {
+      margin-bottom: 1rem;
+      @include breakpoint('medium') {
+        flex: 1 0 $size-page-highlights-width;
+        max-width: $size-page-highlights-width;
+        margin-right: 2rem;
+        margin-bottom: 0;
+      }
+    }
+
+  }
+
+  &__excerpt {
+    @extend %post-intro;
+  }
+}

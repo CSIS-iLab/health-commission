@@ -4,12 +4,16 @@ title: Welcome to Jekyll!
 date: 2018-02-13 15:56:34 +0000
 categories: jekyll update
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1536943052/health-commission/photo-1529928750697-1d9646312221.jpg
+image_caption: This is a test caption.
+image_credit: Getty Images
 authors:
 - _authors/kelly-ayotte.md
 themes:
 - _themes/high-risk-disease-outbreaks.md
 - _themes/global-disorder.md
-
+excerpt: Since 2014, Venezuela, which at one time enjoyed international recognition
+  for its malaria elimination program, achievements in life expectancy, and progress
+  addressing infectious diseases, has shown increasingly negative health indicators.
 ---
 Test Cloudinary integration.
 
