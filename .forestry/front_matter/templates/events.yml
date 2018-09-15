@@ -29,8 +29,10 @@ fields:
     min: '1'
     use_select: true
     source:
-      type: pages
-      section: themes
+      type: documents
+      section: tags-251f80e7-e4c7-411f-88c3-d5a448f6fb8e
+      file: _data/keywords.yml
+      path: Keywords
 - type: file
   name: image
   label: Image
