@@ -22,8 +22,8 @@ fields:
   hidden: true
   default: events
 - type: list
-  name: tags
-  label: tags
+  name: keywords
+  label: Tags
   description: Choose keywords here
   config:
     min: '1'
