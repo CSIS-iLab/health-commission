@@ -28,11 +28,11 @@ layout: default
     <strong>Note:</strong> Look at footnotes formatting
   </section>
   <footer class="post__footer" role="footer">
-    Tags<br />
-    Social Share<br />
-    References<br />
-    Authors Block<br />
-    Related Posts
+    <div class="post__tags">Tags Include</div>
+    <div class="share">Social Share Include</div>
+    {% include post-references.html %}
+    <div class="post__authors-full">Authors Block</div>
+    <div class="post__related-posts">Related Posts</div>
   </footer>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

@@ -30,6 +30,11 @@ h4 {
 	margin: 0.5rem 0;
 }
 
+.section-title {
+	@extend %section-title;
+	text-transform: uppercase;
+	margin-top: 0;
+}
 
 /*============================
 =            Copy            =

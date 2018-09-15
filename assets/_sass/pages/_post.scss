@@ -32,7 +32,7 @@
 
   &__content {
     max-width: $size-page-content-max-width;
-    margin: 0 auto;
+    margin: 0 auto 3rem;
     @extend %post-body;
 
     & > :not(&-overflow) {
@@ -62,6 +62,38 @@
     @include breakpoint('medium') {
       margin-bottom: 1rem;
       margin-left: 2rem;
+    }
+  }
+
+  &__footer {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap: 2rem;
+    max-width: $size-page-text-max-width;
+    margin: 0 auto;
+  }
+
+  &__references,
+  &__authors-full {
+    position: relative;
+    grid-column: span 2;
+    padding-top: 2rem;
+    
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 50%;
+      width: 100vw;
+      height: 1px;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      background-color: $color-silver;
+    }
+
+    p:last-of-type {
+      margin-bottom: 0;
     }
   }
 }
