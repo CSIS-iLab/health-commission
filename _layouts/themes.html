@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="post themes h-entry" role="content" itemscope itemtype="http://schema.org/BlogPosting">
+
+  {% include page-header.html %}
+  <section class="post__content e-content" itemprop="articleBody">
+    {{ content }}
+    In-Depth Overview Link
+  </section>
+  <footer class="post__footer" role="footer">
+    Further Reading
+    {% include post-references.html %}
+    <div class="themes__related-posts">Related Posts</div>
+  </footer>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
