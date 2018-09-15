@@ -5,7 +5,7 @@ excerpt: On August 6, 2018, the CSIS Commission on Strengthening America’s Hea
   Security hosted a public event on U.S. leadership in meeting the burgeoning health
   needs of vulnerable populations living in the midst of conflict and disorder.
 content_type: ''
-tags:
+keywords:
 - Public Event
 image: ''
 image_caption: ''
