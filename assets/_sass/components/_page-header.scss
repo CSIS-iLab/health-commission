@@ -29,12 +29,18 @@
     background-image: radial-gradient(circle at 52% 39%, rgba($color-white, 0) 8%, rgba($color-dark-blue-gray, 0.73));
   }
 
-  .wrapper {
+  &__wrapper {
+    @extend .wrapper;
     position: relative;
     z-index: 5;
+
+    @include breakpoint('medium') {
+      padding-right: calc(100% - #{$size-page-highlights-width});
+    }
   }
 
   &__title {
+    @extend %page-title;
     color: $color-white;
   }
 }
