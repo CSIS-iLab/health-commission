@@ -100,3 +100,14 @@ $breakpoint-xsmall: 25em;
         left: calc(100% - 1px);
     }
 }
+
+@mixin post-overflow-content($direction: right) {
+    $opposite: 'left';
+    @if $direction == left {
+        $opposite: 'right';
+    }
+    float: $direction;
+    max-width: $size-post-media-max-width;
+    margin-#{$direction}: 0;
+    margin-#{$opposite}: 2rem;
+}

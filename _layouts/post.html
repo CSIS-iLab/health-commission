@@ -5,21 +5,34 @@ layout: default
 
   {% include page-header.html %}
   <section class="post__header">
-    Excerpt<br />
-    Photo Credit<br />
-    Themes List<br />
-    From the Commission
+    <div class="post__header-meta">
+      {% if page.collection == 'posts' %}
+        <p class="post__excerpt">{{ page.excerpt | remove: '
+        <p>' | remove: '</p>' }}</p>
+      {% endif %}
+      {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+      Themes List
+    </div>
+    <div class="from-the-commission">
+      From the Commission (Replace entire div with include)
+    </div>
   </section>
   <section class="post__content e-content" itemprop="articleBody">
-    <strong>Note:</strong> Look at footnotes formatting
+    {% if page.collection == 'posts' and page.image.size > 0 %}
+    <figure class="post__feature-image post__content-overflow">
+      {% include cloudinary-responsive-img.html path=page.image title=page.image_caption alt=page.image_caption %}
+      {%- include img-caption.html desc=page.image_caption source=page.image_credit -%}
+    </figure>
+    {% endif %}
     {{ content }}
+    <strong>Note:</strong> Look at footnotes formatting
   </section>
   <footer class="post__footer" role="footer">
-    Tags<br />
-    Social Share<br />
-    References<br />
-    Authors Block<br />
-    Related Posts
+    <div class="post__tags">Tags Include</div>
+    <div class="share">Social Share Include</div>
+    {% include post-references.html %}
+    <div class="post__authors-full">Authors Block</div>
+    <div class="post__related-posts">Related Posts</div>
   </footer>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

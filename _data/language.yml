@@ -15,8 +15,8 @@ footer:
   Phone number: "(202) 887-0200"
   Email Address: GHPC@csis.org
 single_post:
-  From the Commission: The topics discussed on this page were informed by conversations
-    held by the CSIS Commission with experts and opinion leaders.
+  From the Commission: The topics discussed on this page were informed by conversations held by the CSIS Commission with experts and opinion leaders.
+  references: References
 events:
   Blurb: The CSIS Commission on Strengthening America’s Health Security aims to chart
     a bold vision for the future of U.S. leadership in global health security, at
@@ -83,3 +83,5 @@ home_page:
   Meet The Members: The CSIS Commission on Strengthening America’s Health Security
     brings together a distinguished and diverse group of high-level opinion leaders
     who bridge security and health.
+
+photo_credit: 'Photo Credit:'

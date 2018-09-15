@@ -1,14 +1,21 @@
 {% if page.image.size > 0 %}
-{% capture background_img %}
-style="background-image:url('{{ page.image | relative_url }}');"
-{% endcapture %}
+  {% include page-header-background-img.html image_url=page.image %}
+{% endif %}
+
+{% if page.collection == 'posts' and page.themes.size > 0 %}
+  {% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
+  {% if primary_theme.image.size > 0 %}
+    {% include page-header-background-img.html image_url=primary_theme.image %}
+  {% endif %}
 {% endif %}
 
 <header class="page-header" role="header" {{ background_img }}>
-{% if page.collection == 'posts' %}
-  {% include page-header-post.html %}
-{% else %}
-  <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}</h1>
-{% endif %}
-Page Highlights include goes here
+  <div class="page-header__wrapper">
+  {% if page.collection == 'posts' %}
+    {% include page-header-post.html %}
+  {% else %}
+    <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}</h1>
+  {% endif %}
+  Page Highlights include goes here
+  </div>
 </header>
