@@ -48,6 +48,28 @@ $color__text-main: $color-black;
 $color__border-input: $color-black;
 $color__border-abbr: $color-gray;
 
+$themes: (
+  global-disorder: (
+    $color-purple,
+    $color-dark-purple
+  ),
+  managing-biotechnology: (
+    $color-turquoise,
+    $color-dark-turquoise
+  ),
+  drug-resistance: (
+    $color-yellow,
+    $color-dark-yellow
+  ),
+  high-risk-disease-outbreaks: (
+    $color-orange,
+    $color-dark-orange
+  ),
+  developing-countermeasures: (
+    $color-brown,
+    $color-dark-brown
+  )
+);
 
 /*----------  Typography  ----------*/
 
