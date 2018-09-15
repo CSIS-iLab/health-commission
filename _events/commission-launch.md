@@ -6,7 +6,7 @@ excerpt: The CSIS Commission on Strengthening America’s Health Security offici
   of the Commission for its two-year life span.
 content_type: ''
 tags:
-- _keywords/commission-meeting.md
+- Commission Meeting
 image: ''
 image_caption: Commission Co-Chairs Kelly Ayotte (left) and Julie Gerberding at the
   April 17 Commission launch.

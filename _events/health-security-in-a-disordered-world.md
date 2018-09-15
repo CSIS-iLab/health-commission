@@ -6,7 +6,7 @@ excerpt: On August 6, 2018, the CSIS Commission on Strengthening America’s Hea
   needs of vulnerable populations living in the midst of conflict and disorder.
 content_type: ''
 tags:
-- _keywords/public-event.md
+- Public Event
 image: ''
 image_caption: ''
 image_credit: ''
