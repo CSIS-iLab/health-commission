@@ -34,13 +34,6 @@ sections:
   path: _data/keywords.yml
   label: Tags
 - type: directory
-  path: _keywords
-  label: Tags
-  create: all
-  match: "**/*"
-  templates:
-  - tags
-- type: directory
   path: _authors
   label: Authors
   create: all
