@@ -7,7 +7,10 @@ layout: default
   <section class="post__content e-content" itemprop="articleBody">
     <h2 class="section-title-lg">{{ site.data.language.single_post.quick_overview }}</h2>
     {{ content }}
-    In-Depth Overview Link
+    {% if page.in_depth_overview.size > 0 %}
+    {% assign overview_post = site.posts | where: "relative_path", page.in_depth_overview | first %}
+    <a href="{{ overview_post.url | relative_url }}" class="btn btn--gray themes__overview_btn">{{ site.data.language.single_post.themes_overview_btn }}</a>
+    {% endif %}
   </section>
   <footer class="post__footer" role="footer">
     {% include post-further-reading.html %}
