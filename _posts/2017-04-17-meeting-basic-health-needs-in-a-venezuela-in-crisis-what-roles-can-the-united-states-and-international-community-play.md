@@ -15,7 +15,7 @@ excerpt: Since 2014, Venezuela, which at one time enjoyed international recognit
 content_type: report
 series: ''
 themes:
-- _themes/protecting-health-security-in-the-face-of-global-disorder.md
+- _themes/global-disorder.md
 image: ''
 image_caption: ''
 image_credit: Getty Images

@@ -15,7 +15,7 @@ excerpt: Immunizations are one of the most effective and cost-effective health p
 content_type: report
 series: ''
 themes:
-- _themes/developing-effective-countermeasures.md
+- _themes/developing-countermeasures.md
 image: ''
 image_caption: ''
 image_credit: ''

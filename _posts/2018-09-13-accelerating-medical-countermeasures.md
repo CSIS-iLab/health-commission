@@ -5,7 +5,7 @@ authors: []
 excerpt: ''
 content_type: ''
 themes:
-- _themes/developing-effective-countermeasures.md
+- _themes/developing-countermeasures.md
 series: ''
 tags: []
 image: ''

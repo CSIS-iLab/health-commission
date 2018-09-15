@@ -5,7 +5,7 @@ authors: []
 excerpt: ''
 content_type: ''
 themes:
-- _themes/winning-the-fight-against-drug-resistance.md
+- _themes/drug-resistance.md
 series: ''
 tags: []
 image: ''

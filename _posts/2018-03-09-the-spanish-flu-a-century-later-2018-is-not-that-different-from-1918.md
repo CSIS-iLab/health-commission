@@ -16,7 +16,7 @@ content_type: commentary
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-- _themes/protecting-health-security-in-the-face-of-global-disorder.md
+- _themes/global-disorder.md
 image: "/uploads/Spanish-Flu-1.jpg"
 image_caption: ''
 image_credit: Getty Images

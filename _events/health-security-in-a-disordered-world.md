@@ -14,7 +14,7 @@ documents: []
 undefined: ''
 location: University of Washington, Seattle, WA
 themes:
-- _themes/protecting-health-security-in-the-face-of-global-disorder.md
+- _themes/global-disorder.md
 series: _series/access-to-critical-health-services-in-a-disordered-world.md
 links:
 - https://www.csis.org/events/health-security-disordered-world

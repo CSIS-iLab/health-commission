@@ -19,8 +19,8 @@ excerpt: Kee B. Park, Harvard Medical School Paul Farmer Global Surgery Scholar 
 content_type: commentary
 series: ''
 themes:
-- _themes/protecting-health-security-in-the-face-of-global-disorder.md
-- _themes/winning-the-fight-against-drug-resistance.md
+- _themes/global-disorder.md
+- _themes/drug-resistance.md
 image: ''
 image_caption: ''
 image_credit: ''

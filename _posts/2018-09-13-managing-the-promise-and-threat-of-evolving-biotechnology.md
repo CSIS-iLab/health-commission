@@ -5,7 +5,7 @@ authors: []
 excerpt: ''
 content_type: ''
 themes:
-- _themes/managing-the-risks-of-evolving-biotechnology.md
+- _themes/managing-biotechnology.md
 series: ''
 tags: []
 image: ''

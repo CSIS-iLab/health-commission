@@ -5,7 +5,7 @@ authors: []
 excerpt: ''
 content_type: ''
 themes:
-- _themes/protecting-health-security-in-the-face-of-global-disorder.md
+- _themes/global-disorder.md
 series: ''
 tags: []
 image: ''
