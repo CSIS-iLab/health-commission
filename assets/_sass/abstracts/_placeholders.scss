@@ -82,6 +82,7 @@
   @include font-size(14px);
   line-height: 1.43;
   letter-spacing: 0.8px;
+  text-transform: uppercase;
 }
 
 %footer-copyright {
@@ -253,6 +254,7 @@
 %pagination-item {
   font-family: $font-europa;
   @include font-size(16px);
+  text-transform: uppercase;
 }
 
 %photo-caption-credit {

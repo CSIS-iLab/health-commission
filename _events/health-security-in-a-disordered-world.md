@@ -4,14 +4,13 @@ date: 2018-08-07 02:20:52 +0000
 excerpt: On August 6, 2018, the CSIS Commission on Strengthening America’s Health
   Security hosted a public event on U.S. leadership in meeting the burgeoning health
   needs of vulnerable populations living in the midst of conflict and disorder.
-content_type: ''
+content_type: event
 keywords:
 - Public Event
 image: ''
 image_caption: ''
 image_credit: ''
 documents: []
-undefined: ''
 location: University of Washington, Seattle, WA
 themes:
 - _themes/global-disorder.md

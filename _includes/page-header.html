@@ -14,7 +14,7 @@
   {% if page.collection == 'posts' %}
     {% include page-header-post.html %}
   {% else %}
-    <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}</h1>
+  <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}{%- if page.permalink == '/search/' -%}: <span></span>{%- endif -%}</h1>
   {% endif %}
   Page Highlights include goes here
   </div>

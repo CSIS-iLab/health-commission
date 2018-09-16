@@ -68,6 +68,9 @@ defaults:
   values:
     layout: archive
     permalink: "/authors/:slug/"
+    use_algolia: true
+    algolia_facet: authors
+
 
 cloudinary_url: https://res.cloudinary.com/csisideaslab/image/upload/
 
