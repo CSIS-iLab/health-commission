@@ -10,12 +10,14 @@ import {
 import breakpoints from './breakpoints'
 
 const AlgoliaSearch = function() {
+  let searchParameters = {
+    hitsPerPage: 10
+  }
   let archiveEl = document.querySelector('.archive')
   let dataFacet = archiveEl.getAttribute('data-facet')
   let dataFacetValue = archiveEl.getAttribute('data-facet-value')
-  let facetFilters = ''
   if (dataFacet && dataFacetValue) {
-    facetFilters = `${dataFacet}: ${dataFacetValue}`
+    searchParameters.facetFilters = [`${dataFacet}: ${dataFacetValue}`]
   }
 
   let search = instantsearch({
@@ -23,10 +25,7 @@ const AlgoliaSearch = function() {
     apiKey: 'b9011cf7f49e60630161fcacf0e37d02',
     indexName: 'health-commission',
     urlSync: true,
-    searchParameters: {
-      hitsPerPage: 10,
-      facetFilters: [facetFilters]
-    }
+    searchParameters
   })
 
   search.addWidget(
@@ -74,6 +73,9 @@ const AlgoliaSearch = function() {
     search.addWidget(
       searchBox({
         container: '#search-input'
+        // queryHook: function(query, search) {
+        //   updateSearchTitle(query)
+        // }
       })
     )
 
@@ -131,9 +133,26 @@ const AlgoliaSearch = function() {
         clearsQuery: false
       })
     )
+
+    search.on('render', () => {
+      if (!search.searchParameters.query) {
+        return
+      }
+      updateSearchTitle(search.searchParameters.query)
+    })
   }
 
   search.start()
+}
+
+function updateSearchTitle(query) {
+  const queryText = document.querySelector('.page-header__title span')
+
+  if (!query) {
+    queryText.innerHTML = ''
+    return
+  }
+  queryText.innerHTML = query
 }
 
 export default AlgoliaSearch

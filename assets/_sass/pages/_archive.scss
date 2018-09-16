@@ -56,5 +56,56 @@
     max-width: $size-page-text-max-width;
     margin: 0 auto 3rem;
   }
+
+  &--search .page-header__title {
+    font-style: italic;
+
+    span {
+      font-style: normal;
+    }
+  }
+
+  &__search {
+    width: 100%;
+    padding-left: 2rem;
+    border: none;
+    border-bottom: 1px solid $color-dusty-lavender;
+    @extend %search-placeholder;
+    @include font-size(30px);
+  }
+
+  .ais-search-box {
+    position: relative;
+    margin: 3rem 0 2rem;
+
+    .ais-search-box--magnifier-wrapper {
+      position: absolute;
+      top: 9px;
+      left: 0;
+    }
+    .ais-search-box--magnifier {
+      max-width: 20px;
+
+      path {
+        fill: $color-dust;
+      }
+    }
+
+    .ais-search-box--reset-wrapper {
+      position: absolute;
+      top: 12px;
+      right: 0;
+    }
+
+    .ais-search-box--reset {
+      background-color: transparent;
+      border: none;
+      max-width: 30px;
+
+      path {
+        fill: $color-dust;
+      }
+    }
+  }
 }
 
