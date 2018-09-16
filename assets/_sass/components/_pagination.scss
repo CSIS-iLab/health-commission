@@ -1,0 +1,235 @@
+/*==================================
+=            Pagination            =
+==================================*/
+
+$filter-transition: 0.4s ease-in-out;
+
+.pagination {
+  $space-around: 2rem;
+  $padding-top: $space-around / 2;
+
+  &__stats {
+    position: relative;
+    @extend %section-title;
+    text-transform: uppercase;
+    margin-top: 2rem;
+
+    @include breakpoint('medium') {
+      margin-top: 0;
+    }
+
+    &::after {
+      content: '';
+      display: block;
+      position: relative;
+      left: -1rem;
+      right: -1rem;
+      width: calc(100% + 2rem);
+      height: 1px;
+      background-color: $color-dusty-lavender;
+
+      @include breakpoint('medium') {
+        left: 0;
+        right: 0;
+        width: 100%;
+        background-color: $color-gray;
+      }
+    }
+  }
+
+  &__filters {
+    display: flex;
+    flex-direction: column;
+
+    @include breakpoint('medium') {
+      flex-direction: row;
+    }
+  }
+
+  &__themes,
+  &__content-type {
+    @extend %filter-labels;
+    position: relative;
+    background-color: $color-light-gray;
+    @include fullWidthBackground($color-light-gray);
+
+    @include breakpoint('medium') {
+      background-color: transparent;
+      margin-right: $space-around;
+      padding-right: $space-around;
+
+      &::before,
+      &::after {
+        display: none;
+      }
+    }
+
+    .ais-root {
+      position: relative;
+      transition: background-color $filter-transition;
+
+      .ais-header {
+        transition: padding $filter-transition;
+      }
+
+      &:not(.ais-root__collapsed) {
+        background-color: $color-light-gray;
+
+        .ais-header {
+          @include breakpoint('medium') {
+            padding-right: 0.5rem;
+            padding-left: 0.5rem; 
+          }
+
+          &::after {
+            transform: rotate(90deg);
+
+            @include breakpoint('medium') {
+              transform: rotate(-180deg);
+            }
+          }
+        }
+
+        .ais-body {
+          visibility: visible;
+          opacity: 1;
+        }
+      }
+    }
+
+    .ais-header {
+      padding: $padding-top 0;
+
+      @include breakpoint('medium') {
+        padding-bottom: 0;
+      }
+
+      &::after {
+        content: '\e803';
+        font-family: 'healthcom';
+        color: $color-dust;
+        display: inline-block;
+        margin-left: 5px;
+        transition: transform $filter-transition;
+
+        @include breakpoint('medium') {
+          content: '\e806';
+        }
+      }
+    }
+
+    .ais-body {
+      position: absolute;
+      top: 100%;
+      left: -1rem;
+      right: -1rem;
+      display: block;
+      visibility: hidden;
+      opacity: 0;
+      z-index: 10;
+      padding: 0 0 1rem;
+      background-color: $color-light-gray;
+      text-transform: none;
+      transition: opacity $filter-transition, visibility $filter-transition, background-color $filter-transition;
+
+      @include breakpoint('medium') {
+        left: 0;
+        right: 0;
+        padding-bottom: 0.5rem;
+      }
+    }
+
+    .ais-refinement-list--item {
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      transition: all 0.3s ease-in-out;
+
+      @include breakpoint('medium') {
+        padding: 0.5rem;
+      }
+
+      &:hover {
+        color: $color-dark-sand;
+      }
+
+      &__active {
+        font-weight: bold;
+        color: $color-black;
+      }
+    }
+  }
+
+  &__themes {
+    margin-bottom: 0.5rem;
+    @include breakpoint('medium') {
+      flex: 0 0 18%;
+      margin-bottom: 0;
+      padding-right: 0;
+      border-right: 1px solid $color-dusty-lavender;
+    }
+  }
+
+  &__content-type {
+    @include breakpoint('medium') {
+      flex: 1 1 auto;
+
+      .ais-root:not(.ais-root__collapsed) {
+        background-color: transparent;
+      }
+
+      .ais-header {
+        display: none;
+      }
+
+      .ais-body {
+        position: static;
+        padding-top: $padding-top;
+        padding-bottom: 0;
+        background-color: transparent;
+        text-transform: uppercase;
+      }
+
+      .ais-refinement-list--list {
+        display: flex;
+      }
+
+      .ais-refinement-list--item {
+        margin-right: $space-around;
+        padding: 0;
+      }
+
+    }
+  }
+
+  &__content-type-clear {
+    display: none;
+
+    @include breakpoint('medium') {
+      display: block;
+      margin-right: 0;
+      max-width: fit-content;
+    }
+  }
+
+  &__clear-all {
+    flex: 1 1 auto;
+    padding-top: $padding-top;
+    @extend %filter-labels;
+    text-transform: none;
+    text-align: center;
+
+    @include breakpoint('medium') {
+      margin-left: $space-around;
+      text-align: right;
+    }
+
+    a {
+      color: $color-dusty-lavender;
+
+      &:hover {
+        color: $color-dark-sand;
+      }
+    }
+  }
+}
+

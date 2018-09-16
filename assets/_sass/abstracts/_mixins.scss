@@ -93,11 +93,11 @@ $breakpoint-xsmall: 25em;
     }
 
     &::before {
-        right: calc(100% - 1px);
+        right: 100%;
     }
 
     &::after {
-        left: calc(100% - 1px);
+        left: 100%;
     }
 }
 

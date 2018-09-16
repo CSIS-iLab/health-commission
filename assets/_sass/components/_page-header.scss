@@ -9,6 +9,7 @@
   min-height: 600px;
   margin-bottom: calculate-rem(24px);
   padding: 3rem 0 calculate-rem(24px);
+  background-color: $color-slate;
   background-repeat: no-repeat;
   background-position: center center;
 
@@ -27,6 +28,10 @@
     width: 100%;
     height: 100%;
     background-image: radial-gradient(circle at 52% 39%, rgba($color-white, 0) 8%, rgba($color-dark-blue-gray, 0.73));
+
+    .archive & {
+      background-image: radial-gradient(circle at 52% 43%, rgba($color-white, 0) 8%, rgba($color-dark-blue-gray, 0.73));
+    }
   }
 
   &__wrapper {

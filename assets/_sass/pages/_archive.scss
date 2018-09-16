@@ -9,6 +9,8 @@
   }
 
   &__header {
+    display: flex;
+    flex-direction: column;
 
     .post__header-meta {
       position: relative;
@@ -30,6 +32,22 @@
         @extend %body-text;
         font-style: normal;
         margin-bottom: 0;
+      }
+    }
+
+    .pagination__stats {
+      order: 4;
+
+      @include breakpoint('medium') {
+        order: 3;
+      }
+    }
+
+    .pagination__filters {
+      order: 3;
+
+      @include breakpoint('medium') {
+        order: 4;
       }
     }
   }
