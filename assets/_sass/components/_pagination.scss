@@ -14,11 +14,7 @@ $filter-transition: 0.4s ease-in-out;
     text-transform: uppercase;
     margin-top: 2rem;
 
-    @include breakpoint('medium') {
-      margin-top: 0;
-    }
-
-    &::after {
+    &:not(:empty)::after {
       content: '';
       display: block;
       position: relative;
