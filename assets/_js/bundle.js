@@ -1,1 +1,5 @@
-console.log('Welcome to the CSIS Jekyll Starter kit.')
+import AlgoliaSearch from './algolia-search'
+
+window.addEventListener('DOMContentLoaded', () => {
+  AlgoliaSearch()
+})
