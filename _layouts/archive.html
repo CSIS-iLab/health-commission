@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="archive archive--{{ page.title | slugify }}" role="content" itemscope itemtype="http://schema.org/BlogPosting">
+
+  {% include page-header.html %}
+  <section class="archive__header">
+    <div class="post__header-meta">
+      <p class="post__excerpt">{{ page.excerpt | remove: '
+        <p>' | remove: '</p>' }}</p>
+    </div>
+    {{ excerpt }}
+    Pagination<br />
+      Search Filtering
+  </section>
+  <section class="archive__content e-content" itemprop="articleBody">
+
+    {% if page.post_list_collection == 'all' %}
+    {% assign posts = site.posts | concat: site.events %}
+    {% else %}
+    {% assign posts = site[page.post_list_collection] %}
+    {% endif %}
+
+    {%- for post in posts -%}
+      {% include post-block.html %}
+    {%- endfor -%}
+  </section>
+  <footer class="archive__footer" role="footer">
+    Pagination
+  </footer>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

@@ -7,7 +7,7 @@ short_title: Kaiser Family Foundation
 long_title: Vice President and Director of Global Health & HIV Policy, Kaiser Family
   Foundation
 has_photo: true
-short_bio: "**Jennifer Kates** is Vice President and Director of Global Health & HIV
+excerpt: "**Jennifer Kates** is Vice President and Director of Global Health & HIV
   Policy at the Kaiser Family Foundation, where she oversees the Foundation’s policy
   analysis and research focused on the U.S. government’s role in global health and
   on the global and domestic HIV epidemics."

@@ -26,6 +26,7 @@
     }
   }
 
+  &__header-meta p,
   &__excerpt {
     @extend %post-intro;
   }

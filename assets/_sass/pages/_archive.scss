@@ -1,0 +1,42 @@
+/*===============================
+=            Archive            =
+===============================*/
+
+.archive {
+  .page-header {
+    margin-bottom: 0;
+    min-height: 400px;
+  }
+
+  &__header {
+
+    .post__header-meta {
+      position: relative;
+      background-color: $color-light-gray;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+      @include fullWidthBackground($color-light-gray);
+
+      @include breakpoint('medium') {
+        background-color: transparent;
+
+        &::before,
+        &::after {
+          display: none;
+        }
+      }
+
+      p {
+        @extend %body-text;
+        font-style: normal;
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  &__content {
+    max-width: $size-page-text-max-width;
+    margin: 0 auto 3rem;
+  }
+}
+
