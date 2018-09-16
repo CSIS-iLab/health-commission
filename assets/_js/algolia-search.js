@@ -18,8 +18,6 @@ const AlgoliaSearch = function() {
     facetFilters = `${dataFacet}: ${dataFacetValue}`
   }
 
-  console.log(facetFilters)
-
   let search = instantsearch({
     appId: '7UNKAH6RMH',
     apiKey: 'b9011cf7f49e60630161fcacf0e37d02',
@@ -63,7 +61,12 @@ const AlgoliaSearch = function() {
 
   search.addWidget(
     pagination({
-      container: '#pagination'
+      container: '#pagination',
+      showFirstLast: false,
+      labels: {
+        previous: '<i class="icon-arrow-left"></i>Previous',
+        next: 'Next<i class="icon-arrow-right"></i>'
+      }
     })
   )
 

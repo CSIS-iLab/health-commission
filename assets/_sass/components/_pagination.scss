@@ -227,5 +227,61 @@ $filter-transition: 0.4s ease-in-out;
       }
     }
   }
+
+  &__pagination {
+    margin-bottom: 3rem;
+
+    &:not(:empty)::before {
+      content: '';
+      display: block;
+      position: relative;
+      left: -1rem;
+      right: -1rem;
+      width: calc(100% + 2rem);
+      height: 1px;
+      background-color: $color-dusty-lavender;
+
+      @include breakpoint('medium') {
+        left: 0;
+        right: 0;
+        width: 100%;
+        background-color: $color-gray;
+      }
+    }
+
+    .ais-pagination {
+      margin: 0;
+      padding: 0;
+    }
+
+    .ais-pagination--item {
+      margin: 0 1rem 0 0;
+      @extend %pagination-item;
+      color: $color-warm-gray;
+
+      a,
+      a:visited {
+        color: $color-warm-gray;
+      }
+
+      a:hover {
+        color: $color-dark-sand;
+      }
+
+      &__active a,
+      &__active a:visited {
+        color: $color-black;
+        font-weight: bold;
+      }
+
+      &__disabled {
+        display: none;
+      }
+
+      i::before {
+        width: auto;
+      }
+    }
+  }
 }
 
