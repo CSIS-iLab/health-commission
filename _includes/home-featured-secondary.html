@@ -4,6 +4,5 @@
 {% assign post = site.posts | where: 'relative_path', posts | first %}
   {% include post-block.html %}
 {% endfor %}
-<a href="/articles/" class="btn" aria-label="site.data.language.home.articles_btn_aria_label">{{ site.data.language.home.articles_btn | escape }}</a>
 </section>
 {% endif %}

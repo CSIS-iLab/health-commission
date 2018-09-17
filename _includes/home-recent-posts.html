@@ -1,3 +1,6 @@
+<section class="home__recent-header">
+  <h3 class="section-title-lg">{{ site.data.language.home.recent_header | escape }}</h3>
+</section>
 <section class="home__recent-posts">
 {% for post in site.posts limit: 3 %}
   {% include post-block.html hide_excerpt=true %}

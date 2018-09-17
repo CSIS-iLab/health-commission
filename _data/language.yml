@@ -84,8 +84,10 @@ home:
   commission_btn_aria_label: View list of all Commission Members
   events_header: Recent Developments
   series_header: Ongoing Series
+  articles_header: Featured Articles
   articles_btn: List All Articles
   articles_btn_aria_label: View list of all Articles
+  recent_header: Latest Articles
   themes_header: Guiding Themes
   themes_desc: Click on a theme in the list below to view details and related content.
 

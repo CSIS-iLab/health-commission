@@ -2,17 +2,53 @@
 =            Home Page            =
 =================================*/
 .home {
+  $breakpoint-desktop: 68em;
   $padding: 2rem;
   display: grid;
 
+  grid-template-rows: minmax(400px, auto) repeat(4, auto);
+  grid-template-columns: auto;
+  grid-template-areas:
+    "hero"
+    "desc"
+    "commission-img"
+    "commission-desc"
+    "featured-header"
+    "featured-primary"
+    "featured-secondary"
+    "recent-header"
+    "recent-posts"
+    "articles-btn"
+    "events-series"
+    "themes"
+    "themes-img";
+
   @include breakpoint('medium') {
-    grid-template-rows: minmax(515px, auto) repeat(4, auto);
+    grid-template-rows: minmax(515px, auto) repeat(5, auto);
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+      "hero hero"
+      "desc desc"
+      "commission-img commission-desc "
+      "featured-header featured-header"
+      "featured-primary featured-primary"
+      "featured-secondary featured-secondary"
+      "recent-header recent-header"
+      "recent-posts recent-posts"
+      "articles-btn articles-btn"
+      "events-series events-series"
+      "themes themes"
+      "themes-img themes-img";
+  }
+
+  @include breakpoint($breakpoint-desktop) {
     grid-template-columns: repeat(4, 1fr);
     grid-template-areas:
       "hero hero hero hero"
       "desc desc featured-primary featured-primary"
       "commission-img commission-desc featured-primary featured-primary"
       "events-series featured-secondary featured-secondary recent-posts"
+      "events-series articles-btn articles-btn recent-posts"
       "themes themes themes-img themes-img";
   }
 
@@ -33,33 +69,42 @@
     }
 
     &-subtitle {
-      font-family: $font-europa;
-      @include font-size(32px);
-      letter-spacing: 1.8px;
+      @extend %post-meta;
       text-transform: uppercase;
+
+      @include breakpoint('medium') {
+        @include font-size(32px);
+        letter-spacing: 1.8px;
+      }
     }
 
     &-title {
-      padding-right: 33%;
-      font-family: $font-georgia;
-      @include font-size(72px);
-      line-height: 1.21;
+      @extend %page-title;
+
+      @include breakpoint('medium') {
+        padding-right: 33%;
+        @include font-size(72px);
+        line-height: 1.21; 
+      }
     }
 
     .home__map {
-      position: absolute;
+      position: relative;
       z-index: 1;
-      top: 0;
-      left: 50%;
-      right: 50%;
-      width: 100vw;
-      height: 100%;
-      margin-left: -50vw;
-      margin-right: -50vw;
-      text-align: right;
+      @extend %full-width-content;
+      text-align: center;
+
+      @include breakpoint('medium') {
+        position: absolute;
+        z-index: 1;
+        text-align: right;
+      }
 
       svg {
-        height: 490px;
+
+        @include breakpoint($breakpoint-desktop) {
+          height: 490px;
+        }
       }
     }
   }
@@ -67,34 +112,89 @@
   &__desc {
     grid-area: desc;
     position: relative;
-    margin-top: -4rem;
+    padding-top: $padding;
+    padding-bottom: $padding;
     background-color: $color-darkest-blue;
     @extend %post-body;
     color: $color-white;
-    @include fullWidthBackground($color-darkest-blue, left);
+    @include fullWidthBackground($color-darkest-blue);
 
-    @include breakpoint('medium') {
+    @include breakpoint($breakpoint-desktop) {
+      margin-top: -4rem;
+      padding-top: 0;
       padding-right: $size-wrapper-padding;
-      padding-bottom: $padding;
+
+      &::after {
+        display: none;
+      }
     }
   }
 
   &__commission-img {
     grid-area: commission-img;
     position: relative;
+    min-height: 220px;
+    background-color: $color-off-white;
+    background-image: url('https://via.placeholder.com/600x600');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    @extend %full-width-content;
 
     @include breakpoint('medium') {
+      width: 50vw;
+    }
+
+    @include breakpoint($breakpoint-desktop) {
+      width: unset;
+      left: unset;
+      right: unset;
+      margin-left: 0;
+      margin-right: 0;
       @include fullWidthBackground($color-off-white, left);
     }
   }
 
   &__commission-desc {
     grid-area: commission-desc;
+    position: relative;
     background-color: $color-off-white;
-    padding: $padding;
+    padding: $padding 0;
+    @include fullWidthBackground($color-off-white);
+
+    @include breakpoint('medium') {
+      padding: $padding;
+
+      &::before {
+        display: none;
+      }
+
+      &::after {
+        width: calc((100vw - 100%) / 2 - 50%);
+      }
+    }
+
+    @include breakpoint($breakpoint-desktop) {
+      &::after {
+        display: none;
+      }
+    }
 
     p {
       margin-bottom: 2rem;
+    }
+  }
+
+  &__featured-header {
+    grid-area: featured-header;
+
+    .section-title-lg {
+      margin: $padding 0 0.5rem;
+      text-align: center;
+    }
+
+    @include breakpoint('medium') {
+      display: none;
     }
   }
 
@@ -103,10 +203,20 @@
     position: relative;
     display: flex;
     align-items: flex-end;
+    min-height: 350px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    @include fullWidthBackground($color-darkest-blue, right);
+    @extend %full-width-content;
+
+    @include breakpoint($breakpoint-desktop) {
+      width: unset;
+      left: unset;
+      right: unset;
+      margin-left: 0;
+      margin-right: 0;
+      @include fullWidthBackground($color-darkest-blue, right);
+    }
 
     &::before {
       content: '';
@@ -126,12 +236,20 @@
       z-index: 10;
       width: 100%;
       margin: 0;
-      padding: $padding;
+      padding: $size-wrapper-padding-mobile;
       color: $color-white;
 
+      @include breakpoint('medium') {
+        padding: $padding;
+      }
+
       &__title {
-        @include font-size(39px);
-        line-height: 1.31;
+        @extend %archive-post-title-featured;
+
+        @include breakpoint('medium') {
+          @include font-size(39px);
+          line-height: 1.31;
+        }
 
         a {
           color: $color-white;
@@ -146,9 +264,12 @@
     padding: $padding $padding $padding 0;
     background-color: $color-dust;
     color: $color-white;
+    @include fullWidthBackground($color-dust);
 
-    @include breakpoint('medium') {
-      @include fullWidthBackground($color-dust, left);
+    @include breakpoint($breakpoint-desktop) {
+      &::after {
+        display: none;
+      }
     }
 
     .home__featured-events {
@@ -212,10 +333,17 @@
 
   &__featured-secondary {
     grid-area: featured-secondary;
-    padding: $padding;
+    padding: $padding 0;
+
+    @include breakpoint($breakpoint-desktop) {
+     padding: $padding; 
+    }
 
     .post-block {
-      border-top: 0;
+
+      @include breakpoint($breakpoint-desktop) {
+        border-top: 0;
+      }
 
       &:first-of-type {
         margin-top: 0;
@@ -225,26 +353,62 @@
         @extend %post-block-post-title-featured;
       }
     }
+  }
 
-    .btn {
-      float: right;
-      margin: $padding;
+  &__recent-header {
+    grid-area: recent-header;
+
+    &::before {
+      content: '';
+      display: block;
+      position: relative;
+      top: 0;
+      left: $size-wrapper-padding-mobile * -1;
+      right: $size-wrapper-padding-mobile * -1;
+      width: calc(100% + #{$size-wrapper-padding-mobile} * 2);
+      height: 1px;
+      background-color: $color-dusty-lavender;
+    }
+
+    .section-title-lg {
+      margin: $padding 0 0;
+      text-align: center;
+    }
+
+    @include breakpoint($breakpoint-desktop) {
+      display: none;
     }
   }
 
   &__recent-posts {
     grid-area: recent-posts;
-    padding: $padding;
+    padding: $padding 0;
     clear: both;
 
+    @include breakpoint($breakpoint-desktop) {
+      padding: $padding;
+    }
+
     .post-block {
-      margin-top: 1rem;
-      padding-top: 1rem;
+      @include breakpoint($breakpoint-desktop) {
+        margin-top: 1rem;
+        padding-top: 1rem;
+      }
 
       &:first-of-type {
-        border-top: 1px solid $color-silver;
+        margin-top: 0;
+        padding-top: 0;
+        @include breakpoint($breakpoint-desktop) {
+         border-top: 1px solid $color-silver; 
+        }
       }
     }
+  }
+
+  &__articles-btn {
+    grid-area: articles-btn;
+    text-align: center;
+    padding: 0 $padding $padding;
   }
 
   &__themes {
@@ -252,9 +416,12 @@
     position: relative;
     padding: $padding $padding $padding 0;
     background-color: $color-off-white;
+    @include fullWidthBackground($color-off-white);
 
-    @include breakpoint('medium') {
-      @include fullWidthBackground($color-off-white, left);
+    @include breakpoint($breakpoint-desktop) {
+      &::after {
+        display: none;
+      }
     }
 
     .section-title-lg {
@@ -272,20 +439,25 @@
     }
 
     li {
+      position: relative;
       margin-bottom: 0.5rem;
 
       &::before {
         content: '';
-        display: inline-block;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
         width: 1.75rem;
-        height: 1rem;
-        margin-right: 0.5rem;
         transition: background-color 0.3s ease-in-out;
       }
 
       a {
         display: inline-block;
-        @extend %header-nav-link;
+        margin-left: 2.5rem;
+        font-family: $font-europa;
+        @include font-size(16px);
         color: $color-black;
       }
 
@@ -313,6 +485,23 @@
 
   &__themes-img {
    grid-area: themes-img;
+   position: relative;
+   min-height: 280px;
+   background-color: $color-off-white;
+    background-image: url('https://via.placeholder.com/600x600');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    @extend %full-width-content;
+
+    @include breakpoint($breakpoint-desktop) {
+      width: unset;
+      left: unset;
+      right: unset;
+      margin-left: 0;
+      margin-right: 0;
+      @include fullWidthBackground($color-off-white, right);
+    }
   }
 }
 

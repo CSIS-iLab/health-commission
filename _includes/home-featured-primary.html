@@ -1,4 +1,7 @@
 {% if page.featured_post_primary %}
+<section class="home__featured-header">
+  <h3 class="section-title-lg">{{ site.data.language.home.articles_header | escape }}</h3>
+</section>
 {% for posts in page.featured_post_primary limit: 1 %}
 {% assign post = site.posts | where: 'relative_path', posts | first %}
 {% if post.image.size > 0 %}

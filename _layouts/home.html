@@ -11,9 +11,7 @@ layout: default
   <section class="home__desc">
     {{ content }}
   </section>
-  <section class="home__commission-img">
-    Commission Img
-  </section>
+  <section class="home__commission-img"></section>
   <section class="home__commission-desc">
     <p>{{ page.commission_desc }}</p>
     <a href="" class="btn btn--dark-gray" aria-label="site.data.language.home.commission_btn_aria_label">{{ site.data.language.home.commission_btn | escape }}</a>
@@ -25,8 +23,9 @@ layout: default
   </section>
   {% include home-featured-secondary.html %}
   {% include home-recent-posts.html %}
-  {% include home-themes.html %}
-  <section class="home__themes-img">
-    Themes Image
+  <section class="home__articles-btn">
+    <a href="/articles/" class="btn btn--dark-gray" aria-label="site.data.language.home.articles_btn_aria_label">{{ site.data.language.home.articles_btn | escape }}</a>
   </section>
+  {% include home-themes.html %}
+  <section class="home__themes-img"></section>
 </div>
