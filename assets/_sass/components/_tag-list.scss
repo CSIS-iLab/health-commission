@@ -5,16 +5,18 @@
 .tag-list {
 
     ul {
+      @extend %tag;
       list-style-type: none;
-      margin: 0;
-      padding: 0;
-      justify-content: space-between;
+      margin: 0.3em;
       display: flex;
 
       li {
+        background-color: $color-beige;
         display: inherit;
         margin: 0;
+        padding: .2em;
         text-align: center;
+        text-transform: uppercase;
       }
     }
 
@@ -22,5 +24,13 @@
       width: 20px;
       height: 20px;
       background-color: black;
+    }
+
+    &__title {
+      @extend %btn;
+      text-transform: uppercase;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
     }
 }
