@@ -1,13 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+commission_desc: The CSIS Commission on Strengthening America’s Health Security brings together a distinguished and diverse group of high-level opinion leaders who bridge security and health.
+featured_post_primary: _posts/2018-02-14-welcome-to-jekyll.markdown
+featured_post_secondary:
+  - _posts/2018-09-14-opportunities-for-health-diplomacy-in-north-korea.md
+  - _posts/2018-09-14-ebola-in-america-epidemic-of-fear.md
+featured_events:
+  - _events/commission-launch.md
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The CSIS Commission on Strengthening America’s Health Security aims to chart a bold vision for the future of U.S. leadership in global health security, at home and abroad. Recent events demonstrate the growing linkages between global health challenges and U.S. national security interests. We see an emerging recognition of the need for a stronger, more coherent, better integrated, and more reliably sustained U.S. approach to health security. The Commission offers the opportunity to build a pragmatic, actionable consensus.

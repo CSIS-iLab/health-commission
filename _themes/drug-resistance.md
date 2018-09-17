@@ -1,8 +1,9 @@
 ---
-title: Winning the Fight Against DRUG RESISTANCE
+title: Winning the Fight Against Drug Resistance
 date: 2018-09-13 02:45:20 +0000
+long_title_formatted: "Winning the Fight Against **DRUG RESISTANCE**"
 short_title: Drug Resistance
-short_description: Antimicrobial drug resistance is a complex, long-range global crisis
+excerpt: Antimicrobial drug resistance is a complex, long-range global crisis
   threatening the foundations on which modern medicine is built.
 image: ''
 image_caption: ''

@@ -1,8 +1,9 @@
 ---
-title: Protecting HEALTH SECURITY IN the Face of GLOBAL DISORDER
+title: Protecting Health Security in the Face of Global Disorder
 date: 2018-09-13 02:47:44 +0000
+long_title_formatted: "Protecting **HEALTH SECURITY IN** the Face of **GLOBAL DISORDER**"
 short_title: Global Disorder
-short_description: The reality of the disordered world demands U.S. leadership and
+excerpt: The reality of the disordered world demands U.S. leadership and
   action to ensure health security.
 image: ''
 image_caption: ''

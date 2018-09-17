@@ -1,8 +1,9 @@
 ---
-title: MANAGING the Risks of Evolving BIOTECHNOLOGY
+title: Managing the Risks of Evolving Biotechnology
 date: 2018-09-13 02:46:03 +0000
+long_title_formatted: "**MANAGING** the Risks of Evolving **BIOTECHNOLOGY**"
 short_title: Managing Biotechnology
-short_description: Biotechnology is moving swiftly and holds the potential to revolutionize
+excerpt: Biotechnology is moving swiftly and holds the potential to revolutionize
   many fields if properly managed.
 image: https://via.placeholder.com/2000x800
 image_caption: Photo caption goes here

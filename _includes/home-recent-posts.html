@@ -1,0 +1,5 @@
+<section class="home__recent-posts">
+{% for post in site.posts limit: 3 %}
+  {% include post-block.html hide_excerpt=true %}
+{% endfor %}
+</section>

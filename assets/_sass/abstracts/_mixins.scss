@@ -80,14 +80,15 @@ $breakpoint-xsmall: 25em;
 }
 
 // Extend Background to full width of window
-@mixin fullWidthBackground ( $background ) {
+@mixin fullWidthBackground ( $background, $direction: '' ) {
+    $width_forumula: calc((100vw - 100%) / 2);
     &::before,
     &::after {
         content: "";
         display: block;
         position: absolute;
         top: 0;
-        width: calc((100vw - 100%) / 2);
+        width: $width_forumula;
         height: 100%;
         background-color: $background;
     }
@@ -98,6 +99,22 @@ $breakpoint-xsmall: 25em;
 
     &::after {
         left: 100%;
+    }
+
+    @if $direction == left {
+        &::before {
+            width: calc(#{$width_forumula} - 50%);
+        }
+        &::after {
+            display: none;
+        }
+    } @else if $direction == right {
+        &::after {
+            width: calc(#{$width_forumula} - 50%);
+        }
+       &::before {
+        display: none;
+       }
     }
 }
 

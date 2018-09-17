@@ -1,0 +1,19 @@
+{% if page.featured_events.size > 0 %}
+<section class="home__featured-events">
+  <h3 class="section-title-lg">{{ site.data.language.home.events_header | escape }}</h3>
+{% for posts in page.featured_events limit: 1 %}
+{% assign post = site.events | where: 'relative_path', posts | first %}
+  <article class="post-block" role="article" data-content-type="{{ post.content_type }}">
+    <header class="post-block__header" role="header">
+      <i class="icon-cal"></i>Publish Date
+      <h2 class="post-block__title"><a href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a></h2>
+    </header>
+      <main class="post-block__content" role="main">
+        <p>{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+      </main>
+  </article>
+{% endfor %}
+</section>
+{% endif %}
