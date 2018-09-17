@@ -3,19 +3,36 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-      {%- for post in site.posts -%}
-        {% include post-block.html %}
-      {%- endfor -%}
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
+  <section class="home__title">
+    Site Title<br />
+    SVG
+  </section>
+  <section class="home__desc">
+    {{ content }}
+  </section>
+  <section class="home__commission-img">
+    Commission Img
+  </section>
+  <section class="home__commission-desc">
+    Commission Desc
+  </section>
+  <section class="home__featured-primary">
+    Primary Featured Image
+  </section>
+  <section class="home__recent-developments">
+    Recent Developments<br />
+    Series List
+  </section>
+  <section class="home__featured-secondary">
+    Secondary Featured Posts
+  </section>
+  <section class="home__most-recent">
+    Latest posts
+  </section>
+  <section class="home__themes">
+    Guiding Themes
+  </section>
+  <section class="home__themes-img">
+    Themes Image
+  </section>
 </div>

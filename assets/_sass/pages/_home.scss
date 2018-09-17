@@ -1,0 +1,64 @@
+/*=================================
+=            Home Page            =
+=================================*/
+.home {
+  display: grid;
+
+  @include breakpoint('medium') {
+    grid-template-rows: 500px 300px 275px 725px 385px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas:
+      "title title title title"
+      "desc desc featured-primary featured-primary"
+      "commission-img commission-desc featured-primary featured-primary"
+      "recent-developments featured-secondary featured-secondary most-recent"
+      "themes themes themes-img themes-img";
+  }
+
+  section {
+    background-color: gray;
+    border: 1px solid black;
+  }
+
+  &__title {
+    grid-area: title;
+  }
+
+  &__desc {
+    grid-area: desc;
+    margin-top: -4rem;
+  }
+
+  &__commission-img {
+    grid-area: commission-img;
+  }
+
+  &__commission-desc {
+    grid-area: commission-desc;
+  }
+
+  &__featured-primary {
+    grid-area: featured-primary;
+  }
+
+  &__recent-developments {
+    grid-area: recent-developments;
+  }
+
+  &__featured-secondary {
+    grid-area: featured-secondary;
+  }
+
+  &__most-recent {
+    grid-area: most-recent;
+  }
+
+  &__themes {
+    grid-area: themes;
+  }
+
+  &__themes-img {
+   grid-area: themes-img;
+  }
+}
+
