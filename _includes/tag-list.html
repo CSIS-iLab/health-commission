@@ -1,16 +1,11 @@
 {% if page.keywords.size > 0 %}
 
-  <div class="tag-list">
-        <ul>
-          {% for tag in page.keywords %}
-            {% assign keywords_list = page.keywords | map: 'keywords' %}
-              <div="tag-list__box">
-      	    	  <li><a href="{{ keyword_info[0].url }}">{{ keyword_list }}</a></li>
-              </div>
-              {{ page.keywords }}
-          {% endfor %}
-        </ul>
-
-  </div>
+    <div class="tag-list">
+      <ul>
+        {% for tag in page.keywords %}
+        	  <li class="tag-list__tag">{{ tag }}</li>
+        {% endfor %}
+      </ul>
+    </div>
 
 {% endif %}
