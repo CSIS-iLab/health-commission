@@ -1,0 +1,66 @@
+/*==================================
+=       Social Share Icons         =
+==================================*/
+
+.share {
+    $s: &;
+    display: flex;
+    padding: .5rem;
+
+    &__text {
+        @extend %btn;
+        text-transform: uppercase;
+        padding-bottom:.2rem;
+    }
+
+    ul {
+        list-style-type: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+        padding: 0;
+
+        li {
+            display: inherit;
+            margin: 0;
+            padding-right: 0.1rem;
+            text-align: center;
+            line-height: 1;
+
+            i {
+                font-size: 1.3rem;
+            }
+        }
+    }
+
+    .page-header & {
+
+        #{$s}__text {
+            color: $color-white;
+        }
+
+        i {
+            color: $color-beige;
+
+            &:hover {
+                color: $color-white;
+            }
+        }
+    }
+
+    .post__footer & {
+
+        #{$s}__text {
+            color: $color-black;
+        }
+
+        i {
+            color: $color-dust;
+
+            &:hover {
+                color: $color-dark-sand;
+            }
+        }
+    }
+
+}
