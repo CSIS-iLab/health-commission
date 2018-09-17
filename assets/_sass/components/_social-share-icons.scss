@@ -3,10 +3,19 @@
 ==================================*/
 
 .share {
+<<<<<<< HEAD
     $s: &;
+=======
+  display: flex;
+  margin: 0.2em 0;
+
+  ul {
+    list-style-type: none;
+>>>>>>> imported sass
     display: flex;
     padding: .5rem;
 
+<<<<<<< HEAD
     &__text {
         @extend %btn;
         text-transform: uppercase;
@@ -26,6 +35,11 @@
             padding-right: 0.1rem;
             text-align: center;
             line-height: 1;
+=======
+      i {
+        padding: 0.15rem;
+      }
+>>>>>>> imported sass
 
             i {
                 font-size: 1.3rem;
@@ -33,6 +47,7 @@
         }
     }
 
+<<<<<<< HEAD
     .page-header & {
 
         #{$s}__text {
@@ -46,6 +61,30 @@
                 color: $color-white;
             }
         }
+=======
+    .post__header & i {
+      background-color: $color-beige;
+
+      .shareText {
+        color: $color-dust;
+      }
+
+      &:hover {
+        background-color: $color-white;
+      }
+    }
+
+    .post__footer & i {
+      background-color: $color-dust;
+
+      .shareText {
+        color: $color-dust;
+      }
+
+      &:hover {
+        background-color: $color-dark-sand;
+      }
+>>>>>>> imported sass
     }
 
     .post__footer & {
