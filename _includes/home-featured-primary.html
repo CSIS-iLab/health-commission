@@ -7,7 +7,8 @@
 {% if post.image.size > 0 %}
   {% include page-header-background-img.html image_url=post.image %}
 {% endif %}
-<section class="home__featured-primary" {{ background_img }}>
+<section class="home__featured-primary">
+  <div class="home__featured-primary-img" {{ background_img }}></div>
   {% include post-block.html hide_excerpt=true %}
 </section>
 {% endfor %}
