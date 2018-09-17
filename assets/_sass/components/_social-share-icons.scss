@@ -48,6 +48,7 @@
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     .page-header & {
 
         #{$s}__text {
@@ -63,26 +64,35 @@
         }
 =======
     .post__header & i {
+=======
+    .post__header & {
+>>>>>>> nesting sass styles
       background-color: $color-beige;
 
-      .shareText {
-        color: $color-dust;
-      }
+      & i {
+        .shareText & {
+          color: $color-dust;
+        }
 
-      &:hover {
-        background-color: $color-white;
+        &:hover & ::before {
+          background-color: $color-white;
+        }
       }
     }
 
-    .post__footer & i {
+    .post__footer & {
       background-color: $color-dust;
 
-      .shareText {
-        color: $color-dust;
-      }
+      & i {
+        // background-color: $color-dust;
 
-      &:hover {
-        background-color: $color-dark-sand;
+        .shareText {
+          color: $color-dust;
+        }
+
+        ::before&:hover {
+          background-color: $color-dark-sand;
+        }
       }
 >>>>>>> imported sass
     }
