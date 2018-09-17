@@ -45,7 +45,13 @@
             &:hover {
                 color: $color-white;
             }
+
+            .icon-print {
+
+            }
         }
+
+
     }
 
     .post__footer & {
@@ -63,4 +69,14 @@
         }
     }
 
+    @include breakpoint('small') {
+        #{$s}__text {
+            display: none;
+        }
+
+        .icon-print {
+            display: none;
+        }
+
+    }
 }
