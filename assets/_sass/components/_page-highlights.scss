@@ -1,76 +1,97 @@
 .page-highlights {
-  background-color: $color-off-white;
-  width: 65.5%;
-  &.posts {
-    display: none;
-    @include breakpoint(medium) {
-      display: block;
-    }
+  position: fixed;
+  top: calc(100vh - 50px);
+  left: -50px;
+  right: 0;
+  width: calc(100% + 66px);
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 0;
+  z-index: 5;
+
+  @include breakpoint(medium) {
+    position: relative;
+    top: -75px;
+    width: 100%;
+    padding-right: calc((100% - 46%) / 2);
   }
   .row {
     display: flex;
     position: relative;
+    background-color: $color-off-white;
+
+    min-height: 50px;
+    @include breakpoint(medium) {
+      min-height: 75px;
+    }
 
     &:before {
       content: '';
       position: absolute;
-      width: 25vw;
+      background-color: $color-off-white;
+      width: calc((100vw - 46% + 50px) / 2);
       height: 100%;
-      background-color: #f2f2f2;
-      right: 100%;
+      right: 99%;
       top: 0;
     }
 
-    .col:first-of-type {
-      margin-right: auto;
+    &:after {
+      content: '';
+      position: absolute;
+      box-shadow: 0 2px 8px 5px rgba(39, 39, 39, 0.16);
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: calc(100% + ((100vw - 46% + 50px) / 2));
+      z-index: -1;
     }
-    col:not(:first-of-type) {
-      justify-content: flex-end;
-    }
-    .col:last-of-type:not(:only-child) {
-      background-color: $color-dust;
-      flex-shrink: 0;
-    }
-    .col-1-1 {
-      padding-top: calculate-rem(32px);
-      padding-right: calculate-rem(54px);
-      padding-bottom: calculate-rem(48px);
-    }
-    .col-2-3 {
-      position: relative;
-      &:before {
-        position: absolute;
-        background-color: $color-dusty-lavender;
-        content: '';
-        height: 75%;
-        width: 2px;
-        left: 0;
-        top: 0;
+    div[class^='page-highlights__col'] {
+      padding: 0.5rem;
+
+      &:first-of-type {
+        margin-right: auto;
+      }
+      &:not(:first-of-type) {
+        justify-content: flex-end;
+      }
+      &:last-of-type:not(:only-child) {
+        background-color: $color-dust;
+        flex-shrink: 0;
+      }
+
+      &.download {
+        position: relative;
+        &:after {
+          position: absolute;
+          background-color: $color-dusty-lavender;
+          content: '';
+          height: 75%;
+          width: 2px;
+          left: 100%;
+          top: 0;
+        }
       }
     }
-    .col[class$='-3'] {
+  }
+
+  &.posts .page-highlights__col {
+    &--last {
+      flex-basis: 33%;
+      @include breakpoint(medium) {
+        flex-basis: 260px;
+      }
+    }
+    @include breakpoint(medium) {
       flex-basis: 260px;
-      padding-top: calculate-rem(32px);
-      padding-bottom: calculate-rem(18px);
-      padding-right: calculate-rem(24px);
-      padding-left: calculate-rem(24px);
-    }
-    .col-2-2 {
-      flex-basis: 300px;
-    }
-    .col-2-2 {
-      padding-top: calculate-rem(18px);
-      padding-right: calculate-rem(24px);
-      padding-bottom: calculate-rem(48px);
-      padding-left: calculate-rem(32px);
-    }
-    .col-1-2 {
-      padding-top: calculate-rem(32px);
-      padding-right: calculate-rem(66px);
-      padding-bottom: calculate-rem(18px);
     }
   }
-  &.themes .col-1-2 {
-    padding-bottom: calculate-rem(48px);
+
+  &.events .page-highlights__col--last,
+  &.themes .page-highlights__col--last {
+    display: none;
+    @include breakpoint(medium) {
+      display: block;
+      flex-basis: 300px;
+    }
   }
 }
