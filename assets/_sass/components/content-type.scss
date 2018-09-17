@@ -1,0 +1,10 @@
+/*==============================================
+=            Content Type Filtering            =
+==============================================*/
+
+.content-type {
+  @extend %post-block-meta;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
