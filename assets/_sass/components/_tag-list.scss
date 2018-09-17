@@ -1,0 +1,22 @@
+/*=======================================
+=                Tag List               =
+=======================================*/
+
+.tag-list {
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+
+      li {
+        list-style-type: none;
+      }
+    }
+
+    &__box {
+      width: 20px;
+      height: 20px;
+      background-color: black;
+    }
+}
