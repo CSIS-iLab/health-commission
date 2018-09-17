@@ -1,0 +1,7 @@
+{% if page.pdf.size > 0 %}
+  {% assign pdf_url = page.pdf %}
+  <div class="download-pdf">
+    <a href="{{ page.pdf }}" download="{{ page.title }}" title="{{ site.data.language.download_pdf }}"><i class="icon-download"></i>
+    <div class="download-pdf__text">{{ site.data.language.download_pdf }}</div></a>
+  </div>
+{% endif %}

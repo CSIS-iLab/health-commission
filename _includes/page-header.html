@@ -16,7 +16,6 @@
   {% else %}
   <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}{%- if page.permalink == '/search/' -%}: <span></span>{%- endif -%}</h1>
   {% endif %}
+    {% include download-pdf.html %}
   </div>
-
 </header>
-{% include page-highlights.html %}

@@ -1,0 +1,24 @@
+.download-pdf {
+  margin: 0.2em;
+  padding: 0.5em;
+  display: flex;
+
+  &__text {
+    @extend %label-lg;
+    display: none;
+    a:hover & {
+      color: $color-dark-sand;
+      transition: all 0.3s ease-in-out;
+    }
+    @include breakpoint('medium') {
+      display: inline;
+    }
+  }
+
+  i {
+    color: $color-dust;
+    &:hover & {
+      color: $color-dark-sand;
+    }
+  }
+}
