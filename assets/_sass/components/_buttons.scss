@@ -2,6 +2,7 @@
   @extend %btn;
   text-transform: uppercase;
   background-color: $color-off-white;
+  transition: all 0.3s ease-in-out;
   border: none;
   color: $color-black;
   cursor: pointer;
