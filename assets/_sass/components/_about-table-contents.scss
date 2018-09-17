@@ -1,27 +1,5 @@
 .about-table-contents {
-  & i {
-    color: $color-dust;
-    font-weight: bold;
-    position: relative;
-    top: 2px;
-    left: -2px;
-  }
-
   ul {
-    li {
-      list-style-type: none;
-      line-height: 2;
-      &:first-of-type {
-        @extend %btn;
-        text-transform: uppercase;
-      }
-      & i {
-        @include font-size(20px);
-      }
-      &:nth-of-type(n + 2) a:hover {
-        color: $color-dust;
-      }
-    }
     padding-inline-start: calculate-rem(24px);
     position: relative;
     &:before {
@@ -31,6 +9,32 @@
       width: 3px;
       height: 100%;
       background-color: $color-dusty-lavender;
+    }
+    li {
+      padding-left: 0;
+      list-style-type: none;
+      line-height: 2;
+      &:first-of-type {
+        @extend %btn;
+        text-transform: uppercase;
+      }
+
+      &:nth-of-type(n + 2) a {
+        position: relative;
+
+        &::after {
+          position: absolute;
+          right: -0.8rem;
+          top: -0.6rem;
+          color: $color-dust;
+          font-weight: bold;
+          content: '\f105';
+          font-family: 'healthcom';
+        }
+        &:hover {
+          color: $color-dust;
+        }
+      }
     }
   }
 }
