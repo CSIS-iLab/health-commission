@@ -6,7 +6,7 @@
   display: grid;
 
   @include breakpoint('medium') {
-    grid-template-rows: minmax(500px, auto) repeat(4, auto);
+    grid-template-rows: minmax(515px, auto) repeat(4, auto);
     grid-template-columns: repeat(4, 1fr);
     grid-template-areas:
       "hero hero hero hero"
@@ -19,9 +19,18 @@
   &__hero {
     grid-area: hero;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     background-color: $color-darkest-blue;
     color: $color-white;
     @include fullWidthBackground($color-darkest-blue);
+
+    &-subtitle,
+    &-title {
+      position: relative;
+      z-index: 5;
+    }
 
     &-subtitle {
       font-family: $font-europa;
@@ -36,6 +45,23 @@
       @include font-size(72px);
       line-height: 1.21;
     }
+
+    .home__map {
+      position: absolute;
+      z-index: 1;
+      top: 0;
+      left: 50%;
+      right: 50%;
+      width: 100vw;
+      height: 100%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      text-align: right;
+
+      svg {
+        height: 490px;
+      }
+    }
   }
 
   &__desc {
@@ -49,6 +75,7 @@
 
     @include breakpoint('medium') {
       padding-right: $size-wrapper-padding;
+      padding-bottom: $padding;
     }
   }
 

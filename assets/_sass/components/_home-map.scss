@@ -1,0 +1,256 @@
+.home__map {
+  $level0_color: #546a85;
+  $level1_color: #ff4c30;
+  $level2_color: #BA5852;
+  $level3_color: #e57162;
+  $level4_color: #985D62;
+  $level5_color: #b06e6f;
+  $level6_color: #985D62;
+  $level7_color: #7b6c7c;
+  $level8_color: #766374;
+
+  $pulsetime: 5s;
+
+  path {
+    fill: $level0_color;
+    -webkit-box-shadow: 0px 0px 17px 23px rgba(0,0,0,0.94);
+    -moz-box-shadow: 0px 0px 17px 23px rgba(0,0,0,0.94);
+    box-shadow: 0px 0px 17px 23px rgba(0,0,0,0.94);
+  }
+
+  #Bg #Filler {
+    path {
+      fill: $level0_color;
+      opacity: 0.8;
+    }
+  }
+
+  #Bg #Pulse {
+    #L1_pulse {
+      @for $x from 1 through 8 {
+        path:nth-child(#{$x}) {
+          opacity: 0;
+          animation: pulse infinite;
+          animation-duration: 4s;
+          animation-delay: ($x * 0.5) + 2s;
+        }
+      }
+    }
+
+    #L5_pulse path {
+      opacity: 0;
+      animation: pulse_5 alternate infinite;
+      animation-duration: 4s;
+      animation-delay: 10s;
+    }
+
+    #L8_pulse path {
+      opacity: 0;
+      animation: pulse_8 alternate infinite;
+      animation-duration: 4s;
+      animation-delay: 10s;
+    }
+  }
+
+  @mixin spread($layer) {
+    g {
+  @for $i from 1 through 10 {
+      &:nth-child(#{$i}):not(#Bg) path {
+        $duration: 3s;
+        $animationDelay: ($i + $layer) * $pulsetime;
+        @if $i == 1 {
+          $duration: 8s;
+          $animationDelay: ($layer * $i/2) + s; 
+          } @else if $i == 2 { 
+        $animationDelay: ( $layer + $i/2) + s;
+        } @else if $i == 3 { 
+
+          $animationDelay: (.5 + $layer + $i/2 )+ s;
+          } @else if $i == 4 {
+
+            $animationDelay: (1 + $layer + $i/2) + s;
+            } @else if $i == 5 {
+
+              $animationDelay: (1.5 + $layer + $i/2)+ s;
+              } @else if $i == 6 {
+
+                $animationDelay: (2 + $layer + $i/2) + s;
+                } @else if $i == 7 {
+
+                  $animationDelay: (2.5 + $layer + $i/2)+ s;
+                  } @else {
+
+                    $animationDelay: (3 + $layer  + $i/2)+ s;
+                  }
+
+          $animationName: level + $i;
+          $animationDuration: 4s;
+
+          animation: $animationDuration $animationName $animationDelay forwards;
+          animation-timing-function: cubic-bezier(0.17, 0.67, 0.83, 0.67);
+
+          &:nth-of-type(2) {
+            $animationDelayN: $animationDelay + 50ms;
+            animation: $animationDelayN $animationName $animationDelay forwards;
+          }
+          &:nth-of-type(3) {
+            $animationDelayN: $animationDelay + 100ms;
+            animation: $animationDelayN $animationName $animationDelay forwards;
+          }
+        }
+      }
+    }
+  }
+
+  #IN {
+    @include spread(.5);
+  }
+
+  #NA {
+    @include spread(1);
+  }
+
+  #EU {
+    @include spread(2);
+  }
+
+  #AF {
+    @include spread(1.5);
+  }
+
+
+
+  #SA {
+    @include spread(2.5);
+  }
+
+
+
+  @mixin spread-keyframes($endColor) {
+    0% {
+      fill: $level0_color;
+      stroke-width: 0;
+      stroke: $level0_color;
+      stroke-opacity: 0;
+    }
+
+    20% {
+
+      stroke-width: 2;
+
+      stroke-opacity: 1;
+
+    }
+
+    30% {
+      stroke-width: 1;
+
+      stroke-opacity: 0;
+
+    }
+
+
+    100% {
+      fill: $endColor;
+      stroke-width: 1;
+      stroke: $endColor;
+      stroke-opacity: 0;
+    }
+  }
+
+  @keyframes level0 {
+    0% {
+      fill: red;
+    }
+    100% {
+      fill: red;
+    }
+  }
+
+  @keyframes level1 {
+    0% {
+      fill: $level0_color;
+    }
+    100% {
+      fill: $level1_color;
+    }
+  }
+
+
+  @keyframes level2 {
+    @include spread-keyframes($level2_color);
+  }
+
+  @keyframes level3 {
+    @include spread-keyframes($level2_color);
+
+  }
+
+  @keyframes level4 {
+    @include spread-keyframes($level4_color);
+
+  }
+
+  @keyframes level5 {
+    @include spread-keyframes($level5_color);
+
+  }
+
+  @keyframes level6 {
+    @include spread-keyframes($level6_color);
+
+  }
+  @keyframes level7 {
+    @include spread-keyframes($level7_color);
+
+  }
+
+  @keyframes level8 {
+    @include spread-keyframes($level8_color);
+
+  }
+
+
+  @keyframes pulse {
+    0% {
+      fill: $level1_color;
+      stroke-width: 0;
+      stroke: $level1_color;
+      opacity: 0.1;
+    }
+    20% {
+      fill: $level1_color;
+      stroke: $level1_color;
+      stroke-width: 10;
+      opacity: 0.6;
+    }
+    40% {
+      fill: $level1_color;
+      stroke: $level1_color;
+      stroke-width: 15;
+      opacity: 0.1;
+    }
+  }
+
+  @keyframes pulse_5 {
+    0% {
+      fill: $level5_color;
+      opacity: .1;
+    }
+    100% {
+      fill: $level7_color;
+      opacity: 1;
+    }
+  }
+
+  @keyframes pulse_8 {
+    0% {
+      fill: $level8_color;
+      opacity: .1;
+    }
+    100% {
+      fill: $level6_color;
+      opacity: 1;
+    }
+  }
+}

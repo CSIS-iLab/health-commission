@@ -4,9 +4,9 @@ layout: default
 
 <div class="home">
   <section class="home__hero">
+    {%- include home-animated-map.html -%}
     <div class="home__hero-subtitle">{{ site.data.language.home.subtitle | escape }}</div>
     <div class="home__hero-title">{{ site.data.language.home.title | escape }}</div>
-    SVG
   </section>
   <section class="home__desc">
     {{ content }}
