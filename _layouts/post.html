@@ -11,7 +11,7 @@ layout: default
         <p>' | remove: '</p>' }}</p>
       {% endif %}
       {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
-      Themes List
+      {%- include themes-list.html -%}
     </div>
     {%- include from-commission.html -%}
   </section>

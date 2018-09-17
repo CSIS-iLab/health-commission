@@ -1,41 +1,44 @@
 .themes-list {
   display: flex;
   flex-flow: wrap;
-  @each $name, $colors in $themes {
-    $color: nth($colors, 1);
-    $hover: nth($colors, 2);
-    &_#{$name} {
-      list-style-type: none;
-      a {
-        display: flex;
-        align-items: start;
-        flex: 1 100%;
-        @include breakpoint('medium') {
-          align-items: center;
-          flex: none;
-        }
+  margin: auto 0;
+  &__item {
+    list-style-type: none;
+    margin-right: 15px;
+
+    a {
+      @extend %post-block-meta-themes;
+      text-transform: uppercase;
+      display: flex;
+      align-items: start;
+      flex: 1 100%;
+      @include breakpoint('medium') {
+        align-items: center;
+        flex: none;
       }
-      &__name {
-        @extend %post-block-meta-themes;
-        text-transform: uppercase;
+    }
+
+    i {
+      @extend %post-block-meta-themes;
+      font-size: 0.1rem;
+      margin: 2px 12px;
+      @include breakpoint('medium') {
+        margin: 0px 12px;
       }
-      &:hover &__name {
-        color: $hover;
-      }
-      &__icon {
-        @extend %post-block-meta-themes;
-        font-size: 0.1rem;
-        margin: 2px 12px;
-        @include breakpoint('medium') {
-          margin: 0px 12px;
-        }
-        color: $color;
-        &:visited {
+    }
+
+    @each $name, $colors in $themes {
+      $color: nth($colors, 1);
+      $hover: nth($colors, 2);
+      &--#{$name} a {
+        i {
           color: $color;
         }
-      }
-      &:hover &__icon {
-        color: $hover;
+        &:hover,
+        &:hover i {
+          color: $hover;
+          transition: all 0.3s ease-in-out;
+        }
       }
     }
   }

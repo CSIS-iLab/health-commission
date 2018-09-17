@@ -6,13 +6,11 @@
   {% for theme in post.themes %}
 
   {% assign theme_info = site.themes | where: "path", theme | first %}
-  <li class="themes-list_{{ theme_info.short_title | slugify }}">
-    <a href="{{ theme_info.url }}">
-      <i class="icon-rect themes-list_{{ theme_info.short_title | slugify }}__icon"></i>
+    <li class="themes-list__item themes-list__item--{{ theme_info.short_title | slugify }}">
+      <a href="{{ theme_info.url }}">
+      <i class="icon-rect"></i>
 
-    <span href="{{ theme_info.url }}" class="themes-list_{{ theme_info.short_title | slugify }}__name">
       {{ theme_info.short_title }}
-    </span>
     </a>
   </li>
   {% endfor %}
