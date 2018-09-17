@@ -6,22 +6,3 @@ fields:
 - type: text
   label: Title
   name: title
-pages:
-- _keywords/geopolitical-crises.md
-- _keywords/drug-resistance.md
-- _keywords/disordered-world.md
-- _keywords/public-event.md
-- _keywords/commission-meeting.md
-- _keywords/ebola.md
-- _keywords/humanitarian.md
-- _keywords/yemen.md
-- _keywords/afghanistan.md
-- _keywords/syria.md
-- _keywords/geneva-conventions.md
-- _keywords/polio.md
-- _keywords/vaccines.md
-- _keywords/immunizations.md
-- _keywords/venezuela.md
-- _keywords/influenza.md
-- _keywords/tuberculosis.md
-- _keywords/north-korea.md

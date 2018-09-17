@@ -10,13 +10,16 @@ fields:
   name: short_title
   label: Short Title
 - type: textarea
-  name: short_bio
+  name: excerpt
   label: Short Bio
   config:
     wysiwyg: true
     schema:
       format: markdown
 pages:
+- _authors/missing-author-4.md
+- _authors/author-3.md
+- _authors/missing-author-2.md
 - _authors/julie-louise-gerberding-m-d-mph.md
 - _authors/tom-frieden.md
 - _authors/u-s-senator-todd-young.md

@@ -5,7 +5,7 @@ role: ''
 short_title: United States Institute of Peace
 long_title: President, United States Institute of Peace
 has_photo: true
-short_bio: "**Nancy Lindborg** is the President of the United States Institute of
+excerpt: "**Nancy Lindborg** is the President of the United States Institute of
   Peace, an independent institution founded by Congress to provide practical solutions
   for preventing and resolving violent conflict around the world. Previously, she
   served as the assistant administrator for the Bureau for Democracy, Conflict and

@@ -6,7 +6,7 @@ short_title: U.S. Department of Health and Human Services (former)
 long_title: Former Assistant Secretary for Global Affairs, U.S. Department of Health
   and Human Services
 has_photo: true
-short_bio: "**Ambassador Jimmy Kolker** is a non-resident senior associate with the
+excerpt: "**Ambassador Jimmy Kolker** is a non-resident senior associate with the
   CSIS Global Health Policy Center. He retired in January 2017 as Assistant Secretary
   for Global Affairs at the U.S. Department of Health and Human Services (HHS), where
   he served as the Department’s chief health diplomat. His 30-year State Foreign Service

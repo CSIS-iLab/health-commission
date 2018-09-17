@@ -1,0 +1,15 @@
+<div class="themes__related-posts">
+  <h2 class="section-title-lg">{{ site.data.language.single_post.related_posts }}</h2>
+  {% assign post_list_limit = 3 %}
+  {% if page.featured_post.size > 0 %}
+    {% assign post_list_limit = 2 %}
+    {% assign post = site.posts | where: "relative_path", page.featured_post | first %}
+    {% include post-block.html show_image=true class="post-block--featured" %}
+  {% endif %}
+
+  {% assign theme_posts = site.posts | where_exp: "post", "post.relative_path != page.featured_post" | where_exp: "post", "post.themes contains page.relative_path" %}
+  {% for post in theme_posts limit: post_list_limit %}
+  {% include post-block.html %}
+  {% endfor %}
+  <a href="/search?theme={{ page.short_title | slugify }}" class="btn btn--dark-gray themes__more-posts">{{ site.data.language.single_post.more_posts }}</a>
+</div>

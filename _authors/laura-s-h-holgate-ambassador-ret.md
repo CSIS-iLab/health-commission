@@ -5,7 +5,7 @@ role: ''
 short_title: Nuclear Threat Initiative
 long_title: Vice President, Materials Risk Management, Nuclear Threat Initiative
 has_photo: true
-short_bio: "**Ambassador Laura Holgate** is the Vice President for Materials Risk
+excerpt: "**Ambassador Laura Holgate** is the Vice President for Materials Risk
   Management at the Nuclear Threat Initiative. Previously, she served as U.S. Representative
   to the Vienna Office of the United Nations and the International Atomic Energy Agency
   and as Special Assistant to the President and Senior Director for Weapons of Mass

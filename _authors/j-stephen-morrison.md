@@ -6,7 +6,7 @@ role: ''
 short_title: CSIS
 long_title: Senior Vice President and Director, Global Health Policy Center, CSIS
 has_photo: true
-short_bio: "**J. Stephen Morrison** is senior vice president at the Center for Strategic
+excerpt: "**J. Stephen Morrison** is senior vice president at the Center for Strategic
   and International Studies (CSIS) and director of its Global Health Policy Center.
   Dr. Morrison writes widely, has directed several high-level commissions, and is
   a frequent commentator on U.S. foreign policy, global health, Africa, and foreign

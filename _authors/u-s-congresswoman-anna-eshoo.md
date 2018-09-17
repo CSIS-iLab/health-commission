@@ -5,7 +5,7 @@ role: ''
 short_title: D-CA-18
 long_title: D-CA-18
 has_photo: true
-short_bio: "**Congresswoman Anna Eshoo** is the current representative from California’s
+excerpt: "**Congresswoman Anna Eshoo** is the current representative from California’s
   18th district. For over two decades in Congress, she has defended consumers, promoted
   American competitiveness and innovation, fought for access to health care for families
   and children, protected the environment, and encouraged development of clean energy

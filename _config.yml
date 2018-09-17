@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 
+date_format: '%b %-d, %Y'
+
 # Content types will be defined here
 collections:
   posts:
@@ -46,14 +48,16 @@ defaults:
     path: ''
     type: 'series'
   values:
-    layout: post
+    layout: archive
     permalink: "/series/:slug/"
 - scope:
     path: ''
     type: 'themes'
   values:
-    layout: post
+    layout: themes
     permalink: "/themes/:slug/"
+- scope:
+    path: ''
     type: 'events'
   values:
     layout: post
@@ -62,8 +66,13 @@ defaults:
     path: ''
     type: 'authors'
   values:
-    layout: post
+    layout: archive
     permalink: "/authors/:slug/"
+    use_algolia: true
+    algolia_facet: authors
+
+
+cloudinary_url: https://res.cloudinary.com/csisideaslab/image/upload/
 
 # Build settings
 markdown: kramdown

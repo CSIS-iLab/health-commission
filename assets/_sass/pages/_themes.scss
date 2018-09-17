@@ -1,0 +1,58 @@
+/*==============================
+=            Themes            =
+==============================*/
+
+.themes {
+  .page-header__title {
+    $block-size: calculate-rem(72px);
+    position: relative;
+
+    @include breakpoint('medium') {
+      padding-left: calc(#{$block-size} + 1rem);
+    }
+
+    &::before {
+      content: '';
+      display: block;
+      width: $block-size;
+      height: 1em;
+      margin-bottom: 1rem;
+
+      @include breakpoint('medium') {
+        position: absolute;
+        top: 14px;
+        left: 0;
+        height: 0.7em;
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  @each $name, $colors in $themes {
+    $color: nth($colors, 1);
+    &.themes--#{$name} .page-header__title::before {
+      background-color: $color;
+    }
+  }
+
+  &__overview_btn {
+    display: block;
+    margin: 2rem auto;
+    width: fit-content;
+  }
+
+  &__related-posts {
+    position: relative;
+    grid-column: span 2;
+    padding: 4rem 0;
+    background-color: $color-off-white;
+    @include fullWidthBackground($color-off-white);
+  }
+
+  &__more-posts {
+    display: block;
+    width: fit-content;
+    margin: 3rem auto 0;
+  }
+}
+

@@ -5,9 +5,8 @@ authors: []
 excerpt: ''
 content_type: ''
 themes:
-- _themes/protecting-health-security-in-the-face-of-global-disorder.md
+- _themes/global-disorder.md
 series: ''
-tags: []
 image: ''
 image_caption: ''
 image_credit: ''
@@ -42,7 +41,6 @@ references: |-
 
   \[10\] USIP, “Task Force on Extremism in Fragile States,” 2018, [https://www.usip.org/programs/task-force-extremism-fragile-states.](https://www.usip.org/programs/task-force-extremism-fragile-states. "https://www.usip.org/programs/task-force-extremism-fragile-states.")
 links: []
-event: ''
 
 ---
 ## Key Challenges
