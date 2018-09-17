@@ -1,4 +1,4 @@
-{% if page.is_commission_related.description.size %}
+{% if page.is_commission_related.description.size > 0 %}
   {% assign event = site.events | where: "path", page.is_commission_related.related_event | first %}
   <div class="header-from-commission">
     <h3><i class="icon-folder"></i>{{ site.data.language.single_post | keys | first | first }}</h3>
