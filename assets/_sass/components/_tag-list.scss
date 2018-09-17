@@ -4,33 +4,35 @@
 
 .tag-list {
 
-    ul {
-      @extend %tag;
-      list-style-type: none;
-      margin: 0.3em;
-      display: flex;
-
-      li {
-        background-color: $color-beige;
-        display: inherit;
-        margin: 0;
-        padding: .2em;
-        text-align: center;
-        text-transform: uppercase;
-      }
-    }
-
-    &__box {
-      width: 20px;
-      height: 20px;
-      background-color: black;
-    }
-
     &__title {
       @extend %btn;
       text-transform: uppercase;
       display: inline-block;
+      margin: .4em;
+      margin-right: 1.5em;
+      padding: 0;
+      float: left;
+    }
+
+    ul {
+      @extend %tag;
+      list-style-type: none;
+      display: flex;
       margin: 0;
       padding: 0;
+      float: left;
+
+      li {
+        background-color: $color-beige;
+        display: inherit;
+        margin-right: 0.5em;
+        padding: .4em;
+        text-align: center;
+        text-transform: uppercase;
+
+        &:hover {
+          background-color: $color-light-brown;
+        }
+      }
     }
 }
