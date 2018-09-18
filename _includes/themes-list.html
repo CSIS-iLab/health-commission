@@ -1,0 +1,17 @@
+<ul class="themes-list">
+  {% if page.collection.size and page.themes.size %}
+    {% assign post = page %}
+  {% endif %}
+
+  {% for theme in post.themes %}
+
+  {% assign theme_info = site.themes | where: "path", theme | first %}
+    <li class="themes-list__item themes-list__item--{{ theme_info.short_title | slugify }}">
+      <a href="{{ theme_info.url }}">
+      <i class="icon-rect"></i>
+
+      {{ theme_info.short_title }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
