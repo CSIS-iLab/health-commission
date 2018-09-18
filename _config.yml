@@ -7,6 +7,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 
 date_format: '%b %-d, %Y'
+tag_url: /search/?dFR[keywords][0]=
 
 # Content types will be defined here
 collections:
