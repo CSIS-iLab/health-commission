@@ -2,6 +2,17 @@
   display: flex;
   flex-flow: wrap;
   margin: auto 0;
+  padding: 0;
+
+  .home &,
+  .post__header & {
+    flex-direction: column;
+
+    @include breakpoint('medium') {
+      flex-direction: row;
+    }
+  }
+
   &__item {
     list-style-type: none;
     margin-right: 15px;
@@ -12,6 +23,7 @@
       display: flex;
       align-items: start;
       flex: 1 100%;
+
       @include breakpoint('medium') {
         align-items: center;
         flex: none;
@@ -21,9 +33,12 @@
     i {
       @extend %post-block-meta-themes;
       font-size: 0.1rem;
-      margin: 2px 12px;
+      margin: 2px 12px 2px 0;
+      transition: all 0.3s ease-in-out;
+
       @include breakpoint('medium') {
-        margin: 0px 12px;
+        margin-top: 0;
+        margin-bottom: 0;
       }
     }
 
@@ -31,13 +46,14 @@
       $color: nth($colors, 1);
       $hover: nth($colors, 2);
       &--#{$name} a {
+        color: $color;
+        
         i {
           color: $color;
         }
         &:hover,
         &:hover i {
           color: $hover;
-          transition: all 0.3s ease-in-out;
         }
       }
     }
