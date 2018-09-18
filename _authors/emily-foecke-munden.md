@@ -6,7 +6,7 @@ role: ''
 short_title: CSIS
 long_title: Associate Fellow, Global Health Policy Center, CSIS
 has_photo: true
-short_bio: "**Emily Foecke Munden** is an associate fellow with the CSIS Global Health
+excerpt: "**Emily Foecke Munden** is an associate fellow with the CSIS Global Health
   Policy Center, with a primary focus on global health security efforts. Previously,
   Ms. Munden worked in corporate global sourcing, led a maternal health nonprofit
   in Sierra Leone, and performed program design and implementation for irrigation

@@ -7,7 +7,6 @@ content_type: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
 series: ''
-tags: []
 image: ''
 image_caption: ''
 image_credit: ''
@@ -62,7 +61,6 @@ references: |-
 
   \[16\] Ibid.
 links: []
-event: ''
 
 ---
 ## Key Challenges

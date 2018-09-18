@@ -30,13 +30,9 @@ sections:
   match: "**/*"
   templates:
   - series
-- type: directory
-  path: _keywords
+- type: document
+  path: _data/keywords.yml
   label: Tags
-  create: all
-  match: "**/*"
-  templates:
-  - tags
 - type: directory
   path: _authors
   label: Authors
@@ -55,8 +51,8 @@ sections:
 - type: document
   path: _data/language.yml
   label: Language
-upload_dir: uploads
-public_path: "/uploads"
-front_matter_path: ''
-use_front_matter_path: false
+upload_dir: health-commission
+public_path: https://res.cloudinary.com/csisideaslab/image/upload
+front_matter_path: https://res.cloudinary.com/csisideaslab/image/upload
+use_front_matter_path: true
 file_template: ":filename:"

@@ -1,27 +1,14 @@
-language: node_js
-node_js:
-  - '8'
-  - '10'
-
+language: ruby
+cache: bundler
 branches:
   only:
     - master
-    - gh-pages
-
-env:
-  global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-
-before_install:
-  - rvm install 2.5.0
-
-install:
-  - npm install
-  - gem install html-proofer
-
-script:
-  - bundle exec jekyll build
-  - npm test
-  - htmlproofer --url-ignore "/talk.jekyllrb.com/" ./_site
-
-sudo: false
+script: 
+  - wget https://raw.githubusercontent.com/CSIS-iLab/health-commission/master/algolia-sync.rb
+  - chmod +x algolia-sync.rb
+  - echo 'source "https://rubygems.org"' > Gemfile
+  - echo 'gem "algoliasearch"' >> Gemfile
+  - bundle install
+  - bundle exec ruby algolia-sync.rb
+rvm:
+ - 2.5.1

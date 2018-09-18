@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+  Search Testing
+
+  {% include search-input.html %}
+
+  <div id="hits"></div>
+  <div id="pagination"></div>
+
+  <script type="text/html" id="hit-template">
+    <div class="hit">
+      <div class="hit-content">
+        {{ objectID }}
+        
+      </div>
+    </div>
+  </script>
+</div>

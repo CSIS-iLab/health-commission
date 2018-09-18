@@ -1,0 +1,26 @@
+/*=======================================
+=            Further Reading            =
+=======================================*/
+
+.post__further-reading {
+  p {
+    margin-bottom: 0;
+  }
+  
+  a[href^=http] {
+    visibility: hidden;
+    position: relative;
+    word-break: break-all;
+
+    &::after {
+      content: '\ebb4';
+      font-family: 'healthcom';
+      visibility: visible;
+      position: absolute;
+      top: -3px;
+      left: 0;
+      word-break: normal;
+    }
+  }
+}
+

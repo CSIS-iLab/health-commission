@@ -6,7 +6,7 @@ role: ''
 short_title: Gryphon Scientific
 long_title: Managing Director, Gryphon Scientific
 has_photo: true
-short_bio: "**Rocco Casagrande** is the Managing Director of Gryphon Scientific and
+excerpt: "**Rocco Casagrande** is the Managing Director of Gryphon Scientific and
   a widely respected thought leader on defense against weapons of mass destruction
   and managing the safety and security risks of cutting-edge biological research.
   Dr. Casagrande began his public-sector career as a U.N. weapons inspector in pre-war

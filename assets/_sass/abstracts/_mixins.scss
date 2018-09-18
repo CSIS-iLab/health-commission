@@ -87,16 +87,27 @@ $breakpoint-xsmall: 25em;
         display: block;
         position: absolute;
         top: 0;
-        width: 100vw;
+        width: calc((100vw - 100%) / 2);
         height: 100%;
         background-color: $background;
     }
 
     &::before {
-        right: calc(100% - 1px);
+        right: 100%;
     }
 
     &::after {
-        left: calc(100% - 1px);
+        left: 100%;
     }
+}
+
+@mixin post-overflow-content($direction: right) {
+    $opposite: 'left';
+    @if $direction == left {
+        $opposite: 'right';
+    }
+    float: $direction;
+    max-width: $size-post-media-max-width;
+    margin-#{$direction}: 0;
+    margin-#{$opposite}: 2rem;
 }

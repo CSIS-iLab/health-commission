@@ -4,9 +4,9 @@ date: 2018-09-13 02:46:03 +0000
 short_title: Managing Biotechnology
 short_description: Biotechnology is moving swiftly and holds the potential to revolutionize
   many fields if properly managed.
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://via.placeholder.com/2000x800
+image_caption: Photo caption goes here
+image_credit: Getty
 in_depth_overview: _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
 featured_post: _posts/2018-02-14-welcome-to-jekyll.markdown
 further_reading: |-

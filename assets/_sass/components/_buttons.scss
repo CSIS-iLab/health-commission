@@ -1,0 +1,22 @@
+.btn {
+  @extend %btn;
+  text-transform: uppercase;
+  background-color: $color-off-white;
+  border: none;
+  color: $color-black;
+  cursor: pointer;
+  padding: calculate-rem(8px) calculate-rem(16px);
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    background-color: $color-silver;
+  }
+
+  &.btn--dark-gray {
+    background-color: $color-silver;
+
+    &:hover {
+      background-color: $color-dark-silver;
+    }
+  }
+}

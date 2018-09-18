@@ -1,0 +1,6 @@
+{% if page.further_reading.size > 0 %}
+  <section class="post__further-reading">
+    <h3 class="section-title">{{ site.data.language.single_post.further_reading }}</h3>
+    {{ page.further_reading | markdownify }}
+  </section>
+{% endif %}

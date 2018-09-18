@@ -7,7 +7,7 @@ short_title: Nuclear Threat Initiative
 long_title: Vice President, Global Biological Policy and Programs, Nuclear Threat
   Initiative
 has_photo: true
-short_bio: "**Beth Cameron** is the Vice President for Global Biological Policy and
+excerpt: "**Beth Cameron** is the Vice President for Global Biological Policy and
   Programs at the Nuclear Threat Initiative (NTI), where she leads NTI | bio’s efforts
   to reduce global catastrophic biological risks, advance international biosecurity
   capability, and improve pandemic preparedness. She previously helped develop and

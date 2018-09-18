@@ -16,8 +16,10 @@ fields:
   config:
     use_select: true
     source:
-      type: pages
-      section: tags
+      type: documents
+      section: tags-251f80e7-e4c7-411f-88c3-d5a448f6fb8e
+      file: _data/keywords.yml
+      path: Keywords
   default: []
 - type: list
   name: themes
