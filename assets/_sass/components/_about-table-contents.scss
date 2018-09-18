@@ -1,0 +1,37 @@
+.about-table-contents {
+  ul {
+    padding-inline-start: calculate-rem(24px);
+    position: relative;
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      width: 3px;
+      height: 100%;
+      background-color: $color-dusty-lavender;
+    }
+    li {
+      padding-left: 0;
+      list-style-type: none;
+      line-height: 2;
+      &:first-of-type {
+        @extend %btn;
+        text-transform: uppercase;
+      }
+       &:nth-of-type(n + 2) a {
+        position: relative;
+         &::after {
+          position: absolute;
+          right: -0.8rem;
+          color: $color-dust;
+          font-weight: bold;
+          content: '\f105';
+          font-family: 'healthcom';
+        }
+        &:hover {
+          color: $color-dust;
+        }
+      }
+    }
+  }
+}

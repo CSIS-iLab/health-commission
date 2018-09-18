@@ -11,7 +11,7 @@ layout: default
         <p>' | remove: '</p>' }}</p>
       {% endif %}
       {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
-      Themes List
+      {%- include themes-list.html -%}
     </div>
     {%- include from-commission.html -%}
   </section>
@@ -26,11 +26,12 @@ layout: default
     <strong>Note:</strong> Look at footnotes formatting
   </section>
   <footer class="post__footer" role="footer">
-    <div class="post__tags">Tags Include</div>
-    <div class="share">Social Share Include</div>
+    {% include tag-list.html %}
+    {% include social-share-icons.html %}
     {% include post-references.html %}
     <div class="post__authors-full">Authors Block</div>
     <div class="post__related-posts">Related Posts</div>
+
   </footer>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

@@ -1,0 +1,61 @@
+.themes-list {
+  display: flex;
+  flex-flow: wrap;
+  margin: auto 0;
+  padding: 0;
+
+  .home &,
+  .post__header & {
+    flex-direction: column;
+
+    @include breakpoint('medium') {
+      flex-direction: row;
+    }
+  }
+
+  &__item {
+    list-style-type: none;
+    margin-right: 15px;
+
+    a {
+      @extend %post-block-meta-themes;
+      text-transform: uppercase;
+      display: flex;
+      align-items: start;
+      flex: 1 100%;
+
+      @include breakpoint('medium') {
+        align-items: center;
+        flex: none;
+      }
+    }
+
+    i {
+      @extend %post-block-meta-themes;
+      font-size: 0.1rem;
+      margin: 2px 12px 2px 0;
+      transition: all 0.3s ease-in-out;
+
+      @include breakpoint('medium') {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+    }
+
+    @each $name, $colors in $themes {
+      $color: nth($colors, 1);
+      $hover: nth($colors, 2);
+      &--#{$name} a {
+        color: $color;
+        
+        i {
+          color: $color;
+        }
+        &:hover,
+        &:hover i {
+          color: $hover;
+        }
+      }
+    }
+  }
+}

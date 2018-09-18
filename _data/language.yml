@@ -27,6 +27,7 @@ events:
     a bold vision for the future of U.S. leadership in global health security, at
     home and abroad.
 about_the_commission:
+  table_contents_list_header: Skip to...
   Blurb: The CSIS Commission on Strengthening America’s Health Security aims to chart
     a bold vision for the future of U.S. leadership in global health security, at
     home and abroad.
@@ -90,6 +91,7 @@ home:
   recent_header: Latest Articles
   themes_header: Guiding Themes
   themes_desc: Click on a theme in the list below to view details and related content.
-
 photo_credit: 'Photo Credit:'
 search_placeholder: 'What are you searching for?'
+tags: Tags
+share: Share
