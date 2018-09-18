@@ -12,6 +12,8 @@
 @import 'base/typography';
 @import 'base/base';
 
+@import 'components/about-table-contents';
+@import 'components/post-block';
 @import 'components/buttons';
 @import 'components/from-commission';
 @import 'components/media';
@@ -20,6 +22,8 @@
 @import 'components/post-block';
 @import 'components/post-further-reading';
 @import 'components/tag-list';
+@import 'components/social-share-icons';
+@import 'components/themes-list';
 
 @import 'pages/archive';
 @import 'pages/post';
