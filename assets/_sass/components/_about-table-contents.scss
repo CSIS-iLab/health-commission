@@ -1,31 +1,5 @@
 .about-table-contents {
-<<<<<<< HEAD
-  & i {
-    color: $color-dust;
-    font-weight: bold;
-    position: relative;
-    top: 2px;
-    left: -2px;
-  }
-
   ul {
-    li {
-      list-style-type: none;
-      line-height: 2;
-      &:first-of-type {
-        @extend %btn;
-        text-transform: uppercase;
-      }
-      & i {
-        @include font-size(20px);
-      }
-      &:nth-of-type(n + 2) a:hover {
-        color: $color-dust;
-      }
-    }
-=======
-  ul {
->>>>>>> 98d4789aa89173bdb3641f98a13053b800e5f72a
     padding-inline-start: calculate-rem(24px);
     position: relative;
     &:before {
@@ -36,8 +10,6 @@
       height: 100%;
       background-color: $color-dusty-lavender;
     }
-<<<<<<< HEAD
-=======
     li {
       padding-left: 0;
       list-style-type: none;
@@ -46,14 +18,11 @@
         @extend %btn;
         text-transform: uppercase;
       }
-
-      &:nth-of-type(n + 2) a {
+       &:nth-of-type(n + 2) a {
         position: relative;
-
-        &::after {
+         &::after {
           position: absolute;
           right: -0.8rem;
-          top: -0.6rem;
           color: $color-dust;
           font-weight: bold;
           content: '\f105';
@@ -64,6 +33,5 @@
         }
       }
     }
->>>>>>> 98d4789aa89173bdb3641f98a13053b800e5f72a
   }
 }
