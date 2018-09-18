@@ -7,10 +7,18 @@
     display: flex;
     padding: .5rem;
 
+    .icon-print {
+        display: none;
+        @include breakpoint('medium') { display: inline; }
+    }
+
     &__text {
         @extend %btn;
+        display: none;
         text-transform: uppercase;
         padding-bottom:.2rem;
+
+        @include breakpoint('medium') { display: inline; }
     }
 
     ul {
@@ -29,6 +37,7 @@
 
             i {
                 font-size: 1.3rem;
+
             }
         }
     }
@@ -67,16 +76,5 @@
                 color: $color-dark-sand;
             }
         }
-    }
-
-    @include breakpoint('small') {
-        #{$s}__text {
-            display: none;
-        }
-
-        .icon-print {
-            display: none;
-        }
-
     }
 }
