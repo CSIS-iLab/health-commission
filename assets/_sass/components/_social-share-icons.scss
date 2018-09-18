@@ -5,7 +5,8 @@
 .share {
     $s: &;
     display: flex;
-    padding: .5rem;
+    align-items: center;
+    padding: 0.5rem;
 
     .icon-print {
         display: none;
@@ -16,7 +17,7 @@
         @extend %btn;
         display: none;
         text-transform: uppercase;
-        padding-bottom:.2rem;
+        margin-right: 0.5rem;
         @include breakpoint('medium') { display: inline; }
     }
 
@@ -35,14 +36,13 @@
             line-height: 1;
 
             i {
-                font-size: 1.3rem;
-
+                font-size: 1.2rem;
+                transition: inherit;
             }
         }
     }
 
     .page-header & {
-
         #{$s}__text {
             color: $color-white;
         }
@@ -53,17 +53,10 @@
             &:hover {
                 color: $color-white;
             }
-
-            .icon-print {
-
-            }
         }
-
-
     }
 
     .post__footer & {
-
         #{$s}__text {
             color: $color-black;
         }
