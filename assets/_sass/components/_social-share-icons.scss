@@ -17,7 +17,6 @@
         display: none;
         text-transform: uppercase;
         padding-bottom:.2rem;
-
         @include breakpoint('medium') { display: inline; }
     }
 
