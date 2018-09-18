@@ -1,13 +1,14 @@
 ---
-title: Preventing and Responding to HIGH RISK DISEASE Outbreaks
+title: Preventing and Responding to High Risk Disease Outbreaks
 date: 2018-09-13 02:42:39 +0000
+long_title_formatted: "Preventing and Responding to **HIGH RISK DISEASE** Outbreaks"
 short_title: High Risk Disease Outbreaks
 image: ''
 image_caption: ''
 image_credit: ''
 in_depth_overview: _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 featured_post: _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
-short_description: High-risk disease outbreaks are a real and growing threat to U.S.
+excerpt: High-risk disease outbreaks are a real and growing threat to U.S.
   national security at home and abroad.
 further_reading: |-
   Blue Ribbon Study Panel on Biodefense. “A National Blueprint for Biodefense: Leadership and Major Reform Needed to Optimize Efforts.” October 2015. [http://www.biodefensestudy.org/a-national-blueprint-for-biodefense.](http://www.biodefensestudy.org/a-national-blueprint-for-biodefense. "http://www.biodefensestudy.org/a-national-blueprint-for-biodefense.")

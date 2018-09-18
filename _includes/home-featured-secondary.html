@@ -1,0 +1,8 @@
+{% if page.featured_post_secondary.size > 0 %}
+<section class="home__featured-secondary">
+{% for posts in page.featured_post_secondary limit: 2 %}
+{% assign post = site.posts | where: 'relative_path', posts | first %}
+  {% include post-block.html %}
+{% endfor %}
+</section>
+{% endif %}

@@ -2,6 +2,32 @@
 =            Placeholders            =
 ====================================*/
 
+%archive-post-title {
+  font-family: $font-georgia;
+  @include font-size(20px);
+  line-height: 1.25;
+  font-weight: normal;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(24px);
+    line-height: 1.25;
+  }
+}
+
+%archive-post-title-featured {
+  font-family: $font-georgia;
+  @include font-size(26px);
+  line-height: 1.27;
+  font-weight: normal;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(28px);
+    line-height: 1.18;
+  }
+}
+
 %aside-heading {
   font-family: $font-europa;
   @include font-size(13px);
@@ -311,6 +337,19 @@
 
 %post-block-post-title {
   font-family: $font-georgia;
+  @include font-size(18px);
+  line-height: 1.39;
+  font-weight: normal;
+  color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(20px);
+    line-height: 1.25;
+  }
+}
+
+%post-block-post-title-featured {
+  font-family: $font-georgia;
   @include font-size(20px);
   line-height: 1.25;
   font-weight: normal;
@@ -318,20 +357,7 @@
 
   @include breakpoint('medium') {
     @include font-size(24px);
-    line-height: 1.25;
-  }
-}
-
-%post-block-post-title-featured {
-  font-family: $font-georgia;
-  @include font-size(26px);
-  line-height: 1.27;
-  font-weight: normal;
-  color: $color-black;
-
-  @include breakpoint('medium') {
-    @include font-size(28px);
-    line-height: 1.18;
+    line-height: 1.13;
   }
 }
 
@@ -385,7 +411,6 @@
   line-height: 1.78;
   letter-spacing: 1px;
   font-weight: normal;
-  color: $color-black;
 }
 
 %section-title-lg {
@@ -394,7 +419,6 @@
   line-height: 1.45;
   letter-spacing: 1.2px;
   font-weight: normal;
-  color: $color-black;
 }
 
 %table-title {

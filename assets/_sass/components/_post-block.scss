@@ -15,6 +15,10 @@
   &__title {
     @extend %post-block-post-title;
 
+    .archive & {
+      @extend %archive-post-title;
+    }
+
     a:hover {
       color: $color-dust;
     }

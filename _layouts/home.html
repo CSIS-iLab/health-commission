@@ -3,19 +3,29 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-      {%- for post in site.posts -%}
-        {% include post-block.html %}
-      {%- endfor -%}
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
+  <section class="home__hero">
+    {%- include home-animated-map.html -%}
+    <div class="home__hero-subtitle">{{ site.data.language.home.subtitle | escape }}</div>
+    <div class="home__hero-title">{{ site.data.language.home.title | escape }}</div>
+  </section>
+  <section class="home__desc">
+    {{ content }}
+  </section>
+  <section class="home__commission-img"></section>
+  <section class="home__commission-desc">
+    <p>{{ page.commission_desc }}</p>
+    <a href="" class="btn btn--dark-gray" aria-label="site.data.language.home.commission_btn_aria_label">{{ site.data.language.home.commission_btn | escape }}</a>
+  </section>
+  {% include home-featured-primary.html %}
+  <section class="home__events-series">
+    {% include home-featured-events.html %}
+    {% include home-series-list.html %}
+  </section>
+  {% include home-featured-secondary.html %}
+  {% include home-recent-posts.html %}
+  <section class="home__articles-btn">
+    <a href="/articles/" class="btn btn--dark-gray" aria-label="site.data.language.home.articles_btn_aria_label">{{ site.data.language.home.articles_btn | escape }}</a>
+  </section>
+  {% include home-themes.html %}
+  <section class="home__themes-img"></section>
 </div>

@@ -1,0 +1,16 @@
+<section class="home__recent-header">
+  <h3 class="section-title-lg">{{ site.data.language.home.recent_header | escape }}</h3>
+</section>
+<section class="home__recent-posts">
+<!-- Only show the latest that are not also featured -->
+{% assign featured_posts = page.featured_post_primary | concat: page.featured_post_secondary %}
+{% assign maxCount = 3 %}
+{% assign count = 0 %}
+{% for post in site.posts %}
+  {% unless featured_posts contains post.relative_path %}
+    {% assign count = count | plus: 1 %}
+    {% include post-block.html hide_excerpt=true %}
+    {% if count >= maxCount %}{% break %}{% endif %}
+  {% endunless %}
+{% endfor %}
+</section>

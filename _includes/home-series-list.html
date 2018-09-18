@@ -1,0 +1,8 @@
+<section class="home__series">
+  <h3 class="section-title-lg">{{ site.data.language.home.series_header | escape }}</h3>
+  <ul>
+{% for series in site.series %}
+  <li><a href="{{ series.url | relative_url }}">{{ series.title }}<i class="icon-angle-right"></i></a></li>
+{% endfor %}
+  </ul>
+</section>
