@@ -3,36 +3,39 @@
 =======================================*/
 
 .tag-list {
+  display: flex;
+  align-items: center;
 
-    &__title {
-      @extend %btn;
-      text-transform: uppercase;
+  &__title {
+    @extend %btn;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+
+  ul {
+    @extend %tag;
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+    li {
+      background-color: $color-beige;
       display: inline-block;
-      margin: .4em;
-      margin-right: 1.5em;
-      padding: 0;
-      float: left;
-    }
+      margin-right: 0.5rem;
+      padding: 0.25rem 0.4rem;
+      text-align: center;
+      text-transform: uppercase;
+      transition: background-color 0.3s ease-in-out;
 
-    ul {
-      @extend %tag;
-      list-style-type: none;
-      display: flex;
-      margin: 0;
-      padding: 0;
-      float: left;
+      &:hover {
+        background-color: $color-light-brown;
+      }
 
-      li {
-        background-color: $color-beige;
-        display: inherit;
-        margin-right: 0.5em;
-        padding: .4em;
-        text-align: center;
-        text-transform: uppercase;
-
-        &:hover {
-          background-color: $color-light-brown;
-        }
+      a {
+        display: block;
       }
     }
+  }
 }
