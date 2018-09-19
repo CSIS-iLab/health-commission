@@ -8,7 +8,9 @@
       {{ post.title | escape }}
     </a></h2>
     Authors<br />
-    Publish Date
+    <div class="post-meta">
+      {% include post-meta-date.html %}
+    </div>
   </header>
   {% if include.hide_excerpt != true %}
     <main class="post-block__content" role="main">
