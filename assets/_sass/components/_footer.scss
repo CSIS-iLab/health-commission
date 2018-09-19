@@ -180,6 +180,9 @@
           list-style-type: none;
           a {
             @extend %footer-list-item;
+            &:hover {
+              color: $color-white;
+            }
           }
         }
       }
