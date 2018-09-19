@@ -1,6 +1,6 @@
 .about-table-contents {
   ul {
-    padding-inline-start: calculate-rem(24px);
+    padding-left: calculate-rem(24px);
     position: relative;
     &:before {
       content: '';
@@ -18,9 +18,9 @@
         @extend %btn;
         text-transform: uppercase;
       }
-       &:nth-of-type(n + 2) a {
+      &:nth-of-type(n + 2) a {
         position: relative;
-         &::after {
+        &::after {
           position: absolute;
           right: -0.8rem;
           color: $color-dust;

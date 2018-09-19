@@ -1,6 +1,7 @@
 ---
 footer:
-  About the Commission: The CSIS Commission on Strengthening America’s Health Security
+  about_the_commission_heading: About the Commission
+  about_the_commission_description: '<em>The CSIS Commission on Strengthening America’s Health Security</em>
     aims to chart a bold vision for the future of U.S. leadership in global health
     security, at home and abroad. Recent events demonstrate the growing linkages between
     global health challenges and U.S. national security interests – between what touches
@@ -11,9 +12,10 @@ footer:
     consensus. The Commission brings together a distinguished and diverse group of
     senior leaders who bridge the health and security fields, comprising members of
     Congress, past administrations, industry, foundations, universities, and NGOs.
-    This is a two-year effort organized by the CSIS Global Health Policy Center.
-  Phone number: "(202) 887-0200"
-  Email Address: GHPC@csis.org
+    This is a two-year effort organized by the CSIS Global Health Policy Center.'
+  phone_number: "(202) 887-0200"
+  email_address: GHPC@csis.org
+  address: '1616 Rhode Island Avenue, NW<br> Washington, DC 20036'
 single_post:
   From the Commission: The topics discussed on this page were informed by conversations held by the CSIS Commission with experts and opinion leaders.
   references: References
