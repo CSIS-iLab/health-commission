@@ -3,70 +3,74 @@
 ==================================*/
 
 .share {
-    $s: &;
+  $s: &;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+
+  .icon-print {
+    display: none;
+    @include breakpoint('medium') {
+      display: inline;
+    }
+  }
+
+  &__text {
+    @extend %btn;
+    display: none;
+    text-transform: uppercase;
+    margin-right: 0.5rem;
+    @include breakpoint('medium') {
+      display: inline;
+    }
+  }
+
+  ul {
+    list-style-type: none;
     display: flex;
-    align-items: center;
-    padding: 0.5rem;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
 
-    .icon-print {
-        display: none;
-        @include breakpoint('medium') { display: inline; }
+    li {
+      display: inherit;
+      margin: 0;
+      padding-right: 0.1rem;
+      text-align: center;
+      line-height: 1;
+
+      i {
+        font-size: 1.2rem;
+        transition: inherit;
+      }
+    }
+  }
+
+  .page-highlights & {
+    #{$s}__text {
+      color: $color-white;
     }
 
-    &__text {
-        @extend %btn;
-        display: none;
-        text-transform: uppercase;
-        margin-right: 0.5rem;
-        @include breakpoint('medium') { display: inline; }
+    i {
+      color: $color-beige;
+
+      &:hover {
+        color: $color-white;
+      }
+    }
+  }
+
+  .post__footer & {
+    #{$s}__text {
+      color: $color-black;
     }
 
-    ul {
-        list-style-type: none;
-        display: flex;
-        justify-content: space-between;
-        margin: 0;
-        padding: 0;
+    i {
+      color: $color-dust;
 
-        li {
-            display: inherit;
-            margin: 0;
-            padding-right: 0.1rem;
-            text-align: center;
-            line-height: 1;
-
-            i {
-                font-size: 1.2rem;
-                transition: inherit;
-            }
-        }
+      &:hover {
+        color: $color-dark-sand;
+      }
     }
-
-    .page-header & {
-        #{$s}__text {
-            color: $color-white;
-        }
-
-        i {
-            color: $color-beige;
-
-            &:hover {
-                color: $color-white;
-            }
-        }
-    }
-
-    .post__footer & {
-        #{$s}__text {
-            color: $color-black;
-        }
-
-        i {
-            color: $color-dust;
-
-            &:hover {
-                color: $color-dark-sand;
-            }
-        }
-    }
+  }
 }

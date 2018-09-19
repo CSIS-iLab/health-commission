@@ -44,6 +44,10 @@ defaults:
     type: 'posts'
   values:
     layout: post
+    show_page_highlights: true
+    page_highlights_download: true
+    page_highlights_cite: true
+    page_highlights_share: true
     permalink: "/articles/:slug/"
 - scope:
     path: ''
@@ -56,12 +60,17 @@ defaults:
     type: 'themes'
   values:
     layout: themes
+    show_page_highlights: true
+    page_highlights_featured_post: true
     permalink: "/themes/:slug/"
 - scope:
     path: ''
     type: 'events'
   values:
     layout: post
+    show_page_highlights: true
+    page_highlights_cite: true
+    page_highlights_share: true
     permalink: "/events/:slug/"
 - scope:
     path: ''

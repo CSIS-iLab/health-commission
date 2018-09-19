@@ -1,0 +1,34 @@
+{% if page.show_page_highlights %}
+<div class="page-highlights {{ page.collection }}">
+
+   {% if page.page_highlights_download %}
+   <div class="page-highlights__col download">
+     PDF
+   </div>
+   {% endif %}
+
+   {% if page.page_highlights_cite %}
+   <div class="page-highlights__col">
+     CITE
+   </div>
+   {% else %}
+   <div class="page-highlights__col">
+     Amet porttitor eget dolor morbi non arcu. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Urna nec tincidunt praesent semper feugiat.<br/> Photo Credit: Omic/Anadolu Agency/Getty
+     Images
+   </div>
+   {% endif %}
+
+   {% if page.page_highlights_share %}
+   <div class="page-highlights__col--last ">
+     {% include social-share-icons.html %}
+   </div>
+   {% endif %}
+
+   {% if page.page_highlights_featured_post %}
+   <div class="page-highlights__col--last">
+     FEATURED POST<br /> Finding The Best Medical Care in the World<br /> By Dr. Jonathan Doe<br /> MAY 10, 2018<br />
+   </div>
+   {% endif %}
+
+</div>
+{% endif %}
