@@ -1,4 +1,4 @@
-
 <span class="post-meta__date">
-  {{ page.date or post.date | date: site.date_format }}
+  {{ page.date | date: site.date_format }}
+  {{ post.date | date: site.date_format }}
 </span>

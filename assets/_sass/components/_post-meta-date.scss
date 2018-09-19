@@ -1,9 +1,0 @@
-/*=======================================
-=            Post Meta: Date            =
-=======================================*/
-
-.post-meta__date {
-  @extend %post-meta-date;
-  color: $color-white;
-  text-transform: uppercase;
-}
