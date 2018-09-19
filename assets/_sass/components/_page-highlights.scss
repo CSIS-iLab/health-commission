@@ -1,97 +1,132 @@
 .page-highlights {
-  position: fixed;
-  top: calc(100vh - 50px);
-  left: -50px;
-  right: 0;
-  width: calc(100% + 66px);
-  margin: 0 auto;
-  padding-left: 50px;
-  padding-right: 0;
+  position: relative;
+  width: calc(100% + #{$size-wrapper-padding-mobile} * 2);
+  left: -$size-wrapper-padding-mobile;
+  padding: 0 $size-wrapper-padding-mobile;
   z-index: 5;
+  display: flex;
+  position: relative;
+  background-color: $color-off-white;
+  min-height: #{$size-page-highlights-height-mobile};
 
   @include breakpoint(medium) {
-    position: relative;
-    top: -75px;
-    width: 100%;
-    padding-right: calc((100% - 46%) / 2);
+    width: $size-page-highlights-width;
+    right: -16px;
+    top: -#{$size-page-highlights-height-desktop};
+    right: 0;
+    padding: 0;
+    min-height: #{$size-page-highlights-height-desktop};
   }
-  .row {
-    display: flex;
-    position: relative;
+
+  &:before {
+    content: '';
+    position: absolute;
     background-color: $color-off-white;
+    width: calc(
+      (100vw - #{$size-page-highlights-width} + #{$size-wrapper-padding}) / 2
+    );
+    height: 100%;
+    right: 99.9%;
+    top: 0;
+  }
 
-    min-height: 50px;
-    @include breakpoint(medium) {
-      min-height: 75px;
-    }
+  &:after {
+    content: '';
+    position: absolute;
+    box-shadow: 0 2px 8px 5px rgba(39, 39, 39, 0.16);
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: calc(
+      100% +
+        (
+          (100vw - #{$size-page-highlights-width} + #{$size-wrapper-padding}) /
+            2
+        )
+    );
+    z-index: -1;
+  }
 
-    &:before {
-      content: '';
-      position: absolute;
-      background-color: $color-off-white;
-      width: calc((100vw - 46% + 50px) / 2);
-      height: 100%;
-      right: 99%;
-      top: 0;
-    }
+  div[class^='page-highlights__col'] {
+    display: flex;
+    padding: 0.5rem;
 
-    &:after {
-      content: '';
-      position: absolute;
-      box-shadow: 0 2px 8px 5px rgba(39, 39, 39, 0.16);
-      top: 0;
-      right: 0;
-      height: 100%;
-      width: calc(100% + ((100vw - 46% + 50px) / 2));
-      z-index: -1;
-    }
-    div[class^='page-highlights__col'] {
-      padding: 0.5rem;
-
-      &:first-of-type {
+    &:first-of-type {
+      @include breakpoint(medium) {
         margin-right: auto;
       }
-      &:not(:first-of-type) {
-        justify-content: flex-end;
+    }
+
+    &:last-of-type:not(:only-child) {
+      background-color: $color-dust;
+      flex-shrink: 0;
+    }
+
+    &.download {
+      position: relative;
+
+      &:after {
+        position: absolute;
+        background-color: $color-dusty-lavender;
+        content: '';
+        height: 75%;
+        width: 2px;
+        left: 100%;
+        top: 0;
       }
-      &:last-of-type:not(:only-child) {
-        background-color: $color-dust;
-        flex-shrink: 0;
+    }
+  }
+
+  &.posts {
+    position: fixed;
+    top: calc(100vh - #{$size-page-highlights-height-mobile});
+
+    @include breakpoint(medium) {
+      position: relative;
+      top: -#{$size-page-highlights-height-desktop};
+      flex-basis: 260px;
+    }
+
+    .page-highlights__col {
+      width: 100%;
+      @include breakpoint(medium) {
+        flex-basis: 260px;
       }
 
-      &.download {
-        position: relative;
-        &:after {
-          position: absolute;
-          background-color: $color-dusty-lavender;
-          content: '';
-          height: 75%;
-          width: 2px;
-          left: 100%;
-          top: 0;
+      &--last {
+        flex-basis: 33%;
+        align-items: flex-end;
+        @include breakpoint(medium) {
+          flex-basis: 260px;
         }
       }
     }
   }
 
-  &.posts .page-highlights__col {
-    &--last {
-      flex-basis: 33%;
-      @include breakpoint(medium) {
-        flex-basis: 260px;
-      }
-    }
+  &:not(.posts) div[class^='page-highlights__col'] {
+    padding: 0.5rem 0;
     @include breakpoint(medium) {
-      flex-basis: 260px;
+      padding: 0.5rem;
     }
   }
 
-  &.events .page-highlights__col--last,
-  &.themes .page-highlights__col--last {
-    display: none;
-    @include breakpoint(medium) {
-      display: block;
-      flex-basis: 300px;
+  &.events,
+  &.posts {
+    div[class^='page-highlights__col'] {
+      width: 100%;
+      align-items: flex-end;
+    }
+  }
+
+  &.events,
+  &.themes {
+    .page-highlights__col--last {
+      display: none;
+
+      @include breakpoint(medium) {
+        display: flex;
+        flex-basis: 300px;
+      }
     }
   }
 }

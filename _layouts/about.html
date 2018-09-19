@@ -5,18 +5,8 @@ layout: default
 <article class="post h-entry" role="content" itemscope itemtype="http://schema.org/BlogPosting">
   {% include page-header-background-img.html image_url=page.image %}
 
+  {% include page-header.html %}
 
-<header class="page-header" role="header" {{ background_img }}>
-  <div class="page-header__wrapper">
-  {% if page.collection == 'posts' %}
-    {% include page-header-post.html %}
-  {% else %}
-  <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}{%- if page.permalink == '/search/' -%}: <span></span>{%- endif -%}</h1>
-  {% endif %}
-  </div>
-
-</header>
-<div class="page-highlights">
  <div class="row">
    <div class="page-highlights__col" style="font-family: Georgia;font-size: 22px;font-weight: normal;font-style: italic;line-height: 1.64"> Amet porttitor eget dolor morbi non arcu. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Urna nec tincidunt praesent semper feugiat. Photo Credit: Omic/Anadolu Agency/Getty Images
     </div>

@@ -1,10 +1,9 @@
-{% if page.show_page_highlights or page.post_list_collection == 'events' %}
+{% if page.show_page_highlights %}
 <div class="page-highlights {{ page.collection }}">
- <div class="row">
 
    {% if page.page_highlights_download %}
    <div class="page-highlights__col download">
-     DOWNLOAD PDF
+     PDF
    </div>
    {% endif %}
 
@@ -21,7 +20,7 @@
 
    {% if page.page_highlights_share %}
    <div class="page-highlights__col--last ">
-     Share🐦
+     {% include social-share-icons.html %}
    </div>
    {% endif %}
 
@@ -31,6 +30,5 @@
    </div>
    {% endif %}
 
-  </div>
 </div>
 {% endif %}
