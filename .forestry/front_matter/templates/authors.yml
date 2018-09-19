@@ -17,28 +17,28 @@ fields:
     schema:
       format: markdown
 pages:
-- _authors/missing-author-4.md
-- _authors/author-3.md
-- _authors/missing-author-2.md
 - _authors/julie-louise-gerberding-m-d-mph.md
 - _authors/tom-frieden.md
 - _authors/u-s-senator-todd-young.md
-- _authors/admiral-jonathan-greenert.md
 - _authors/jeffrey-l-sturchio.md
 - _authors/trevor-mundel.md
-- _authors/beth-cameron.md
 - _authors/margaret-peggy-hamburg.md
-- _authors/nancy-lindborg.md
 - _authors/ambassador-mark-dybul.md
 - _authors/david-a-relman.md
 - _authors/u-s-congressman-ami-bera.md
-- _authors/emily-foecke-munden.md
 - _authors/j-stephen-morrison.md
-- _authors/jeremy-konyndyk.md
-- _authors/ambassador-jimmy-kolker.md
 - _authors/rebecca-hersman.md
 - _authors/christine-wormuth.md
 - _authors/rocco-casagrande.md
+- _authors/missing-author-4.md
+- _authors/author-3.md
+- _authors/missing-author-2.md
+- _authors/admiral-jonathan-greenert.md
+- _authors/beth-cameron.md
+- _authors/nancy-lindborg.md
+- _authors/emily-foecke-munden.md
+- _authors/jeremy-konyndyk.md
+- _authors/ambassador-jimmy-kolker.md
 - _authors/ambassador-karl-hofmann.md
 - _authors/laura-s-h-holgate-ambassador-ret.md
 - _authors/u-s-senator-patty-murray.md
