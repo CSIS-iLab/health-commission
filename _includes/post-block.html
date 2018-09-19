@@ -7,8 +7,8 @@
     <h2 class="post-block__title"><a href="{{ post.url | relative_url }}">
       {{ post.title | escape }}
     </a></h2>
-    Authors<br />
     <div class="post-meta__post-block">
+      {% include post-meta-authors.html %}
       {% include post-meta-date.html %}
     </div>
   </header>

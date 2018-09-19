@@ -1,0 +1,21 @@
+{% if page.collection.size and page.themes.size %}
+  {% assign post = page %}
+{% endif %}
+
+{% if post.authors.size == 2 %}
+  {%- assign list_break = ' and ' -%}
+{% elsif post.authors.size > 3 %}
+  {%- assign list_break = ', ' -%}
+{% endif %}
+
+<div class="post-meta__author-list">
+{{ site.data.language.author_list }}
+  {%- for author in post.authors -%}
+      {%- assign author_info = site.authors | where: "relative_path", author -%}
+      {%- assign author_list = author_info[0].title -%}
+      <a href="{{ author_info[0].url | relative_url }}" class="post-meta__author">{{ author_list }}</a>
+      {%- if forloop.last == false -%}
+        {{ list_break }}
+      {%- endif -%}
+  {%- endfor -%}
+</div>

@@ -1,24 +1,48 @@
-/*=======================================
-=            Post Meta: Date            =
-=======================================*/
-
 .post-meta {
-$p: &;
+$p:&;
 
-  &__date {
-    @extend %post-meta-date;
-    text-transform: uppercase;
+  &__author-list {
+    @extend %post-block-meta;
 
-    #{$p}__page-header & {
-      color: $color-white;
-    }
+    #{$p}__author {
+      margin: 0;
+      padding: 0;
 
-    #{$p}__post-block & {
-      color: $color-black;
-    }
+      // .post-block__authors {
 
-    .home__featured-primary & {
-      color: $color-white;
+        .home__featured-secondary & {
+          color: $color-black;
+          &:hover {
+            color: $color-slate
+          }
+        }
+
+        .home__featured-primary & {
+          color: $color-light-gray;
+          text-transform: uppercase;
+          &:hover {
+            color: $color-slate
+          }
+        }
+      // }
     }
   }
+
+  ul {
+    @extend %post-block-meta;
+    list-style-type: none;
+    display: flex;
+
+    li {
+      @extend %post-block-meta;
+      display: inline-block;
+      margin-right: 0.5rem;
+      padding: 0.25rem 0.4rem;
+      text-align: center;
+      text-transform: uppercase;
+      transition: background-color 0.3s ease-in-out;
+    }
+  }
+
+
 }
