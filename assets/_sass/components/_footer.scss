@@ -1,5 +1,5 @@
 .site-footer {
-  $site-footer: &;
+  $sf: &;
   background-color: $color-dark-blue;
   @include fullWidthBackground($color-dark-blue);
   color: $color-white;
@@ -8,7 +8,7 @@
     padding: 0;
   }
 
-  .site-footer-section-title {
+  &__section-title {
     @extend %footer-section-title;
     text-transform: uppercase;
   }
@@ -23,13 +23,14 @@
     }
 
     .site-footer__info {
-      @include breakpoint('medium') {
+      flex-basis: 100%;
+      @media screen and (min-width: 72em) {
         border-right: 1px solid $color-slate;
-        flex-basis: 70%;
         padding-right: $size-wrapper-padding;
+        flex-basis: 70%;
       }
 
-      .csis-logo {
+      #{$sf}__csis-logo {
         opacity: 0.75;
         max-width: 350px;
         margin-bottom: $size-wrapper-padding-mobile;
@@ -38,7 +39,7 @@
         }
       }
 
-      #{$site-footer}-section-title {
+      #{$sf}__section-title {
         @extend %footer-section-title;
         text-transform: uppercase;
         padding-right: 1rem;
@@ -52,7 +53,7 @@
         color: $color-dust;
       }
 
-      #{$site-footer}-follow {
+      #{$sf}__follow {
         display: flex;
         flex-wrap: wrap;
         flex-direction: column;
@@ -70,6 +71,7 @@
             width: auto;
           }
         }
+
         @extend %header-nav-link;
         &-icon {
           order: -1;
@@ -98,36 +100,41 @@
         }
       }
 
-      .site-footer-contact-list {
+      #{$sf}__contact-list {
         padding-left: 0;
-
         @include breakpoint('medium') {
           display: flex;
-          justify-content: space-between;
+          flex-wrap: wrap;
+
+          @media screen and (min-width: 72em) {
+            justify-content: space-between;
+          }
         }
 
         li {
           list-style-type: none;
           margin-bottom: 0.5rem;
           display: flex;
-          flex-wrap: wrap;
           flex-direction: column;
           max-height: calculate-rem(48px);
           align-content: flex-start;
+          flex-wrap: wrap;
 
           &:first-of-type {
             @extend %footer-section-title;
-            font-size: 1.875rem;
+            font-size: 1.25rem;
+            font-weight: normal;
             text-transform: uppercase;
             color: $color-dark-silver;
             @include breakpoint('medium') {
               padding: 1rem 0 calculate-rem(64px) 0;
               font-size: 1rem;
               position: relative;
+
               &:after {
                 content: '';
                 height: 1px;
-                width: 36px;
+                width: 2.4vw;
                 background-color: $color-slate;
                 top: calc(50% - 0.6rem);
                 left: calc(100% + 1rem);
@@ -135,16 +142,15 @@
               }
             }
           }
-          &:nth-of-type(n + 2) {
+          &:not(:first-of-type) {
             @extend %footer-section-title;
             font-weight: normal;
             color: $color-silver;
             @include breakpoint('medium') {
-              padding: 1rem calculate-rem(48px) calculate-rem(64px)
-                calculate-rem(48px);
-            }
-            &:nth-of-type(n + 3) {
-              @include breakpoint('medium') {
+              padding: 1rem calculate-rem(24px) calculate-rem(64px)
+                calculate-rem(24px);
+
+              &:nth-of-type(n + 3) {
                 border-left: 1px solid $color-slate;
               }
             }
@@ -188,7 +194,7 @@
       }
     }
   }
-  .site-footer__copyright {
+  #{$sf}__copyright {
     flex-basis: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -196,8 +202,21 @@
     max-width: 1440px;
     margin: auto;
     @include breakpoint('medium') {
-      border-top: 1px solid $color-slate;
       padding: 0.5rem $size-wrapper-padding;
+      position: relative;
+
+      &:before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        width: 100vw;
+        height: 1px;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        background-color: $color-slate;
+      }
     }
     p {
       @extend %footer-copyright;
