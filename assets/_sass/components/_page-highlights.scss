@@ -80,7 +80,7 @@
   &.posts {
     position: fixed;
     top: calc(100vh - #{$size-page-highlights-height-mobile});
-
+    width: calc(100% + 16px);
     @include breakpoint(medium) {
       position: relative;
       top: -#{$size-page-highlights-height-desktop};
