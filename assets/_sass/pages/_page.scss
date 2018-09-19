@@ -1,0 +1,153 @@
+.page {
+  margin: 0 auto 3rem;
+  > section {
+    max-width: $size-page-content-max-width;
+    margin: 0 auto 3rem;
+    @extend %post-body;
+
+    > * {
+      @include breakpoint('medium') {
+        max-width: $size-page-text-max-width;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+
+  &__content {
+    .section-title-lg.members {
+      display: none;
+    }
+    h2 {
+      font-weight: normal;
+      text-align: center;
+      margin: calculate-rem(8px) auto;
+    }
+    .group {
+      display: grid;
+      @include breakpoint('medium') {
+        grid-template-columns: repeat(2, minmax(35%, 1fr));
+      }
+
+      .title {
+        text-transform: uppercase;
+        font-weight: normal;
+        letter-spacing: 1px;
+        text-align: center;
+        margin: calculate-rem(24px) auto;
+        grid-column: 1 / -1;
+      }
+      .member {
+        @include breakpoint('medium') {
+          display: grid;
+          grid-template-columns: minmax(50px, 150px) minmax(250px, auto);
+        }
+        padding-bottom: calculate-rem(72px);
+
+        @include breakpoint('medium') {
+          &:nth-child(odd) {
+            padding-left: calculate-rem(46px);
+          }
+          &:nth-child(even) {
+            padding-right: calculate-rem(46px);
+          }
+        }
+        .member-photo {
+          margin: auto auto calculate-rem(12px);
+          display: block;
+          @include breakpoint('medium') {
+            margin: 0;
+          }
+        }
+        .member-text {
+          @include breakpoint('medium') {
+            padding-left: calculate-rem(24px);
+          }
+          .bio-name {
+            @extend %bio-name;
+            text-transform: uppercase;
+          }
+          .bio-title {
+            @extend %bio-title;
+          }
+          .btn {
+            margin: auto 25%;
+            display: block;
+            @include breakpoint('medium') {
+              margin: 0;
+              display: inline;
+            }
+          }
+        }
+      }
+      &:not(:last-child) {
+        position: relative;
+        &:after {
+          content: '';
+          display: block;
+          position: absolute;
+          top: 100%;
+          left: 50%;
+          width: 100vw;
+          height: 1px;
+          margin-left: -50vw;
+          margin-right: -50vw;
+          background-color: $color-silver;
+        }
+
+        .back-to-top {
+          @extend %label-lg;
+          text-align: center;
+          margin: 1rem;
+          grid-column: 1 / -1;
+        }
+      }
+    }
+  }
+
+  &__links {
+    .about-table-contents-box {
+      background-color: $color-off-white;
+      padding: calculate-rem(36px);
+      &__subtitle {
+        @extend %section-title;
+        font-weight: normal;
+        text-transform: uppercase;
+        margin: 0;
+      }
+      &__title {
+        @extend %post-block-post-title-featured;
+        position: relative;
+        &:hover {
+          color: $color-dust;
+        }
+        &:after {
+          position: absolute;
+          right: -1rem;
+          color: $color-dust;
+          font-weight: bold;
+          content: '\f105';
+          font-family: 'healthcom';
+          @include font-size(26px);
+        }
+      }
+    }
+  }
+
+  &__footer {
+    position: relative;
+
+    &:before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: calc(0% - 1.5rem);
+      left: 50%;
+      width: 100vw;
+      height: 1px;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      background-color: $color-silver;
+    }
+  }
+}

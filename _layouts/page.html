@@ -1,14 +1,87 @@
 ---
 layout: default
 ---
-<article class="post">
-  {% include page-header.html %}
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+<article class="page h-entry" role="content" itemscope itemtype="http://schema.org/about">
 
-  <div class="post-content">
+  {% include page-header.html %}
+
+  <section class="page__content">
+    <h3 class="section-title-lg {{ page.name  | remove: ".md" }}">{{ page.title }}</h3>
     {{ content }}
+  </section>
+
+
+  {% if page.name == 'about.md' %}
+
+  <section class="page__links">
+    <div class="about-table-contents-box">
+    <h3 class="about-table-contents-box__subtitle">Meet the Commission</h3>
+      <a href="#" class="about-table-contents-box__title">
+        Commission Members and Contributors
+      </a>
+
+    {% include about-table-contents.html %}
+
+    </div>
+  </section>
+
+
+  <section class="page__footer">
+    <p>
+      {{ page.credits }}
+    </p>
+    <p>
+      {{ page.funder_acknowledgements }}
+    </p>
+  </section>
+
+  {% endif %}
+
+
+
+
+
+  {% if page.name == 'members.md' %}
+
+  <div class="page__content">
+    <h2>Commission Members</h2>
+    {% for group in site.data.members %}
+    <div class="group {{ group.type }}">
+      <h3 class="title">{{ group.title }}</h3>
+
+      {% for member in site.data[group.type] %}
+      <div class="member">
+        <img class="member-photo" src="https://via.placeholder.com/150x150" />
+
+        <div class="member-text">
+          <div class="bio-name">{{ member['Name'] }}</div>
+          <div class="bio-title">{{ member['Short Title'] }}</div>
+          <p>{{ member['Short Bio'] }}</p>
+          <a href="#" class="btn">Read Full Bio</a>
+        </div>
+
+      </div>
+      {% endfor %}
+
+      {% unless forloop.first or forloop.last %}
+
+      <div class="back-to-top">
+        BACK TO TOP <i class="icon-arrow-up"></i>
+      </div>
+      {% endunless %}
+    </div>
+    {% endfor %}
   </div>
+
+  <section class="page__links">
+    <div class="about-table-contents-box">
+    <h3 class="about-table-contents-box__subtitle">Learn More</h3>
+      <a href="#" class="about-table-contents-box__title">
+        About the Commission
+      </a>
+    </div>
+  </section>
+
+  {% endif %}
 
 </article>
