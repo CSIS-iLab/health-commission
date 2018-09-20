@@ -15,18 +15,18 @@
 
   {%- assign end_break = ' and ' -%}
 
-  {%- for author in post.authors -%}
+  {%- for author in post.authors limit:3 -%}
       {%- assign author_info = site.authors | where: "relative_path", author -%}
       {%- assign author_list = author_info[0].title -%}
       <a href="{{ author_info[0].url | relative_url }}" class="post-meta__author">{{ author_list }}</a>
 
       {%- if forloop.last == false -%}
-        <!-- {%- assign end_index = forloop.last -%} -->
-        {{ list_break }}
+        {{- list_break -}}
       {%- endif -%}
 
-      {% if forloop.index == 2 %}
-        {{ end_break }}
+      {%- if forloop.index == 2 -%}
+        {{- end_break -}}
+        <!-- {{ and }} -->
       {% endif %}
 
   {%- endfor -%}
