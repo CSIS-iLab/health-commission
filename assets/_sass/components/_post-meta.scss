@@ -1,4 +1,5 @@
 .post-meta {
+<<<<<<< HEAD
 $p:&;
 
   &__author-list {
@@ -26,6 +27,11 @@ $p:&;
         }
       // }
     }
+=======
+
+  &__authors {
+    @extend %post-block-meta;
+>>>>>>> displays authors, not styled
   }
 
   ul {

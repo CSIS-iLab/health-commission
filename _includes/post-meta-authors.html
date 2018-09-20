@@ -2,6 +2,7 @@
   {% assign post = page %}
 {% endif %}
 
+<<<<<<< HEAD
 {% if post.authors.size == 2 %}
   {%- assign list_break = ' and ' -%}
 {% elsif post.authors.size > 3 %}
@@ -19,3 +20,22 @@
       {%- endif -%}
   {%- endfor -%}
 </div>
+=======
+<ul class="post-meta__authors">
+{{ site.data.language.author_list }}
+  {% for author in post.authors %}
+      {% assign author_info = site.authors | where: "relative_path", author %}
+      {% if post.authors.size < 2 %}
+        <li itemscope itemtype="http://schema.org/Person" class="authors-list"><a href="{{ author_info[0].url | relative_url }}" class="authors-name">{{ author_info[0].title | escape }}</a></li>
+      {% elsif post.authors.size < 3 | join:' and ' %}
+        <li itemscope itemtype="http://schema.org/Person" class="authors-list"><a href="{{ author_info[0].url | relative_url }}" class="authors-name">{{ author_info[0].title | escape }}</a></li>
+      {% elsif post.authors.size > 3 | %}
+        <li itemscope itemtype="http://schema.org/Person" class="authors-list"><a href="{{ author_info[0].url | relative_url }}" class="authors-name">{{ author_info[0].title | escape }}{{ loop.index < loop.length-1 ? ', ' : loop.index < loop.length ? ' and' }}</a></li>
+      {% endif %}
+
+  {% endfor %}
+</ul>
+{% for tag in tags %}
+    {{ tag.type }}{{ loop.index < loop.length-1 ? ', ' : loop.index < loop.length ? ' and' }}
+{% endfor %}
+>>>>>>> displays authors, not styled
