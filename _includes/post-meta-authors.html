@@ -21,11 +21,14 @@
       <a href="{{ author_info[0].url | relative_url }}" class="post-meta__author">{{ author_list }}</a>
 
       {%- if forloop.last == false -%}
+        <!-- {%- assign end_index = forloop.last -%} -->
         {{ list_break }}
-        {% if loop.index == 2 %}
-          {{ end_break }}
-        {% endif %}
       {%- endif -%}
+
+      {% if forloop.index == 2 %}
+        {{ end_break }}
+      {% endif %}
+
   {%- endfor -%}
 
 </div>
