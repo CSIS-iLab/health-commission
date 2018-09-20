@@ -1,0 +1,24 @@
+/*=======================================
+=            Post Meta: Date            =
+=======================================*/
+
+.post-meta {
+$p: &;
+
+  &__date {
+    @extend %post-meta-date;
+    text-transform: uppercase;
+
+    #{$p}__page-header & {
+      color: $color-white;
+    }
+
+    #{$p}__post-block & {
+      color: $color-black;
+    }
+
+    .home__featured-primary & {
+      color: $color-white;
+    }
+  }
+}

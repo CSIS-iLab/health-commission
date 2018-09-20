@@ -5,7 +5,7 @@
 {% assign post = site.events | where: 'relative_path', posts | first %}
   <article class="post-block" role="article" data-content-type="{{ post.content_type }}">
     <header class="post-block__header" role="header">
-      <i class="icon-cal"></i>Publish Date
+      <i class="icon-cal"></i>{% include post-meta-date.html %}
       <h2 class="post-block__title"><a href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a></h2>
