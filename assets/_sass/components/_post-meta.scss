@@ -56,21 +56,4 @@ $p: &;
   .post-meta__page-header & {
     color: $color-off-white;
   }
-  // ul {
-  //   @extend %post-block-meta;
-  //   list-style-type: none;
-  //   display: flex;
-  //
-  //   li {
-  //     @extend %post-block-meta;
-  //     display: inline-block;
-  //     margin-right: 0.5rem;
-  //     padding: 0.25rem 0.4rem;
-  //     text-align: center;
-  //     text-transform: uppercase;
-  //     transition: background-color 0.3s ease-in-out;
-  //   }
-  // }
-
-
 }
