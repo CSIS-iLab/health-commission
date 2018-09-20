@@ -45,7 +45,7 @@
         padding-right: 1rem;
       }
 
-      p {
+      #{$sf}__desc {
         @extend %footer-description;
       }
 
@@ -57,7 +57,8 @@
         display: flex;
         flex-wrap: wrap;
         flex-direction: column;
-        max-height: calculate-rem(48px);
+        max-height: 3rem;
+        margin-top: 3rem;
         align-content: flex-start;
         @include breakpoint('medium') {
           flex-direction: row;
@@ -105,7 +106,7 @@
         @include breakpoint('medium') {
           display: flex;
           flex-wrap: wrap;
-
+          padding-bottom: 2.25rem;
           @media screen and (min-width: 72em) {
             justify-content: space-between;
           }
@@ -116,7 +117,7 @@
           margin-bottom: 0.5rem;
           display: flex;
           flex-direction: column;
-          max-height: calculate-rem(48px);
+          max-height: 3rem;
           align-content: flex-start;
           flex-wrap: wrap;
 
@@ -126,15 +127,14 @@
             font-weight: normal;
             text-transform: uppercase;
             color: $color-dark-silver;
-            @include breakpoint('medium') {
-              padding: 1rem 0 calculate-rem(64px) 0;
+            @media screen and (min-width: 86em) {
               font-size: 1rem;
               position: relative;
 
               &:after {
                 content: '';
                 height: 1px;
-                width: 2.4vw;
+                width: 55%;
                 background-color: $color-slate;
                 top: calc(50% - 0.6rem);
                 left: calc(100% + 1rem);
@@ -146,12 +146,18 @@
             @extend %footer-section-title;
             font-weight: normal;
             color: $color-silver;
-            @include breakpoint('medium') {
-              padding: 1rem calculate-rem(24px) calculate-rem(64px)
-                calculate-rem(24px);
-
-              &:nth-of-type(n + 3) {
-                border-left: 1px solid $color-slate;
+            margin: 0 1.25rem;
+            @media screen and (min-width: 86em) {
+              padding: 0 1.5rem;
+              position: relative;
+              &:nth-of-type(n + 3):before {
+                content: '';
+                position: absolute;
+                left: -7%;
+                top: -0.5rem;
+                width: 1px;
+                height: 100%;
+                background-color: $color-slate;
               }
             }
           }
@@ -161,6 +167,9 @@
               margin-right: 0.4em;
               margin-left: 0;
             }
+          }
+          a:hover {
+            color: $color-white;
           }
         }
       }

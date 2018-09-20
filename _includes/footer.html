@@ -7,22 +7,25 @@
       <img class="site-footer__csis-logo" src="{{ 'assets/images/logos/csis_logo_white.svg' | relative_url }}" alt="{{ Center for Strategic and International Studies }}" title="{{ Center for Strategic and International Studies }}" />
 
       <p class="site-footer__desc">
-        <span class="site-footer__section-title"> {{site.data.language.footer.about_the_commission_heading }}</span>
-
-        {{site.data.language.footer.about_the_commission_description }}
+        <span class="site-footer__section-title"> {{site.data.language.footer.about_heading }}</span>
+        {{site.data.language.footer.about_description }}
       </p>
 
 
       <div class="site-footer__follow">
-        <span class="site-footer__follow-csis">Follow CSIS’s</span>
-        <span class="site-footer__follow-program">Global Health Program</span>
+        <span class="site-footer__follow-csis">{{ site.data.language.footer.follow_csis }}</span>
+        <span class="site-footer__follow-program">{{ site.data.language.footer.follow_program }}</span>
         <i class="site-footer__follow-icon icon-twitter"></i>
       </div>
 
       <ul class="site-footer__contact-list">
         <li>Contact</li>
         <li><i class="icon-phone"></i>{{site.data.language.footer.phone_number }}</li>
-        <li><i class="icon-email"></i>{{site.data.language.footer.email_address }}</li>
+        <li>
+          <i class="icon-email"></i>
+          <a href="mailto:{{ site.data.language.footer.email_address }}?Subject={{ site.title }}">{{site.data.language.footer.email_address }}</a>
+        </li>
+
         <li><i class="icon-location"></i>{{site.data.language.footer.address }}</li>
       </ul>
 
@@ -32,7 +35,7 @@
     <div class="site-footer__menu">
 
       <div class="site-footer__section-title">
-        The Commission
+        {{site.data.language.menu.commission }}
       </div>
 
       <ul>
@@ -44,7 +47,7 @@
       </ul>
 
       <div class="site-footer__section-title">
-        Our Work—Themes
+        {{site.data.language.menu.mission }}
       </div>
 
       <ul>
@@ -56,7 +59,7 @@
       </ul>
 
       <div class="site-footer__section-title">
-        Resources
+        {{site.data.language.menu.resources }}
       </div>
 
       <ul>
@@ -72,7 +75,7 @@
   </div>
 
   <section class="site-footer__copyright">
-    <p> &copy;{{ site.time | date: '%Y' }} by the Center for Strategic and International Studies. All rights reserved.</p>
+    <p> &copy;{{ site.time | date: '%Y' }} {{ site.data.language.footer.copyright }}</p>
     <p> <a href="https://www.csis.org/privacy-policy" target="_blank">Privacy Policy</a></p>
   </section>
 
