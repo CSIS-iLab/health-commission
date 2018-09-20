@@ -11,18 +11,10 @@ $p: &;
 
     #{$p}__page-header & {
       color: $color-white;
-      &:hover {
-        color: $color-warm-gray;
-        transition: all 0.3s ease-in-out;
-      }
     }
 
     #{$p}__post-block & {
       color: $color-black;
-      &:hover {
-        color: $color-warm-gray;
-        transition: all 0.3s ease-in-out;
-      }
     }
 
     .home__featured-primary & {
