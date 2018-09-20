@@ -1,5 +1,6 @@
 .post-meta {
 <<<<<<< HEAD
+<<<<<<< HEAD
 $p:&;
 
   &__author-list {
@@ -28,10 +29,23 @@ $p:&;
       // }
     }
 =======
+=======
+$p:&;
+>>>>>>> added commas & and but need to truncate end
 
-  &__authors {
+  &__author-list {
     @extend %post-block-meta;
+<<<<<<< HEAD
 >>>>>>> displays authors, not styled
+=======
+
+    #{$p}__author a {
+      margin: 0;
+      padding: 0;
+      text-transform: uppercase;
+    }
+
+>>>>>>> added commas & and but need to truncate end
   }
 
   ul {
