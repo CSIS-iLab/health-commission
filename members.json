@@ -1,0 +1,60 @@
+---
+---
+{% assign path = site.cloudinary_url | append: "r_max/v1536943052/health-commission/" %}
+{
+"placeholder": {{ path | append: "Anon.jpg" | escape | jsonify }},
+"members":[
+{%- for member in site.data.co_chairs -%}
+{% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+{
+    "objectID": "co_chairs_{{ forloop.index0 }}",
+    "photo": {{ path | append: file | escape | jsonify }},
+    "last_name": {{ member['Last Name'] | escape | jsonify }},
+    "first_name": {{ member['First Name'] | escape | jsonify }},
+    "display_name": {{ member['Display Name'] | escape | jsonify }},
+    "title": {{ member['Title'] | escape | jsonify }},
+    "bio": {{ member['Long Bio'] | escape | jsonify }}
+
+  },
+{%- endfor -%}
+{%- for member in site.data.members_contributors -%}
+{% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+{
+    "objectID": "members_contributors_{{ forloop.index0 }}",
+    "photo": {{ path | append: file | escape | jsonify }},
+    "last_name": {{ member['Last Name'] | escape | jsonify }},
+    "first_name": {{ member['First Name'] | escape | jsonify }},
+    "display_name": {{ member['Display Name'] | escape | jsonify }},
+    "title": {{ member['Title'] | escape | jsonify }},
+    "bio": {{ member['Long Bio'] | escape | jsonify }}
+
+  },
+{%- endfor -%}
+{%- for member in site.data.experts_advisors -%}
+{% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+{
+    "objectID": "experts_advisors_{{ forloop.index0 }}",
+    "photo": {{ path | append: file | escape | jsonify }},
+    "last_name": {{ member['Last Name'] | escape | jsonify }},
+    "first_name": {{ member['First Name'] | escape | jsonify }},
+    "display_name": {{ member['Display Name'] | escape | jsonify }},
+    "title": {{ member['Title'] | escape | jsonify }},
+    "bio": {{ member['Long Bio'] | escape | jsonify }}
+
+  },
+{%- endfor -%}
+{%- for member in site.data.secretariat -%}
+{% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+{
+    "objectID": "secretariat_{{ forloop.index0 }}",
+    "photo": {{ path | append: file | escape | jsonify }},
+    "last_name": {{ member['Last Name'] | escape | jsonify }},
+    "first_name": {{ member['First Name'] | escape | jsonify }},
+    "display_name": {{ member['Display Name'] | escape | jsonify }},
+    "title": {{ member['Title'] | escape | jsonify }},
+    "bio": {{ member['Long Bio'] | escape | jsonify }}
+
+  }{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+]
+}

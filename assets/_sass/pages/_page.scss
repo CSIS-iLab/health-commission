@@ -5,7 +5,7 @@
     margin: 0 auto 3rem;
     @extend %post-body;
 
-    > * {
+    > *:not(.member-directory) {
       @include breakpoint('medium') {
         max-width: $size-page-text-max-width;
         margin-left: auto;
@@ -23,83 +23,77 @@
       text-align: center;
       margin: calculate-rem(8px) auto;
     }
-    .group {
-      display: grid;
+    .about-photo {
+      float: right;
+      > * {
+        margin: 0 0 0.5rem 1.5rem;
+      }
+      .about-photo__caption-credit {
+        @extend %photo-caption-desc;
+      }
+    }
+    .member-directory {
       @include breakpoint('medium') {
-        grid-template-columns: repeat(2, minmax(35%, 1fr));
+        margin-left: -150px;
+        margin-right: -150px;
       }
-
-      .title {
-        text-transform: uppercase;
-        font-weight: normal;
-        letter-spacing: 1px;
-        text-align: center;
-        margin: calculate-rem(24px) auto;
-        grid-column: 1 / -1;
-      }
-      .member {
+      .group {
+        display: grid;
         @include breakpoint('medium') {
-          display: grid;
-          grid-template-columns: minmax(50px, 150px) minmax(250px, auto);
+          grid-template-columns: repeat(2, minmax(35%, 1fr));
         }
-        padding-bottom: calculate-rem(72px);
 
-        @include breakpoint('medium') {
-          &:nth-child(odd) {
-            padding-left: calculate-rem(46px);
-          }
-          &:nth-child(even) {
-            padding-right: calculate-rem(46px);
-          }
+        &__title {
+          text-transform: uppercase;
+          font-weight: normal;
+          letter-spacing: 1px;
+          text-align: center;
+          margin: 1.5rem auto;
+          grid-column: 1 / -1;
         }
-        .member-photo {
-          margin: auto auto calculate-rem(12px);
-          display: block;
+        &__member {
           @include breakpoint('medium') {
-            margin: 0;
+            display: grid;
+            grid-template-columns: minmax(50px, 150px) minmax(250px, auto);
           }
-        }
-        .member-text {
+          padding-bottom: 4.5rem;
+
           @include breakpoint('medium') {
-            padding-left: calculate-rem(24px);
-          }
-          .bio-name {
-            @extend %bio-name;
-            text-transform: uppercase;
-          }
-          .bio-title {
-            @extend %bio-title;
-          }
-          .btn {
-            margin: auto 25%;
-            display: block;
-            @include breakpoint('medium') {
-              margin: 0;
-              display: inline;
+            &:nth-child(odd) {
+              padding-left: 3rem;
+            }
+            &:nth-child(even) {
+              padding-right: 3rem;
             }
           }
         }
-      }
-      &:not(:last-child) {
-        position: relative;
-        &:after {
-          content: '';
-          display: block;
-          position: absolute;
-          top: 100%;
-          left: 50%;
-          width: 100vw;
-          height: 1px;
-          margin-left: -50vw;
-          margin-right: -50vw;
-          background-color: $color-silver;
-        }
+        &:not(:last-child) {
+          position: relative;
+          &:after {
+            content: '';
+            display: block;
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            width: 100vw;
+            height: 1px;
+            margin-left: -50vw;
+            margin-right: -50vw;
+            background-color: $color-silver;
+          }
 
-        .back-to-top {
-          @extend %label-lg;
-          text-align: center;
-          margin: 1rem;
-          grid-column: 1 / -1;
+          .back-to-top {
+            @extend %label-lg;
+            display: block;
+            text-align: center;
+            margin: 1rem;
+            grid-column: 1 / -1;
+            i {
+              font-size: 1.5rem;
+              position: relative;
+              top: 3px;
+            }
+          }
         }
       }
     }
@@ -108,7 +102,7 @@
   &__links {
     .about-table-contents-box {
       background-color: $color-off-white;
-      padding: calculate-rem(36px);
+      padding: 2.25rem;
       &__subtitle {
         @extend %section-title;
         font-weight: normal;
@@ -148,6 +142,64 @@
       margin-left: -50vw;
       margin-right: -50vw;
       background-color: $color-silver;
+    }
+  }
+
+  .modal__container {
+    display: flex;
+    flex-wrap: wrap;
+    @include breakpoint('medium') {
+      flex-wrap: nowrap;
+    }
+    align-items: flex-start;
+  }
+
+  div[class$='member__photo'] {
+    margin: auto auto 0.75rem;
+    display: block;
+    width: 100%;
+    max-width: 100px;
+    @include breakpoint('medium') {
+      margin: 0;
+      max-width: none;
+    }
+  }
+  div[class$='member__text'] {
+    @include breakpoint('medium') {
+      padding-left: 1.5rem;
+    }
+    .bio-name {
+      @extend %bio-name;
+      text-transform: uppercase;
+      text-align: center;
+      .modal__container & {
+        @extend %table-title;
+      }
+
+      @include breakpoint('medium') {
+        text-align: left;
+      }
+    }
+    .bio-title {
+      @extend %bio-title;
+      text-align: center;
+
+      @include breakpoint('medium') {
+        text-align: left;
+      }
+    }
+    .bio-short,
+    .bio-long {
+      @extend %post-body;
+      margin: calculate-rem(18px) 0;
+    }
+    .btn {
+      margin: auto 25%;
+      display: block;
+      @include breakpoint('medium') {
+        margin: 0;
+        display: inline;
+      }
     }
   }
 }

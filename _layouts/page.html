@@ -6,8 +6,60 @@ layout: default
   {% include page-header.html %}
 
   <section class="page__content">
+
+    {% if page.name == 'about.md' %}
+    <div class="about-photo">
+      <img class="about-photo__img" src="https://via.placeholder.com/478x315" />
+
+
+        <div class="about-photo__caption-credit">{{ page.image_credit }}</div>
+    </div>
+    {% endif %}
+
     <h3 class="section-title-lg {{ page.name  | remove: ".md" }}">{{ page.title }}</h3>
+
     {{ content }}
+
+
+    {% if page.name == 'members.md' %}
+    <div class="member-directory">
+
+      <h2>Commission Members</h2>
+      {% for group in site.data.members %}
+      <div class="group {{ group.type }}">
+        <h3 class="group__title">{{ group.title }} <a name="{{ group.type }}"></a></h3>
+
+        {% for member in site.data[group.type] %}
+        <div class="group__member">
+          {% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+          {% assign path = site.cloudinary_url | append: "r_max/v1536943052/health-commission/" %}
+          {% assign placeholder = "Anon.jpg"  %}
+
+          <img class="group__member__photo" onerror="this.src='{{ path }}{{ placeholder }}'" src="{{ path }}{{ file }}" />
+
+          <div class="group__member__text">
+            <div class="bio-name">{{ member['Display Name'] }}</div>
+            <div class="bio-title">{{ member['Short Title'] }}</div>
+            <p class="bio-short">{{ member['Short Bio'] }}</p>
+            <span class="btn member-bio" data-id="{{group.type}}_{{ forloop.index0 }}">Read Full Bio</span>
+          </div>
+
+        </div>
+        {% endfor %}
+
+        {% unless forloop.first or forloop.last %}
+
+        <a href="#" class="back-to-top">
+          BACK TO TOP <i class="icon-arrow-up"></i>
+        </a>
+        {% endunless %}
+      </div>
+      {% endfor %}
+
+    </div>
+    {% endif %}
+
+
   </section>
 
 
@@ -16,7 +68,7 @@ layout: default
   <section class="page__links">
     <div class="about-table-contents-box">
     <h3 class="about-table-contents-box__subtitle">Meet the Commission</h3>
-      <a href="#" class="about-table-contents-box__title">
+      <a href="/members" class="about-table-contents-box__title">
         Commission Members and Contributors
       </a>
 
@@ -43,36 +95,6 @@ layout: default
 
   {% if page.name == 'members.md' %}
 
-  <div class="page__content">
-    <h2>Commission Members</h2>
-    {% for group in site.data.members %}
-    <div class="group {{ group.type }}">
-      <h3 class="title">{{ group.title }}</h3>
-
-      {% for member in site.data[group.type] %}
-      <div class="member">
-        <img class="member-photo" src="https://via.placeholder.com/150x150" />
-
-        <div class="member-text">
-          <div class="bio-name">{{ member['Name'] }}</div>
-          <div class="bio-title">{{ member['Short Title'] }}</div>
-          <p>{{ member['Short Bio'] }}</p>
-          <a href="#" class="btn">Read Full Bio</a>
-        </div>
-
-      </div>
-      {% endfor %}
-
-      {% unless forloop.first or forloop.last %}
-
-      <div class="back-to-top">
-        BACK TO TOP <i class="icon-arrow-up"></i>
-      </div>
-      {% endunless %}
-    </div>
-    {% endfor %}
-  </div>
-
   <section class="page__links">
     <div class="about-table-contents-box">
     <h3 class="about-table-contents-box__subtitle">Learn More</h3>
@@ -82,6 +104,8 @@ layout: default
     </div>
   </section>
 
+
+  {% include modal.html %}
   {% endif %}
 
 </article>

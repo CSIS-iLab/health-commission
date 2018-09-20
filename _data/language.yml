@@ -23,7 +23,7 @@ single_post:
   related_posts: Related Posts
   more_posts: More Related Posts
 events:
-  Blurb: The CSIS Commission on Strengthening America’s Health Security aims to chart
+  blurb: The CSIS Commission on Strengthening America’s Health Security aims to chart
     a bold vision for the future of U.S. leadership in global health security, at
     home and abroad.
 about_the_commission:
