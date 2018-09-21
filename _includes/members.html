@@ -17,6 +17,7 @@
       <img class="group__member__photo" onerror="this.src='{{ path }}{{ placeholder }}'" src="{{ path }}{{ file }}" />
 
       <div class="group__member__text">
+        <a name="{{ member['Last Name'] | append: member['First Name'] | slugify }}"></a>
         <div class="bio-name">{{ member['Display Name'] }}</div>
         <div class="bio-title">{{ member['Short Title'] }}</div>
         <p class="bio-short">{{ member['Short Bio'] }}</p>

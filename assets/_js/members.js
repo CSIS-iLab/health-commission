@@ -1,4 +1,4 @@
-let modal, overlay, close, container
+let modal, overlay, close, container, navigator
 
 const Members = () => {
   modal = document.querySelector('.modal')
@@ -28,6 +28,29 @@ const Members = () => {
         })
     }
   })
+
+  navigator = document.querySelector('.navigate-members__container')
+  document
+    .querySelector('.navigate-members .icon-arrow-up')
+    .addEventListener('click', () => {
+      navigator.scrollTop = 0
+    })
+
+  document
+    .querySelector('.navigate-members .icon-list-nav')
+    .addEventListener('click', hideNavigator)
+
+  navigator
+    .querySelector('.navigate-members__container__list')
+    .addEventListener('click', e => {
+      if (e.target.tagName === 'A') {
+        hideNavigator()
+      }
+    })
+}
+
+const hideNavigator = () => {
+  navigator.classList.toggle('hide')
 }
 
 const compose = (member, placeholder) => {

@@ -18,11 +18,13 @@
     .section-title-lg.members {
       display: none;
     }
+
     h2 {
       font-weight: normal;
       text-align: center;
       margin: calculate-rem(8px) auto;
     }
+
     .about-photo {
       float: right;
       @include breakpoint('medium') {
@@ -30,15 +32,18 @@
           margin: 0 0 0.5rem 1.5rem;
         }
       }
+
       .about-photo__caption-credit {
         @extend %photo-caption-desc;
       }
     }
+
     .member-directory {
       @include breakpoint('medium') {
         margin-left: -150px;
         margin-right: -150px;
       }
+
       .group {
         display: grid;
         @include breakpoint('medium') {
@@ -54,23 +59,27 @@
           grid-column: 1 / -1;
         }
         &__member {
+          padding-bottom: 4.5rem;
+
           @include breakpoint('medium') {
             display: grid;
             grid-template-columns: minmax(50px, 150px) minmax(250px, auto);
           }
-          padding-bottom: 4.5rem;
 
           @include breakpoint('medium') {
             &:nth-child(odd) {
               padding-left: 3rem;
             }
+
             &:nth-child(even) {
               padding-right: 3rem;
             }
           }
         }
+
         &:not(:last-child) {
           position: relative;
+
           &:after {
             content: '';
             display: block;
@@ -105,18 +114,22 @@
     .about-table-contents-box {
       background-color: $color-off-white;
       padding: 2.25rem;
+
       &__subtitle {
         @extend %section-title;
         font-weight: normal;
         text-transform: uppercase;
         margin: 0;
       }
+
       &__title {
         @extend %post-block-post-title-featured;
         position: relative;
+
         &:hover {
           color: $color-dust;
         }
+
         &:after {
           position: absolute;
           right: -1rem;
@@ -161,6 +174,7 @@
     display: block;
     width: 100%;
     max-width: 100px;
+
     @include breakpoint('medium') {
       margin: 0;
       max-width: none;
@@ -195,6 +209,7 @@
       @extend %post-body;
       margin: calculate-rem(18px) 0;
     }
+
     .btn {
       margin: auto 25%;
       display: block;

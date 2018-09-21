@@ -1,4 +1,23 @@
 <div class="navigate-members">
-<i class="icon-list-nav"></i><span class="navigate-members__title">navigate by name</span>
-<span class="navigate-mebers__top">Top</span><i class="icon-arrow-up"></i>
+  <div class="navigate-members__header">
+    <span class="navigate-members__header__title"><i class="icon-list-nav"></i>navigate by name</span>
+    <a href="#" class="navigate-members__header__top">Top<i class="icon-arrow-up"></i></a>
+  </div>
+  <div class="navigate-members__container hide">
+    <p class="navigate-members__container__instruction">
+      Click on a name to jump to bio.
+    </p>
+    <ul class="navigate-members__container__list">
+      {% assign all_members = site.data.co_chairs | concat: site.data.members_contributors | concat: site.data.experts_advisors | concat: site.data.secretariat %}
+
+        {% for member in all_members %}
+        <li class="navigate-members__container__list__item">
+          <a href="#{{ member['Last Name'] | append: member['First Name'] | slugify }}">
+            {{ member['Last Name'] }}, {{ member['First Name'] }}
+          </a>
+        </li>
+        {% endfor %}
+    </ul>
+
+  </div>
 </div>

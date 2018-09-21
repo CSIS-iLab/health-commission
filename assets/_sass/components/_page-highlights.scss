@@ -80,13 +80,16 @@
         top: 0;
       }
     }
+
     #{$ph}__excerpt {
       @extend %page-description;
     }
+
     #{$ph}__photo-credit {
       .photo-caption-desc {
         @extend %photo-caption-desc;
       }
+
       .photo-caption-credit {
         @extend %photo-caption-credit;
       }
@@ -102,11 +105,13 @@
       top: -#{$size-page-highlights-height-desktop};
       width: $size-page-highlights-width;
     }
+
     div[class^='page-highlights__col'] {
       width: 100%;
       display: flex;
       align-items: flex-end;
     }
+
     #{$ph}__col {
       width: 100%;
 
@@ -142,6 +147,7 @@
         display: flex;
         align-items: flex-end;
       }
+
       #{$ph}__col--last {
         display: none;
         &:not(.featured-box) {
