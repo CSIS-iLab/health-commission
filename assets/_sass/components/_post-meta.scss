@@ -21,6 +21,11 @@ $p: &;
   &__author-list {
     @extend %post-block-meta;
 
+    .page-header__wrapper & {
+      @extend %post-meta;
+      color: $color-off-white;
+    }
+
     #{$p}__author {
       margin: 0;
       padding: 0;
@@ -48,12 +53,7 @@ $p: &;
 
       .post-block__authors & {
         color: $color-off-white;
-        // text-transform: uppercase;
       }
     }
-  }
-
-  .post-meta__page-header & {
-    color: $color-off-white;
   }
 }
