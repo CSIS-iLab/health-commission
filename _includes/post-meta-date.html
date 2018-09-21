@@ -1,8 +1,8 @@
-{% if page.date.size > 0 %}
-{% assign post.date = page.date %}
+{% assign date = post.date %}
+{% if page.date %}
+{% assign date = page.date %}
 {% endif %}
 
 <span class="post-meta__date">
-  {{ page.date | date: site.date_format }}
-  {{ post.date | date: site.date_format }}
+  {{ date | date: site.date_format }}
 </span>
