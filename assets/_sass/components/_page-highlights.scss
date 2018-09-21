@@ -53,10 +53,6 @@
   }
 
   div[class^='page-highlights__col'] {
-    &:not(.excerpt) {
-      display: flex;
-    }
-
     &:first-of-type {
       padding-left: 0;
 
@@ -71,7 +67,7 @@
       padding: 1rem 2rem;
     }
 
-    &.download {
+    &.download-box {
       position: relative;
 
       &:after {
@@ -100,14 +96,17 @@
   &.posts {
     position: fixed;
     top: calc(100vh - #{$size-page-highlights-height-mobile});
-    width: calc(100% + 16px);
 
     @include breakpoint(medium) {
       position: relative;
       top: -#{$size-page-highlights-height-desktop};
       width: $size-page-highlights-width;
     }
-
+    div[class^='page-highlights__col'] {
+      width: 100%;
+      display: flex;
+      align-items: flex-end;
+    }
     #{$ph}__col {
       width: 100%;
 
@@ -125,9 +124,40 @@
     }
   }
 
+  &.events,
+  &.themes {
+    &.archive {
+      #{$ph}__col--last:not(:only-child) {
+        display: none;
+        @include breakpoint(medium) {
+          display: flex;
+          flex-basis: 300px;
+        }
+      }
+    }
+
+    &:not(.archive) {
+      #{$ph}__col:not(.excerpt-box):not(.featured-box) {
+        width: 100%;
+        display: flex;
+        align-items: flex-end;
+      }
+      #{$ph}__col--last {
+        display: none;
+        &:not(.featured-box) {
+          @include breakpoint(medium) {
+            display: flex;
+            flex-basis: 300px;
+            align-items: flex-end;
+          }
+        }
+      }
+    }
+  }
+
   &.posts div[class^='page-highlights__col'],
   &.themes div[class^='page-highlights__col'] {
-    padding: 0.5rem 0;
+    padding: 0.5rem;
     @include breakpoint(medium) {
       padding: 0.5rem;
     }

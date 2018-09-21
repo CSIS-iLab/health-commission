@@ -1,0 +1,15 @@
+.navigate-members {
+  position: fixed;
+  top: calc(100vh - #{$size-page-highlights-height-mobile});
+  width: calc(100% + #{$size-wrapper-padding-mobile} * 2);
+  padding: 0.5rem calc(2 * #{$size-wrapper-padding-mobile});
+  left: -#{$size-wrapper-padding-mobile};
+  z-index: 5;
+  display: flex;
+  justify-content: space-between;
+  background-color: $color-off-white;
+  min-height: #{$size-page-highlights-height-mobile};
+  @include breakpoint(medium) {
+    display: none;
+  }
+}

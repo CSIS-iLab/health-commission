@@ -1,0 +1,7 @@
+{% if page.name == 'about.md' %}
+<div class="about-photo">
+  <img class="about-photo__img" src="https://via.placeholder.com/478x315" />
+    <div class="about-photo__caption-credit">{{ page.image_credit }}</div>
+</div>
+<h3 class="section-title-lg {{ page.name  | remove: ".md" }}">{{ page.title }}</h3>
+{% endif %}

@@ -1,18 +1,32 @@
 {% if page.show_page_highlights %}
-<div class="page-highlights {{ page.collection }} {{ page.name  | remove: ".md" }}">
+<div class="page-highlights {{ page.collection }} {{ page.layout }} {{ page.name  | remove: ".md" }}">
 
 
 
    {% if page.page_highlights_download %}
-   <div class="page-highlights__col download">
+   <div class="page-highlights__col download-box">
      PDF
    </div>
    {% endif %}
 
    {% if page.page_highlights_cite %}
-   <div class="page-highlights__col">
+   <div class="page-highlights__col cite-box">
      CITE
    </div>
+   {% endif %}
+   {% if page.layout!='post'  and page.excerpt.size > 0 %}
+   <div class="page-highlights__col excerpt-box">
+     <p class="page-highlights__excerpt">
+       {{ page.excerpt }}
+      </p>
+     <div class="page-highlights__photo-credit" >
+       <span class="photo-caption-desc">Photo credit: </span>
+       <span class="photo-caption-credit">{{ page.image_credit }}</span>
+     </div>
+
+     {% if page.name == 'members.md' %}
+      {% include about-table-contents.html %}
+     {% endif %}
 
    </div>
    {% endif %}
@@ -24,7 +38,7 @@
    {% endif %}
 
    {% if page.featured_post %}
-   <div class="page-highlights__col--last">
+   <div class="page-highlights__col--last featured-box">
       {% assign featured_post = site.posts | where: 'relative_path', page.featured_post %}
       {% for post in featured_post limit: 1 %}
        {% include post-block.html hide_excerpt=true num_themes='0' %}
