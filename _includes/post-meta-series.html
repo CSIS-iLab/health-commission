@@ -1,0 +1,16 @@
+{% if page.series.size > 0 %}
+    {% assign post = page %}
+{% endif %}
+
+{% if post.content_type == commentary %}
+  {% assign content_type_plural = {{site.data.content_types[0].title_plural}} %}
+{% endif %}
+
+<span class="post-meta__series">
+    {% for series in site.series %}
+      {% assign series_info = site.series | where: "relative_path",series %}
+      {%- assign series_name = series_info[0].title -%}
+      <a href="{{ series.url | relative_url }}" class="post-meta__link">{{ series_name || escape || upcase }}</a>
+    {% endfor %}
+</span>
+<!-- site.tag_url | append: tag | relative_url -->
