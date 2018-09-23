@@ -8,14 +8,16 @@
   position: relative;
   background-color: $color-off-white;
   min-height: #{$size-page-highlights-height-mobile};
+  margin-bottom: 2rem;
 
   @include breakpoint(medium) {
     width: $size-page-highlights-width;
-    right: -16px;
     top: -#{$size-page-highlights-height-desktop};
     right: 0;
+    left: 0;
     padding: 0;
     min-height: #{$size-page-highlights-height-desktop};
+    margin-bottom: 0;
   }
 
   &:before {
@@ -31,35 +33,40 @@
   }
 
   &:after {
-    content: '';
-    position: absolute;
-    box-shadow: 0 2px 8px 5px rgba(39, 39, 39, 0.16);
-    top: 0;
-    right: 0;
-    height: 100%;
-    width: calc(
-      100% +
-        (
-          (100vw - #{$size-page-highlights-width} + #{$size-wrapper-padding}) /
-            2
-        )
-    );
-    z-index: -1;
+    @include breakpoint('medium') {
+      content: '';
+      position: absolute;
+      box-shadow: 0 2px 8px 5px rgba(39, 39, 39, 0.16);
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: calc(
+        100% +
+          (
+            (100vw - #{$size-page-highlights-width} + #{$size-wrapper-padding}) /
+              2
+          )
+      );
+      z-index: -1; 
+    }
   }
 
-  div[class^='page-highlights__col'] {
+  .page-highlights__col {
     display: flex;
-    padding: 0.5rem;
+    padding: 1rem 2rem;
 
     &:first-of-type {
+      padding-left: 0;
+
       @include breakpoint(medium) {
         margin-right: auto;
       }
     }
 
-    &:last-of-type:not(:only-child) {
+    &--last:not(:only-child) {
       background-color: $color-dust;
       flex-shrink: 0;
+      padding: 1rem 2rem;
     }
 
     &.download {
@@ -73,6 +80,14 @@
         width: 2px;
         left: 100%;
         top: 0;
+      }
+    }
+
+    &.page-excerpt {
+      flex-direction: column;
+
+      .page-highlights__excerpt {
+        @extend %page-description;
       }
     }
   }
@@ -105,16 +120,13 @@
     }
   }
 
-  &:not(.posts) div[class^='page-highlights__col'] {
-    padding: 0.5rem 0;
-    @include breakpoint(medium) {
-      padding: 0.5rem;
-    }
+  &:not(.posts) .page-highlights__col {
+    
   }
 
   &.events,
   &.posts {
-    div[class^='page-highlights__col'] {
+    .page-highlights__col {
       width: 100%;
       align-items: flex-end;
     }
