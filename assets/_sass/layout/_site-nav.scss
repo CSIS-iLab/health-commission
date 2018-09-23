@@ -7,12 +7,23 @@
   $minimal: '.site-header--minimal';
 
   flex: 1 0 5%;
-  margin-left: 0.5rem;
+  max-width: 5%;
+  margin: 0 0.5rem;
+
+  @include breakpoint('medium') {
+    flex: 1 1 auto;
+    max-width: unset;
+    margin-right: 1rem;
+  }
 
   &__trigger {
     position: absolute;
     visibility: hidden;
     opacity: 0;
+
+    @include breakpoint('medium') {
+      display: none;
+    }
 
     &-label {
       display: block;
@@ -22,6 +33,10 @@
       transform: rotate(0deg);
       transition: 0.5s ease-in-out;
       cursor: pointer;
+
+      @include breakpoint('medium') {
+        display: none;
+      }
 
       span {
         display: block;
@@ -98,6 +113,23 @@
     list-style: none;
     transition: left 0.3s ease-in-out;
 
+    @include breakpoint('medium') {
+      position: static;
+      top: unset;
+      left: unset;
+      right: unset;
+      height: 100%;
+      flex-direction: row;
+      justify-content: flex-end;
+      padding: 0;
+      background-color: transparent;
+      opacity: 1;
+
+      #{$minimal} & {
+        justify-content: flex-start;
+      }
+    }
+
     #{$s}__trigger:checked ~ & {
       left: 0;
     }
@@ -106,8 +138,28 @@
       @extend %header-nav-link;
       margin: 0 0 1rem;
 
+      @include breakpoint('medium') {
+        margin: 0 0.75rem;
+        padding: 1rem 0;
+        color: $color-white;
+        text-transform: uppercase;
+
+        a {
+          color: $color-white;
+        }
+
+        #{$minimal} &,
+        #{$minimal} & a {
+          color: $color-black;
+        }
+      }
+
       i {
         @include font-size(18px);
+
+        @include breakpoint('medium') {
+          @include font-size(14px);
+        }
 
         &::before {
           transition: transform 0.3s ease-in-out;
@@ -118,6 +170,36 @@
       &:hover {
         #{$s}__dropdown {
           display: block;
+
+          @include breakpoint('medium') {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            max-width: $size-wrapper-full-max-width;
+            padding: 1rem 0;
+            display: grid;
+            grid-template-rows: repeat(2, auto);
+            grid-auto-columns: max-content;
+            grid-column-gap: 4rem;
+            visibility: visible;
+            opacity: 1;
+            background-color: $color-dark-blue;
+
+            &::before {
+              content: '';
+              display: block;
+              position: absolute;
+              top: -2rem;
+              height: 2rem;
+              width: 100%;
+              background-color: transparent;
+            }
+
+            * {
+              display: block;
+            }
+          }
         }
 
         i::before {
@@ -129,6 +211,18 @@
 
     #{$s}__dropdown {
       display: none;
+
+      @include breakpoint('medium') {
+        position: absolute;
+        display: block;
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s, opacity 0.2s ease-in-out;
+
+        & * {
+          display: none;
+        }
+      }
     }
 
     #{$s}__dropdown-menu {
@@ -136,9 +230,51 @@
       margin: 0.5rem 0 1rem 2rem;
       padding: 0;
 
-      a {
+      @include breakpoint('medium') {
+        columns: 2;
+      }
+
+      li {
+        @include breakpoint('medium') {
+          margin: 1rem 0 0;
+          padding: 0;
+
+          &:first-of-type {
+            margin-top: 0;
+          }
+        }
+      }
+
+      li a {
         display: inline-block;
         @extend %header-nav-dropdown-link;
+
+        @include breakpoint('medium') {
+          text-transform: none;
+          color: $color-dark-silver;
+
+          &:hover {
+            color: $color-white;
+          }
+        }
+      }
+    }
+
+    #{$s}__dropdown-heading,
+    #{$s}__dropdown-menu {
+      @include breakpoint('medium') {
+        position: relative;
+
+        &:not(:first-of-type)::before {
+          content: '';
+          display: block;
+          position: absolute;
+          top: 0;
+          left: -1.5rem;
+          width: 1px;
+          height: 100%;
+          background-color: $color-slate;
+        }
       }
     }
 
@@ -147,6 +283,16 @@
       margin: 0.5rem 0 0 2rem;
       @extend %header-nav-dropdown-heading;
       border-bottom: 1px solid $color-dust;
+
+      @include breakpoint('medium') {
+        grid-row: 1;
+        border-bottom: 0;
+        margin-top: 0;
+
+        &::before {
+          top: 10px !important;
+        }
+      }
     }
 
   }
