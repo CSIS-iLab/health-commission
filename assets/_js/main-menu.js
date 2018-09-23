@@ -1,16 +1,22 @@
 const mobileNavigation = () => {
-  const menuTrigger = document.getElementById('nav-trigger')
-  const menuTriggerLabel = document.getElementById('nav-trigger-label')
-  const menuLabelOpen = menuTriggerLabel.getAttribute('data-label-open')
-  const menuLabelClose = menuTriggerLabel.getAttribute('data-label-close')
+  const menuTrigger = document.getElementById('site-nav__trigger')
+  // const menuTriggerLabel = document.getElementById('site-nav__label')
+  const header = document.querySelector('.site-header')
+  const trigger_minimal_class = 'site-header--trigger-minimal'
 
   menuTrigger.addEventListener('change', function() {
     if (menuTrigger.checked) {
       document.body.classList.add('menu-open')
-      menuTriggerLabel.innerHTML = menuLabelClose
+      if (!header.classList.contains(trigger_minimal_class)) {
+        return
+      }
+      header.classList.add('site-header--minimal')
     } else {
       document.body.classList.remove('menu-open')
-      menuTriggerLabel.innerHTML = menuLabelOpen
+      if (!header.classList.contains(trigger_minimal_class)) {
+        return
+      }
+      header.classList.remove('site-header--minimal')
     }
   })
 }

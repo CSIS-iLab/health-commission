@@ -6,44 +6,68 @@
   $s: &;
   $minimal: '.site-header--minimal';
 
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 20;
+  height: $size-site-header-height;
   padding: 0.5rem 0;
+  transition: top 0.3s ease-in-out, background 0.5s ease-in-out;
 
   @include breakpoint('medium') {
     position: fixed;
     background-color: transparent;
   }
 
-  .wrapper-full {
-    display: flex;
-  }
-
   &#{$minimal} {
     position: fixed;
     background-color: $color-white;
+    box-shadow: 1px 1px 5px 0px rgba(140,137,140,0.6);
+  }
+
+  &#{&}--hidden {
+    top: -#{$size-site-header-height};
+    box-shadow: none;
+  }
+
+  .wrapper-full {
+    display: flex;
+    align-items: center;
   }
 
   &__masthead {
-    flex: 1 1 auto;
+    flex: 1 1 80%;
 
     a {
       display: block;
     }
 
     #{$s}__logo {
-      display: none;
-      max-width: 50px;
+      position: absolute;
+      visibility: hidden;
+      opacity: 0;
+      transition: visibility 0s ease-in-out, opacity 0.3s 0.3s ease-in-out;
 
       @include breakpoint('medium') {
-        display: block;
+        position: static;
+        visibility: visible;
+        opacity: 1;
       }
 
       #{$minimal} & {
+        position: static;
+        visibility: visible;
+        opacity: 1;
+      }
+
+      svg {
         display: block;
+        max-width: 35px;
+
+        @include breakpoint('medium') {
+          max-width: 50px;
+        }
       }
 
       .dots {
@@ -60,6 +84,17 @@
         #{$minimal} & {
           fill: $color__logo-color-lines;
         }
+      }
+    }
+
+    #{$s}__subtitle,
+    #{$s}__title {
+      transition: visibility 0s ease-in-out, opacity 0.3s 0.3s ease-in-out;
+
+      #{$minimal} & {
+        position: absolute;
+        visibility: hidden;
+        opacity: 0;
       }
     }
 
@@ -83,6 +118,10 @@
     i {
       @include font-size(18px);
       color: $color-white;
+
+      #{$minimal} & {
+        color: $color-black;
+      }
     }
   }
 }
