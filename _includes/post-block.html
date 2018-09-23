@@ -18,7 +18,7 @@
     </main>
   {% endif %}
   <footer class="post-block__footer" role="footer">
-    {%- include themes-list.html -%}
+    {%- include themes-list.html num_themes = include.num_themes -%}
   </footer>
   {% if include.show_image and post.image.size > 0 %}
   <div class="post-block__clear"></div>

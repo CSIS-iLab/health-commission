@@ -3,7 +3,7 @@
     {% assign post = page %}
   {% endif %}
 
-  {% for theme in post.themes %}
+  {% for theme in post.themes limit: include.num_themes %}
 
   {% assign theme_info = site.themes | where: "path", theme | first %}
     <li class="themes-list__item themes-list__item--{{ theme_info.short_title | slugify }}">
