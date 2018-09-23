@@ -1,0 +1,33 @@
+/*=======================================
+=            Site Navigation            =
+=======================================*/
+
+.site-nav {
+  $s: &;
+  flex: 1 0 auto;
+  margin-left: 0.5rem;
+
+  &__trigger {
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+
+    &-label {
+
+      .menu-icon {
+        path {
+          fill: $color-white;
+        }
+      }
+    }
+  }
+
+  &__menu {
+    display: none;
+
+    @include breakpoint('medium') {
+      display: block;
+    }
+  }
+}
+

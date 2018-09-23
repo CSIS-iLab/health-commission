@@ -1,0 +1,89 @@
+/*==============================
+=            Header            =
+==============================*/
+
+.site-header {
+  $s: &;
+  $minimal: '.site-header--minimal';
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  padding: 0.5rem 0;
+
+  @include breakpoint('medium') {
+    position: fixed;
+    background-color: transparent;
+  }
+
+  .wrapper-full {
+    display: flex;
+  }
+
+  &#{$minimal} {
+    position: fixed;
+    background-color: $color-white;
+  }
+
+  &__masthead {
+    flex: 1 1 auto;
+
+    a {
+      display: block;
+    }
+
+    #{$s}__logo {
+      display: none;
+      max-width: 50px;
+
+      @include breakpoint('medium') {
+        display: block;
+      }
+
+      #{$minimal} & {
+        display: block;
+      }
+
+      .dots {
+        fill: $color__logo-white-dots;
+
+        #{$minimal} & {
+          fill: $color__logo-color-dots;
+        }
+      }
+
+      .lines {
+        fill: $color__logo-white-lines;
+
+        #{$minimal} & {
+          fill: $color__logo-color-lines;
+        }
+      }
+    }
+
+    #{$s}__subtitle {
+      @extend %post-meta;
+      @include font-size(12px);
+      text-transform: uppercase;
+    }
+
+    #{$s}__title {
+      @extend %page-title;
+      @include font-size(22px);
+      color: $color-white;
+      letter-spacing: 1px;
+    }
+  }
+
+  &__search {
+    margin: 0 0.5rem;
+
+    i {
+      @include font-size(18px);
+      color: $color-white;
+    }
+  }
+}
+
