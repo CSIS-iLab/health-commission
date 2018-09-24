@@ -115,21 +115,21 @@
   font-family: $font-europa;
   @include font-size(12px);
   line-height: 1.33;
-  color: $color-dark-silver;
+  color: $color-cool-gray;
 }
 
 %footer-description {
   font-family: $font-georgia;
   @include font-size(16px);
   line-height: 1.81;
-  color: $color-dark-silver;
+  color: $color-cool-gray;
 }
 
 %footer-list-item {
   font-family: $font-europa;
   @include font-size(14px);
   line-height: 1.29;
-  color: $color-dark-silver;
+  color: $color-cool-gray;
 }
 
 %footer-section-title {
@@ -393,7 +393,7 @@
   color: $color-off-white;
 
   @include breakpoint('medium') {
-     @include font-size(14px);
+    @include font-size(14px);
     letter-spacing: 0.9px;
   }
 }
