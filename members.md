@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: members
 title: Commission Members and Contributors
 permalink: /members/
 show_page_highlights: true

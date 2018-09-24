@@ -1,0 +1,145 @@
+/*===============================
+=            Members            =
+===============================*/
+.members {
+  &__content {
+    margin-bottom: 3rem;
+    @extend %post-body;
+
+    h2 {
+      text-align: center;
+      font-weight: normal;
+      margin: calculate-rem(8px) auto;
+    }
+
+    .member-directory {
+      .group {
+        display: grid;
+        @include breakpoint('medium') {
+          grid-template-columns: repeat(2, minmax(35%, 1fr));
+        }
+
+        &__title {
+          text-transform: uppercase;
+          font-weight: normal;
+          letter-spacing: 1px;
+          text-align: center;
+          margin: 1.5rem auto;
+          grid-column: 1 / -1;
+        }
+        &__member {
+          padding-bottom: 4.5rem;
+
+          @include breakpoint('medium') {
+            display: grid;
+            grid-template-columns: minmax(50px, 150px) minmax(250px, auto);
+          }
+
+          @include breakpoint('medium') {
+            &:nth-child(odd) {
+              padding-left: 3rem;
+            }
+
+            &:nth-child(even) {
+              padding-right: 3rem;
+            }
+          }
+        }
+
+        &:not(:last-child) {
+          position: relative;
+
+          &:after {
+            content: '';
+            display: block;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 100%;
+            height: 1px;
+            background-color: $color-silver;
+          }
+
+          .back-to-top {
+            @extend %label-lg;
+            display: block;
+            text-align: center;
+            margin: 1rem;
+            grid-column: 1 / -1;
+            i {
+              font-size: 1.5rem;
+              position: relative;
+              top: 3px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .modal__container {
+    display: flex;
+    flex-wrap: wrap;
+    @include breakpoint('medium') {
+      flex-wrap: nowrap;
+    }
+    align-items: flex-start;
+  }
+
+  img[class$='member__photo'] {
+    margin: auto auto 0.75rem;
+    display: block;
+    width: 100%;
+    max-width: 100px;
+
+    @include breakpoint('medium') {
+      margin: 0;
+      max-width: none;
+    }
+  }
+  div[class$='member__text'] {
+    @extend %body-text;
+
+    @include breakpoint('medium') {
+      padding-left: 1.5rem;
+    }
+    .bio-name {
+      @extend %bio-name;
+      text-transform: uppercase;
+      text-align: center;
+      .modal__container & {
+        @extend %table-title;
+      }
+
+      @include breakpoint('medium') {
+        text-align: left;
+      }
+    }
+    .bio-title {
+      @extend %bio-title;
+      text-align: center;
+
+      @include breakpoint('medium') {
+        text-align: left;
+      }
+    }
+    .bio-short,
+    .bio-long {
+      @extend %post-body;
+      margin: calculate-rem(18px) 0;
+    }
+
+    .btn {
+      margin: auto 25%;
+      display: block;
+      @include breakpoint('medium') {
+        margin: 0;
+        display: inline;
+      }
+    }
+  }
+
+  .aside-container {
+    max-width: $size-page-text-max-width;
+  }
+}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About the Commission
 permalink: /about/
 show_page_highlights: true

@@ -1,5 +1,5 @@
 {% if page.show_page_highlights %}
-<div class="page-highlights {{ page.collection }} {{ page.name  | remove: ".md" }}">
+<div class="page-highlights {{ page.collection }} {{ page.layout }} {{ page.name  | remove: ".md" }}">
 
    {% if page.page_highlights_download %}
    <div class="page-highlights__col download-box">
@@ -11,17 +11,19 @@
    <div class="page-highlights__col cite-box">
      CITE
    </div>
-
    {% endif %}
-   {% if page.layout=='page' or page.layout=='themes' and page.excerpt.size > 0 %}
+   {% if page.layout!='post'  and page.excerpt.size > 0 %}
    <div class="page-highlights__col excerpt-box">
-    <p class="page-highlights__excerpt">Amet porttitor eget dolor morbi non arcu. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Urna nec tincidunt praesent semper feugiat.</p>
-    {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+     <p class="page-highlights__excerpt">
+       {{ page.excerpt }}
+      </p>
+      {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+
 
      {% if page.name == 'members.md' %}
       {% include about-table-contents.html %}
      {% endif %}
-
+     
    </div>
    {% endif %}
 

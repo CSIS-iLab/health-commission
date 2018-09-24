@@ -13,6 +13,7 @@
 @import 'base/base';
 
 @import 'components/about-table-contents';
+@import 'components/aside-container';
 @import 'components/post-block';
 @import 'components/buttons';
 @import 'components/from-commission';
@@ -30,8 +31,11 @@
 @import 'components/social-share-icons';
 @import 'components/themes-list';
 
+@import 'layout/footer';
+
 @import 'pages/archive';
 @import 'pages/home';
+@import 'pages/members';
 @import 'pages/page';
 @import 'pages/post';
 @import 'pages/themes';

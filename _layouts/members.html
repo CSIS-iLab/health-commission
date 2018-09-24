@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="page members h-entry" role="content" itemscope itemtype="http://schema.org/about">
+
+  {% include page-header.html %}
+
+  <section class="members__content">
+    {% include members-listing.html %}
+
+    <aside class="aside-container">
+      <h3 class="aside-container__subtitle">Learn More</h3>
+      <a href="/{{ about | relative_url }}" class="aside-container__title">
+        About the Commission
+      </a>
+    </aside>
+  </section>
+  {% include modal.html %}
+</article>
