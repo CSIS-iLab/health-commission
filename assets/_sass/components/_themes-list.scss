@@ -28,17 +28,15 @@
         align-items: center;
         flex: none;
       }
-    }
 
-    i {
-      @extend %post-block-meta-themes;
-      font-size: 0.1rem;
-      margin: 2px 12px 2px 0;
-      transition: all 0.3s ease-in-out;
-
-      @include breakpoint('medium') {
-        margin-top: 0;
-        margin-bottom: 0;
+      &:before {
+        content: '';
+        height: 0.5rem;
+        width: 1rem;
+        margin: 4px 8px 0 0;
+        @include breakpoint('medium') {
+          margin: 0px 8px 0 0;
+        }
       }
     }
 
@@ -46,14 +44,12 @@
       $color: nth($colors, 1);
       $hover: nth($colors, 2);
       &--#{$name} a {
-        color: $color;
-        
-        i {
-          color: $color;
+        &:before {
+          background-color: $color;
         }
         &:hover,
-        &:hover i {
-          color: $hover;
+        &:hover &:before {
+          background-color: $hover;
         }
       }
     }
