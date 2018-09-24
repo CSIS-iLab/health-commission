@@ -61,10 +61,9 @@
       }
     }
 
-    &--last:not(:only-child) {
+    &:last-of-type:not(:only-child) {
       background-color: $color-dust;
       flex-shrink: 0;
-      padding: 1rem 2rem;
     }
 
     &.download-box {
@@ -149,7 +148,6 @@
       }
 
       #{$ph}__col--last {
-        display: none;
         &:not(.featured-box) {
           @include breakpoint(medium) {
             display: flex;
