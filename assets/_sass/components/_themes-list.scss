@@ -18,24 +18,24 @@
     margin-right: 15px;
 
     a {
+      display: inline-block;
+      position: relative;
       @extend %post-block-meta-themes;
       text-transform: uppercase;
-      display: flex;
-      align-items: start;
-      flex: 1 100%;
-
-      @include breakpoint('medium') {
-        align-items: center;
-        flex: none;
-      }
+      padding-left: 1.5rem;
 
       &:before {
         content: '';
+        display: inline-block;
+        position: absolute;
+        top: 5px;
+        left: 0;
         height: 0.5rem;
         width: 1rem;
-        margin: 4px 8px 0 0;
+        transition: background 0.3s ease-in-out;
+
         @include breakpoint('medium') {
-          margin: 0px 8px 0 0;
+          top: 7px;
         }
       }
     }
@@ -43,13 +43,31 @@
     @each $name, $colors in $themes {
       $color: nth($colors, 1);
       $hover: nth($colors, 2);
+      $color-lighten: lighten($color, 10%);
+      $hover-lighten: lighten($color, 15%);
       &--#{$name} a {
+        color: $color;
+
         &:before {
           background-color: $color;
         }
-        &:hover,
-        &:hover &:before {
-          background-color: $hover;
+        &:hover {
+          color: $hover;
+
+          &:before {
+            background-color: $hover;
+          }
+        }
+
+        .home__featured-primary & {
+          color: $color-lighten;
+
+          &:before { background-color: $color-lighten; }
+          &:hover {
+            color: $hover-lighten;
+
+            &:before { background-color: $hover-lighten; }
+          }
         }
       }
     }
