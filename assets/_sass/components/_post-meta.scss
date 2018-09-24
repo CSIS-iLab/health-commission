@@ -1,4 +1,5 @@
 .post-meta {
+<<<<<<< HEAD
 $p: &;
 
   &__date {
@@ -7,6 +8,25 @@ $p: &;
 
     #{$p}__page-header & {
       color: $color-white;
+=======
+    $p:&;
+
+    .page-header__post-meta & {
+        @extend %post-meta;
+        color: $color-white;
+        #{$p}__link {
+            color: $color-white;
+        }
+    }
+
+    .post-block__post-meta & {
+        @extend %post-block-meta;
+        color: $color-black;
+        #{$p}__link {
+            color: $color-black;
+        }
+
+>>>>>>> edited series
     }
 
     #{$p}__post-block & {
