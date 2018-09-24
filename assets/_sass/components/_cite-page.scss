@@ -1,0 +1,78 @@
+.cite-page {
+  $cp: &;
+  position: relative;
+  text-align: left;
+
+  &__label {
+    @extend %label-lg;
+    background: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    border: none;
+    padding: 0;
+
+    #{$cp}:hover & {
+      color: $color-dust;
+      cursor: pointer;
+    }
+
+    & i {
+      color: $color-dust;
+      margin-right: 1rem;
+    }
+  }
+
+  &__citation {
+    display: none;
+    background-color: $color-light-gray;
+    border: solid 1px $color-light-silver;
+    padding: 1rem 1.5rem 1.5rem;
+    left: 0;
+    position: fixed;
+    width: 100vw;
+    bottom: $size-page-highlights-height-mobile;
+
+    @include breakpoint('medium') {
+      position: absolute;
+      width: 450px;
+      bottom: unset;
+    }
+
+    &__header {
+      @extend %label-lg;
+      text-transform: uppercase;
+      border-bottom: solid 1px $color-dusty-lavender;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+
+      & i:before {
+        font-size: 1.75rem;
+        margin: 0;
+        cursor: pointer;
+      }
+    }
+
+    .btn {
+      background-color: $color-silver;
+      display: block;
+      margin: auto;
+      position: relative;
+      &:focus:after {
+        position: absolute;
+        display: inline-block;
+        right: 0;
+        width: 100%;
+        bottom: 100%;
+        margin-bottom: 5px;
+        padding: 10px 8px;
+        color: $color-white;
+        text-align: center;
+        content: attr(aria-label);
+        background-color: $color-dust;
+        border-radius: 3px;
+      }
+    }
+  }
+}
