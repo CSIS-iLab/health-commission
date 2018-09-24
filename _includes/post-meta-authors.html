@@ -3,9 +3,10 @@
     {{ site.data.language.author_list }}
   {% endif %}
 
-  {% if page.collection.size and page.themes.size %}
-    {% assign post = page %}
-  {% endif %}
+  {% assign authors = post.authors %}
+    {% if page.authors %}
+  {% assign authors = page.authors %}
+    {% endif %}
 
   {% if post.authors.size == 2 %}
     {%- assign list_break = ' and ' -%}
@@ -14,15 +15,29 @@
     {%- assign end_break = ' and ' -%}
   {% endif %}
 
-    {%- for author in post.authors limit:3 -%}
-      {%- assign author_info = site.authors | where: "relative_path", author -%}
-      {%- assign author_list = author_info[0].title -%}
-      <a href="{{ author_info[0].url | relative_url }}" class="post-meta__author">{{ author_list }}</a>
+    {%- for author in post.authors -%}
+      {%- assign author_info = site.authors | where: "relative_path", author | first -%}
+      {%- assign author_list = author_info.title -%}
+      <a href="{{ author_info.url | relative_url }}" class="post-meta__author">{{ author_list }}</a>
         {%- if forloop.last == false -%}
           {{- list_break -}}
         {%- endif -%}
-        {%- if forloop.index == 2 -%}
-          {{- end_break -}}
+        {% if post.authors.size == 3 %}
+          {%- if forloop.index == 2 -%}
+            {{- end_break -}}
+          {% endif %}
+        {% elsif post.authors.size == 4 %}
+          {%- if forloop.index == 3 -%}
+            {{- end_break -}}
+          {% endif %}
+        {% elsif post.authors.size == 5 %}
+          {%- if forloop.index == 4 -%}
+            {{- end_break -}}
+          {% endif %}
+        {% elsif post.authors.size == 6 %}
+          {%- if forloop.index == 5 -%}
+            {{- end_break -}}
+          {% endif %}
         {% endif %}
     {%- endfor -%}
 </div>
