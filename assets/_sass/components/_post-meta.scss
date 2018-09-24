@@ -40,8 +40,9 @@ $p: &;
       .home__featured-primary & {
         color: $color-light-gray;
         text-transform: uppercase;
+        
         &:hover {
-          color: $color-slate;
+          color: $color-white;
         }
       }
 
