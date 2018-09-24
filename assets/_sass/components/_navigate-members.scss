@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0vh;
   width: calc(100% + #{$size-wrapper-padding-mobile} * 2);
-  z-index: 5;
+  z-index: 11;
   left: -#{$size-wrapper-padding-mobile};
   min-height: #{$size-page-highlights-height-mobile};
   background-color: $color-white;

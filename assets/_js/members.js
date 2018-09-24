@@ -38,19 +38,20 @@ const Members = () => {
 
   document
     .querySelector('.navigate-members .icon-list-nav')
-    .addEventListener('click', hideNavigator)
+    .addEventListener('click', toggleNavigator)
 
   navigator
     .querySelector('.navigate-members__container__list')
     .addEventListener('click', e => {
       if (e.target.tagName === 'A') {
-        hideNavigator()
+        toggleNavigator()
       }
     })
 }
 
-const hideNavigator = () => {
+const toggleNavigator = () => {
   navigator.classList.toggle('hide')
+  overlay.style.display = overlay.style.display === 'block' ? 'none' : 'block'
 }
 
 const compose = (member, placeholder) => {
