@@ -1,7 +1,3 @@
-/*=======================================
-=            Post Meta: Date            =
-=======================================*/
-
 .post-meta {
 $p: &;
 
@@ -19,6 +15,46 @@ $p: &;
 
     .home__featured-primary & {
       color: $color-white;
+    }
+  }
+
+  &__author-list {
+    @extend %post-block-meta;
+
+    .page-header__wrapper & {
+      @extend %post-meta;
+      color: $color-off-white;
+    }
+
+    #{$p}__author {
+      margin: 0;
+      padding: 0;
+
+      .home__featured-secondary & {
+        color: $color-black;
+        &:hover {
+          color: $color-slate;
+        }
+      }
+
+      .home__featured-primary & {
+        color: $color-light-gray;
+        text-transform: uppercase;
+        
+        &:hover {
+          color: $color-white;
+        }
+      }
+
+      #{$p}__page-header & {
+        @extend %post-meta;
+        color: $color-off-white;
+        text-transform: uppercase;
+      }
+
+      .post-block__authors & {
+        color: $color-off-white;
+      }
     }
   }
 }
