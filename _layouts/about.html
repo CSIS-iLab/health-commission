@@ -16,9 +16,9 @@ layout: default
     {{ content }}
 
     <aside class="aside-container">
-      <h3 class="aside-container__subtitle">Meet the Commission</h3>
-      <a href="/members" class="aside-container__title">
-        Commission Members and Contributors
+      <h3 class="aside-container__subtitle">{{ site.data.language.about_the_commission.meet_commission }}</h3>
+      <a href="{% link members.md %}" class="aside-container__title">
+        {{ site.data.language.about_the_commission.members_contributors }}
       </a>
       {% include about-table-contents.html %}
     </aside>

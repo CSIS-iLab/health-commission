@@ -15,7 +15,7 @@
     .member-directory {
       .group {
         display: grid;
-        @include breakpoint('medium') {
+        @include breakpoint('large') {
           grid-template-columns: repeat(2, minmax(35%, 1fr));
         }
 
@@ -30,12 +30,12 @@
         &__member {
           padding-bottom: 4.5rem;
 
-          @include breakpoint('medium') {
+          @include breakpoint('large') {
             display: grid;
             grid-template-columns: minmax(50px, 150px) minmax(250px, auto);
           }
 
-          @include breakpoint('medium') {
+          @include breakpoint('large') {
             &:nth-child(odd) {
               padding-left: 3rem;
             }
@@ -62,10 +62,12 @@
 
           .back-to-top {
             @extend %label-lg;
+            text-transform: uppercase;
             display: block;
             text-align: center;
             margin: 1rem;
             grid-column: 1 / -1;
+
             i {
               font-size: 1.5rem;
               position: relative;
@@ -80,7 +82,7 @@
   .modal__container {
     display: flex;
     flex-wrap: wrap;
-    @include breakpoint('medium') {
+    @include breakpoint('large') {
       flex-wrap: nowrap;
     }
     align-items: flex-start;
@@ -91,16 +93,18 @@
     display: block;
     width: 100%;
     max-width: 100px;
+    border-radius: 50%;
 
-    @include breakpoint('medium') {
+    @include breakpoint('large') {
       margin: 0;
       max-width: none;
+      border-radius: 0%;
     }
   }
   div[class$='member__text'] {
     @extend %body-text;
 
-    @include breakpoint('medium') {
+    @include breakpoint('large') {
       padding-left: 1.5rem;
     }
     .bio-name {
@@ -111,7 +115,7 @@
         @extend %table-title;
       }
 
-      @include breakpoint('medium') {
+      @include breakpoint('large') {
         text-align: left;
       }
     }
@@ -119,7 +123,7 @@
       @extend %bio-title;
       text-align: center;
 
-      @include breakpoint('medium') {
+      @include breakpoint('large') {
         text-align: left;
       }
     }
@@ -130,11 +134,10 @@
     }
 
     .btn {
-      margin: auto 25%;
+      margin: auto;
       display: block;
-      @include breakpoint('medium') {
+      @include breakpoint('large') {
         margin: 0;
-        display: inline;
       }
     }
   }

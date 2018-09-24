@@ -9,9 +9,9 @@ layout: default
     {% include members-listing.html %}
 
     <aside class="aside-container">
-      <h3 class="aside-container__subtitle">Learn More</h3>
-      <a href="/{{ about | relative_url }}" class="aside-container__title">
-        About the Commission
+      <h3 class="aside-container__subtitle">{{ site.data.language.about_the_commission.learn_more }}</h3>
+      <a href="{% link about.md %}" class="aside-container__title">
+        {{ site.data.language.about_the_commission.about_the_commission }}
       </a>
     </aside>
   </section>

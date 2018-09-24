@@ -75,4 +75,6 @@ const exit = () => {
   overlay.style.display = 'none'
 }
 
-export default Members
+window.addEventListener('DOMContentLoaded', () => {
+  Members()
+})

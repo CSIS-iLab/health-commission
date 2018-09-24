@@ -2,7 +2,7 @@
 {% include navigate-members.html %}
 <div class="member-directory">
 
-  <h2>Commission Members</h2>
+  <h2>{{ page.title | replace: " and Contributors", "" }}</h2>
   {% for group in site.data.members %}
   <div class="group {{ group.type }}">
     <h3 class="group__title">{{ group.title }} <a name="{{ group.type }}"></a></h3>
@@ -20,7 +20,7 @@
         <div class="bio-name">{{ member['Display Name'] }}</div>
         <div class="bio-title">{{ member['Short Title'] }}</div>
         <p class="bio-short">{{ member['Short Bio'] }}</p>
-        <span class="btn member-bio" data-id="{{group.type}}_{{ forloop.index0 }}">Read Full Bio</span>
+        <button class="btn member-bio" data-id="{{group.type}}_{{ forloop.index0 }}">{{ site.data.language.about_the_commission.bio_button }}</button>
       </div>
 
     </div>
@@ -29,7 +29,7 @@
     {% unless forloop.first or forloop.last %}
 
     <a href="#" class="back-to-top">
-      BACK TO TOP <i class="icon-arrow-up"></i>
+      {{ site.data.language.about_the_commission.back_to_top }} <i class="icon-arrow-up"></i>
     </a>
     {% endunless %}
   </div>

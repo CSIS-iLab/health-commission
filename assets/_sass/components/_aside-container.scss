@@ -33,8 +33,7 @@
     }
   }
 
-  a {
+  a:not(.btn) {
     box-shadow: none;
   }
 }
-

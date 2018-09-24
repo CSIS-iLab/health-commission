@@ -1,6 +1,6 @@
 ---
 ---
-{% assign path = site.cloudinary_url | append: "r_max/v1536943052/health-commission/" %}
+{% assign path = site.cloudinary_url | append: "v1536943052/health-commission/" %}
 {
 "placeholder": {{ path | append: "Anon.jpg" | escape | jsonify }},
 "members":[

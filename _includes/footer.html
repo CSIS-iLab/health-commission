@@ -87,3 +87,6 @@
 {% if page.use_algolia %}
 <script src="{{ "/assets/js/archives.js" | relative_url }}" type="text/javascript"></script>
 {% endif %}
+{% if page.layout == 'members' %}
+<script src="{{ "/assets/js/members.js" | relative_url }}" type="text/javascript"></script>
+{% endif %}

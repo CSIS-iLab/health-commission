@@ -36,10 +36,13 @@ events:
     a bold vision for the future of U.S. leadership in global health security, at
     home and abroad.
 about_the_commission:
+  about_the_commission: About the Commission
+  learn_more: Learn More
+  meet_commission: Meet the Commission
+  members_contributors: Commission Members and Contributors
   table_contents_list_header: Skip to...
-  Credits: " "
-  Funder acknowledgements: This project is funded through the generous support of
-    the Bill & Melinda Gates Foundation.
+  back_to_top: Back to top
+  bio_button: Read Full Bio
 commission_members_and_contributors:
   Blurb: The CSIS Commission on Strengthening America’s Health Security brings together
     a distinguished and diverse group of high-level opinion leaders who bridge security
