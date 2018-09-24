@@ -7,6 +7,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1536943052/health-c
 image_caption: This is a test caption.
 image_credit: Getty Images
 authors:
+- _authors/steve-davis.md
 - _authors/kelly-ayotte.md
 - _authors/kelly-ayotte.md
 themes:
