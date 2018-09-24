@@ -34,7 +34,7 @@ fields:
     options:
     - commentary
     - report
-    - news
+    - events
   label: Content Type
   hidden: false
 - type: include
