@@ -12,6 +12,12 @@ const siteHeader = () => {
   let lastScrollPos = 0
   let doHideHeader = false
 
+  if (window.scrollY > 0) {
+    doHideHeader = true
+    add_class_on_scroll(minimal_class)
+    remove_class_on_scroll(trigger_minimal_class)
+  }
+
   window.addEventListener('scroll', function() {
     scrollPos = window.scrollY
 

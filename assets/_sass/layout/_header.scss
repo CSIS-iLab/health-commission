@@ -12,13 +12,13 @@
   right: 0;
   z-index: 20;
   height: $size-site-header-height;
-  padding: 0.5rem 0;
+  padding: $size-site-header-padding 0;
   transition: top 0.3s ease-in-out, background 0.5s ease-in-out;
 
   @include breakpoint('medium') {
     position: fixed;
     background-color: transparent;
-    height: calc(#{$size-site-header-height} + 20px);
+    height: $size-site-header-height-desktop;
   }
 
   &#{$minimal} {
@@ -38,8 +38,10 @@
   }
 
   .wrapper-full {
+    position: relative;
     display: flex;
     align-items: center;
+    height: 100%;
   }
 
   &__masthead {
@@ -83,10 +85,10 @@
 
       svg {
         display: block;
-        max-width: 35px;
+        max-width: calc(#{$size-site-header-height} - (#{$size-site-header-padding} * 2));
 
         @include breakpoint('small') {
-          max-width: $size-site-header-height;
+          max-width: calc(#{$size-site-header-height-desktop} - (#{$size-site-header-padding} * 2));
         }
       }
 
@@ -132,44 +134,4 @@
       max-width: 250px;
     }
   }
-
-  &__search {
-    margin-left: 0.5rem;
-
-    .btn--search {
-      @extend %header-nav-link;
-      color: $color-white;
-
-      &:hover {
-        color: $color-dust;
-      }
-
-      #{$minimal} & {
-        color: $color-black;
-      }
-
-      i {
-        @include font-size(18px);
-        color: $color-white;
-
-        @include breakpoint('medium') {
-          color: $color-dust;
-          font-size: 100%;
-        }
-
-        #{$minimal} & {
-          color: $color-black;
-        }
-      }
-
-      span {
-        display: none;
-
-        @include breakpoint('medium') {
-          display: inline;
-        }
-      }
-    }
-  }
 }
-
