@@ -9,7 +9,7 @@
 
    {% if page.page_highlights_cite %}
    <div class="page-highlights__col cite-box">
-     CITE
+     {% include cite-page.html %}
    </div>
    {% endif %}
    {% if page.layout!='post'  and page.excerpt.size > 0 %}
@@ -23,7 +23,7 @@
      {% if page.name == 'members.md' %}
       {% include about-table-contents.html %}
      {% endif %}
-     
+
    </div>
    {% endif %}
 

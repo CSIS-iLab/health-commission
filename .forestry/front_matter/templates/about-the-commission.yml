@@ -1,0 +1,53 @@
+---
+label: About the Commission
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: file
+  name: image
+  label: Header Image
+- type: file
+  name: post_image
+  label: Post Image
+- name: image_credit
+  label: Image credit
+  type: text
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: show_page_highlights
+  label: Show page highlights
+  type: boolean
+  hidden: false
+  default: ''
+- name: credits
+  label: Credits
+  type: text
+  hidden: false
+  default: ''
+- name: funder_acknowledgements
+  label: Funder acknowledgements
+  type: text
+  hidden: false
+  default: ''
+pages:
+- about.md

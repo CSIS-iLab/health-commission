@@ -7,8 +7,8 @@ is_commission_related:
   related_event: ''
 date: 2018-03-09 16:08:32 +0000
 authors:
-- _authors/j-stephen-morrison.md
-- _authors/test.md
+- _authors/stephen-morrison.md
+- _authors/Jonathan-Hillman.md
 excerpt: The Spanish influenza cataclysm ignited 100 years ago, and while we certainly
   live today in a superior state of preparedness, modernization and globalization
   have also driven up health security risks.
@@ -17,9 +17,10 @@ series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
 - _themes/global-disorder.md
-image: "/uploads/Spanish-Flu-1.jpg"
-image_caption: ''
-image_credit: Getty Images
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537913423/health-commission/GettyImages-3304848.jpg
+image_caption: A man preparing 'Anti-flu' spray for buses of the London General Omnibus
+  Co, London, 2nd March 1920.
+image_credit: H. F. Davis/Topical Press Agency/Getty Images
 pdf: ''
 references: ''
 

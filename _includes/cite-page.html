@@ -1,0 +1,19 @@
+<div class="cite-page">
+  <button class="cite-page__label" aria-label="{{ site.data.language.cite_page }}">
+    <i class="icon-cite"></i>{{ site.data.language.cite_page }}
+  </button>
+  <div class="cite-page__citation">
+    <div class="cite-page__citation__header">{{ site.data.language.citation }} <i class="icon-icon_close"></i></div>
+
+    <p class="cite-page__citation__text">
+      {% for author in page.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
+      {% assign author_info = site.authors | where: "path", author | first %}
+      {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}.
+      "{{ page.title }}." <em>{{ site.title }}</em>, Center for Strategic and International Studies, {{ page.date | date: '%B %d, %Y' }}. Accessed {{ site.time | date: '%B %d, %Y' }}.
+      {{ site.url | append:page.url }}
+    </p>
+
+    <button class="btn" data-clipboard-target=".cite-page__citation__text" aria-label="Copied!">Copy</button>
+  </div>
+
+</div>

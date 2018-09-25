@@ -6,25 +6,6 @@ fields:
 - type: text
   name: title
   label: Title
-- type: datetime
-  name: date
-  label: Date
-- type: list
-  label: Authors
-  name: authors
-  config:
-    min: '1'
-    use_select: true
-    source:
-      type: pages
-      section: authors
-- type: textarea
-  name: excerpt
-  label: Excerpt
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: select
   name: content_type
   config:
@@ -37,6 +18,25 @@ fields:
     - event
   label: Content Type
   hidden: false
+- type: textarea
+  name: excerpt
+  label: Excerpt
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: datetime
+  name: date
+  label: Date
+- type: list
+  label: Authors
+  name: authors
+  config:
+    min: '0'
+    use_select: true
+    source:
+      type: pages
+      section: authors
 - type: include
   name: categories
   label: Categories
@@ -79,19 +79,30 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/2018-05-22-Opportunities-for-Health-Diplomacy-in-North-Korea.md
+- _posts/2018-09-25-Frontline-Perspectives-on-Pandemic-Preparedness.md
+- _posts/2018-06-28-The-Role-of-the-IFRC-in-Humanitarian-Response-and-Preparedness.md
+- _posts/2018-06-21-The-Global-Threat-of-Yellow-Fever.md
+- _posts/2018-09-25-Navigating-the-Ebola-Outbreak-in-the-Democratic-Republic-of-the-Congo.md
+- _posts/2018-06-13-European-Leadership-in-Humanitarian-Aid-and-Emergency-Health-Response.md
+- _posts/2016-04-22-Ebola-in-America-Epidemic-of-Fear.md
+- _posts/2017-09-06-the-new-barbarianism.md
+- _posts/2018-06-28-Health-Security-Downgraded-at-the-White-House.md
+- _posts/2018-09-25-The-New-Realism,-An-Uncomfortable-Middle.md
+- _posts/2017-04-17-Meeting-Basic-Health-Needs-in-a-Venezuela-in-Crisis-What-Roles-Can-the-United-States-and-International-Community-Play.md
+- _posts/2018-03-13-A-Ripe-Moment-for-Reducing-Vaccine-Preventable-Disease.md
+- _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
+- _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 - _posts/2018-09-14-frontline-perspectives-on-pandemic-preparedness.md
 - _posts/2018-06-28-the-role-of-the-ifrc-in-humanitarian-response-and-preparedness.md
 - _posts/2018-06-13-european-leadership-in-humanitarian-aid-and-emergency-health-response.md
 - _posts/2018-06-21-the-global-threat-of-yellow-fever.md
-- _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 - _posts/2017-04-17-meeting-basic-health-needs-in-a-venezuela-in-crisis-what-roles-can-the-united-states-and-international-community-play.md
 - _posts/2018-03-13-a-ripe-moment-for-reducing-vaccine-preventable-disease.md
 - _posts/2018-03-09-the-spanish-flu-a-century-later-2018-is-not-that-different-from-1918.md
-- _posts/2017-09-06-the-new-barbarianism.md
 - _posts/2018-09-14-ebola-in-america-epidemic-of-fear.md
 - _posts/2018-09-14-opportunities-for-health-diplomacy-in-north-korea.md
 - _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
 - _posts/2018-09-13-accelerating-medical-countermeasures.md
 - _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 - _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
-- _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md

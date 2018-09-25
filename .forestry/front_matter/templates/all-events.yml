@@ -1,0 +1,55 @@
+---
+label: All Events
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- type: file
+  name: image
+  label: Image
+- name: show_page_highlights
+  label: Show page highlights
+  type: boolean
+  hidden: false
+  default: ''
+- name: post_list_collection
+  label: Post list collection
+  type: text
+  hidden: false
+  default: ''
+- name: use_algolia
+  label: Use algolia
+  type: boolean
+  hidden: false
+  default: ''
+- name: algolia_facet
+  label: Algolia facet
+  type: text
+  hidden: false
+  default: ''
+- name: algolia_facet_value
+  label: Algolia facet value
+  type: text
+  hidden: false
+  default: ''
+pages:
+- events.md

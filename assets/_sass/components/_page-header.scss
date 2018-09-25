@@ -11,6 +11,7 @@
   background-color: $color-slate;
   background-repeat: no-repeat;
   background-position: center center;
+  background-size: cover;
 
   @include breakpoint('medium') {
   }
