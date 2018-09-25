@@ -12,6 +12,7 @@ short_bio: "**Nancy Lindborg** is the President of the United States Institute o
   Humanitarian Assistance at USAID and as president of Mercy Corps."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475629/health-commission/Lindborg_Nancy.jpg
 
 ---
 Nancy Lindborg is the President of the United States Institute of Peace, an independent institution founded by Congress to provide practical solutions for preventing and resolving violent conflict around the world. Previously, she served as the assistant administrator for the Bureau for Democracy, Conflict and Humanitarian Assistance at USAID and as president of Mercy Corps.

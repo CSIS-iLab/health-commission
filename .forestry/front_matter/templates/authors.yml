@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/nancy-lindborg.md
 - _authors/david-relman.md
 - _authors/laura-holgate.md
 - _authors/stephen-morrison.md
@@ -44,7 +45,6 @@ pages:
 - _authors/missing-author-2.md
 - _authors/admiral-jonathan-greenert.md
 - _authors/beth-cameron.md
-- _authors/nancy-lindborg.md
 - _authors/jeremy-konyndyk.md
 - _authors/tom-inglesby.md
 - _authors/juan-zarate.md
