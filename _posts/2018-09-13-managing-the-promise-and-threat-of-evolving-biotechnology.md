@@ -7,9 +7,9 @@ content_type: ''
 themes:
 - _themes/managing-biotechnology.md
 series: ''
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886678/health-commission/Managing-Biotechnology.jpg
 image_caption: ''
-image_credit: ''
+image_credit: University Of Michigan School Of Natural Resources & Environment / Flickr
 pdf: ''
 is_commission_related:
   description: ''
