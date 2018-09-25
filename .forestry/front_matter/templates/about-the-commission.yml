@@ -49,3 +49,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- about.md

@@ -11,6 +11,8 @@ excerpt: The CSIS Commission on Strengthening America’s Health Security aims t
 credits: " "
 funder_acknowledgements: This project is funded through the generous support of the
   Bill & Melinda Gates Foundation.
+header_image: https://res.cloudinary.com/csisideaslab/image/upload/v1537899884/health-commission/About_Header_Photo.jpg
+post_image: https://res.cloudinary.com/csisideaslab/image/upload/v1537904699/health-commission/About_Smaller_Photo.jpg
 
 ---
 The CSIS Commission on Strengthening America’s Health Security is a two-year effort organized by the CSIS Global Health Policy Center. The Commission brings together a distinguished and diverse group of high-level opinion leaders who bridge security and health, comprising members of Congress, past administrations, industry, foundations, universities, and NGOs, and the Commission is advised by a group of preeminent subject experts. The Commission’s core aim is to chart a bold vision for the future of U.S. leadership in global health security – at home and abroad.
