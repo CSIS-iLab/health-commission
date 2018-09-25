@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/Amadou-Sall,-CEO,-Pasteur-Institute,-Dakar,-Senegal.md
 - _authors/Christos-Stylianides.md
 - _authors/Daniel-Lucey.md
 - _authors/Elhadj-As-Sy.md
