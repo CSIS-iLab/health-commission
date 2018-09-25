@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/general-carter-ham.md
 - _authors/j-stephen-morrison.md
 - _authors/rebecca-katz.md
 - _authors/emily-foecke-munden.md
@@ -48,7 +49,6 @@ pages:
 - _authors/jennifer-kates.md
 - _authors/amanda-glassman.md
 - _authors/juan-zarate.md
-- _authors/general-carter-ham.md
 - _authors/jim-greenwood.md
 - _authors/u-s-congresswoman-anna-eshoo.md
 - _authors/steve-davis.md
