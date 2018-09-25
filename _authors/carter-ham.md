@@ -10,6 +10,7 @@ excerpt: "**General Carter Ham** is the President and Chief Executive Officer of
   every level from platoon to geographic combatant command. He is also a member of
   a very small group of Army senior leaders who have risen from private to four-star
   general."
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475623/health-commission/Anon.jpg
 
 ---
 General Carter Ham is the President and Chief Executive Officer of the Association of the United States Army. He is an experienced leader who has led at every level from platoon to geographic combatant command. He is also a member of a very small group of Army senior leaders who have risen from private to four-star general.
