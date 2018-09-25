@@ -5,6 +5,7 @@
 .site-header {
   $s: &;
   $minimal: '.site-header--minimal';
+  $breakpoint-desktop: 68em;
 
   position: fixed;
   top: 0;
@@ -48,7 +49,7 @@
     flex: 1 1 auto;
 
     #{$minimal} & {
-      @include breakpoint('medium') {
+      @include breakpoint($breakpoint-desktop) {
         max-width: fit-content;
       }
     }
@@ -132,6 +133,25 @@
       color: $color-white;
       letter-spacing: 1px;
       max-width: 250px;
+    }
+  }
+
+  &#{$minimal} {
+    @include breakpoint($breakpoint-desktop) {
+      .site-nav,
+      .site-header__search {
+        transition: visibility 0s, opacity 250ms 100ms cubic-bezier(.33,0,.2,1);
+
+        &.is-hidden {
+          position: absolute;
+          visibility: hidden;
+          opacity: 0;
+
+          label {
+            display: none;
+          }
+        }
+      } 
     }
   }
 }

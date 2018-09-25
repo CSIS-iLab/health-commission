@@ -60,7 +60,8 @@
     }
   }
 
-  .post__footer & {
+  .post__footer &,
+  .site-header__post & {
     #{$s}__text {
       color: $color-black;
     }

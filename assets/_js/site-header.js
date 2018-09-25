@@ -7,10 +7,21 @@ const siteHeader = () => {
   const remove_class_on_scroll = classes => header.classList.remove(classes)
   const visibleNavDelta = 5
   const hiddenNavClass = 'site-header--hidden'
+  const postBar = document.querySelector('.site-header__post')
+  const postContent = document.querySelector('.post__content')
+  const headerNav = document.querySelector('.site-nav')
+  const headerSearch = document.querySelector('.site-header__search')
+  const hiddenPostBarClass = 'is-hidden'
+  const visibilePostBarClass = 'is-visible'
 
   let scrollPos = window.scrollY
   let lastScrollPos = 0
   let doHideHeader = false
+  let postContentTop
+
+  if (postContent) {
+    postContentTop = postContent.getBoundingClientRect().top - header_height
+  }
 
   if (window.scrollY > 0) {
     doHideHeader = true
@@ -36,6 +47,14 @@ const siteHeader = () => {
       add_class_on_scroll(trigger_minimal_class)
     }
 
+    if (postBar) {
+      if (scrollPos > postContentTop) {
+        showPostBar()
+      } else {
+        hidePostBar()
+      }
+    }
+
     if (!doHideHeader) {
       return
     }
@@ -49,11 +68,27 @@ const siteHeader = () => {
         document.documentElement.scrollHeight
       ) {
         remove_class_on_scroll(hiddenNavClass)
+
+        if (postBar) {
+          hidePostBar()
+        }
       }
     }
 
     lastScrollPos = scrollPos
   })
+
+  function showPostBar() {
+    postBar.classList.add(visibilePostBarClass)
+    headerSearch.classList.add(hiddenPostBarClass)
+    headerNav.classList.add(hiddenPostBarClass)
+  }
+
+  function hidePostBar() {
+    postBar.classList.remove(visibilePostBarClass)
+    headerSearch.classList.remove(hiddenPostBarClass)
+    headerNav.classList.remove(hiddenPostBarClass)
+  }
 }
 
 export default siteHeader

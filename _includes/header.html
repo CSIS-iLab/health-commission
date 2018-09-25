@@ -3,6 +3,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {% include header-masthead.html %}
+    {% include header-post.html %}
     {% include header-nav.html %}
     {% include header-search.html %}
   </div>
