@@ -14,7 +14,7 @@ fields:
   hidden: false
   default: ''
 - type: file
-  name: header_image
+  name: image
   label: Header Image
 - type: file
   name: post_image
