@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/laura-holgate.md
 - _authors/stephen-morrison.md
 - _authors/anna-eshoo.md
 - _authors/jimmy-kolker.md
@@ -45,7 +46,6 @@ pages:
 - _authors/beth-cameron.md
 - _authors/nancy-lindborg.md
 - _authors/jeremy-konyndyk.md
-- _authors/laura-s-h-holgate-ambassador-ret.md
 - _authors/tom-inglesby.md
 - _authors/juan-zarate.md
 - _authors/jim-greenwood.md
