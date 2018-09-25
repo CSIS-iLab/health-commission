@@ -7,9 +7,13 @@ content_type: ''
 themes:
 - _themes/developing-countermeasures.md
 series: ''
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886676/health-commission/Developing-Countermeasures.jpg
+image_caption: A Syrian-Kurdish refugee waits to have her child inoculated in the
+  Domiz refugee camp, 20 km southeast of Dohuk city, in northern Iraq, on July 17,
+  2012. The camp hosts Syrian-Kurds of all stripes, from Syrian-Kurdish soldiers who
+  did not want to kill their countrymen to people trying to escape the violence across
+  the border in neighboring Syria.
+image_credit: Safin Hamed/Stringer
 pdf: ''
 is_commission_related:
   description: ''
