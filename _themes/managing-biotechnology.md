@@ -7,7 +7,7 @@ excerpt: Biotechnology is moving swiftly and holds the potential to revolutioniz
   many fields if properly managed.
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886678/health-commission/Managing-Biotechnology.jpg
 image_caption: Photo caption goes here
-image_credit: University Of Michigan School Of Natural Resources & Environment / Flickr
+image_credit: University Of Michigan School Of Natural Resources & Environment/Flickr
 in_depth_overview: _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
 featured_post: _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
 further_reading: |-
