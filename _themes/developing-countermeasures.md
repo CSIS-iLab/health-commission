@@ -11,7 +11,7 @@ image_caption: A Syrian-Kurdish refugee waits to have her child inoculated in th
   2012. The camp hosts Syrian-Kurds of all stripes, from Syrian-Kurdish soldiers who
   did not want to kill their countrymen to people trying to escape the violence across
   the border in neighboring Syria.
-image_credit: Safin Hamed / Stringer
+image_credit: Safin Hamed/Stringer
 in_depth_overview: _posts/2018-09-13-accelerating-medical-countermeasures.md
 featured_post: _posts/2018-09-13-accelerating-medical-countermeasures.md
 further_reading: |-
