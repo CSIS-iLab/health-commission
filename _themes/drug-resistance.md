@@ -17,7 +17,7 @@ image_caption: A Kashmiri Tuberculosis patient shows his anti-TB medicines which
   drugs, even with a government-funded program. The World Health Organization has
   included India on the list of high-burdened countries that contribute to 80 percent
   of the world's TB problem. World TB Day is marked on March 24, 2015.
-image_credit: Yawar Nazir / Getty Images
+image_credit: Yawar Nazir/Getty Images
 in_depth_overview: _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 featured_post: ''
 further_reading: |-
