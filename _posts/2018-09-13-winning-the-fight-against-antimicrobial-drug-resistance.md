@@ -7,9 +7,19 @@ content_type: report
 themes:
 - _themes/drug-resistance.md
 series: ''
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886677/health-commission/Drug-Resistance.jpg
+image_caption: A Kashmiri Tuberculosis patient shows his anti-TB medicines which he
+  takes daily at Kashmir's lone chest diseases hospital on March 23, 2015 in Srinagar,
+  the summer capital of Indian administered Kashmir, India. The hospital was established
+  by Christian missionaries over a century ago, primarily for treatment of tuberculosis
+  and other chest diseases. Tuberculosis is among the world's most infectious killers
+  that affects more than 12 million people globally with 2 million deaths annually.
+  India has three million people infected with TB and has an estimated 99,000 drug-resistant
+  TB cases every year. A tiny fraction of those infected in India receive the proper
+  drugs, even with a government-funded program. The World Health Organization has
+  included India on the list of high-burdened countries that contribute to 80 percent
+  of the world's TB problem. World TB Day is marked on March 24, 2015.
+image_credit: Yawar Nazir/Getty Images
 pdf: ''
 is_commission_related:
   description: ''
