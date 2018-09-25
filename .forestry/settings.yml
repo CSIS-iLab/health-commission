@@ -58,8 +58,6 @@ sections:
   path: _data/members_contributors.csv
   label: Members and Contributors
   read_only: true
-- type: heading
-  label: Members
 upload_dir: health-commission
 public_path: https://res.cloudinary.com/csisideaslab/image/upload
 front_matter_path: https://res.cloudinary.com/csisideaslab/image/upload
