@@ -1,5 +1,5 @@
 ---
-title: U.S. Congressman Tom Cole
+title: Tom Cole
 date: 2018-09-13 15:12:36 +0000
 role: ''
 short_title: R-OK-4
