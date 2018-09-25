@@ -51,6 +51,16 @@ sections:
 - type: document
   path: _data/language.yml
   label: Language
+- type: heading
+  label: Members
+- type: document
+  path: _data/co_chairs.csv
+  label: Co-Chairs
+  match: "**/*"
+- type: document
+  path: _data/members_contributors.csv
+  label: Members and Contributors
+  match: "**/*"
 upload_dir: health-commission
 public_path: https://res.cloudinary.com/csisideaslab/image/upload
 front_matter_path: https://res.cloudinary.com/csisideaslab/image/upload
