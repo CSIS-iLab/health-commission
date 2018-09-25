@@ -1,7 +1,7 @@
 ---
 label: About the Commission
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -13,11 +13,12 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: image
-  label: Image
-  type: textarea
-  hidden: false
-  default: ''
+- type: file
+  name: header_image
+  label: Header Image
+- type: file
+  name: post_image
+  label: Post Image
 - name: image_credit
   label: Image credit
   type: text
