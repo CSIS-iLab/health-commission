@@ -7,9 +7,13 @@ content_type: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
 series: ''
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886678/health-commission/High-Risk-Disease-Outbreaks.jpg
+image_caption: A man dressed in protective hazmat clothing treats the front porch
+  of an apartment where a second person diagnosed with the Ebola virus resides on
+  October 12, 2014 in Dallas, Texas. A female nurse working at Texas Heath Presbyterian
+  Hospital, the same facility that treated Thomas Eric Duncan, has tested positive
+  for the virus.
+image_credit: Mike Stone/Getty Images
 pdf: ''
 is_commission_related:
   description: ''
