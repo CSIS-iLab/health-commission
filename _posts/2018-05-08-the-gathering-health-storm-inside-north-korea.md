@@ -2,13 +2,13 @@
 title: The Gathering Health Storm Inside North Korea
 date: 2018-05-08 03:27:02 +0000
 authors:
-- _authors/j-stephen-morrison.md
-- _authors/test.md
+- _authors/stephen-morrison.md
+- _authors/Victor-Cha.md
 - _authors/rebecca-hersman.md
-- _authors/missing-author-2.md
-- _authors/ambassador-mark-dybul.md
-- _authors/margaret-peggy-hamburg.md
-- _authors/ambassador-jimmy-kolker.md
+- _authors/Kee-Park.md
+- _authors/mark-dybul.md
+- _authors/margaret-hamburg.md
+- _authors/jimmy-kolker.md
 - _authors/nancy-lindborg.md
 - _authors/christine-wormuth.md
 excerpt: Health realities in North Korea are grim, poorly understood, and seldom studied
