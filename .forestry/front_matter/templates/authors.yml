@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/Jacki-Lyden.md
 - _authors/Justin-Kenny.md
 - _authors/Kee-Park.md
 - _authors/tom-frieden.md
