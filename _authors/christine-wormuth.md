@@ -11,6 +11,7 @@ short_bio: "**Christine Wormuth** is the director of the International Security 
   of Defense for Policy (USDP) at the U.S. Department of Defense."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475631/health-commission/Wormuth_Christine.jpg
 
 ---
 Christine Wormuth is the director of the International Security and Defense Policy Center at RAND Corporation. Prior to joining RAND, she was director of the Adrienne Arsht Center for Resilience at the Atlantic Council and Under-Secretary of Defense for Policy (USDP) at the U.S. Department of Defense.
