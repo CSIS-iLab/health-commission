@@ -7,9 +7,18 @@ content_type: ''
 themes:
 - _themes/global-disorder.md
 series: ''
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886677/health-commission/Global-Disorder.jpg
+image_caption: A Iraqi family who fled recent fighting near the city of Mosul prepares
+  to sleep on the ground as they try to enter a temporary displacement camp but are
+  blocked by Kurdish soldiers on July 3, 2014 in Khazair, Iraq. The families, many
+  with small and sick children, have no shelter and little water and food. The displacement
+  camp Khazair is now home to an estimated 1,500 internally displaced persons (IDP's)
+  with the number rising daily. Tens of thousands of people have fled Iraq's second
+  largest city of Mosul after it was overrun by ISIS (Islamic State of Iraq and Syria)
+  militants. Many have been temporarily housed at various IDP camps around the region
+  including the area close to Erbil, as they hope to enter the safety of the nearby
+  Kurdish region.
+image_credit: Spencer Platt/Getty Images
 pdf: ''
 is_commission_related:
   description: ''
