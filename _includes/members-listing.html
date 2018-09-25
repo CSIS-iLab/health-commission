@@ -20,7 +20,7 @@
         <div class="bio-name">{{ member['Display Name'] }}</div>
         <div class="bio-title">{{ member['Short Title'] }}</div>
         <p class="bio-short">{{ member['Short Bio'] }}</p>
-        <button class="btn member-bio" data-id="{{group.type}}_{{ forloop.index0 }}">{{ site.data.language.about_the_commission.bio_button }}</button>
+        <button class="btn member-bio" data-id="{{group.type}}_{{ forloop.index0 }}" aria-label="{{ site.data.language.about_the_commission.bio_button | append: ' of ' | append: member['Display Name'] }}">{{ site.data.language.about_the_commission.bio_button }}</button>
       </div>
 
     </div>
