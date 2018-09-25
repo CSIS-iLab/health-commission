@@ -30,30 +30,28 @@
       </ul>
     </div>
     <div class="site-footer__menu">
+      {% for parent_item in site.data.main_menus %}
+        {% assign section_title = parent_item.footer_title | default: parent_item.title | escape %}
+        {% if parent_item.url %}
+          {%- capture section_title -%}<a href="{{ parent_item.url }}">{{ section_title }}</a>{%- endcapture -%}
+        {% endif %}
+        <div class="site-footer__section-title">{{ section_title }}</div>
 
-      <div class="site-footer__section-title">
-        {{site.data.language.menu.commission }}
-      </div>
-
-      <ul>
-        {% for item in site.data.main_menus.commission %}
-        <li class="menu-item">
-          <a href="{{ item.url | relative_url }}" title="{{ item.desc }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-
-      <div class="site-footer__section-title">
-        {{site.data.language.menu.mission }}
-      </div>
-
-      <ul>
-        {% for item in site.data.main_menus.themes %}
-        <li class="menu-item">
-          <a href="{{ item.url | relative_url }}" title="{{ item.desc }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
+        {% assign items = parent_item.items | where_exp: "item", "item.hide_footer != true" %}
+        {% if items.size > 0 %}
+        <ul>
+          {%- for item in items -%}
+            {% if item.collection %}
+              {% for post in site[item.collection] %}
+                <li class="menu-item"><a href="{{ post.url | relative_url }}" title="{{ post.title | escape }}">{{ post[item.item_title_field] | default: post.title | escape }}</a></li>
+              {% endfor %}
+            {% else %}
+            <li class="menu-item"><a href="{{ item.url | relative_url | escape }}" title="{{ item.desc }}">{{ item.title }}</a></li>
+            {% endif %}
+          {%- endfor -%}
+        </ul>
+        {% endif %}
+      {% endfor %}
     </div>
     <section class="site-footer__copyright">
       <p> &copy;{{ site.time | date: '%Y' }} {{ site.data.language.footer.copyright }}</p>
@@ -61,8 +59,6 @@
     </section>
   </div>
 </footer>
-
-{{ site.data.main_menus }}
 
 <script src="{{ "/assets/js/bundle.js" | relative_url }}" type="text/javascript"></script>
 {% if page.use_algolia %}

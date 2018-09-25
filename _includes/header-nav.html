@@ -8,7 +8,45 @@
   </label>
 
   <ul class="site-nav__menu">
-    <li>
+    {% for parent_item in site.data.main_menus %}
+      {% assign section_title = parent_item.title | escape %}
+      {% if parent_item.url %}
+        {%- capture section_title -%}<a href="{{ parent_item.url }}">{{ section_title }}</a>{%- endcapture -%}
+      {% endif %}
+      <li>
+        {{ section_title }}
+
+        {% assign items = parent_item.items %}
+        {% if items.size > 0 %}
+        <i class="icon-arrow-down"></i>
+        <div class="site-nav__dropdown">
+          {% if parent_item.identifier == 'work' %}
+            {%- for item in items -%}
+            <span class="site-nav__dropdown-heading">{{ item.section_title }}</span>
+            <ul class="site-nav__dropdown-menu">
+            {% if item.collection %}
+              {% for post in site[item.collection] %}
+                <li><a href="{{ post.url | relative_url }}" title="{{ post.title | escape }}">{{ post[item.item_title_field] | default: post.title | escape }}</a></li>
+              {% endfor %}
+            {% else %}
+              {% for sub_item in item.items %}
+              <li><a href="{{ sub_item.url | relative_url | escape }}" title="{{ sub_item.desc }}">{{ sub_item.title }}</a></li>
+              {% endfor %}
+            {% endif %}
+            </ul>
+            {% endfor %}
+          {% else %}
+          <ul class="site-nav__dropdown-menu">
+            {%- for item in items -%}
+              <li><a href="{{ item.url | relative_url | escape }}" title="{{ item.desc }}">{{ item.title }}</a></li>
+            {%- endfor -%}
+          </ul>
+          {% endif %}
+        </div>
+        {% endif %}
+      </li>
+    {% endfor %}
+    <!-- <li>
       The Commission<i class="icon-arrow-down"></i>
       <div class="site-nav__dropdown">
         <ul class="site-nav__dropdown-menu">
@@ -32,6 +70,6 @@
         </ul>
       </div>
     </li>
-    <li><a href="">Resources</a></li>
+    <li><a href="">Resources</a></li> -->
   </ul>
 </nav>

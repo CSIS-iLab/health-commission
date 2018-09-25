@@ -1,43 +1,43 @@
 ---
-commission:
-  - identifier: about
-    url: "/about"
-    weight: 2
-    title: About the Commission
-    desc: Learn about the Commission
-  - identifier: members
-    url: "/"
-    weight: 3
-    title: Commission Members and Contributors
-    desc: Learn about Commission Members
-  - identifier: events
-    url: "/events"
-    weight: 4
-    title: Events
-    desc: Health Commission Events
-themes:
-  - identifier: high-risk-diseas-outbreaks
-    url: "/themes/high-risk-disease-outbreaks/"
-    weight: 2
-    title: High Risk Disease Outbreaks
-    desc: Preventing and Responding to High Risk Disease Outbreaks
-  - identifier: drug-resistance
-    url: "/themes/drug-resistance/"
-    weight: 3
-    title: Drug Resistance
-    desc: Winning the Fight Against Drug Resistance
-  - identifier: managing-biotechnology
-    url: "/themes/managing-biotechnology/"
-    weight: 4
-    title: Managing Biotechnology
-    desc: Managing the Risks of Evolving Biotechnology
-  - identifier: developing-countermeasures
-    url: "/themes/developing-countermeasures/"
-    weight: 5
-    title: Developing Countermeasures
-    desc: Developing Effective Countermeasures
-  - identifier: global-disorder
-    url: "/themes/global-disorder/"
-    weight: 2
-    title: Health Security in Global Disorder
-    desc: Protecting Health Security in the Face of Global Disorder
+- commission:
+  identifier: commission
+  title: The Commission
+  items:
+    - identifier: about
+      url: "/about"
+      weight: 2
+      title: About the Commission
+      desc: Learn about the Commission
+    - identifier: members
+      url: "/"
+      weight: 3
+      title: Commission Members and Contributors
+      desc: Learn about Commission Members
+    - identifier: events
+      url: "/events"
+      weight: 4
+      title: Events
+      desc: Health Commission Events
+- work:
+  identifier: work
+  title: Our Work
+  footer_title: Our Work — Themes
+  footer_subheadings: false
+  items:
+    - identifier: themes
+      collection: themes
+      section_title: Themes
+      item_title_field: short_title
+    - identifier: series
+      collection: series
+      section_title: Series
+      item_title_field: title
+      hide_footer: true
+    - identifier: all_work
+      section_title: All
+      hide_footer: true
+      items:
+        - identifier: all_articles
+          url: "/articles"
+          weight: 1
+          title: All Articles

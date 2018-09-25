@@ -45,14 +45,16 @@
   &__masthead {
     flex: 1 1 auto;
 
-    @include breakpoint('medium') {
-      max-width: fit-content;
+    #{$minimal} & {
+      @include breakpoint('medium') {
+        max-width: fit-content;
+      }
     }
 
     a {
       display: grid;
 
-      @include breakpoint('medium') {
+      @include breakpoint('small') {
         grid-template-rows: repeat(2, auto);
         grid-template-columns: minmax(min-content, $size-site-header-height) auto;
         grid-column-gap: 1rem;
@@ -66,7 +68,7 @@
       opacity: 0;
       transition: visibility 0s ease-in-out, opacity 0.3s 0.3s ease-in-out;
 
-      @include breakpoint('medium') {
+      @include breakpoint('small') {
         grid-row: span 2;
         position: static;
         visibility: visible;
@@ -83,7 +85,7 @@
         display: block;
         max-width: 35px;
 
-        @include breakpoint('medium') {
+        @include breakpoint('small') {
           max-width: $size-site-header-height;
         }
       }
@@ -118,15 +120,16 @@
 
     #{$s}__subtitle {
       @extend %post-meta;
-      @include font-size(12px);
+      @include font-size(11px);
       text-transform: uppercase;
     }
 
     #{$s}__title {
       @extend %page-title;
-      @include font-size(22px);
+      @include font-size(16px);
       color: $color-white;
       letter-spacing: 1px;
+      max-width: 250px;
     }
   }
 
