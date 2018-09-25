@@ -1,0 +1,144 @@
+/*======================================
+=            Header: Search            =
+======================================*/
+
+.site-header__search {
+  $s: &;
+  $minimal: '.site-header--minimal';
+  $search-size: 125px;
+
+  height: 100%;
+  margin-left: 0.5rem;
+
+  .btn--search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    z-index: 5;
+    @extend %header-nav-link;
+    color: $color-white;
+
+    @include breakpoint('medium') {
+      width: $search-size;
+    }
+
+    &:hover {
+      color: $color-dust;
+    }
+
+    #{$minimal} & {
+      color: $color-black;
+    }
+
+    &.is-active,
+    #{$minimal} &.is-active {
+      background-color: $color-dust;
+      color: $color-white;
+      right: -$size-wrapper-padding-mobile;
+      padding: 0 $size-wrapper-padding-mobile;
+
+      @include breakpoint('medium') {
+        right: unset;
+        padding: 0;
+      }
+      
+      &::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: -$size-site-header-padding;
+        right: 0;
+        left: 0;
+        bottom: -$size-site-header-padding;
+        z-index: 5;
+        background-color: $color-dust;
+      }
+
+      &:hover,
+      i {
+        color: $color-white;
+      }
+    }
+
+    i,
+    span {
+      position: relative;
+      z-index: 10;
+    }
+
+    i {
+      @include font-size(18px);
+      color: $color-white;
+
+      @include breakpoint('medium') {
+        color: $color-dust;
+        font-size: 100%;
+      }
+
+      #{$minimal} & {
+        color: $color-black;
+      }
+    }
+
+    span {
+      display: none;
+
+      @include breakpoint('medium') {
+        display: inline;
+      }
+    }
+  }
+
+  &-bar {
+    position: absolute;
+    top: -$size-site-header-padding;
+    right: 0;
+    left: 0;
+    bottom: -$size-site-header-padding;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateX(100%);
+    display: flex;
+    align-items: center;
+    background-color: $color-white;
+    @include fullWidthBackground($color-white);
+    transition: visibility 0s, opacity 0s, transform 0.3s 0.3s linear;
+
+    &.is-active {
+      visibility: visible;
+      opacity: 1;
+      transform: translateX(0);
+
+      #{$s}-form,
+      .btn--search-close {
+        opacity: 1;
+      }
+    }
+  }
+
+  .btn--search-close {
+    margin: 0;
+    @include font-size(26px);
+    color: $color-dust;
+    opacity: 0;
+    transition: opacity 0.2s 0.3s ease-in-out;
+
+    @include breakpoint('medium') {
+      margin: 0 1rem;
+      @include font-size(28px);
+    }
+  }
+
+  &-form {
+    width: 70%;
+    opacity: 0;
+    transition: opacity 0.2s 0.3s ease-in-out;
+
+    @include breakpoint('medium') {
+      width: calc(100% - #{$search-size} - (#{$size-wrapper-padding * 2}) - 3rem);
+    }
+  }
+}
+

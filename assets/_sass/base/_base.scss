@@ -24,6 +24,10 @@ body {
     @include breakpoint("large") {
         --breakpoint: "large";
     }
+
+    &.menu-open {
+        overflow-y: hidden;
+    }
 }
 
 .wrapper {

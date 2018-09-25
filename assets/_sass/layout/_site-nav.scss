@@ -1,0 +1,324 @@
+/*=======================================
+=            Site Navigation            =
+=======================================*/
+
+.site-nav {
+  $s: &;
+  $minimal: '.site-header--minimal';
+  $breakpoint-desktop: 68em;
+
+  flex: 1 0 5%;
+  max-width: 5%;
+  margin: 0 0.5rem;
+
+  @include breakpoint($breakpoint-desktop) {
+    flex: 1 1 auto;
+    max-width: unset;
+    margin-right: 1rem;
+  }
+
+  &__trigger {
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+
+    @include breakpoint($breakpoint-desktop) {
+      display: none;
+    }
+
+    &-label {
+      display: block;
+      position: relative;
+      width: 100%;
+      height: calc(#{$size-site-header-height} - 1rem);
+      transform: rotate(0deg);
+      transition: 0.5s ease-in-out;
+      cursor: pointer;
+
+      @include breakpoint($breakpoint-desktop) {
+        display: none;
+      }
+
+      span {
+        display: block;
+        position: absolute;
+        height: 2px;
+        width: 100%;
+        max-width: 20px;
+        background: $color-white;
+        border-radius: 9px;
+        opacity: 1;
+        left: 0;
+        transform: rotate(0deg);
+        transition: 0.25s ease-in-out;
+
+        #{$minimal} & {
+          background: $color-black;
+        }
+
+        &:nth-child(1) {
+          top: 35%;
+        }
+
+        &:nth-child(2),
+        &:nth-child(3) {
+          top: 50%;
+        }
+
+        &:nth-child(4) {
+          top: 65%;
+
+          #{$minimal} & {
+            top: 65%;
+          }
+        }
+      }
+    }
+
+    &:checked ~ &-label span {
+      background-color: $color-dust;
+
+      &:nth-child(1) {
+        top: 50%;
+        width: 0%;
+        left: 50%;
+      }
+
+      &:nth-child(2) {
+        transform: rotate(45deg);
+      }
+
+      &:nth-child(3) {
+        transform: rotate(-45deg);
+      }
+
+      &:nth-child(4) {
+        top: 50%;
+        width: 0%;
+        left: 50%;
+      }
+    }
+  }
+
+  &__menu {
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    right: 0;
+    height: 100vh;
+    margin: 0;
+    padding: 2rem $size-wrapper-padding-mobile;
+    display: flex;
+    flex-direction: column;
+    background-color: $color-white;
+    opacity: 0.97;
+    list-style: none;
+    transition: left 0.3s ease-in-out;
+
+    @include breakpoint($breakpoint-desktop) {
+      position: static;
+      top: unset;
+      left: unset;
+      right: unset;
+      height: 100%;
+      flex-direction: row;
+      justify-content: flex-end;
+      padding: 0;
+      background-color: transparent;
+      opacity: 1;
+
+      #{$minimal} & {
+        justify-content: flex-start;
+      }
+    }
+
+    #{$s}__trigger:checked ~ & {
+      left: 0;
+    }
+
+    li {
+      @extend %header-nav-link;
+      margin: 0 0 1rem;
+
+      @include breakpoint($breakpoint-desktop) {
+        margin: 0 0.75rem;
+        padding: 1rem 0;
+        color: $color-white;
+        text-transform: uppercase;
+
+        a {
+          color: $color-white;
+        }
+
+        #{$minimal} &,
+        #{$minimal} & a {
+          color: $color-black;
+        }
+      }
+
+      i {
+        @include font-size(18px);
+
+        @include breakpoint($breakpoint-desktop) {
+          @include font-size(14px);
+        }
+
+        &::before {
+          transition: transform 0.3s ease-in-out;
+        }
+      }
+
+      &:active,
+      &:hover {
+
+        @include breakpoint('medium') {
+          padding-left: 1rem;
+          padding-right: 1rem;
+          margin-left: -0.25rem;
+          margin-right: -0.25rem;
+
+          &::after {
+            content: '';
+            display: block;
+            position: absolute;
+            bottom: 0;
+            height: 1rem;
+            margin-left: -20px;
+            width: 150px;
+          }
+
+          &:first-of-type::after {
+            width: 180px;
+          }
+        }
+
+        #{$s}__dropdown {
+          display: block;
+
+          @include breakpoint($breakpoint-desktop) {
+            position: absolute;
+            top: 100%;
+            left: $size-wrapper-padding;
+            right: $size-wrapper-padding;
+            padding: 1rem 0;
+            display: grid;
+            grid-template-rows: repeat(2, auto);
+            grid-auto-columns: 1fr;
+            grid-column-gap: 4rem;
+            visibility: visible;
+            opacity: 1;
+            background-color: $color-dark-blue;
+           @include fullWidthBackground($color-dark-blue);
+
+            // &::before {
+            //   content: '';
+            //   display: block;
+            //   position: absolute;
+            //   top: -2rem;
+            //   height: 2rem;
+            //   width: 100%;
+            //   background-color: transparent;
+            // }
+
+            * {
+              display: block;
+            }
+          }
+        }
+
+        i::before {
+          transform: rotate(-180deg);
+        }
+      }
+
+    }
+
+    #{$s}__dropdown {
+      display: none;
+
+      @include breakpoint($breakpoint-desktop) {
+        position: absolute;
+        display: block;
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s, opacity 0.2s ease-in-out;
+
+        & * {
+          display: none;
+        }
+      }
+    }
+
+    #{$s}__dropdown-menu {
+      list-style: none;
+      margin: 0.5rem 0 1rem 2rem;
+      padding: 0;
+
+      @include breakpoint($breakpoint-desktop) {
+        margin-left: 0;
+      }
+
+      li {
+        @include breakpoint($breakpoint-desktop) {
+          margin: 1rem 0 0;
+          padding: 0;
+
+          &:first-of-type {
+            margin-top: 0;
+          }
+        }
+      }
+
+      li a {
+        display: inline-block;
+        @extend %header-nav-dropdown-link;
+
+        @include breakpoint($breakpoint-desktop) {
+          text-transform: none;
+          color: $color-dark-silver;
+
+          &:hover {
+            color: $color-white;
+          }
+        }
+      }
+    }
+
+    #{$s}__dropdown-heading,
+    #{$s}__dropdown-menu {
+      @include breakpoint($breakpoint-desktop) {
+        position: relative;
+
+        &:not(:first-of-type)::before {
+          content: '';
+          display: block;
+          position: absolute;
+          top: 0;
+          left: -1.75rem;
+          width: 1px;
+          height: 100%;
+          background-color: $color-slate;
+        }
+      }
+    }
+
+    #{$s}__dropdown-heading {
+      display: block;
+      margin: 0.5rem 0 0;
+      @extend %header-nav-dropdown-heading;
+      border-bottom: 1px solid $color-dust;
+
+      @include breakpoint($breakpoint-desktop) {
+        grid-row: 1;
+        border-bottom: 0;
+        margin-top: 0;
+
+        &::before {
+          top: 10px !important;
+        }
+      }
+    }
+
+  }
+}
+

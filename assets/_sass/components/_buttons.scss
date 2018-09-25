@@ -22,4 +22,9 @@
       background-color: $color-dark-silver;
     }
   }
+
+  &.btn--transparent {
+    background-color: transparent;
+    padding: 0;
+  }
 }

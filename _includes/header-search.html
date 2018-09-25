@@ -1,0 +1,12 @@
+<div class="site-header__search">
+  <label class="btn btn--transparent btn--search" role="button" aria-label="Toggle Search">
+    <i class="icon-search"></i>
+    <span>{{ site.data.language.search }}</span>
+  </label>
+  <div class="site-header__search-bar">
+    <button class="btn btn--transparent btn--search-close"><i class="icon-icon_close"></i></button>
+    <form role="search" class="site-header__search-form" method="get" action="/search/">
+      <input type="search" class="input input--search" id="header-search" placeholder="{{ site.data.language.search_placeholder }}" autocomplete="off" name="q" />
+    </form>
+  </div>
+</div>

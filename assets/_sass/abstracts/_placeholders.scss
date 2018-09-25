@@ -200,12 +200,14 @@
   line-height: 2;
   letter-spacing: 0.9px;
   color: $color-black;
+  text-transform: uppercase;
 
   @include breakpoint('medium') {
     @include font-size(18px);
     line-height: 1.78;
     letter-spacing: 1px;
     color: $color-dust;
+    font-weight: normal;
   }
 }
 

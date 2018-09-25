@@ -1,0 +1,65 @@
+/*====================================
+=            Header: Post            =
+====================================*/
+
+.site-header__post {
+  $s: &;
+  $minimal: '.site-header--minimal';
+  $breakpoint-desktop: 68em;
+
+  display: none;
+
+  #{$minimal} & {
+    @include breakpoint($breakpoint-desktop) {
+      flex: 1 1 auto;
+      display: flex;
+      align-items: center;
+      position: absolute;
+      visibility: hidden;
+      opacity: 0;
+      width: 100%;
+      height: 100%;
+      transition: visibility 0s, opacity 250ms 250ms cubic-bezier(.33,0,.2,1);
+    }
+
+    &.is-visible {
+      position: relative;
+      visibility: visible;
+      opacity: 1;
+      z-index: 10;
+
+      .share {
+        display: flex;
+      }
+    }
+  }
+
+  &-reading {
+    flex: 1 1 auto;
+    max-width: fit-content;
+    display: flex;
+    align-items: center;
+  }
+
+  &-label {
+    @extend %label-lg;
+    text-transform: uppercase;
+  }
+
+  &-title {
+    display: inline-block;
+    max-width: 80%;
+    margin-left: 0.25rem;
+    @extend %post-body;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .share {
+    display: none;
+    flex: 1 1 auto;
+    justify-content: flex-end;
+  }
+}
+

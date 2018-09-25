@@ -1,0 +1,9 @@
+{% if page.layout == 'post' %}
+<div class="site-header__post">
+  <div class="site-header__post-reading">
+    <span class="site-header__post-label">{{ site.data.language.currently_reading | escape }}:</span>
+    <span class="site-header__post-title">{{ page.title }}</span>
+  </div>
+  {% include social-share-icons.html %}
+</div>
+{% endif %}
