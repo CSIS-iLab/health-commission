@@ -79,6 +79,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/The-New-Realism,-An-Uncomfortable-Middle.md
 - _posts/2018-06-28-Health-Security-Downgraded-at-the-White-House.md
 - _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 - _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
