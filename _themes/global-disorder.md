@@ -16,7 +16,7 @@ image_caption: A Iraqi family who fled recent fighting near the city of Mosul pr
   militants. Many have been temporarily housed at various IDP camps around the region
   including the area close to Erbil, as they hope to enter the safety of the nearby
   Kurdish region.
-image_credit: Spencer Platt / Getty Images
+image_credit: Spencer Platt/Getty Images
 in_depth_overview: _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 featured_post: _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 further_reading: |-
