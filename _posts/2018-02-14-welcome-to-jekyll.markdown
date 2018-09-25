@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Jekyll!
 date: 2018-02-13 15:56:34 +0000
 categories: jekyll update
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1536943052/health-commission/photo-1529928750697-1d9646312221.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v2/health-commission/photo-1529928750697-1d9646312221.jpg
 image_caption: This is a test caption.
 image_credit: Getty Images
 authors:
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![testing](https://res.cloudinary.com/csisideaslab/image/upload/v1536943052/health-commission/photo-1529928750697-1d9646312221.jpg "test")
+![testing](https://res.cloudinary.com/csisideaslab/image/upload/v2/health-commission/photo-1529928750697-1d9646312221.jpg "test")
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

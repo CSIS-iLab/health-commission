@@ -11,7 +11,7 @@
     {% for member in site.data[group.type] %}
     <div class="group__member">
       {% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
-      {% assign path = site.cloudinary_url | append: "r_max/v1536943052/health-commission/" %}
+      {% assign path = site.cloudinary_url | append: "r_max/v2/health-commission/" %}
       {% assign placeholder = "Anon.jpg"  %}
 
       <img class="group__member__photo" onerror="this.src='{{ path }}{{ placeholder }}'" src="{{ path }}{{ file }}" />
