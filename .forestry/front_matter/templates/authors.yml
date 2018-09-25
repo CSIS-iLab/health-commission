@@ -9,13 +9,6 @@ fields:
 - type: text
   name: short_title
   label: Short Title
-- type: textarea
-  name: excerpt
-  label: Short Bio
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: file
   name: image
   label: IMAGE
