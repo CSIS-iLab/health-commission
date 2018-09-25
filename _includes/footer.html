@@ -28,10 +28,7 @@
 
         <li><i class="icon-location"></i>{{site.data.language.footer.address }}</li>
       </ul>
-
-  </div>
-
-
+    </div>
     <div class="site-footer__menu">
 
       <div class="site-footer__section-title">
@@ -69,23 +66,17 @@
         </li>
         {% endfor %}
       </ul>
-
     </div>
-
-  </div>
-
-  <section class="site-footer__copyright">
-    <p> &copy;{{ site.time | date: '%Y' }} {{ site.data.language.footer.copyright }}</p>
-    <p> <a href="https://www.csis.org/privacy-policy" target="_blank">Privacy Policy</a></p>
-  </section>
-
+    <section class="site-footer__copyright">
+      <p> &copy;{{ site.time | date: '%Y' }} {{ site.data.language.footer.copyright }}</p>
+      <p> <a href="https://www.csis.org/privacy-policy" target="_blank">Privacy Policy</a></p>
+    </section>
   </div>
 </footer>
 
-
-<script src="{{ "/assets/js/bundle.js" | relative_url }}" type="text/javascript"></script>
+<script src="{{ " /assets/js/bundle.js " | relative_url }}" type="text/javascript"></script>
 {% if page.use_algolia %}
-<script src="{{ "/assets/js/archives.js" | relative_url }}" type="text/javascript"></script>
+<script src="{{ " /assets/js/archives.js " | relative_url }}" type="text/javascript"></script>
 {% endif %}
 {% if page.layout == 'members' %}
 <script src="{{ "/assets/js/members.js" | relative_url }}" type="text/javascript"></script>

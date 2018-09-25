@@ -24,7 +24,6 @@
 
       &:nth-of-type(n + 2) a {
         position: relative;
-
         &::after {
           position: absolute;
           right: -0.8rem;
