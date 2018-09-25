@@ -3,24 +3,25 @@
 =======================================*/
 
 .post__further-reading {
-  p {
-    margin-bottom: 0;
-  }
-  
-  a[href^=http] {
+  a[href^='http'] {
     visibility: hidden;
     position: relative;
     word-break: break-all;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    overflow: hidden;
 
     &::after {
       content: '\ebb4';
       font-family: 'healthcom';
       visibility: visible;
       position: absolute;
-      top: -3px;
+      top: 0px;
       left: 0;
       word-break: normal;
+      width: 20px;
+      height: 20px;
     }
   }
 }
-
