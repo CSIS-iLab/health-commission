@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/u-s-congressman-tom-cole.md
 - _authors/amanda-glassman.md
 - _authors/ambassador-jimmy-kolker.md
 - _authors/jennifer-kates.md
@@ -52,4 +53,3 @@ pages:
 - _authors/jim-greenwood.md
 - _authors/u-s-congresswoman-anna-eshoo.md
 - _authors/steve-davis.md
-- _authors/u-s-congressman-tom-cole.md

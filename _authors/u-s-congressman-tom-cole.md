@@ -5,6 +5,9 @@ role: ''
 short_title: ''
 long_title: R-OK
 has_photo: false
+short_bio: ''
+type: commission
 excerpt: ''
 
 ---
+Congressman Tom Cole is the current representative from the 4th district of Oklahoma. Presently serving in his eighth term, Congressman Cole was elected to Congress in 2002. In Congress, he is recognized as an advocate for taxpayers and small business, a proponent for a strong national defense, and a leader in promoting biomedical research.
