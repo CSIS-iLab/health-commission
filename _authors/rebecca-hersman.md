@@ -12,6 +12,7 @@ short_bio: "**Rebecca Hersman** directs the CSIS Project on Nuclear Issues and i
   secretary of defense for countering weapons of mass destruction (WMD) since 2009."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475627/health-commission/Hersman_Rebecca.jpg
 
 ---
 Rebecca Hersman directs the CSIS Project on Nuclear Issues and is a senior adviser for the International Security Program. Ms. Hersman joined CSIS in April 2015 from the Department of Defense (DOD), where she served as deputy assistant secretary of defense for countering weapons of mass destruction (WMD) since 2009.
