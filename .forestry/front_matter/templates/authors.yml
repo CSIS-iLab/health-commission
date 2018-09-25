@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/j-stephen-morrison.md
 - _authors/rebecca-katz.md
 - _authors/emily-foecke-munden.md
 - _authors/david-a-relman.md
@@ -30,7 +31,6 @@ pages:
 - _authors/trevor-mundel.md
 - _authors/ambassador-mark-dybul.md
 - _authors/u-s-congressman-ami-bera.md
-- _authors/j-stephen-morrison.md
 - _authors/rebecca-hersman.md
 - _authors/christine-wormuth.md
 - _authors/rocco-casagrande.md
