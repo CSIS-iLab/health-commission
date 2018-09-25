@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/Andrew-Kitua.md
 - _authors/Amadou-Sall,-CEO,-Pasteur-Institute,-Dakar,-Senegal.md
 - _authors/Christos-Stylianides.md
 - _authors/Daniel-Lucey.md
