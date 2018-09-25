@@ -13,15 +13,17 @@ fields:
   name: image
   label: IMAGE
 pages:
-- _authors/nancy-lindborg.md
-- _authors/david-relman.md
-- _authors/laura-holgate.md
-- _authors/stephen-morrison.md
-- _authors/anna-eshoo.md
+- _authors/tom-frieden.md
 - _authors/jimmy-kolker.md
+- _authors/jim-greenwood.md
+- _authors/laura-holgate.md
+- _authors/anna-eshoo.md
 - _authors/christine-wormuth.md
 - _authors/amanda-glassman.md
 - _authors/steve-davis.md
+- _authors/nancy-lindborg.md
+- _authors/david-relman.md
+- _authors/stephen-morrison.md
 - _authors/tom-cole.md
 - _authors/jennifer-kates.md
 - _authors/karl-hofmann.md
@@ -33,7 +35,6 @@ pages:
 - _authors/jeffrey-l-sturchio.md
 - _authors/u-s-senator-patty-murray.md
 - _authors/julie-louise-gerberding-m-d-mph.md
-- _authors/tom-frieden.md
 - _authors/todd-young.md
 - _authors/trevor-mundel.md
 - _authors/mark-dybul.md
@@ -48,4 +49,3 @@ pages:
 - _authors/jeremy-konyndyk.md
 - _authors/tom-inglesby.md
 - _authors/juan-zarate.md
-- _authors/jim-greenwood.md
