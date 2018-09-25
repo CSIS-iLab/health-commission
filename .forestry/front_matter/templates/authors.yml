@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/david-relman.md
 - _authors/laura-holgate.md
 - _authors/stephen-morrison.md
 - _authors/anna-eshoo.md
@@ -26,7 +27,6 @@ pages:
 - _authors/carter-ham.md
 - _authors/rebecca-katz.md
 - _authors/emily-munden.md
-- _authors/david-a-relman.md
 - _authors/margaret-peggy-hamburg.md
 - _authors/samantha-stroman.md
 - _authors/jeffrey-l-sturchio.md
