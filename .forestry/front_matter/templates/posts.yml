@@ -79,6 +79,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 - _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 - _posts/2018-09-14-frontline-perspectives-on-pandemic-preparedness.md
 - _posts/2018-06-28-the-role-of-the-ifrc-in-humanitarian-response-and-preparedness.md
@@ -94,4 +95,3 @@ pages:
 - _posts/2018-09-13-accelerating-medical-countermeasures.md
 - _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 - _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
-- _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
