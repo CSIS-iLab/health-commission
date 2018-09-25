@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/rebecca-katz.md
 - _authors/emily-foecke-munden.md
 - _authors/david-a-relman.md
 - _authors/margaret-peggy-hamburg.md
@@ -45,7 +46,6 @@ pages:
 - _authors/laura-s-h-holgate-ambassador-ret.md
 - _authors/tom-inglesby.md
 - _authors/jennifer-kates.md
-- _authors/rebecca-katz.md
 - _authors/amanda-glassman.md
 - _authors/juan-zarate.md
 - _authors/general-carter-ham.md
