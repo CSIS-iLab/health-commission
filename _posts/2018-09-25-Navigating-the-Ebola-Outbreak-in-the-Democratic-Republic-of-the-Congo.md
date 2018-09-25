@@ -24,7 +24,7 @@ is_commission_related:
 references: ''
 
 ---
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/464633901&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/499538889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 _This podcast with WHO Deputy Director-General of Emergency Preparedness and Response Peter Salama, recorded for the CSIS Global Health Policy Center podcast series_ Take as Directed_, examines the response to the Ebola outbreak in the Democratic Republic of the Congo that began in July 2018.  Occurring in a conflict-ridden region of DRC, this outbreak illustrates the difficulties of ensuring health security and effective outbreak response in the midst of conflict and disorder._
 
