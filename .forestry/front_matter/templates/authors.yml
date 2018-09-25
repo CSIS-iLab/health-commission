@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/ambassador-jimmy-kolker.md
 - _authors/jennifer-kates.md
 - _authors/ambassador-karl-hofmann.md
 - _authors/general-carter-ham.md
@@ -44,7 +45,6 @@ pages:
 - _authors/beth-cameron.md
 - _authors/nancy-lindborg.md
 - _authors/jeremy-konyndyk.md
-- _authors/ambassador-jimmy-kolker.md
 - _authors/laura-s-h-holgate-ambassador-ret.md
 - _authors/tom-inglesby.md
 - _authors/amanda-glassman.md
