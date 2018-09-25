@@ -54,18 +54,6 @@
         </li>
         {% endfor %}
       </ul>
-
-      <div class="site-footer__section-title">
-        {{site.data.language.menu.resources }}
-      </div>
-
-      <ul>
-        {% for item in site.data.main_menus.resources %}
-        <li class="menu-item">
-          <a href="{{ item.url | relative_url }}" title="{{ item.desc }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
     </div>
     <section class="site-footer__copyright">
       <p> &copy;{{ site.time | date: '%Y' }} {{ site.data.language.footer.copyright }}</p>
@@ -73,6 +61,8 @@
     </section>
   </div>
 </footer>
+
+{{ site.data.main_menus }}
 
 <script src="{{ "/assets/js/bundle.js" | relative_url }}" type="text/javascript"></script>
 {% if page.use_algolia %}

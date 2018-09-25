@@ -41,10 +41,3 @@ themes:
     weight: 2
     title: Health Security in Global Disorder
     desc: Protecting Health Security in the Face of Global Disorder
-
-resources:
-  - identifier:
-    url: ""
-    weight: 2
-    title:
-    desc: 
