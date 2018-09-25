@@ -23,6 +23,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: file
+  name: image
+  label: Image
 - name: show_page_highlights
   label: Show page highlights
   type: boolean
@@ -48,6 +51,3 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: file
-  name: image
-  label: Image
