@@ -12,6 +12,7 @@ short_bio: "**Emily Foecke Munden** is an associate fellow with the CSIS Global 
   in Sierra Leone, and performed program design and implementation for irrigation
   and water sanitation projects in Kenya."
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475623/health-commission/Anon.jpg
 
 ---
 Emily Foecke Munden is an associate fellow with the CSIS Global Health Policy Center, with a primary focus on global health security efforts. Previously, Ms. Munden worked in corporate global sourcing, led a maternal health nonprofit in Sierra Leone, and performed program design and implementation for irrigation and water sanitation projects in Kenya.
