@@ -51,3 +51,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- events.md
