@@ -8,7 +8,7 @@
       Click on a name to jump to bio.
     </p>
     <ul class="navigate-members__container__list">
-      {% assign all_members = site.data.co_chairs | concat: site.data.members_contributors | concat: site.data.experts_advisors | concat: site.data.secretariat %}
+      {% assign all_members = site.data.co_chairs | concat: site.data.members_contributors | concat: site.data.experts_advisors | concat: site.data.secretariat | sort: "Last Name" %}
 
         {% for member in all_members %}
         <li class="navigate-members__container__list__item">
