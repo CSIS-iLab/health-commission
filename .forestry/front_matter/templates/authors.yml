@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/Victor-Cha.md
 - _authors/Elhadj-As-Sy.md
 - _authors/Andrew-Kitua.md
 - _authors/Amadou-Sall,-CEO,-Pasteur-Institute,-Dakar,-Senegal.md
