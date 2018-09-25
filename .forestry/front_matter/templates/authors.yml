@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/margaret-peggy-hamburg.md
 - _authors/samantha-stroman.md
 - _authors/jeffrey-l-sturchio.md
 - _authors/u-s-senator-patty-murray.md
@@ -24,7 +25,6 @@ pages:
 - _authors/tom-frieden.md
 - _authors/u-s-senator-todd-young.md
 - _authors/trevor-mundel.md
-- _authors/margaret-peggy-hamburg.md
 - _authors/ambassador-mark-dybul.md
 - _authors/david-a-relman.md
 - _authors/u-s-congressman-ami-bera.md
