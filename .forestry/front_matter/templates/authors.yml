@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/Senior-Fellow,-CSIS-Global-Health-Policy-Center.md
 - _authors/Katherine-Bliss.md
 - _authors/Jonathan-Hillman.md
 - _authors/Cathryn-Streifel.md
