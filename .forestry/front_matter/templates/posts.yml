@@ -79,6 +79,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/Opportunities-for-Health-Diplomacy-in-North-Korea.md
 - _posts/2018-09-25-Frontline-Perspectives-on-Pandemic-Preparedness.md
 - _posts/2018-06-28-The-Role-of-the-IFRC-in-Humanitarian-Response-and-Preparedness.md
 - _posts/2018-06-21-The-Global-Threat-of-Yellow-Fever.md
