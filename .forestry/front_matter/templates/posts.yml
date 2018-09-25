@@ -6,25 +6,6 @@ fields:
 - type: text
   name: title
   label: Title
-- type: datetime
-  name: date
-  label: Date
-- type: list
-  label: Authors
-  name: authors
-  config:
-    min: '0'
-    use_select: true
-    source:
-      type: pages
-      section: authors
-- type: textarea
-  name: excerpt
-  label: Excerpt
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: select
   name: content_type
   config:
@@ -37,6 +18,25 @@ fields:
     - event
   label: Content Type
   hidden: false
+- type: textarea
+  name: excerpt
+  label: Excerpt
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: datetime
+  name: date
+  label: Date
+- type: list
+  label: Authors
+  name: authors
+  config:
+    min: '0'
+    use_select: true
+    source:
+      type: pages
+      section: authors
 - type: include
   name: categories
   label: Categories
