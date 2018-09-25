@@ -10,10 +10,12 @@
     white-space: nowrap;
     border: none;
     padding: 0;
+    transition: color 0.3s ease-in-out;
 
     #{$cp}:hover & {
       color: $color-dust;
       cursor: pointer;
+      transition: color 0.3s ease-in-out;
     }
 
     & i {
