@@ -16,6 +16,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: file
+  name: image
+  label: IMAGE
 pages:
 - _authors/steve-davis.md
 - _authors/u-s-congressman-tom-cole.md
