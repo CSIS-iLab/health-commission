@@ -9,7 +9,7 @@ image_caption: A man dressed in protective hazmat clothing treats the front porc
   October 12, 2014 in Dallas, Texas. A female nurse working at Texas Heath Presbyterian
   Hospital, the same facility that treated Thomas Eric Duncan, has tested positive
   for the virus.
-image_credit: Mike Stone / Getty
+image_credit: Mike Stone / Getty Images
 in_depth_overview: _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 featured_post: _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 excerpt: High-risk disease outbreaks are a real and growing threat to U.S. national
