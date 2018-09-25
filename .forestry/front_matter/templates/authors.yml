@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _authors/emily-foecke-munden.md
 - _authors/david-a-relman.md
 - _authors/margaret-peggy-hamburg.md
 - _authors/samantha-stroman.md
@@ -38,7 +39,6 @@ pages:
 - _authors/admiral-jonathan-greenert.md
 - _authors/beth-cameron.md
 - _authors/nancy-lindborg.md
-- _authors/emily-foecke-munden.md
 - _authors/jeremy-konyndyk.md
 - _authors/ambassador-jimmy-kolker.md
 - _authors/ambassador-karl-hofmann.md
