@@ -13,7 +13,7 @@ fields:
   label: Authors
   name: authors
   config:
-    min: '1'
+    min: '0'
     use_select: true
     source:
       type: pages
