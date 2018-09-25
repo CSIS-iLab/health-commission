@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/Daniel-Lucey.md
 - _authors/Elhadj-As-Sy.md
 - _authors/Peter-Salama.md
 - _authors/Jacki-Lyden.md
