@@ -1,0 +1,39 @@
+/*======================================
+=            Aside Container           =
+======================================*/
+
+.aside-container {
+  background-color: $color-off-white;
+  margin: 2rem auto;
+  padding: 2rem;
+
+  &__subtitle {
+    @extend %section-title;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+  &__title {
+    @extend %post-block-post-title-featured;
+    position: relative;
+
+    &:hover {
+      color: $color-dust;
+    }
+
+    &:after {
+      position: absolute;
+      right: -1rem;
+      color: $color-dust;
+      font-weight: bold;
+      content: '\f105';
+      font-family: 'healthcom';
+      @include font-size(26px);
+    }
+  }
+
+  a:not(.btn) {
+    box-shadow: none;
+  }
+}

@@ -1,4 +1,5 @@
 .page-highlights {
+  $ph: &;
   position: relative;
   width: calc(100% + #{$size-wrapper-padding-mobile} * 2);
   left: -$size-wrapper-padding-mobile;
@@ -47,14 +48,11 @@
               2
           )
       );
-      z-index: -1; 
+      z-index: -1;
     }
   }
 
-  .page-highlights__col {
-    display: flex;
-    padding: 1rem 2rem;
-
+  div[class^='page-highlights__col'] {
     &:first-of-type {
       padding-left: 0;
 
@@ -63,13 +61,12 @@
       }
     }
 
-    &--last:not(:only-child) {
+    &:last-of-type:not(:only-child) {
       background-color: $color-dust;
       flex-shrink: 0;
-      padding: 1rem 2rem;
     }
 
-    &.download {
+    &.download-box {
       position: relative;
 
       &:after {
@@ -83,11 +80,17 @@
       }
     }
 
-    &.page-excerpt {
-      flex-direction: column;
+    #{$ph}__excerpt {
+      @extend %page-description;
+    }
 
-      .page-highlights__excerpt {
-        @extend %page-description;
+    #{$ph}__photo-credit {
+      .photo-caption-desc {
+        @extend %photo-caption-desc;
+      }
+
+      .photo-caption-credit {
+        @extend %photo-caption-credit;
       }
     }
   }
@@ -95,7 +98,6 @@
   &.posts {
     position: fixed;
     top: calc(100vh - #{$size-page-highlights-height-mobile});
-    width: calc(100% + 16px);
 
     @include breakpoint(medium) {
       position: relative;
@@ -103,9 +105,15 @@
       width: $size-page-highlights-width;
     }
 
-    .page-highlights__col {
+    div[class^='page-highlights__col'] {
       width: 100%;
-      
+      display: flex;
+      align-items: flex-end;
+    }
+
+    #{$ph}__col {
+      width: 100%;
+
       @include breakpoint(medium) {
         flex-basis: 260px;
       }
@@ -120,8 +128,50 @@
     }
   }
 
-  &:not(.posts) .page-highlights__col {
-    
+  &.events,
+  &.themes {
+    &.archive {
+      #{$ph}__col--last:not(:only-child) {
+        display: none;
+        @include breakpoint(medium) {
+          display: flex;
+          flex-basis: 300px;
+        }
+      }
+    }
+
+    &:not(.archive) {
+      #{$ph}__col:not(.excerpt-box):not(.featured-box) {
+        width: 100%;
+        display: flex;
+        align-items: flex-end;
+      }
+
+      #{$ph}__col--last {
+        &:not(.featured-box) {
+          @include breakpoint(medium) {
+            display: flex;
+            flex-basis: 300px;
+            align-items: flex-end;
+          }
+        }
+      }
+    }
+  }
+
+  &.posts div[class^='page-highlights__col'],
+  &.themes div[class^='page-highlights__col'] {
+    padding: 0.5rem;
+    @include breakpoint(medium) {
+      padding: 0.5rem;
+    }
+  }
+
+  &:not(.posts):not(.events) div[class^='page-highlights__col']:first-of-type {
+    padding: 0.5rem 0;
+    @include breakpoint(medium) {
+      padding: calculate-rem(36px);
+    }
   }
 
   &.events,
@@ -134,7 +184,7 @@
 
   &.events,
   &.themes {
-    .page-highlights__col--last {
+    #{$ph}__col--last {
       display: none;
 
       @include breakpoint(medium) {

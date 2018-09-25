@@ -1,0 +1,9 @@
+---
+- type: co_chairs
+  title: Co-Chairs
+- type: members_contributors
+  title: Members
+- type: experts_advisors
+  title: Experts and Advisors
+- type: secretariat
+  title: Secretariat
