@@ -13,10 +13,10 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/Jonathan-Hillman.md
 - _authors/Katherine-Bliss.md
 - _authors/steve-davis.md
 - _authors/Nellie-Bristol.md
-- _authors/Jonathan-Hillman.md
 - _authors/Cathryn-Streifel.md
 - _authors/Victor-Cha.md
 - _authors/Elhadj-Sy.md
