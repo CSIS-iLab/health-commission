@@ -40,11 +40,17 @@
 
   &__content-type, &__author-name { text-transform: uppercase; }
 
-  &__series::before {
-    content: "TESTING";
-    font-size: 1em;
-    font-color: $color-off-white;
-    @include breakpoint('large') { display: block; }
+  &__series {
+    display: none;
+    position: relative;
+
+    &:before {
+      content: " &dash; ";
+      position: absolute;
+      font-size: 1em;
+      font-color: $color-off-white;
+      @include breakpoint('large') { display: block; }
+    }
   }
 }
 
