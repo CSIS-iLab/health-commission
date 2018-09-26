@@ -11,8 +11,8 @@ authors:
 - _authors/jimmy-kolker.md
 - _authors/nancy-lindborg.md
 - _authors/christine-wormuth.md
-excerpt: Health realities in North Korea are grim, poorly understood, and seldom studied
-  as part of the larger problem of potential instability on the Korean peninsula.
+excerpt: A nurse tends to new-born infants in a ward at the Pyongyang Maternity Hospital
+  during a government-organised media tour in Pyongyang on May 7, 2016.
 content_type: commentary
 themes:
 - _themes/global-disorder.md
