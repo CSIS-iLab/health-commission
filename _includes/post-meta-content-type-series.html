@@ -17,7 +17,7 @@
 
   {% if series_list.size > 0 %}
   <div class="post-meta__series">
-    <span class="post-meta__dash">{{ site.data.language.series.dash }}</span>
+    <span class="dash::before"></span>
     {{ site.data.language.series.from }}
     <a href="{{ site.series_url | append: series_info.url | relative_url }}" class="post-meta__link post-meta__series-name">{{ series_info.title }}</a>
   </div>

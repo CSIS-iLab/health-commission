@@ -1,14 +1,12 @@
 .post-meta {
-  $p: &;
   @extend %post-block-meta;
-  display: block;
+  $p: &;
 
-  .home__featured-primary & {
+  .home__featured-primary &, .page-header & {
     color: $color-light-gray;
     margin: 0.3em 0 0.3em 0;
-    border-bottom: 1px solid $color-dusty-lavender;
 
-    #{$p}__link & {
+    #{$p}__link {
       color: $color-light-gray;
       &:hover {
         color: $color-white;
@@ -20,6 +18,7 @@
   .home__recent-posts &,
   .home__event-series &,
   .archive--all-articles &, {
+    color: $color-black;
 
     #{$p}__link {
       &:hover {
@@ -29,35 +28,28 @@
   }
 
   #{$p}__content-series-wrapper {
-    @include breakpoint('large') {
-       & { display: flex; }
+    .home__featured-primary &,
+    .page-header & {
+      border-bottom: 1px solid $color-dusty-lavender;
+
+      @include breakpoint('large') {
+         & { display: flex; }
+      }
     }
   }
 
-  .page-header & {
-    color: $color-off-white;
-  }
+  &__content-type, &__author-name { text-transform: uppercase; }
 
-  &__content-type,
-  &__author-name {
-    text-transform: uppercase;
-
-    &:hover {
-      color: $color-slate;
-    }
-  }
-
-  &__series-name {
-    &:hover {
-      color: $color-slate;
-    }
+  .dash::before {
+    display: none;
+    content: TESTING PSEUDO ELEMENT';
+    color: $color-white;
+    font-size: 1em;
+    @include breakpoint('large') { display: inline; }
   }
 }
-<<<<<<< HEAD
-=======
 
 .post-meta__date {
   text-transform: uppercase;
   @extend %post-block-meta;
->>>>>>> refactoring - stopping to rebase
 }
