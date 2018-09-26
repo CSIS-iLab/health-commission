@@ -1,0 +1,35 @@
+.download-pdf {
+  @extend %label-lg;
+  text-transform: uppercase;
+  margin: 0.2em;
+  padding: 0.5em;
+  display: flex;
+
+  @include breakpoint('medium') {
+    margin: 0;
+    padding: 0;
+  }
+
+  i {
+    color: $color-dust;
+    i:hover {
+      cursor: pointer;
+      color: $color-dark-sand;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+
+  a:hover {
+    color: $color-dark-sand;
+  }
+
+  &__text {
+    &--mobile { display: inline; }
+    &--desktop { display: none; }
+    
+    @include breakpoint('medium') {
+      &--desktop { display: inline; }
+      &--mobile { display: none; }
+    }
+  }
+}
