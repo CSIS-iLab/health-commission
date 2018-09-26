@@ -6,3 +6,4 @@ short_title: Fellow, CSIS Simon Chair in Political Economy, and Director, CSIS R
 image: ''
 
 ---
+Jonathan E. Hillman is a senior fellow with the CSIS Simon Chair in Political Economy and director of the [Reconnecting Asia Project](https://reconnectingasia.csis.org/ "Reconnecting Asia"). At CSIS, he leads an effort to map and analyze new roads, railways, ports, and other infrastructure emerging across the supercontinent of Eurasia.
