@@ -26,6 +26,10 @@
     }
   }
 
+  .home__events-series & {
+    color: $color-white;
+  }
+
   &#{$p}__content-series-wrapper {
     .home__featured-primary &,
     .page-header & {
