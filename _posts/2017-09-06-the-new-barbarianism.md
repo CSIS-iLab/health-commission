@@ -8,8 +8,7 @@ keywords:
 - Humanitarian
 - Video
 is_commission_related:
-  description: The topics discussed on this page were informed by conversations held
-    during a Commission meeting held on [ DATE ]
+  description: ''
   related_event: ''
 date: 2017-09-06 17:09:48 +0000
 authors:
