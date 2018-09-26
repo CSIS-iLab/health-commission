@@ -2,7 +2,7 @@
 title: Navigating the Ebola Outbreak in the Democratic Republic of the Congo
 keywords:
 - Ebola
-date: 2018-09-25 00:00:00 +0000
+date: 2018-09-14 00:00:00 +0000
 content_type: commentary
 excerpt: Elhadj As Sy, Secretary General of the International Federation of Red Cross
   and Red Crescent Societies (IFRC), discusses the role of the IFRC in humanitarian
@@ -22,6 +22,7 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
+undefined: ''
 
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/499538889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
