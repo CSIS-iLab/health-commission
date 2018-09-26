@@ -38,18 +38,21 @@
     }
   }
 
-  &__content-type, &__author-name { text-transform: uppercase; }
+  &__content-type,
+  &__author-name {
+    text-transform: uppercase;
+  }
 
   &__series {
-    display: none;
-    position: relative;
 
-    &:before {
-      content: " &dash; ";
-      position: absolute;
-      font-size: 1em;
+    &::before {
+      content: "\2014";
+      @include font-size(15px);
+      margin: 0 0.2em 0 0.2em;
       font-color: $color-off-white;
-      @include breakpoint('large') { display: block; }
+      display: none;
+
+      @include breakpoint('large') { display: inline-block; }
     }
   }
 }
