@@ -1,8 +1,20 @@
 .post-meta {
-  @extend %post-block-meta;
   $p: &;
 
-  .home__featured-primary &, .page-header & {
+  @extend %post-block-meta;
+
+  .post-block &, {
+    color: $color-black;
+
+    #{$p}__link {
+      &:hover {
+        color: $color-slate;
+      }
+    }
+  }
+
+  .home__featured-primary &,
+  .page-header & {
     color: $color-light-gray;
     margin: 0.3em 0 0.3em 0;
 
@@ -14,32 +26,22 @@
     }
   }
 
-  .home__featured-secondary &,
-  .home__recent-posts &,
-  .home__event-series &,
-  .archive--all-articles &, {
-    color: $color-black;
-
-    #{$p}__link {
-      &:hover {
-        color: $color-slate;
-      }
-    }
-  }
-
-  #{$p}__content-series-wrapper {
+  &#{$p}__content-series-wrapper {
     .home__featured-primary &,
     .page-header & {
       border-bottom: 1px solid $color-dusty-lavender;
 
       @include breakpoint('large') {
-         & { display: flex; }
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
       }
     }
   }
 
-  &__content-type,
-  &__author-name {
+  #{$p}__content-type,
+  #{$p}__author-name,
+  #{$p}__date {
     text-transform: uppercase;
   }
 
@@ -55,9 +57,4 @@
       @include breakpoint('large') { display: inline-block; }
     }
   }
-}
-
-.post-meta__date {
-  text-transform: uppercase;
-  @extend %post-block-meta;
 }
