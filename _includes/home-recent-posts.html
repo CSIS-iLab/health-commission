@@ -9,7 +9,7 @@
 {% for post in site.posts %}
   {% unless featured_posts contains post.relative_path %}
     {% assign count = count | plus: 1 %}
-    {% include post-block.html hide_excerpt=true %}
+    {% include post-block.html hide_excerpt=true num_themes='1' %}
     {% if count >= maxCount %}{% break %}{% endif %}
   {% endunless %}
 {% endfor %}
