@@ -54,14 +54,21 @@
   }
 
   &__hero {
+    $gradient-dark: darken($color-darkest-blue, 5%);
     grid-area: hero;
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
     background-color: $color-darkest-blue;
+    background-image: linear-gradient(to top, $color-darkest-blue, $color-darkest-blue 25%, $gradient-dark 100%);
     color: $color-white;
     @include fullWidthBackground($color-darkest-blue);
+
+    &::before,
+    &::after {
+      background-image: linear-gradient(to top, $color-darkest-blue, $color-darkest-blue 25%, $gradient-dark 100%);
+    }
 
     &-subtitle,
     &-title {
