@@ -1,6 +1,6 @@
-Commentary - Series
-<h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}</h1>
-<div class="post-meta__page-header">
+<div class="post-meta">
+  {% include post-meta-content-type-series.html %}
+  <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}</h1>
   {% include post-meta-authors.html %}
   {% include post-meta-date.html %}
 </div>

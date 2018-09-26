@@ -67,3 +67,5 @@ search: Search
 currently_reading: You are Reading
 pdf_desktop: Download PDF
 pdf_mobile: PDF
+series:
+  from: 'from '

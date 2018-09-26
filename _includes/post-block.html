@@ -3,14 +3,12 @@
   <a href="{{ post.url | relative_url }}" class="post-block__img"><img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" title="{{ post.title | escape }}" /></a>
   {% endif %}
   <header class="post-block__header" role="header">
-    Content Type &mdash; Series
+      {% include post-meta-content-type-series.html %}
     <h2 class="post-block__title"><a href="{{ post.url | relative_url }}">
       {{ post.title | escape }}
     </a></h2>
-    <div class="post-meta__post-block">
       {% include post-meta-authors.html %}
       {% include post-meta-date.html %}
-    </div>
   </header>
   {% if include.hide_excerpt != true %}
     <main class="post-block__content" role="main">
