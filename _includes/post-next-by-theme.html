@@ -1,0 +1,17 @@
+<div class="next-by-theme">
+  <div class="next-by-theme__section-title">
+    {{ section_title }}
+  </div>
+  <div class="next-by-theme__header-type">
+    {{ include.read_next.content_type }}
+  </div>
+  <div class="next-by-theme__post-title">
+    <a href="{{ include.read_next.url | relative_url }}">{{ include.read_next.title }}</a>
+  </div>
+  <div class="next-by-theme__post-author">
+    By {% for author in include.read_next.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
+    {% assign author_info = site.authors | where: "path", author | first %}
+    {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}
+  </div>
+
+</div>

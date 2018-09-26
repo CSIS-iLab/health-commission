@@ -1,0 +1,54 @@
+<div class="related-by-tag">
+  <div class="related-by-tag__section-title">
+    {{ site.data.language.related_articles }}
+  </div>
+
+  {% assign maxRelated = 2 %}
+  {% assign minCommonTags = 1 %}
+  {% assign maxRelatedCounter = 0 %}
+
+  <div class="related-by-tag__list">
+  {% for post in site[page.collection] reversed %}
+
+    {% assign sameTagCount = 0 %}
+
+    {% for tag in post.keywords %}
+      {% if post.url != page.url and post.url != include.read_next.url %}
+        {% if page.keywords contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if sameTagCount >= minCommonTags %}
+      <article class="related-by-tag__list__item">
+
+        <div class="related-by-tag__list__item__header-type">
+          {{ post.content_type }}
+        </div>
+        <div class="related-by-tag__list__item__post-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </div>
+        <div class="related-by-tag__list__item__post-author">
+          By {% for author in post.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
+          {% assign author_info = site.authors | where: "path", author | first %}
+          {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}
+        </div>
+        <div class="related-by-tag__list__item__post-date">
+          <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ post.date | date: site.date_format }}</time>
+        </div>
+        {% include themes-list.html %}
+
+      </article>
+
+
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,139 @@
+.post__related-posts {
+  grid-column: span 2;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  margin-left: -#{$size-wrapper-padding-mobile};
+  margin-right: -#{$size-wrapper-padding-mobile};
+
+  @include breakpoint(medium) {
+    flex-wrap: nowrap;
+    margin-left: -50%;
+    margin-right: -50%;
+
+    &:before,
+    &:after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      width: calc((100vw - 100%) / 2);
+      height: 100%;
+    }
+  }
+  &:before {
+    right: 100%;
+    background-color: $color-dust;
+  }
+
+  &:after {
+    left: 100%;
+    background-color: $color-off-white;
+  }
+
+  .next-by-theme {
+    background-color: $color-dust;
+    padding: $size-wrapper-padding-mobile;
+    flex-basis: 100%;
+
+    @include breakpoint(medium) {
+      padding: 1.5rem 2.5rem 3rem 0;
+      flex-basis: 25%;
+    }
+
+    &__section-title {
+      @extend %section-title;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+
+    &__header-type {
+      @extend %header-nav-link;
+      text-transform: uppercase;
+      margin-bottom: 0.75rem;
+    }
+
+    &__post-title a {
+      @extend %post-block-post-title;
+      color: $color-white;
+      margin-bottom: 0.75rem;
+    }
+
+    &__post-author {
+      @extend %header-nav-link;
+    }
+  }
+
+  .related-by-tag {
+    background-color: $color-off-white;
+    padding: $size-wrapper-padding-mobile;
+    flex-basis: 100%;
+
+    @include breakpoint(medium) {
+      padding: 1.5rem 2.5rem 3rem;
+      flex-basis: 75%;
+    }
+
+    &__section-title {
+      @extend %section-title;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+
+    &__list {
+      display: flex;
+      flex-wrap: wrap;
+      position: relative;
+      @include breakpoint(medium) {
+        flex-wrap: nowrap;
+      }
+
+      &__item {
+        @include breakpoint(medium) {
+          flex-basis: 50%;
+        }
+        &__header-type {
+          @extend %post-block-meta;
+          text-transform: uppercase;
+          margin-bottom: 0.75rem;
+        }
+
+        &__post-title a {
+          @extend %post-block-post-title;
+          margin-bottom: 0.75rem;
+        }
+
+        &__post-author {
+          @extend %post-block-meta;
+        }
+
+        &__post-date {
+          @extend %post-block-meta;
+          text-transform: uppercase;
+          color: $color-warm-gray;
+        }
+
+        @include breakpoint(medium) {
+          &:first-of-type {
+            padding-right: 2.5rem;
+          }
+
+          &:last-of-type {
+            padding-left: 2.5rem;
+            position: relative;
+
+            &:before {
+              content: '';
+              position: absolute;
+              left: -5%;
+              top: 0;
+              width: 1px;
+              height: 100%;
+              background-color: $color-dusty-lavender;
+            }
+          }
+        }
+      }
+    }
+  }
+}
