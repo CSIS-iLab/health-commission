@@ -11,6 +11,11 @@
   &__section-title {
     @extend %footer-section-title;
     text-transform: uppercase;
+    display: block;
+
+    @include breakpoint('medium') {
+      display: inline;
+    }
   }
 
   .wrapper-full {
@@ -26,7 +31,7 @@
   .site-footer__info {
     flex-basis: 100%;
     @media screen and (min-width: 80em) {
-      border-right: 1px solid $color-slate;
+      border-right: 0.1rem solid $color-slate;
       padding-right: $size-wrapper-padding;
       flex-basis: 75%;
     }
@@ -59,9 +64,10 @@
       flex-wrap: wrap;
       flex-direction: column;
       max-height: 3rem;
-      margin-top: 3rem;
+      margin: 2rem 0;
       align-content: flex-start;
       @include breakpoint('medium') {
+        margin: 2.5rem 0 1.5rem;
         flex-direction: row;
         height: auto;
       }
@@ -83,6 +89,13 @@
           @include font-size(24px);
           position: relative;
           top: -3px;
+        }
+
+        &:before {
+          margin-left: 0;
+          @include breakpoint('medium') {
+            margin-left: 0.2em;
+          }
         }
       }
       &-csis {
@@ -136,7 +149,7 @@
 
             &:after {
               content: '';
-              height: 1px;
+              height: 0.1rem;
               width: 30%;
               background-color: $color-slate;
               top: calc(50% - 0.6rem);
@@ -158,7 +171,7 @@
               position: absolute;
               left: -16%;
               top: -0.5rem;
-              width: 1px;
+              width: 0.1rem;
               height: 100%;
               background-color: $color-slate;
             }
@@ -206,7 +219,7 @@
       line-height: 1.6;
       margin: 0.5rem 0 1.5rem;
       padding-left: 1.5rem;
-      
+
       .menu-item {
         list-style-type: none;
         a {
@@ -218,7 +231,7 @@
       }
     }
   }
-  
+
   #{$sf}__copyright {
     flex-basis: 100%;
     display: flex;
@@ -227,7 +240,7 @@
     max-width: 1440px;
     margin: auto;
     @include breakpoint('medium') {
-      padding: 0.5rem $size-wrapper-padding;
+      padding: 0.5rem 0;
       position: relative;
 
       &:before {
@@ -237,7 +250,7 @@
         top: 0;
         left: 50%;
         width: 100vw;
-        height: 1px;
+        height: 0.1rem;
         margin-left: -50vw;
         margin-right: -50vw;
         background-color: $color-slate;
