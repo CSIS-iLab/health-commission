@@ -1,0 +1,28 @@
+{% assign content_type_name = post.content_type %}
+{% if page.content_type.size > 0 %}
+  {% assign content_type_name = page.content_type %}
+{% endif %}
+{% assign content_type_info = site.data.content_types | where: 'type', content_type_name %}
+{% assign content_type_search = content_type_info[0].title_plural %}
+
+{% assign series_list = post.series %}
+{% if page.series.size > 0 %}
+  {% assign series_list = page.series %}
+{% endif %}
+{% assign series_info = site.series | where: "relative_path", series | first %}
+
+
+<div class="post-meta__content-info">
+<div class="post-meta__mobile"><a href="{{ site.content_type_url | append: content_type_search }}" class="post-meta__link post-meta">{{ content_type_name | upcase }}</a></div>
+
+{% if page.series.size > 0 or post.series.size > 0 %}
+    <div class="post-meta__mobile">
+      <div class="post-meta__dash">{{ site.data.language.series.dash }}</div>
+      {{ site.data.language.series.from }}
+      <a href="{{ site.series_url | append: series_info.url | relative_url }}" class="post-meta__link">{{ series_info.title }}</a>
+    </div>
+</div>
+{% endif %}
+<!-- {% if include.show_line == true %}
+  <div class="post-meta__line"></div>
+{% endif %} -->
