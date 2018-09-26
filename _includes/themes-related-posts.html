@@ -11,5 +11,5 @@
   {% for post in theme_posts limit: post_list_limit %}
   {% include post-block.html %}
   {% endfor %}
-  <a href="/search/?q=&hPP=10&idx=health-commission&p=0&dFR[{{ page.layout }}][0]={{ page.short_title }}" class="btn btn--dark-gray themes__more-posts">{{ site.data.language.single_post.more_posts }}</a>
+  <a href="{{ site.theme_url | append: page.short_title }}" class="btn btn--dark-gray themes__more-posts">{{ site.data.language.single_post.more_posts }}</a>
 </div>
