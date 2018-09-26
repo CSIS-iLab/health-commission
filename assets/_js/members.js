@@ -1,4 +1,4 @@
-let modal, overlay, close, container, navigator
+let modal, overlay, close, container, navigator, list
 
 const Members = () => {
   modal = document.querySelector('.modal')
@@ -29,18 +29,19 @@ const Members = () => {
     }
   })
 
-  navigator = document.querySelector('.navigate-members__container')
-  document
-    .querySelector('.navigate-members .icon-arrow-up')
-    .addEventListener('click', () => {
-      navigator.scrollTop = 0
-    })
+  navigator = document.querySelector('.navigate-members')
 
-  document
-    .querySelector('.navigate-members .icon-list-nav')
-    .addEventListener('click', toggleNavigator)
+  list = navigator.querySelector('.navigate-members__container')
+
+  navigator.querySelector('.icon-arrow-up').addEventListener('click', () => {
+    list.scrollTop = 0
+  })
 
   navigator
+    .querySelector('.navigate-members__header__title')
+    .addEventListener('click', toggleNavigator)
+
+  list
     .querySelector('.navigate-members__container__list')
     .addEventListener('click', e => {
       if (e.target.tagName === 'A') {
@@ -50,7 +51,7 @@ const Members = () => {
 }
 
 const toggleNavigator = () => {
-  navigator.classList.toggle('hide')
+  list.classList.toggle('hide')
   overlay.style.display = overlay.style.display === 'block' ? 'none' : 'block'
 }
 
