@@ -30,11 +30,9 @@ references: ''
 ---
 “Healthcare and humanitarian workers are increasingly in the crosshairs as hospitals and aid centers have become part of the battlefield in today’s wars. So far, there has been little to stop the profound surge of violence seen across several open-ended conflicts which has claimed thousands of lives, destroyed health systems, triggered mass displacement and state collapse, and exposed the crisis facing the norms of international humanitarian law contained in the Geneva Conventions.
 
-
 <div class="video-wrapper post-feature-video">
 <iframe width="700" height="394" src="https://www.youtube.com/embed/U2d9cat4FWg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
 
 **The New Barbarianism** is a CSIS Global Health Policy Center original feature documentary (58 minutes) that examines the crisis, its causes, the limited international response and possible ways forward through dozens of interviews and original footage obtained from inside Syria, Yemen and Afghanistan. It builds on several years of prior GHPC work on the intersection of health and security, the role of militaries, and the human tragedies seen in Syria and Yemen.
 
@@ -136,3 +134,5 @@ There is mounting exasperation that there is little to stop the increasing threa
 </div>
 
 Many, however, believe that the fight must continue with a realistic and sustained high-level effort to stop the slide against hard-won gains in humanitarian law after World War II, while revalidating and updating the Geneva Conventions to align with the new realities of warfare today.
+
+_Editing and graphics by Paul Franz at the Center for Strategic and International Studies._
