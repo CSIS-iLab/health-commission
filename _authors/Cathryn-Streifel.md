@@ -5,3 +5,4 @@ short_title: Associate Director, CSIS Global Health Policy Center
 image: ''
 
 ---
+Cathryn Streifel is associate director of the CSIS Global Health Policy Center, with a primary focus on family planning and reproductive health; maternal, newborn, and child survival; and the Ebola outbreak in West Africa.
