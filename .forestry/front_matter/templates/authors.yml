@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/steve-davis.md
 - _authors/Nellie-Bristol.md
 - _authors/Katherine-Bliss.md
 - _authors/Jonathan-Hillman.md
@@ -34,7 +35,6 @@ pages:
 - _authors/anna-eshoo.md
 - _authors/christine-wormuth.md
 - _authors/amanda-glassman.md
-- _authors/steve-davis.md
 - _authors/nancy-lindborg.md
 - _authors/david-relman.md
 - _authors/stephen-morrison.md
