@@ -24,6 +24,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: text
+  name: post_image_credit
+  label: Post Image Credit
 - name: excerpt
   label: Excerpt
   type: textarea
