@@ -32,3 +32,5 @@ fields:
       section: events
   label: Featured Events
   description: If left blank, this section will not display.
+pages:
+- index.md
