@@ -26,6 +26,9 @@ fields:
 - type: file
   name: image
   label: Image
+- type: text
+  label: Image Credit
+  name: image_credit
 - name: show_page_highlights
   label: Show page highlights
   type: boolean
