@@ -36,7 +36,6 @@ The documentary features those at the heart of the response, some speaking publi
 
 "When Ebola arrived in America in 2014 it ignited the best and the worst in us, including fear, panic, stigma, confrontation, and confusion—and courage and leadership,” said J. Stephen Morrison. “We've tried to unpack this turbulence through the eyes of different key individuals on the front lines. Their story resonates today as we face Zika and the threat of infants born with brain damage."
 
-  
 The documentary includes interviews with the following key personalities:
 
 * Kent Brantly, Ebola survivor, doctor, served in Liberia with Samaritan’s Purse
@@ -53,3 +52,5 @@ The documentary includes interviews with the following key personalities:
 * Suerie Moon, Harvard University
 * Amy Pope, National Security Council
 * J. Stephen Morrison, CSIS Global Health Policy Center
+
+_Video by Sam Ellis at the Center for Strategic and International Studies._
