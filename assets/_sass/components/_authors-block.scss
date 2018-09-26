@@ -1,0 +1,66 @@
+.authors-block {
+  $a: &;
+  $image-size: 80px;
+
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  margin: 0 0 2rem;
+
+  @include breakpoint('medium') {
+    flex-direction: row;
+  }
+
+   &__info {
+    flex: 1 1 auto;
+
+    @include breakpoint('medium') {
+      padding-left: 2rem;
+    }
+  }
+
+  &__name,
+  &__title {
+    display: block;
+    text-align: center;
+
+    @include breakpoint('medium') {
+      text-align: left;
+    }
+  }
+
+  &__name {
+    @extend %bio-name;
+    text-transform: uppercase;
+
+    &:hover {
+      color: $color-slate;
+    }
+  }
+
+  &__title {
+    @extend %bio-title;
+    margin-bottom: 1rem;
+
+    @include breakpoint('medium') {
+      margin-bottom: 0;
+    }
+  }
+
+  &__bio {
+    @extend %body-text;
+  }
+
+  &__photo {
+    width: $image-size;
+    height: $image-size;
+    margin: 0 auto;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    filter: url(#blue_tint);
+  }
+
+  &__blue-tint {
+    display: none;
+  }
+}
