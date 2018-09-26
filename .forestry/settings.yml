@@ -55,8 +55,8 @@ sections:
   path: _data/co_chairs.csv
   label: Co-Chairs
 - type: document
-  path: _data/members_contributors.csv
-  label: Members and Contributors
+  path: _data/main_menus.yml
+  label: Main Menus
   read_only: true
 upload_dir: health-commission
 public_path: https://res.cloudinary.com/csisideaslab/image/upload
