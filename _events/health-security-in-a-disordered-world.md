@@ -21,6 +21,10 @@ reference: ''
 references: ''
 
 ---
+<div class="video-wrapper post-feature-video">
+<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://drive.google.com/file/d/1z1GQZTjZoEJ8JuPBKJwuYM0mXuInhRxC/preview"></iframe>
+</div>
+
 In today’s world, chronic wars and unstable and fragile states have proliferated, giving rise to over 65 million refugees and displaced persons. This has brought forward ever more urgent needs to detect and control disease outbreaks, ensure reproductive, maternal, and child health services, sustain immunizations, and protect against violence. How is the United States to lead in meeting these critical health security needs?
 
 On Monday, August 6, 2018, from 10:30am-12:30pm PT at the University of Washington, the CSIS Commission on Strengthening America’s Health Security hosted a public event on U.S. leadership in meeting the burgeoning health needs of vulnerable populations living in the midst of conflict and disorder. The event was held in collaboration with the University of Washington Department of Global Health, PATH, the Washington Global Health Alliance, and the Bill and Melinda Gates Foundation.
