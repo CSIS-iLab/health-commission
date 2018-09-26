@@ -27,6 +27,9 @@ fields:
 - type: text
   name: post_image_credit
   label: Post Image Credit
+- type: text
+  name: post_image_caption
+  label: Post Image Caption
 - name: excerpt
   label: Excerpt
   type: textarea
