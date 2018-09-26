@@ -2,7 +2,7 @@
 title: Frontline Perspectives on Pandemic Preparedness
 keywords:
 - Ebola
-date: 2018-09-25 00:00:00 +0000
+date: 2018-05-31 00:00:00 +0000
 content_type: commentary
 excerpt: Beth Cameron, CSIS Commission on Strengthening America’s Health Security
   expert advisor and Vice President of Global Biological Policy and Programs at the
@@ -23,6 +23,7 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
+undefined: ''
 
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/451416030&amp;color=ff7700&amp;show_artwork=false"></iframe>
