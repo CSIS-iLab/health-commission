@@ -2,8 +2,8 @@
 title: Winning the Fight Against Antimicrobial Drug Resistance
 date: 2018-09-13 00:00:00 +0000
 authors: []
-excerpt: Antimicrobial drug resistance is a complex, long-range global crisis threatening
-  the foundations on which modern medicine is built.
+excerpt: 'Antimicrobial drug resistance is a complex, long-range global crisis threatening
+  the foundations on which modern medicine is built. '
 content_type: report
 themes:
 - _themes/drug-resistance.md
