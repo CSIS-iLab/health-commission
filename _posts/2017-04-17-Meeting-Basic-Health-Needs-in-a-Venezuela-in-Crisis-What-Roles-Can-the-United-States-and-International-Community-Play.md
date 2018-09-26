@@ -18,11 +18,12 @@ image_caption: A health care worker carrying a banner confronts police agents du
   a demonstration against President Nicolas Maduro's government, the lack of medicines
   and low salaries in the country, in Caracas on February 7, 2017.
 image_credit: Federico Parra/AFP/Getty Images
-pdf: https://res.cloudinary.com/csisideaslab/image/upload/v1536944616/health-commission/170417_Bliss_HealthNeedsVenezuela_Web.pdf
+pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/170417_Bliss_HealthNeedsVenezuela_Web.pdf
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
+undefined: ''
 
 ---
 _This commentary, by CSIS Global Health Policy Center Senior Associate Katherine Bliss, examines the relationships between disorder and health security through the case of Venezuela. Venezuela continues to experience an unprecedented humanitarian crisis, with a refugee exodus of approximately 1.8 million Venezuelans as of August 2018. Communicable diseases such as diphtheria and malaria continue to resurge within Venezuela and among the migrant and refugee populations fleeing to border countries and beyond. The implosion of the Venezuelan health sector, the mass exodus into the surrounding region, and the resurgence of disease illustrate the effects of disorder in geopolitical crises on health security._
