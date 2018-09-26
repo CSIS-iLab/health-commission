@@ -79,6 +79,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/2018-09-14-opportunities-for-health-diplomacy-in-north-korea.md
 - _posts/2018-09-25-Frontline-Perspectives-on-Pandemic-Preparedness.md
 - _posts/2018-06-28-The-Role-of-the-IFRC-in-Humanitarian-Response-and-Preparedness.md
 - _posts/2018-06-21-The-Global-Threat-of-Yellow-Fever.md
@@ -100,7 +101,6 @@ pages:
 - _posts/2018-03-13-a-ripe-moment-for-reducing-vaccine-preventable-disease.md
 - _posts/2018-03-09-the-spanish-flu-a-century-later-2018-is-not-that-different-from-1918.md
 - _posts/2018-09-14-ebola-in-america-epidemic-of-fear.md
-- _posts/2018-09-14-opportunities-for-health-diplomacy-in-north-korea.md
 - _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
 - _posts/2018-09-13-accelerating-medical-countermeasures.md
 - _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
