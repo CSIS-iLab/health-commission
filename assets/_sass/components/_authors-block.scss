@@ -1,0 +1,55 @@
+.authors-block--wrapper {
+  display: flex;
+  padding: 0.5em 0 0.5em 0;
+}
+ .authors-block {
+  $a: &;
+   &--text-wrapper {
+    display: grid;
+    max-width:85%;
+    padding: 0;
+     #{$a}__name {
+      @extend %bio-name;
+      width:100%;
+      text-transform: uppercase;
+      &:hover {
+        color: $color-slate;
+      }
+    }
+     #{$a}__title {
+      @extend %bio-title;
+      width:100%;
+    }
+     #{$a}__bio {
+      @extend %body-text;
+      padding: .2em 0 0 0;
+      min-height: #{$size-page-author-block-height-desktop};
+    }
+  }
+   &--photo-wrapper {
+    display: hidden;
+    max-width: 15%;
+    padding: .5em .5em .5em .5em;
+    margin: .2em;
+    filter: grayscale(100%);
+    filter: url(#blue_tint);
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+  }
+   &__photo {
+    display: hidden;
+    border: solid 1px #979797;
+    object-fit: cover;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+  }
+}
+ .blue_tint {
+  filter: url('#blue_tint');
+}
