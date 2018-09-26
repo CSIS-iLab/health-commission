@@ -4,6 +4,7 @@
 .home {
   $breakpoint-desktop: 68em;
   $padding: 2rem;
+  $image-offset: 17px;
   display: grid;
 
   grid-template-rows: minmax(400px, auto) repeat(4, auto);
@@ -135,7 +136,7 @@
     position: relative;
     min-height: 220px;
     background-color: $color-off-white;
-    background-image: url('https://via.placeholder.com/600x600');
+    background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1537899884/health-commission/About_Header_Photo.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -146,11 +147,16 @@
     }
 
     @include breakpoint($breakpoint-desktop) {
-      width: unset;
+      width: calc(25vw + #{$size-wrapper-padding};
       left: unset;
       right: unset;
-      margin-left: 0;
+      margin-left: -#{$size-wrapper-padding};
       margin-right: 0;
+    }
+
+    @include breakpoint($size-wrapper-full-max-width) {
+      width: 100%;
+      margin-left: 0;
       @include fullWidthBackground($color-off-white, left);
     }
   }
@@ -207,11 +213,15 @@
     @extend %full-width-content;
 
     @include breakpoint($breakpoint-desktop) {
-      width: unset;
+      width: calc(50vw - #{$image-offset});
       left: unset;
       right: unset;
       margin-left: 0;
       margin-right: 0;
+    }
+
+    @include breakpoint($size-wrapper-full-max-width) {
+      width: 100%;
       @include fullWidthBackground($color-darkest-blue, right);
     }
 
@@ -518,18 +528,22 @@
    position: relative;
    min-height: 280px;
    background-color: $color-off-white;
-    background-image: url('https://via.placeholder.com/600x600');
+    background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1537904699/health-commission/About_Smaller_Photo.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     @extend %full-width-content;
 
     @include breakpoint($breakpoint-desktop) {
-      width: unset;
+      width: calc(50vw - #{$image-offset});
       left: unset;
       right: unset;
       margin-left: 0;
       margin-right: 0;
+    }
+
+    @include breakpoint($size-wrapper-full-max-width) {
+      width: 100%;
       @include fullWidthBackground($color-off-white, right);
     }
   }
