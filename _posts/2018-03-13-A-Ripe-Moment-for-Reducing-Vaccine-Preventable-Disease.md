@@ -17,10 +17,6 @@ themes:
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537915314/health-commission/GettyImages-91991288.jpg
 image_caption: A picture shows vials of Humenza and Panenza, H1N1 flu vaccines by
   the Sanofi-Pasteur manufacturer on October 19, 2009 in Val-de-Reuil, western Paris.
-  Sanofi-Pasteur produces almost ten million H1N1 vaccines per week, the most significant
-  production rate in the world. France will begin on October 20, 2009 vaccinating
-  key medical workers against swine flu and will continue the prevention campaign
-  for the general population early next month, officials said.
 image_credit: Thomas Coex/AFP/Getty Images
 pdf: https://res.cloudinary.com/csisideaslab/image/upload/v1536944822/health-commission/180313_Bristol_ARipeMoment_Web.pdf
 is_commission_related:
