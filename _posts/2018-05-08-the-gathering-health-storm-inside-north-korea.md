@@ -65,30 +65,30 @@ North Korea has an exceptionally high incidence of untreated drug-susceptible tu
     <tbody>
     	<tr>
           	<th>Mortality Rate Per 100,000 (Excludes HIV + TB)</th>
-      		<th>43</th>
-     		<th>5.1</th>
-          	<th>2.8</th>
-     		<th>8.2</th>
-          	<th>32</th>
-          	<th>41</th>
+      		<td>43</td>
+     		<td>5.1</td>
+          	<td>2.8</td>
+     		<td>8.2</td>
+          	<td>32</td>
+          	<td>41</td>
       	</tr>
       	<tr>
-          	<th>Incidence Rate Per 100,000 (Includes HIV + TB)</th>
-      		<th>513</th>
-     		<th>77</th>
-          	<th>64</th>
-     		<th>66</th>
-          	<th>211</th>
-          	<th>781</th>
+          	<td>Incidence Rate Per 100,000 (Includes HIV + TB)</td>
+      		<td>513</td>
+     		<td>77</td>
+          	<td>64</td>
+     		<td>66</td>
+          	<td>211</td>
+          	<td>781</td>
       	</tr>
       	<tr>
-          	<th>Incidence Rate Per 100,000 (MDR/RR-TB)</th>
-      		<th>22</th>
-     		<th>4.8</th>
-          	<th>5.2</th>
-     		<th>44</th>
-          	<th>11</th>
-          	<th>34</th>
+          	<td>Incidence Rate Per 100,000 (MDR/RR-TB)</td>
+      		<td>22</td>
+     		<td>4.8</td>
+          	<td>5.2</td>
+     		<td>44</td>
+          	<td>11</td>
+          	<td>34</td>
       	</tr>
     </tbody>
     <tfoot>
@@ -135,24 +135,24 @@ How exactly did North Korea reach this point? Most fundamentally, it is because 
     </thead>
     <tbody>
     	<tr>
-          	<th>North Korea</th>
-      		<th>25.3 million</th>
-     		<th>72 years old</th>
-          	<th>165.5 - 170.5 cm</th>
-     		<th>$1,700</th>
-          	<th>2.8 percent</th>
-          	<th>30 percent</th>
-         	<th>1,190,000</th>
+          	<td>North Korea</td>
+      		<td>25.3 million</td>
+     		<td>72 years old</td>
+          	<td>165.5 - 170.5 cm</td>
+     		<td>$1,700</td>
+          	<td>2.8 percent</td>
+          	<td>30 percent</td>
+         	<td>1,190,000</td>
       	</tr>
       	<tr>
-          	<th>South Korea</th>
-      		<th>51.2 million</th>
-     		<th>82 years old</th>
-          	<th>173.5 cm</th>
-     		<th>$39,400</th>
-          	<th>92.4 percent</th>
-          	<th>100 percent</th>
-          	<th>630,000</th>
+          	<td>South Korea</td>
+      		<td>51.2 million</td>
+     		<td>82 years old</td>
+          	<td>173.5 cm</td>
+     		<td>$39,400</td>
+          	<td>92.4 percent</td>
+          	<td>100 percent</td>
+          	<td>630,000</th>
       	</tr>
     </tbody>
     <tfoot>
