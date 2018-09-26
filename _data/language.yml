@@ -3,28 +3,24 @@ footer:
   follow_csis: Follow CSIS’s
   follow_program: Global Health Program
   about_heading: About the Commission
-  about_description: '<em>The CSIS Commission on Strengthening America’s Health Security</em>
+  about_description: "<em>The CSIS Commission on Strengthening America’s Health Security</em>
     aims to chart a bold vision for the future of U.S. leadership in global health
-    security, at home and abroad. Recent events demonstrate the growing linkages between
-    global health challenges and U.S. national security interests – between what touches
-    Americans directly in their communities and what touches them indirectly from
-    outside U.S. borders. We see an emerging recognition of the need for a stronger,
-    more coherent, better integrated, and more reliably sustained U.S. approach to
-    health security. The Commission offers the opportunity to build a pragmatic, actionable
-    consensus. The Commission brings together a distinguished and diverse group of
-    senior leaders who bridge the health and security fields, comprising members of
-    Congress, past administrations, industry, foundations, universities, and NGOs.
-    This is a two-year effort organized by the CSIS Global Health Policy Center.'
+    security, at home and abroad. The Commission brings together a distinguished and
+    diverse group of senior leaders who bridge the health and security fields, comprising
+    members of Congress, past administrations, industry, foundations, universities,
+    and NGOs, and the Commission is advised by a group of preeminent subject experts.
+    This is a two-year effort organized by the CSIS Global Health Policy Center."
   phone_number: "(202) 887-0200"
   email_address: GHPC@csis.org
-  address: '1616 Rhode Island Avenue, NW<br> Washington, DC 20036'
+  address: '1616 Rhode Island Avenue, NW<br>     Washington, DC 20036'
   copyright: by the Center for Strategic and International Studies. All rights reserved.
 menu:
   commission: The Commission
   mission: Our Work—Themes
   resources: Resources
 single_post:
-  From the Commission: The topics discussed on this page were informed by conversations held by the CSIS Commission with experts and opinion leaders.
+  From the Commission: The topics discussed on this page were informed by conversations
+    held by the CSIS Commission with experts and opinion leaders.
   references: References
   further_reading: Further Reading
   quick_overview: Quick Overview
@@ -61,7 +57,7 @@ home:
   themes_header: Guiding Themes
   themes_desc: Click on a theme in the list below to view details and related content.
 photo_credit: 'Photo Credit:'
-search_placeholder: 'What are you searching for?'
+search_placeholder: What are you searching for?
 tags: Tags
 share: Share
 cite_page: cite this page
