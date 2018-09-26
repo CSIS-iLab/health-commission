@@ -8,7 +8,7 @@ layout: default
     {% if page.name == 'about.md' and page.image.size > 0 %}
     <figure class="post__feature-image post__content-overflow">
       {% include cloudinary-responsive-img.html path=page.post_image title=page.image_caption alt=page.image_caption %}
-      {%- include img-caption.html desc=page.image_caption source=page.image_credit -%}
+      {%- include img-caption.html desc=page.post_image_caption source=page.post_image_credit -%}
     </figure>
     {% endif %}
 
