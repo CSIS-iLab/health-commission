@@ -21,18 +21,10 @@ fields:
   label: Content type
   hidden: true
   default: events
-- type: list
-  name: keywords
-  label: Tags
-  description: Choose keywords here
-  config:
-    min: '1'
-    use_select: true
-    source:
-      type: documents
-      section: tags-251f80e7-e4c7-411f-88c3-d5a448f6fb8e
-      file: _data/keywords.yml
-      path: Keywords
+- type: include
+  label: Categories
+  name: categories
+  template: categories
 - type: file
   name: image
   label: Image
@@ -46,6 +38,9 @@ fields:
   name: documents
   label: Documents
   description: Upload PDFs here with user-friendly titles.
+- type: include
+  name: ''
+  label: ''
 pages:
 - _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
