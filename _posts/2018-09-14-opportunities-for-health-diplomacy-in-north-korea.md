@@ -9,15 +9,13 @@ is_commission_related:
   related_event: ''
 date: 2018-09-14 00:00:00 +0000
 authors:
-- _authors/test.md
-- _authors/j-stephen-morrison.md
-- _authors/missing-author-2.md
-- _authors/author-3.md
+- _authors/Kee-Park.md
+- _authors/stephen-morrison.md
 excerpt: Kee B. Park, Harvard Medical School Paul Farmer Global Surgery Scholar and
   Korean American Medical Association Director of North Korea Programs, discusses
   opportunities for diplomatic progress with North Korea through health.
 content_type: commentary
-series: ''
+series: _series/health-security-dimensions-of-geopolitical-crises.md
 themes:
 - _themes/global-disorder.md
 - _themes/drug-resistance.md
