@@ -16,14 +16,14 @@ fields:
 - type: file
   name: image
   label: Header Image
-- type: file
-  name: post_image
-  label: Post Image
 - name: image_credit
   label: Image credit
   type: text
   hidden: false
   default: ''
+- type: file
+  name: post_image
+  label: Post Image
 - type: text
   name: post_image_credit
   label: Post Image Credit
