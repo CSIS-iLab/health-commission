@@ -50,10 +50,10 @@ fields:
 - type: text
   name: image_credit
   label: Image Credit
-- type: file
-  label: PDF
+- type: text
   name: pdf
-  description: Upload file
+  label: pdf
+  description: URL for pdf
 - type: field_group
   name: is_commission_related
   label: Is Commission Related?
@@ -78,6 +78,7 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: text
 pages:
 - _posts/2018-03-13-A-Ripe-Moment-for-Reducing-Vaccine-Preventable-Disease.md
 - _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
