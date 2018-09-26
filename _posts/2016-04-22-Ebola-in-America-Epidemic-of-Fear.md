@@ -28,6 +28,8 @@ references: ''
 <iframe width="700" height="394" src="https://www.youtube.com/embed/cQvgYxn3Neo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+<iframe width="700" height="394" src="https://www.youtube.com/embed/cQvgYxn3Neo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 _”Ebola in America: Epidemic of Fear,” a CSIS Global Health Policy Center feature-length documentary executive produced and directed by CSIS Commission on Strengthening America’s Health Security Secretariat Director J. Stephen Morrison, illuminates the effects of high-risk disease outbreaks abroad on domestic health security. The 2014 Ebola outbreak provoked panic in the United States, revealing weaknesses in both international and domestic outbreak preparedness and response._
 
 ”Ebola in America” is a groundbreaking feature-length documentary that tells the story of the 2014 Ebola outbreak’s effect on America as well as the public health and government response.
