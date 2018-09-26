@@ -1,0 +1,30 @@
+---
+label: index.md
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: commission_desc
+  label: Commission desc
+  type: textarea
+  hidden: false
+  default: ''
+- name: featured_post_primary
+  label: Featured post primary
+  type: text
+  hidden: false
+  default: ''
+- name: featured_post_secondary
+  label: Featured post secondary
+  type: list
+  hidden: false
+  default: ''
+- name: featured_events
+  label: Featured events
+  type: list
+  hidden: false
+  default: ''
