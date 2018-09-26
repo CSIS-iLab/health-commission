@@ -26,7 +26,7 @@ pdf: ''
 references: ''
 
 ---
-[https://soundcloud.com/csis-57169780/opportunities-for-health-diplomacy-in-north-korea](https://soundcloud.com/csis-57169780/opportunities-for-health-diplomacy-in-north-korea "https://soundcloud.com/csis-57169780/opportunities-for-health-diplomacy-in-north-korea") 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/447545352&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 _This podcast with Kee B. Park, recorded for the CSIS Global Health Policy Center podcast series_ Take as Directed, _illuminates the challenges of the disordered world for health security through the case of North Korea._
 
