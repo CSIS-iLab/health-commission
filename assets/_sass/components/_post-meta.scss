@@ -40,12 +40,11 @@
 
   &__content-type, &__author-name { text-transform: uppercase; }
 
-  .dash::before {
-    display: none;
-    content: TESTING PSEUDO ELEMENT';
-    color: $color-white;
+  &__series::before {
+    content: "TESTING";
     font-size: 1em;
-    @include breakpoint('large') { display: inline; }
+    font-color: $color-off-white;
+    @include breakpoint('large') { display: block; }
   }
 }
 
