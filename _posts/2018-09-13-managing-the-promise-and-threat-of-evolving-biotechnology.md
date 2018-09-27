@@ -63,8 +63,6 @@ In October 2014, the U.S. government paused federal funding of gain-of-function 
 
 Three U.S. oversight policies govern research of dual use concern that is conducted or funded by the U.S. government. The 2012 United States Government Policy for Oversight of Life Sciences Dual Use Research of Concern (DURC) establishes regular review of such research.[^8] A complementary policy, the 2014 United States Government Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern, enumerates policies, practices, and procedures to identify and mitigate risks of DURC.[^9] The U.S. Department of Health and Human Services Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens, published in 2017, lifted a three-year U.S. government funding moratorium on certain gain-of-function experiments and provides criteria for guiding funding decisions and oversight of research involving potential pandemic pathogens.[^10]
 
-##### NOTES
-
 [^1]: Huimin Zhao, Synthetic Biology: Tools and Applications, 1st ed. (Amsterdam and Boston: Academic Press, 2013).
 
 [^2]: Michael J. Selgelid, “Governance of dual-use research: an ethical dilemma,” Bulletin of the World Health Organization 87 (2009): 720-723, [https://doi.org/10.2471/BLT.08.051383.](https://doi.org/10.2471/BLT.08.051383. "https://doi.org/10.2471/BLT.08.051383.")
