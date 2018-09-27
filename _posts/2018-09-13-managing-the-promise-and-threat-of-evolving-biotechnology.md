@@ -25,26 +25,7 @@ further_reading: |-
   “USG Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern.” U.S. Department of Health and Human Services. September 24, 2014. [https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.](https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx. "https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.")
 
   “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens.” U.S. Department of Health and Human Services. 2017. [https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.](https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf. "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.")
-references: |-
-  \[1\] Huimin Zhao, Synthetic Biology: Tools and Applications, 1st ed. (Amsterdam and Boston: Academic Press, 2013).
-
-  \[2\] Michael J. Selgelid, “Governance of dual-use research: an ethical dilemma,” Bulletin of the World Health Organization 87 (2009): 720-723, [https://doi.org/10.2471/BLT.08.051383.](https://doi.org/10.2471/BLT.08.051383. "https://doi.org/10.2471/BLT.08.051383.")
-
-  \[3\] Crystal Boddie et al, “Assessing the bioweapons threat,” Science 349, no. 6250 (2015): 792-793, [http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf.](http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf. "http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf.")
-
-  \[4\] Paul Berg, David Baltimore, Sydney Brenner, Richard O. Roblin, and Maxine F. Singer, “Summary Statement of the Asimolar Conference on Recombinant DNA Molecules,” Proceedings of the National Academy of Sciences of the United States of America 72, no. 6 (June 1975): 1981-1984, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf. "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf.")
-
-  \[5\] National Research Council, “Biotechnology Research in an Age of Terrorism,” The National Academies Press, 2004, [https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism.](https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism. "https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism.")
-
-  \[6\] Francis S. Collins, “Statement on Funding Pause on Certain Types of Gain-of-Function Research,” National Institutes of Health, October 16, 2014, [https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research.](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research. "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research.")
-
-  \[7\] “Federal Experts Security Advisory Panel (FESAP),” U.S. Department of Health and Human Services, last reviewed September 13, 2017, [https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx.](https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx. "https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx.")
-
-  \[8\] “United States Government Policy for Oversight of Life Sciences DURC,” U.S. Department of Health and Human Services, March 29, 2012, [https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx.](https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx. "https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx.")
-
-  \[9\] “USG Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern,” U.S. Department of Health and Human Services, September 24, 2014, [https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.](https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx. "https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx.")
-
-  \[10\] “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens,” U.S. Department of Health and Human Services, 2017, [https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.](https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf. "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.")
+references: ''
 links: []
 keywords: []
 undefined: ''
