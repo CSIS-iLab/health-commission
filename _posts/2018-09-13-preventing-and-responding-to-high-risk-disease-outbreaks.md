@@ -5,7 +5,7 @@ authors: []
 excerpt: A man dressed in protective hazmat clothing treats the front porch of an
   apartment where a second person diagnosed with the Ebola virus resides on October
   12, 2014 in Dallas, Texas.
-content_type: ''
+content_type: commentary
 themes:
 - _themes/high-risk-disease-outbreaks.md
 series: ''
@@ -68,6 +68,7 @@ references: |-
   \[16\] Ibid.
 links: []
 keywords: []
+undefined: ''
 
 ---
 ## Key Challenges
