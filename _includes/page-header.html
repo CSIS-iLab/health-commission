@@ -1,16 +1,25 @@
 {% if page.image.size > 0 %}
   {% include page-header-background-img.html image_url=page.image %}
+{% elsif page.name == 'authors.md' %}
+  {% include page-header-background-img.html image_url='' %}
 {% endif %}
 
 {% if page.collection == 'posts' and page.themes.size > 0 %}
   {% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
   {% if primary_theme.image.size > 0 %}
-    {% include page-header-background-img.html image_url=primary_theme.image %}
+    {% if page.name == 'authors.md' %}
+      {% include page-header-background-img.html image_url='' %}
+    {% else %}
+      {% include page-header-background-img.html image_url=primary_theme.image %}
+    {% endif %}
   {% endif %}
 {% endif %}
 
 <header class="page-header" role="header" {{ background_img }}>
   <div class="page-header__wrapper">
+  {% if page.name == 'authors.md' %}
+    {% include author-photo-filtered.html %}
+  {% endif %}
   {% if page.collection == 'posts' %}
     {% include page-header-post.html %}
   {% else %}
