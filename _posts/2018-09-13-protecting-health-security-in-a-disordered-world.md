@@ -30,26 +30,7 @@ further_reading: |-
   UN OCHA, “Global Humanitarian Overview 2017,” 2016, [https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.](https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf. "https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.")
 
   Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/.](http://ucdp.uu.se/. "http://ucdp.uu.se/.")
-references: |-
-  \[1\] Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/.](http://ucdp.uu.se/. "http://ucdp.uu.se/.")
-
-  \[2\] James D. Fearon, “Civil War & the Current International System,” Daedalus 146, no. 4 (2017): 18-32, [https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456.](https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456. "https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456.")
-
-  \[3\] UNHCR, “Figures at a Glance,” updated June 19, 2018, [http://www.unhcr.org/en-us/figures-at-a-glance.html.](http://www.unhcr.org/en-us/figures-at-a-glance.html. "http://www.unhcr.org/en-us/figures-at-a-glance.html.")
-
-  \[4\] Ibid.
-
-  \[5\] UNHCR, “Women,” accessed August 2018, [http://www.unhcr.org/en-us/women.html.](http://www.unhcr.org/en-us/women.html. "http://www.unhcr.org/en-us/women.html.")
-
-  \[6\] UN OCHA, “Global Humanitarian Overview 2017,” 2016, [https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.](https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf. "https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.")
-
-  \[7\] UN Women, “Facts and figures: Peace and security,” accessed August 2018, [http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes.](http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes. "http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes.")
-
-  \[8\] United Nations Security Council, “Security Council Adopts Resolution 2286 (2016), Strongly Condemning Attacks against Medical Facilities, Personnel in Conflict Situations,” May 3, 2016, [https://www.un.org/press/en/2016/sc12347.doc.htm.](https://www.un.org/press/en/2016/sc12347.doc.htm. "https://www.un.org/press/en/2016/sc12347.doc.htm.")
-
-  \[9\] Agenda for Humanity, “World Humanitarian Summit 2016,” 2016, [https://www.agendaforhumanity.org/summit.](https://www.agendaforhumanity.org/summit. "https://www.agendaforhumanity.org/summit.")
-
-  \[10\] USIP, “Task Force on Extremism in Fragile States,” 2018, [https://www.usip.org/programs/task-force-extremism-fragile-states.](https://www.usip.org/programs/task-force-extremism-fragile-states. "https://www.usip.org/programs/task-force-extremism-fragile-states.")
+references: ''
 links: []
 keywords: []
 undefined: ''
