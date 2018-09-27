@@ -4,7 +4,7 @@ date: 2018-09-13 00:00:00 +0000
 authors: []
 excerpt: Medical countermeasure development faces significant barriers yet remains
   critical to U.S. response to health security crises.
-content_type: ''
+content_type: commentary
 themes:
 - _themes/developing-countermeasures.md
 series: ''
@@ -54,6 +54,7 @@ references: |-
   \[13\] CEPI, “Mission,” accessed August 2018, [http://cepi.net/mission.](http://cepi.net/mission. "http://cepi.net/mission.")
 links: []
 keywords: []
+undefined: ''
 
 ---
 ## Key Challenges
