@@ -26,7 +26,7 @@ further_reading: |-
   The National Academies of Sciences, Engineering, and Medicine Committee on Global Health and the Future of the United States. “Global Health and the Future Role of the United States (Consensus Study Report).” The National Academies Press. 2017. [http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.](http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx. "http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.")
 
   WHO. “An R&D Blueprint for Action to Prevent Epidemics: Plan of Action.” May 2016. [http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.](http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1. "http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.")
-references: "\\\\"
+references: ''
 links: []
 keywords: []
 undefined: ''
