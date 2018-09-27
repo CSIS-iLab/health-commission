@@ -1,7 +1,7 @@
 .page-highlights {
   $ph: &;
   $cell-padding: 1rem;
-  $cell-padding-mobile: calc(#{$cell-padding} / 2);
+  $cell-padding-sides: 2rem;
 
   position: relative;
   width: calc(100% + #{$size-wrapper-padding-mobile} * 2);
@@ -74,7 +74,6 @@
       position: relative;
       top: -#{$size-page-highlights-height-desktop};
       bottom: unset;
-      margin-bottom: 2rem;
       width: $size-page-highlights-width;
       background-color: $color-off-white;
     }
@@ -99,7 +98,7 @@
     display: flex;
     align-items: flex-end;
     flex: 1 1 33%;
-    padding: $cell-padding;
+    padding: $cell-padding $cell-padding-sides;
 
     &:first-of-type {
       @include breakpoint('large') {
@@ -119,14 +118,10 @@
         position: absolute;
         background-color: $color-dusty-lavender;
         content: '';
-        height: calc(100% - #{$cell-padding-mobile});
+        height: calc(100% - #{$cell-padding});
         width: 1px;
         left: 100%;
         top: 0;
-
-        @include breakpoint('large') {
-          height: calc(100% - #{$cell-padding});
-        }
       }
     }
 
@@ -137,8 +132,8 @@
       padding-right: 0;
 
       @include breakpoint('large') {
-        padding-left: $cell-padding;
-        padding-right: $cell-padding;
+        padding-left: $cell-padding-sides;
+        padding-right: $cell-padding-sides;
       }
     }
 
@@ -161,6 +156,8 @@
 
       @include breakpoint('large') {
         display: flex;
+        flex-direction: column;
+        align-items: flex-start;
         flex-basis: 300px;
         max-width: 300px;
       }

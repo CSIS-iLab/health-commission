@@ -44,6 +44,7 @@
     @include breakpoint('medium') {
       position: absolute;
       width: 450px;
+      top: 100%;
       bottom: unset;
     }
 
