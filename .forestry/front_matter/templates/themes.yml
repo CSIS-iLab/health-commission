@@ -49,9 +49,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: text
-  name: long_title_formatted
-  label: Long Title Formatted
 pages:
 - _themes/managing-biotechnology.md
 - _themes/global-disorder.md
