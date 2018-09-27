@@ -11,7 +11,7 @@ image_caption: A man dressed in protective hazmat clothing treats the front porc
   for the virus.
 image_credit: Mike Stone/Getty Images
 in_depth_overview: _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
-featured_post: _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
+featured_post: _posts/2018-09-13-Navigating-the-Ebola-Outbreak-in-the-Democratic-Republic-of-the-Congo.md
 excerpt: High-risk disease outbreaks are a real and growing threat to U.S. national
   security at home and abroad.
 further_reading: |-
