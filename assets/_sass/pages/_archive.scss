@@ -107,5 +107,13 @@
       }
     }
   }
+
+  .ais-hits--item {
+    @extend .post-block;
+
+    .post-block {
+      margin-top: 0;
+    }
+  }
 }
 
