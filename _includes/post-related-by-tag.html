@@ -1,5 +1,5 @@
 <div class="related-by-tag">
-  <div class="related-by-tag__section-title">
+  <div class="section-title">
     {{ site.data.language.related_articles }}
   </div>
 
@@ -23,18 +23,18 @@
     {% if sameTagCount >= minCommonTags %}
       <article class="related-by-tag__list__item">
 
-        <div class="related-by-tag__list__item__header-type">
+        <div class="header-type">
           {{ post.content_type }}
         </div>
-        <div class="related-by-tag__list__item__post-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <div class="post-author">
+          {% if read_next.authors.size > 0 %}
+            By {% for author in post.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
+            {% assign author_info = site.authors | where: "path", author | first %}
+            {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}
+          {% endif %}
         </div>
-        <div class="related-by-tag__list__item__post-author">
-          By {% for author in post.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
-          {% assign author_info = site.authors | where: "path", author | first %}
-          {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}
-        </div>
-        <div class="related-by-tag__list__item__post-date">
+        <div class="post-date">
           <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ post.date | date: site.date_format }}</time>
         </div>
         {% include themes-list.html %}
@@ -50,5 +50,30 @@
 
     {% endif %}
   {% endfor %}
+
+  {% if maxRelatedCounter == 0 %}
+  {% assign related = next_posts | sort: date | slice: 1,2 %}
+    {% for post in related %}
+      <article class="related-by-tag__list__item">
+
+        <div class="header-type">
+          {{ post.content_type }}
+        </div>
+          <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <div class="post-author">
+          {% if read_next.authors.size > 0 %}
+            By {% for author in post.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
+            {% assign author_info = site.authors | where: "path", author | first %}
+            {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}
+          {% endif %}
+        </div>
+        <div class="post-date">
+          <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ post.date | date: site.date_format }}</time>
+        </div>
+        {% include themes-list.html %}
+
+      </article>
+    {% endfor %}
+  {% endif %}
   </div>
 </div>

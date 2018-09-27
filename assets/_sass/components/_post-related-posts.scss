@@ -3,26 +3,22 @@
   display: flex;
   flex-wrap: wrap;
   position: relative;
-  margin-left: -#{$size-wrapper-padding-mobile};
-  margin-right: -#{$size-wrapper-padding-mobile};
   max-width: $size-wrapper-full-max-width;
 
-  &:before,
-  &:after {
-    content: '';
-    display: block;
-    position: absolute;
-    top: 0;
-    width: calc((100vw - 100%) / 2);
-    height: 100%;
-  }
-
-  @media screen and (min-width: 90em) {
+  @include breakpoint(medium) {
     flex-wrap: nowrap;
-    margin-left: calc((#{$size-wrapper-full-max-width} - 100%) / -2);
-    margin-right: calc((#{$size-wrapper-full-max-width} - 100%) / -2);
-  }
+    margin: auto;
 
+    &:before,
+    &:after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      width: calc((100vw - 100%) / 2);
+      height: 100%;
+    }
+  }
   &:before {
     right: 99.9%;
     background-color: $color-dust;
@@ -33,61 +29,73 @@
     background-color: $color-off-white;
   }
 
+  .section-title {
+    @extend %section-title;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+
+  .header-type {
+    @extend %post-block-meta;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+  }
+
+  .post-title {
+    @extend %post-block-post-title;
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+
+  .post-author {
+    @extend %post-block-meta;
+  }
+
+  .post-date {
+    @extend %post-block-meta;
+    text-transform: uppercase;
+  }
+
+  .themes-list {
+    margin-top: 0.5rem;
+  }
+
   .next-by-theme {
     background-color: $color-dust;
     padding: 1.5rem $size-wrapper-padding-mobile;
     flex-basis: 100%;
 
-    @media screen and (min-width: 90em) {
+    @include breakpoint(medium) {
       padding: 1.5rem 2.5rem 3rem $size-page-content-padding;
       flex-basis: 25%;
     }
 
-    &__section-title {
-      @extend %section-title;
-      text-transform: uppercase;
-      margin-bottom: 1rem;
-    }
-
-    &__header-type {
-      @extend %post-block-meta;
-      text-transform: uppercase;
-      color: $color-white;
-      margin-bottom: 0.75rem;
-    }
-
-    &__post-title a {
-      @extend %post-block-post-title;
-      color: $color-white;
-      margin-bottom: 0.75rem;
-    }
-
-    &__post-author {
-      @extend %post-block-meta;
+    > * {
       color: $color-white;
     }
+    @include breakpoint(medium) {
+      .header-type,
+      .post-author {
+        @include font-size(16px);
+      }
 
-    &__post-date {
-      @extend %post-block-meta;
-      text-transform: uppercase;
-      color: $color-white;
+      .post-title {
+        @include font-size(24px);
+      }
 
-      @include breakpoint(medium) {
+      .post-date,
+      .themes-list {
         display: none;
       }
     }
 
     .themes-list {
-      margin-top: 0.5rem;
       a {
         color: $color-white;
         padding-left: 0;
         &:before {
           display: none;
         }
-      }
-      @include breakpoint(medium) {
-        display: none;
       }
     }
   }
@@ -97,15 +105,9 @@
     padding: 1.5rem $size-wrapper-padding-mobile;
     flex-basis: 100%;
 
-    @media screen and (min-width: 90em) {
+    @include breakpoint(medium) {
       padding: 1.5rem $size-page-content-padding 3rem 2.5rem;
       flex-basis: 75%;
-    }
-
-    &__section-title {
-      @extend %section-title;
-      text-transform: uppercase;
-      margin-bottom: 1rem;
     }
 
     &__list {
@@ -120,29 +122,9 @@
         @include breakpoint(medium) {
           flex-basis: 50%;
         }
-        &__header-type {
-          @extend %post-block-meta;
-          text-transform: uppercase;
-          margin-bottom: 0.75rem;
-        }
 
-        &__post-title a {
-          @extend %post-block-post-title;
-          margin-bottom: 0.75rem;
-        }
-
-        &__post-author {
-          @extend %post-block-meta;
-        }
-
-        &__post-date {
-          @extend %post-block-meta;
-          text-transform: uppercase;
+        .post-date {
           color: $color-warm-gray;
-        }
-
-        .themes-list {
-          margin-top: 0.5rem;
         }
 
         &:first-of-type {
