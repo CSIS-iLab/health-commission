@@ -2,6 +2,7 @@
 title: The Global Threat of Yellow Fever
 keywords:
 - Ebola
+- Podcast
 date: 2018-06-21 23:03:14 +0000
 content_type: commentary
 excerpt: Daniel Lucey, a senior scholar with the O’Neill Institute for National and
@@ -21,6 +22,7 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
+undefined: ''
 
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/461421366&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
