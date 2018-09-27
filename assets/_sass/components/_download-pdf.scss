@@ -1,14 +1,7 @@
 .download-pdf {
   @extend %label-lg;
   text-transform: uppercase;
-  margin: 0.2em;
-  padding: 0.5em;
   display: flex;
-
-  @include breakpoint('medium') {
-    margin: 0;
-    padding: 0;
-  }
 
   i {
     color: $color-dust;
