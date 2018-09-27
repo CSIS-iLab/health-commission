@@ -127,15 +127,15 @@ How exactly did North Korea reach this point? Most fundamentally, it is because 
 </thead>
 <tbody>
 <tr>
-<td>
+<th>
 <p>Indicators</p>
-</td>
-<td>
+</th>
+<th>
 <p>North Korea</p>
-</td>
-<td>
+</th>
+<th>
 <p>South Korea</p>
-</td>
+</th>
 </tr>
 <tr>
 <td>
