@@ -2,6 +2,7 @@
 title: The Role of the IFRC in Humanitarian Response and Preparedness
 keywords:
 - Ebola
+- Podcast
 date: 2018-06-28 23:01:49 +0000
 content_type: commentary
 excerpt: Elhadj As Sy, Secretary General of the International Federation of Red Cross
@@ -21,6 +22,7 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
+undefined: ''
 
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/464633901&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
