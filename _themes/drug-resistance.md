@@ -19,7 +19,7 @@ image_caption: A Kashmiri Tuberculosis patient shows his anti-TB medicines which
   of the world's TB problem. World TB Day is marked on March 24, 2015.
 image_credit: Yawar Nazir/Getty Images
 in_depth_overview: _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
-featured_post: ''
+featured_post: _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
 further_reading: |-
   CDC. “Antibiotic/Antimicrobial Resistance.” Last updated March 29, 2018. [https://www.cdc.gov/drugresistance/index.html.](https://www.cdc.gov/drugresistance/index.html. "https://www.cdc.gov/drugresistance/index.html.")
 
