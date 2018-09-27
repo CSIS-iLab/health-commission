@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/rocco-casagrande.md
 - _authors/laura-holgate.md
 - _authors/jim-greenwood.md
 - _authors/tom-frieden.md
@@ -55,7 +56,6 @@ pages:
 - _authors/mark-dybul.md
 - _authors/ami-bera.md
 - _authors/rebecca-hersman.md
-- _authors/rocco-casagrande.md
 - _authors/admiral-jonathan-greenert.md
 - _authors/beth-cameron.md
 - _authors/jeremy-konyndyk.md
