@@ -80,6 +80,7 @@ fields:
       format: markdown
 - type: text
 pages:
+- _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
 - _posts/2016-04-22-Ebola-in-America-Epidemic-of-Fear.md
 - _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 - _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
@@ -88,7 +89,6 @@ pages:
 - _posts/2018-09-13-accelerating-medical-countermeasures.md
 - _posts/2017-04-17-Meeting-Basic-Health-Needs-in-a-Venezuela-in-Crisis-What-Roles-Can-the-United-States-and-International-Community-Play.md
 - _posts/2018-03-13-A-Ripe-Moment-for-Reducing-Vaccine-Preventable-Disease.md
-- _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
 - _posts/2017-09-06-the-new-barbarianism.md
 - _posts/2018-05-22-opportunities-for-health-diplomacy-in-north-korea.md
 - _posts/2018-05-30-Frontline-Perspectives-on-Pandemic-Preparedness.md
