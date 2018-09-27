@@ -123,9 +123,6 @@ How exactly did North Korea reach this point? Most fundamentally, it is because 
 
 </th>
 </tr>  
-
-</thead>
-<tbody>
 <tr>
 <th>
 <p>Indicators</p>
@@ -137,6 +134,9 @@ How exactly did North Korea reach this point? Most fundamentally, it is because 
 <p>South Korea</p>
 </th>
 </tr>
+</thead>
+<tbody>
+
 <tr>
 <td>
 <p>Total Population (2017)</p>
