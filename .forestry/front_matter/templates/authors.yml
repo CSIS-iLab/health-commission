@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/rebecca-katz.md
 - _authors/amanda-glassman.md
 - _authors/rocco-casagrande.md
 - _authors/laura-holgate.md
@@ -45,7 +46,6 @@ pages:
 - _authors/jennifer-kates.md
 - _authors/karl-hofmann.md
 - _authors/carter-ham.md
-- _authors/rebecca-katz.md
 - _authors/emily-munden.md
 - _authors/margaret-hamburg.md
 - _authors/samantha-stroman.md

@@ -14,6 +14,7 @@ short_bio: "**Rebecca Katz** is an Associate Professor and Director of the Cente
   health security, public health preparedness and health diplomacy."
 excerpt: ''
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475628/health-commission/Katz_Rebecca.jpg
+published: false
 
 ---
 Rebecca Katz is an Associate Professor and Director of the Center for Global Health Science and Security at Georgetown University. Prior to coming to Georgetown, she spent ten years at The George Washington University as faculty in the Milken Institute School of Public Health. Her research is focused on global health security, public health preparedness and health diplomacy.
