@@ -1,7 +1,7 @@
 ---
 title: Developing Effective Countermeasures
 date: 2018-09-13 02:47:01 +0000
-long_title_formatted: "**DEVELOPING** Effective **COUNTERMEASURES**"
+long_title_formatted: Developing Effective **COUNTERMEASURES**
 short_title: Developing Countermeasures
 excerpt: Medical countermeasure development faces significant barriers yet remains
   critical to U.S. response to health security crises.
