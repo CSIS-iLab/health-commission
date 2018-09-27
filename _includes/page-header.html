@@ -15,7 +15,9 @@
 <header class="page-header" role="header" {{ background_img }}>
   <div class="page-header__wrapper">
   {% if page.collection == 'authors' %}
-    {% include page-author-tinted-photo.html image_url=page.image %}
+    <div class="page-header__photo-mobile">
+      {% include page-author-tinted-photo.html image_url=page.image %}
+    </div>
   {% endif %}
   {% if page.collection == 'posts' %}
     {% include page-header-post.html %}
@@ -23,6 +25,10 @@
   <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}{%- if page.permalink == '/search/' -%}: <span></span>{%- endif -%}</h1>
   {% endif %}
   </div>
-
 </header>
+{% if page.collection == 'authors' %}
+  <div class="page-header__photo-desktop">
+    {% include page-author-tinted-photo.html image_url=page.image %}
+  </div>
+{% endif %}
 {% include page-highlights.html %}

@@ -1,11 +1,40 @@
 .author-photo-tint {
-  $image-size: 100px;
   filter: grayscale(100%);
   filter: url(#blue_tint);
-  margin: 0 auto;
+  opacity: 1.0;
+  $image-size-header-desktop: 110px;
+  $image-size-header-mobile: 80px;
+  $image-size-author-block: 80px;
   border-radius: 50%;
-  width: $image-size;
-  height: $image-size;
+  padding: none;
+  z-index: 999;
+
+  .authors-block & {
+    width: $image-size-author-block;
+    height: $image-size-author-block;
+  }
+
+  .page-header__photo-desktop & {
+    width: $image-size-header-desktop;
+    height: $image-size-header-desktop;
+    display: none;
+
+    @include breakpoint('medium') {
+      display: inline-block;
+      margin: -3em 0em 0em 2em;
+      opacity: 1.0;
+    }
+  }
+
+  .page-header__photo-mobile & {
+    width: $image-size-header-mobile;
+    height: $image-size-header-mobile;
+    display: inline;
+
+    @include breakpoint('medium') {
+      display: none;
+    }
+  }
 }
 
 .blue-tint {
