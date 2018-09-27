@@ -4,7 +4,7 @@ date: 2018-09-13 00:00:00 +0000
 authors: []
 excerpt: Biotechnology is moving swiftly and holds the potential to revolutionize
   many fields if properly managed.
-content_type: ''
+content_type: commentary
 themes:
 - _themes/managing-biotechnology.md
 series: ''
@@ -47,6 +47,7 @@ references: |-
   \[10\] “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens,” U.S. Department of Health and Human Services, 2017, [https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.](https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf. "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf.")
 links: []
 keywords: []
+undefined: ''
 
 ---
 ## Key Challenges
