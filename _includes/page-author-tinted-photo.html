@@ -1,5 +1,4 @@
-{% if page.collection == 'authors' %}
-  {%- assign author_image = include.image_url -%}
+{%- assign author_image = include.image_url -%}
 
   <svg class="blue-tint">
    <filter id="blue_tint" color-interpolation-filters="sRGB"
@@ -12,6 +11,4 @@
    </filter>
   </svg>
 
-  <img class="page-header__photo tint" src="{{ author_image }}">
-  <span>{{ page.author.image }}</span>
-{% endif %}
+  <img class="author-photo-tint" src="{{ author_image }}"> 
