@@ -13,7 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
-- _authors/j-morrison.md
+- _authors/stephen-morrison.md
 - _authors/david-relman.md
 - _authors/rebecca-katz.md
 - _authors/amanda-glassman.md
