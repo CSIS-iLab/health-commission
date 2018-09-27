@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/u.s.-congresswoman-susan-brooks.md
 - _authors/Katherine-Bliss.md
 - _authors/Jonathan-Hillman.md
 - _authors/steve-davis.md
