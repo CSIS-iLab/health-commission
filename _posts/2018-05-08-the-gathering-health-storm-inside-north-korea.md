@@ -15,8 +15,8 @@ excerpt: A nurse tends to new-born infants in a ward at the Pyongyang Maternity 
   during a government-organised media tour in Pyongyang on May 7, 2016.
 content_type: commentary
 themes:
-- _themes/drug-resistance.md
 - _themes/global-disorder.md
+- _themes/drug-resistance.md
 series: _series/health-security-dimensions-of-geopolitical-crises.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537912875/health-commission/GettyImages-528833666.jpg
 image_caption: A nurse tends to new-born infants in a ward at the Pyongyang Maternity
