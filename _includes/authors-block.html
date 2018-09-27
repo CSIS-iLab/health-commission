@@ -2,7 +2,7 @@
 {% if post.authors.size > 0%}
   {% assign authors_list = post.authors %}
 {% endif %}
- <svg class="authors-block__blue-tint">
+ <svg class="blue-tint">
   <filter id="blue_tint" color-interpolation-filters="sRGB"
           x="0" y="0" height="100%" width="100%">
     <feColorMatrix type="matrix"
@@ -15,7 +15,7 @@
 {% for author in authors_list %}
 {%- assign author_info = site.authors | where: "relative_path", author | first -%}
 <div class="authors-block">
-  <img class="authors-block__photo" src="{{ author_info.image }}">
+  <img class="authors-block__photo tint" src="{{ author_info.image }}">
   <div class="authors-block__info">
     <span class="authors-block__name"><a href="{{ author_info.url | relative_url }}" class="authors-block__name">{{author_info.title}}</a></span>
     <span class="authors-block__title">{{author_info.short_title}}</span>
