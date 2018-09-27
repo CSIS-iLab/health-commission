@@ -1,0 +1,29 @@
+.footnotes {
+  padding-left: 2.5rem;
+  margin-top: 3.5rem;
+  position: relative;
+
+  &:before {
+    position: absolute;
+    content: 'notes';
+    @extend %section-title;
+    text-transform: uppercase;
+    top: -3rem;
+    left: 1.5rem;
+  }
+
+  &:after {
+    content: '';
+    position: absolute;
+    background-color: $color-dusty-lavender;
+    right: calc(100% - 2rem);
+    top: 0;
+    width: 3px;
+    height: 100%;
+  }
+
+  a {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+}
