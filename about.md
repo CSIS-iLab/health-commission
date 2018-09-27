@@ -8,7 +8,7 @@ image_credit: Liz Lynch
 excerpt: The CSIS Commission on Strengthening America’s Health Security aims to chart
   a bold vision for the future of U.S. leadership in global health security, at home
   and abroad.
-credits: " "
+credits: "<em>Health Commission</em> is a product of the <a href=\"https://www.csis.org/programs/dracopoulos-ideas-lab\" target=\"_blank\" rel=\"noopener\">Andreas C. Dracopoulos iDeas Lab</a>, the in-house digital, multimedia, and design agency at the Center for Strategic and International Studies."
 funder_acknowledgements: This project is funded through the generous support of the
   Bill & Melinda Gates Foundation.
 header_image: https://res.cloudinary.com/csisideaslab/image/upload/v1537899884/health-commission/About_Header_Photo.jpg
