@@ -40,7 +40,7 @@ undefined: ''
 
 ### Increasing Conflict and Displacement
 
-Violent conflict is on the rise after decades of decline. Since 2010, the number of major violent conflicts has tripled,[^1] and the average duration of civil wars in progress has increased to more than 20 years.[^2] Record numbers of unresolved wars, concentrated in the Middle East and Africa, show no signs of abating. As a result, we are witnessing the highest levels of displacement on record, with 68.5 million people forcibly displaced worldwide as of June 2018, compared to 33.9 million in 1997.[^3] Over 84 percent of refugees are hosted by developing countries, and the top six-refugee receiving countries—Turkey, Pakistan, Lebanon, Iran, Uganda and Ethiopia—increasingly struggle to maintain their own political stability.[^4](Ibid.) Much of the exploding displaced population lacks regular access to basic health services.
+Violent conflict is on the rise after decades of decline. Since 2010, the number of major violent conflicts has tripled,[^1] and the average duration of civil wars in progress has increased to more than 20 years.[^2] Record numbers of unresolved wars, concentrated in the Middle East and Africa, show no signs of abating. As a result, we are witnessing the highest levels of displacement on record, with 68.5 million people forcibly displaced worldwide as of June 2018, compared to 33.9 million in 1997.[^3] Over 84 percent of refugees are hosted by developing countries, and the top six-refugee receiving countries—Turkey, Pakistan, Lebanon, Iran, Uganda and Ethiopia—increasingly struggle to maintain their own political stability.[^4] (Ibid.) Much of the exploding displaced population lacks regular access to basic health services.
 
 ### Demographic Shifts
 
