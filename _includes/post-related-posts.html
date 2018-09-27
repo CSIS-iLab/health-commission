@@ -1,14 +1,14 @@
+{% if page.collection == 'posts' or page.collection == 'events' %}
 <div class="post__related-posts">
   {% assign previous_posts = "" | split: ',' %}
   {% assign next_posts = "" | split: ',' %}
   {% for theme in page.themes %}
-    {% assign posts = site[page.collection] %}
+    {% assign posts = site.posts | concat: site.events %}
       {% for post in posts %}
         {% if post.themes contains theme %}
           {% if post.date > page.date %}
             {% assign next_posts = next_posts | push: post %}
-          {% endif %}
-          {% if post.date < page.date %}
+          {% elsif post.date < page.date %}
             {% assign previous_posts = previous_posts | push: post %}
           {% endif %}
         {% endif %}
@@ -17,10 +17,10 @@
 
 
   {% if next_posts.size > 0 %}
-    {% assign read_next = next_posts | sort: date | first %}
+    {% assign read_next = next_posts | sort: date | slice: 0,1 %}
     {% assign section_title = site.data.language.next_article %}
-  {% else if next_posts.size == 0 %}
-    {% assign read_next = previous_posts | sort: date | reverse | slice: 1,1 | first %}
+  {% elsif next_posts.size == 0 %}
+    {% assign read_next = previous_posts | sort: date | reverse | slice: 1,1 %}
     {% assign section_title = site.data.language.previous_article %}
   {% endif %}
 
@@ -29,3 +29,4 @@
   {% include post-related-by-tag.html %}
 
 </div>
+{% endif %}

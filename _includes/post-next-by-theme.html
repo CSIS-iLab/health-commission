@@ -1,20 +1,8 @@
 <div class="next-by-theme">
-  <div class="section-title">
+  <h3 class="section-title">
     {{ section_title }}
-  </div>
-  <div class="header-type">
-    {{ read_next.content_type }}
-  </div>
-    <a class="post-title" href="{{ read_next.url | relative_url }}">{{ read_next.title }}</a>
-  <div class="post-author">
-    {% if read_next.authors.size > 0 %}
-      By {% for author in read_next.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
-      {% assign author_info = site.authors | where: "path", author | first %}
-      {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}
-    {% endif %}
-  </div>
-  <div class="post-date">
-    <time datetime="{{ read_next.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ read_next.date | date: site.date_format }}</time>
-  </div>
-  {% include themes-list.html %}
+  </h3>
+  {% for post in read_next %}
+    {% include post-block.html %}
+  {% endfor %}
 </div>

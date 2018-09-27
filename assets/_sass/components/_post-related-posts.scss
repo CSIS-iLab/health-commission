@@ -29,35 +29,20 @@
     background-color: $color-off-white;
   }
 
-  .section-title {
-    @extend %section-title;
-    text-transform: uppercase;
-    margin-bottom: 1rem;
-  }
+  .post-block {
+    border-top: none;
+    margin-top: 1rem;
+    padding-top: 0;
+    box-sizing: content-box;
 
-  .header-type {
-    @extend %post-block-meta;
-    text-transform: uppercase;
-    margin-bottom: 0.75rem;
-  }
+    &__content,
+    .post-meta__series {
+      display: none;
+    }
 
-  .post-title {
-    @extend %post-block-post-title;
-    display: block;
-    margin-bottom: 0.75rem;
-  }
-
-  .post-author {
-    @extend %post-block-meta;
-  }
-
-  .post-date {
-    @extend %post-block-meta;
-    text-transform: uppercase;
-  }
-
-  .themes-list {
-    margin-top: 0.5rem;
+    &__header {
+      margin-bottom: 0.5rem;
+    }
   }
 
   .next-by-theme {
@@ -70,12 +55,14 @@
       flex-basis: 25%;
     }
 
-    > * {
+    > *:not(h3),
+    .post-block__title a,
+    .post-meta__date {
       color: $color-white;
     }
+
     @include breakpoint(medium) {
-      .header-type,
-      .post-author {
+      .post-meta:not(.post-meta__date) {
         @include font-size(16px);
       }
 
@@ -113,7 +100,7 @@
         flex-wrap: nowrap;
       }
 
-      &__item {
+      .post-block {
         @include breakpoint(medium) {
           flex-basis: 50%;
         }
@@ -123,18 +110,18 @@
         }
 
         &:first-of-type {
-          padding-bottom: 3rem;
+          padding: 0 0 3rem;
 
           @include breakpoint(medium) {
-            padding-right: 10%;
+            padding: 0 10% 0 0;
           }
         }
 
-        &:last-of-type {
+        &:last-of-type:not(:only-child) {
           position: relative;
 
           @include breakpoint(medium) {
-            padding-left: 2.5rem;
+            padding: 0 0 0 2.5rem;
           }
 
           &:before {

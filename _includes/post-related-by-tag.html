@@ -1,14 +1,14 @@
 <div class="related-by-tag">
-  <div class="section-title">
+  <h3 class="section-title">
     {{ site.data.language.related_articles }}
-  </div>
+  </h3>
 
   {% assign maxRelated = 2 %}
   {% assign minCommonTags = 1 %}
   {% assign maxRelatedCounter = 0 %}
 
   <div class="related-by-tag__list">
-  {% for post in site[page.collection] reversed %}
+  {% for post in site.posts | concat: site.events | sort: date | reversed %}
 
     {% assign sameTagCount = 0 %}
 
@@ -21,26 +21,7 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <article class="related-by-tag__list__item">
-
-        <div class="header-type">
-          {{ post.content_type }}
-        </div>
-          <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <div class="post-author">
-          {% if read_next.authors.size > 0 %}
-            By {% for author in post.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
-            {% assign author_info = site.authors | where: "path", author | first %}
-            {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}
-          {% endif %}
-        </div>
-        <div class="post-date">
-          <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ post.date | date: site.date_format }}</time>
-        </div>
-        {% include themes-list.html %}
-
-      </article>
-
+      {% include post-block.html %}
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
 
@@ -52,28 +33,19 @@
   {% endfor %}
 
   {% if maxRelatedCounter == 0 %}
-  {% assign related = next_posts | sort: date | slice: 1,2 %}
+
+    {% if next_posts.size > 1 %}
+      {% assign related = next_posts | where_exp:"item","item.url != page.url" | sort: date | slice: 1,2 %}
+    {% elsif previous_posts.size > 1 %}
+      {% assign related = previous_posts | where_exp:"item","item.url != page.url" | sort: date | reverse | slice: 1,2 %}
+    {% endif %}
+
     {% for post in related %}
-      <article class="related-by-tag__list__item">
-
-        <div class="header-type">
-          {{ post.content_type }}
-        </div>
-          <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <div class="post-author">
-          {% if read_next.authors.size > 0 %}
-            By {% for author in post.authors %}{% assign penultimate =  forloop.length | minus: 1 %}
-            {% assign author_info = site.authors | where: "path", author | first %}
-            {{ author_info.title }}{% unless forloop.last or forloop.length < 3 %}, {% endunless %}{% if forloop.index == penultimate %} and {% endif %}{% endfor %}
-          {% endif %}
-        </div>
-        <div class="post-date">
-          <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ post.date | date: site.date_format }}</time>
-        </div>
-        {% include themes-list.html %}
-
-      </article>
+      {% if post.url != page.url %}
+        {% include post-block.html %}
+      {% endif %}
     {% endfor %}
+
   {% endif %}
   </div>
 </div>
