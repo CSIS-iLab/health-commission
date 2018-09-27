@@ -3,7 +3,7 @@
   background-color: $color-dark-blue;
   @include fullWidthBackground($color-dark-blue);
   color: $color-white;
-  padding: $size-wrapper-padding-mobile;
+  padding: $size-wrapper-padding-mobile 0;
   @include breakpoint('medium') {
     padding: 0;
   }
@@ -91,13 +91,14 @@
           top: -3px;
         }
 
-        &:before {
+        i:before {
           margin-left: 0;
           @include breakpoint('medium') {
             margin-left: 0.2em;
           }
         }
       }
+
       &-csis {
         @extend %footer-section-title;
         line-height: 1.8;
