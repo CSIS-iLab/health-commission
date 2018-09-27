@@ -94,7 +94,7 @@ North Korea has an exceptionally high incidence of untreated drug-susceptible tu
     </tbody>
     <tfoot>
     	<tr>
-      		<td colspan="4">
+      		<td colspan="7">
               Source: World Health Organization Global Tuberculosis Report 2017
           	</td>
       	</tr>
@@ -158,7 +158,7 @@ How exactly did North Korea reach this point? Most fundamentally, it is because 
     </tbody>
     <tfoot>
     	<tr>
-      		<td colspan="3">
+      		<td colspan="8">
               Sources: World Bank, CIA Factbook, Journal of Economics and Human Biology, IISS
           	</td>
       	</tr>
