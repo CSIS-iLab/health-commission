@@ -1,0 +1,13 @@
+.author-photo-tint {
+  $image-size: 100px;
+  filter: grayscale(100%);
+  filter: url(#blue_tint);
+  margin: 0 auto;
+  border-radius: 50%;
+  width: $image-size;
+  height: $image-size;
+}
+
+.blue-tint {
+  display: none;
+}

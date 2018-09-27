@@ -1,16 +1,22 @@
 {% if page.image.size > 0 %}
   {% include page-header-background-img.html image_url=page.image %}
+  {% if page.collection == 'authors' %}
+    {% include page-header-background-img.html %}
+  {% endif %}
 {% endif %}
 
 {% if page.collection == 'posts' and page.themes.size > 0 %}
   {% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
   {% if primary_theme.image.size > 0 %}
-    {% include page-header-background-img.html image_url=primary_theme.image %}
+      {% include page-header-background-img.html image_url=primary_theme.image %}
   {% endif %}
 {% endif %}
 
 <header class="page-header" role="header" {{ background_img }}>
   <div class="page-header__wrapper">
+  {% if page.collection == 'authors' %}
+    {% include page-author-tinted-photo.html image_url=page.image %}
+  {% endif %}
   {% if page.collection == 'posts' %}
     {% include page-header-post.html %}
   {% else %}
