@@ -2,6 +2,7 @@
 title: 'Ebola in America: Epidemic of Fear'
 keywords:
 - Ebola
+- Video
 date: 2016-04-22 22:55:00 +0000
 content_type: commentary
 excerpt: 'Ebola in America: Epidemic of Fear” is a groundbreaking feature-length documentary
@@ -22,6 +23,7 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
+undefined: ''
 
 ---
 <div class="video-wrapper post-feature-video">
