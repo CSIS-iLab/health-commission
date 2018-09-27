@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/laura-holgate.md
 - _authors/jim-greenwood.md
 - _authors/tom-frieden.md
 - _authors/anna-eshoo.md
@@ -34,7 +35,6 @@ pages:
 - _authors/Justin-Kenny.md
 - _authors/Kee-Park.md
 - _authors/jimmy-kolker.md
-- _authors/laura-holgate.md
 - _authors/christine-wormuth.md
 - _authors/amanda-glassman.md
 - _authors/nancy-lindborg.md
