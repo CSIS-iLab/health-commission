@@ -9,6 +9,9 @@ fields:
   label: Title
   description: Full Name
   name: title
+- type: textarea
+  name: long_title_formatted
+  label: Long Title Formatted
 - type: text
   name: short_title
   label: Short Title
