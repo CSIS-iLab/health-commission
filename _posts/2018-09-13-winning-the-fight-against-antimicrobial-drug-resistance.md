@@ -30,36 +30,7 @@ further_reading: |-
   WHO. “Antimicrobial resistance.” February 15, 2018. [http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.](http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. "http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.")
 
   World Health Assembly. “Global action plan on antimicrobial resistance.” May 2015. [http://www.who.int/antimicrobial-resistance/global-action-plan/en/.](http://www.who.int/antimicrobial-resistance/global-action-plan/en/. "http://www.who.int/antimicrobial-resistance/global-action-plan/en/.")
-references: |-
-  \[1\] CDC, “Antibiotic/Antimicrobial Resistance,” last updated March 29, 2018, [https://www.cdc.gov/drugresistance/index.html.](https://www.cdc.gov/drugresistance/index.html. "https://www.cdc.gov/drugresistance/index.html.")
-
-  \[2\] Thomas P. Van Boeckel et al, “Global trends in antimicrobial use in food animals,” PNAS 112, no. 18 (2015): 5649-5654, [https://doi.org/10.1073/pnas.1503141112.](https://doi.org/10.1073/pnas.1503141112. "https://doi.org/10.1073/pnas.1503141112.")
-
-  \[3\] CDC, “International Activities to Combat AR,” last updated January 25, 2017, [https://www.cdc.gov/drugresistance/intl-actvities.html.](https://www.cdc.gov/drugresistance/intl-actvities.html. "https://www.cdc.gov/drugresistance/intl-actvities.html.")
-
-  \[4\] Ibid.
-
-  \[5\] The Pew Charitable Trusts Antibiotic Resistance Project, “Antibiotics Currently in Global Clinical Development,” February 17, 2014, [https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development.](https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development. "https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development.")
-
-  \[6\] C. Lee Ventola, “The Antibiotic Resistance Crisis, Part 1: Causes and Threats,” Pharmacy & Therapeutics 40, no. 4 (2015): 277-283, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/. "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/.")
-
-  \[7\] Ibid.
-
-  \[8\] Alan Coukell and Tim Jinks, “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project, October 26, 2016, [http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.](http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics. "http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.")
-
-  \[9\] Joseph Larsen, “Drug Development Incentives,” CDC, June 27, 2017, [https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html.](https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html. "https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html.")
-
-  \[10\] World Health Assembly, “Global action plan on antimicrobial resistance,” May 2015, [http://www.who.int/antimicrobial-resistance/global-action-plan/en/.](http://www.who.int/antimicrobial-resistance/global-action-plan/en/. "http://www.who.int/antimicrobial-resistance/global-action-plan/en/.")
-
-  \[11\] G7 Health Ministers, “Declaration of the G7 Health Ministers,” October 2015, [http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf.](http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf. "http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf.")
-
-  \[12\] WHO, “United Nations high-level meeting on antimicrobial resistance,” September 21, 2016, [http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/.](http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/. "http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/.")
-
-  \[13\] CDC, “Antibiotic/Antimicrobial Resistance.”
-
-  \[14\] The White House, “National Action Plan for Combating Antibiotic-Resistant Bacteria,” March 2015, [https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf.](https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf. "https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf.")
-
-  \[15\] Office of the Assistant Secretary for Health, “Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (PACCARB),” last reviewed August 21, 2018, [https://www.hhs.gov/ash/advisory-committees/paccarb/index.html.](https://www.hhs.gov/ash/advisory-committees/paccarb/index.html. "https://www.hhs.gov/ash/advisory-committees/paccarb/index.html.")
+references: ''
 links: []
 keywords: []
 undefined: ''
