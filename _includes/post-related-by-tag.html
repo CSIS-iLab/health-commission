@@ -13,7 +13,7 @@
     {% assign sameTagCount = 0 %}
 
     {% for tag in post.keywords %}
-      {% if post.url != page.url and post.url != include.read_next.url %}
+      {% if post.url != page.url and post.url != read_next.url %}
         {% if page.keywords contains tag %}
           {% assign sameTagCount = sameTagCount | plus: 1 %}
         {% endif %}
