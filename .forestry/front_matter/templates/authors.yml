@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/j-morrison.md
 - _authors/david-relman.md
 - _authors/rebecca-katz.md
 - _authors/amanda-glassman.md
@@ -41,7 +42,6 @@ pages:
 - _authors/jimmy-kolker.md
 - _authors/christine-wormuth.md
 - _authors/nancy-lindborg.md
-- _authors/stephen-morrison.md
 - _authors/tom-cole.md
 - _authors/jennifer-kates.md
 - _authors/karl-hofmann.md
