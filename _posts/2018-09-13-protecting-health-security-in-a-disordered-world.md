@@ -68,7 +68,6 @@ U.S. leadership and commitment are essential. The United States accounts for rou
 
 Maintaining the centrality of U.S. leadership on health security requires the prioritization of the disordered world in stated U.S. policy goals and strategy. Congress will play a critical role in shaping the concrete agenda for innovation and higher levels of U.S. engagement. Winning health battles in the disordered world will also require a high degree of diplomacy and sustained commitment to an alliance-based model to reinforce and sustain international norms as laid out in international humanitarian law. The United States must engage partners not only bilaterally but multilaterally to support and strengthen international capacity to track, grasp, and anticipate health security crises, shape outcomes early and preempt worst outcomes, and better manage these burgeoning challenges.
 
-##### NOTES
 
 [^1]: Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/.](http://ucdp.uu.se/. "http://ucdp.uu.se/.")
 
