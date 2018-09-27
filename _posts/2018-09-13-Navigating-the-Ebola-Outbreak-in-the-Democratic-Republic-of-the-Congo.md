@@ -5,9 +5,9 @@ keywords:
 - Podcast
 date: 2018-09-14 00:00:00 +0000
 content_type: commentary
-excerpt: Elhadj As Sy, Secretary General of the International Federation of Red Cross
-  and Red Crescent Societies (IFRC), discusses the role of the IFRC in humanitarian
-  and outbreak response and preparedness.
+excerpt: Peter Salama, WHO Deputy Director-General of Emergency Preparedness and Response,
+  discusses the response to the current Ebola outbreak in a conflict-ridden region
+  of the Democratic Republic of the Congo.
 authors:
 - _authors/Peter-Salama.md
 - _authors/stephen-morrison.md
