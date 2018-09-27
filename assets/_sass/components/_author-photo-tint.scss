@@ -1,7 +1,6 @@
 .author-photo-tint {
   filter: grayscale(100%);
   filter: url(#blue_tint);
-  // filter: opacity(100%);
   $image-size-header-desktop: 110px;
   $image-size-header-mobile: 80px;
   $image-size-author-block: 80px;
@@ -22,7 +21,6 @@
     @include breakpoint('medium') {
       display: inline-block;
       margin: -3em 0em 0em 1.5em;
-      background-color: $color-white;
     }
   }
 
@@ -38,5 +36,5 @@
 }
 
 .blue-tint {
-    display: none;
+  display: none;
 }
