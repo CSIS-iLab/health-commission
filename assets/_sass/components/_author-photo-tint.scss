@@ -1,0 +1,11 @@
+.tint {
+  margin: 0 auto;
+  border-radius: 50%;
+
+  filter: grayscale(100%);
+  filter: url(#blue_tint);
+}
+
+.blue-tint {
+  display: none;
+}
