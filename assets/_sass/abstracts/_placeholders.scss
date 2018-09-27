@@ -261,10 +261,15 @@
 
 %page-description {
   font-family: $font-georgia;
-  @include font-size(22px);
+  @include font-size(20px);
   font-style: italic;
-  line-height: 1.64;
+  line-height: 1.6;
   color: $color-black;
+
+  @include breakpoint('medium') {
+    @include font-size(22px);
+    line-height: 1.64;
+  }
 }
 
 %page-title {

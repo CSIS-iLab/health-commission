@@ -1,46 +1,42 @@
 {% if page.show_page_highlights %}
-<div class="page-highlights {{ page.collection }} {{ page.layout }} {{ page.name  | remove: ".md" }}">
+<div class="page-highlights {{ page.collection }} {{ page.layout }}">
 
-   {% if page.page_highlights_download %}
-   <div class="page-highlights__col download-box">
-     {% include download-pdf.html%}
-   </div>
-   {% endif %}
+  {% if page.page_highlights_download %}
+    {% include download-pdf.html classes="page-highlights__col page-highlights__download" %}
+  {% endif %}
 
-   {% if page.page_highlights_cite %}
-   <div class="page-highlights__col cite-box">
-     {% include cite-page.html %}
-   </div>
-   {% endif %}
-   {% if page.layout!='post'  and page.excerpt.size > 0 %}
-   <div class="page-highlights__col excerpt-box">
-     <p class="page-highlights__excerpt">
-       {{ page.excerpt }}
-      </p>
-      {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+  {% if page.page_highlights_cite %}
+    {% include cite-page.html classes="page-highlights__col page-highlights__cite" %}
+  {% endif %}
 
+  {% if page.layout!='post'  and page.excerpt.size > 0 %}
+  <div class="page-highlights__col page-highlights__excerpt">
+    <p class="page__excerpt">
+      {{ page.excerpt }}
+    </p>
+    {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
 
-     {% if page.name == 'members.md' %}
+    {% if page.name == 'members.md' %}
       {% include about-table-contents.html %}
-     {% endif %}
+    {% endif %}
+  </div>
+  {% endif %}
 
-   </div>
-   {% endif %}
+  {% if page.page_highlights_share %}
+  <div class="page-highlights__col page-highlights__col--last ">
+   {% include social-share-icons.html %}
+ </div>
+ {% endif %}
 
-   {% if page.page_highlights_share %}
-   <div class="page-highlights__col--last ">
-     {% include social-share-icons.html %}
-   </div>
-   {% endif %}
-
-   {% if page.featured_post %}
-   <div class="page-highlights__col--last featured-box">
-      {% assign featured_post = site.posts | where: 'relative_path', page.featured_post %}
-      {% for post in featured_post limit: 1 %}
-       {% include post-block.html hide_excerpt=true num_themes='0' %}
-      {% endfor %}
-   </div>
-   {% endif %}
+ {% if page.featured_post %}
+ <div class="page-highlights__col page-highlights__col--last page-highlights__featured">
+  <h3 class="section-title">{{ site.data.language.single_post.featured_post | escape }}</h3>
+  {% assign featured_post = site.posts | where: 'relative_path', page.featured_post %}
+  {% for post in featured_post limit: 1 %}
+    {% include post-block.html hide_excerpt=true num_themes='0' %}
+  {% endfor %}
+</div>
+{% endif %}
 
 </div>
 {% endif %}

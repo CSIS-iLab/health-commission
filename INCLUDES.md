@@ -1,6 +1,18 @@
 # Includes Parameters
 Documentation on parameters used for includes throughout the site. For information on includes see the [Jekyll docs](https://jekyllrb.com/docs/includes/).
 
+## cite-page
+Displays the cite this page button.
+`{%- include cite-page.html classes="page-highlights__col page-higlights__cite" -%}`
+
+- `classes`: Secondary classes to attach to the component container
+
+## download-pdf
+Displays the link to download an associated PDF if there is one for a post.
+`{%- include download-pdf.html classes="page-highlights__col page-higlights__download" -%}`
+
+- `classes`: Secondary classes to attach to the component container
+
 ## img-caption
 Displays the caption and source for a photo.
 `{%- include img-caption.html tag='p' desc=page.image_caption source=page.image_credit -%}`

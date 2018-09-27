@@ -28,6 +28,7 @@ keywords:
 content_type: report
 pdf: http://google.com
 is_commission_related:
+  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   related_event: _events/commission-launch.md
 
 ---

@@ -47,6 +47,8 @@
   }
 
   .page-highlights & {
+    padding: 0;
+    
     #{$s}__text {
       color: $color-white;
     }

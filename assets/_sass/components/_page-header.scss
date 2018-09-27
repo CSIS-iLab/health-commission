@@ -13,9 +13,6 @@
   background-position: center center;
   background-size: cover;
 
-  @include breakpoint('medium') {
-  }
-
   &::before {
     content: '';
     display: block;
@@ -45,11 +42,10 @@
     position: absolute;
     left: 0;
     right: 0;
-
-    bottom: 20%;
     z-index: 5;
 
     @include breakpoint('medium') {
+      bottom: 20%;
       padding-right: calc(100% - #{$size-page-highlights-width});
     }
   }

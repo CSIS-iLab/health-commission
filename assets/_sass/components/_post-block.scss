@@ -36,6 +36,7 @@
 
     .page-highlights & {
       @extend %post-block-post-title-featured;
+      margin-top: 0;
 
       a {
         color: $color-white;
