@@ -1,7 +1,7 @@
 ---
 title: Nellie Bristol
 date: 2018-09-25 21:25:51 +0000
-short_title: Senior Fellow, CSIS Global Health Policy Center
+short_title: CSIS
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537985008/health-commission/Bristol_Nellie.jpg
 
 ---
