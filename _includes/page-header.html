@@ -15,7 +15,7 @@
 <header class="page-header" role="header" {{ background_img }}>
   <div class="page-header__wrapper">
   {% if page.collection == 'authors' %}
-    {% include page-header-author-photo.html image_url=page.image %}
+    {% include page-author-tinted-photo.html image_url=page.image %}
   {% endif %}
   {% if page.collection == 'posts' %}
     {% include page-header-post.html %}
