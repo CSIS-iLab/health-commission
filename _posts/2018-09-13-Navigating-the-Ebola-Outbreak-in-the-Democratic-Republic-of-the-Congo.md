@@ -2,6 +2,7 @@
 title: Navigating the Ebola Outbreak in the Democratic Republic of the Congo
 keywords:
 - Ebola
+- Podcast
 date: 2018-09-14 00:00:00 +0000
 content_type: commentary
 excerpt: Elhadj As Sy, Secretary General of the International Federation of Red Cross
