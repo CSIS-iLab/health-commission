@@ -2,21 +2,27 @@
 layout: default
 ---
 {% assign algolia_facet_value = page.algolia_facet_value %}
-{% if page.collection == 'authors' %}
-  {% assign algolia_facet_value = page.title | escape %}
+{% if page.collection == 'authors' or page.collection == 'series' %}
+  {% assign algolia_facet_value = page.title | slugify %}
 {% endif %}
 {% if page.algolia_facet and algolia_facet_value %}
   {%- assign data_facet = page.algolia_facet | prepend: 'data-facet="' | append: '"' -%}
   {%- assign data_facet_value = algolia_facet_value | prepend: 'data-facet-value="' | append: '"' -%}
 {% endif %}
+
+{% assign excerpt = page.excerpt %}
+{% if page.collection == 'authors' or page.collection == 'series' %}
+  {% assign excerpt = page.content %}
+{% endif %}
+{% assign excerpt = excerpt | remove: '<p>' | remove: '</p>' %}
+
 <article class="archive archive--{{ page.title | slugify }}" role="content" itemscope itemtype="http://schema.org/BlogPosting" {{ data_facet }} {{ data_facet_value }}>
 
   {% include page-header.html %}
   <section class="archive__header">
     {% if page.excerpt %}
     <div class="post__header-meta">
-      <p class="post__excerpt">{{ page.excerpt | remove: '
-        <p>' | remove: '</p>' }}</p>
+      <p class="post__excerpt">{{ excerpt }}</p>
     </div>
     {% endif %}
     {% include search-input.html %}

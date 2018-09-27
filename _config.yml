@@ -57,6 +57,8 @@ defaults:
   values:
     layout: archive
     permalink: "/series/:slug/"
+    use_algolia: true
+    algolia_facet: series
 - scope:
     path: ''
     type: 'themes'

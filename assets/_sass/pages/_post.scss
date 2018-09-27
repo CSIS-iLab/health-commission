@@ -85,11 +85,9 @@
       display: block;
       position: absolute;
       top: 0;
-      left: 50%;
       width: 100vw;
       height: 1px;
-      margin-left: -50vw;
-      margin-right: -50vw;
+      margin-left: calc((100vw - #{$size-page-text-max-width}) / 2 * -1);
       background-color: $color-silver;
     }
 

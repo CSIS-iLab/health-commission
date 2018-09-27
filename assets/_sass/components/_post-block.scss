@@ -17,9 +17,14 @@
     padding: 0;
     border: 0;
   }
+
+  &__header {
+    margin-bottom: 1rem;
+  }
   
   &__title {
     @extend %post-block-post-title;
+    margin: 0.75rem 0;
 
     .archive & {
       @extend %archive-post-title;
@@ -64,7 +69,4 @@
       @extend %post-block-post-title-featured;
     }
   }
-
-  
 }
-
