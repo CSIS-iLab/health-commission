@@ -1,0 +1,21 @@
+{% if page.collection == 'authors' %}
+{% assign authors_list = page.authors %}
+
+  {% for author in authors_list %}
+    {%- assign author_info = site.authors | where: "relative_path", author | first -%}
+
+
+  <svg class="authors-block__blue-tint">
+   <filter id="blue_tint" color-interpolation-filters="sRGB"
+           x="0" y="0" height="100%" width="100%">
+     <feColorMatrix type="matrix"
+       values="0.75 0 0 -0.1 0.05
+               0.62 0 0 0 0.15
+               0.50 0 0 0 0.30
+               0    0 0 1 0" />
+   </filter>
+  </svg>
+
+  <img class="authors-block__photo" src="{{ author_info.image }}">
+  {% endfor %}
+{% endif %}
