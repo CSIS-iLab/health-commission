@@ -3,13 +3,9 @@
 
   @extend %post-block-meta;
 
-  .post-block &, {
-    color: $color-black;
-
-    #{$p}__link {
-      &:hover {
-        color: $color-slate;
-      }
+  #{$p}__link {
+    &:hover {
+      color: $color-slate;
     }
   }
 
@@ -26,27 +22,36 @@
     }
   }
 
+  .home__featured-primary & #{$p}__date {
+    color: $color-dark-silver;
+  }
+
   .home__events-series & {
     color: $color-white;
   }
 
   &#{$p}__content-series-wrapper {
+
+    @include breakpoint('large') {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
     .home__featured-primary &,
     .page-header & {
       border-bottom: 1px solid $color-dusty-lavender;
-
-      @include breakpoint('large') {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-      }
     }
   }
 
   #{$p}__content-type,
   #{$p}__author-name,
-  #{$p}__date {
+  &__date {
     text-transform: uppercase;
+  }
+
+  &__date {
+    color: $color-warm-gray;
   }
 
   &__series {
