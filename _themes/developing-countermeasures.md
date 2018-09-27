@@ -13,7 +13,7 @@ image_caption: A Syrian-Kurdish refugee waits to have her child inoculated in th
   the border in neighboring Syria.
 image_credit: Safin Hamed/Stringer
 in_depth_overview: _posts/2018-09-13-accelerating-medical-countermeasures.md
-featured_post: _posts/2018-09-13-accelerating-medical-countermeasures.md
+featured_post: _posts/2018-03-13-A-Ripe-Moment-for-Reducing-Vaccine-Preventable-Disease.md
 further_reading: |-
   CEPI. “Mission.” Accessed August 2018. [http://cepi.net/mission.](http://cepi.net/mission. "http://cepi.net/mission.")
 
