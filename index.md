@@ -5,8 +5,8 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: _posts/2018-02-14-welcome-to-jekyll.markdown
 featured_post_secondary:
-- _posts/2018-03-13-A-Ripe-Moment-for-Reducing-Vaccine-Preventable-Disease.md
-- _posts/2017-04-17-Meeting-Basic-Health-Needs-in-a-Venezuela-in-Crisis-What-Roles-Can-the-United-States-and-International-Community-Play.md
+- _posts/2018-09-13-Navigating-the-Ebola-Outbreak-in-the-Democratic-Republic-of-the-Congo.md
+- _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
 featured_events: _events/health-security-in-a-disordered-world.md
 
 ---
