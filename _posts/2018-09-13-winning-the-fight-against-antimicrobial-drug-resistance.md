@@ -4,7 +4,7 @@ date: 2018-09-13 00:00:00 +0000
 authors: []
 excerpt: 'Antimicrobial drug resistance is a complex, long-range global crisis threatening
   the foundations on which modern medicine is built. '
-content_type: report
+content_type: commentary
 themes:
 - _themes/drug-resistance.md
 series: ''
@@ -62,6 +62,7 @@ references: |-
   \[15\] Office of the Assistant Secretary for Health, “Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (PACCARB),” last reviewed August 21, 2018, [https://www.hhs.gov/ash/advisory-committees/paccarb/index.html.](https://www.hhs.gov/ash/advisory-committees/paccarb/index.html. "https://www.hhs.gov/ash/advisory-committees/paccarb/index.html.")
 links: []
 keywords: []
+undefined: ''
 
 ---
 ## Key Challenges
