@@ -121,50 +121,109 @@ How exactly did North Korea reach this point? Most fundamentally, it is because 
 <tr>
 <th colspan="3" class="table-title">
 
-          	</th>
-      	</tr>  
-      	<tr>
-          	<th>Indicators</th>	
-          	<th>Total Population (2017)</th>
-      		<th>Life Expectancy At Birth (2016)</th>
-     		<th>Average Height (2009)</th>
-          	<th>Gross Domestic Product Per Capita (2017)</th>
-     		<th>Paved Roadways (2016)</th>
-          	<th>Electrification (2016)</th>
-          	<th>Active Military Personnel (2017)</th>
-      	</tr>
-    </thead>
-    <tbody>
-    	<tr>
-          	<td>North Korea</td>
-      		<td>25.3 million</td>
-     		<td>72 years old</td>
-          	<td>165.5 - 170.5 cm</td>
-     		<td>$1,700</td>
-          	<td>2.8 percent</td>
-          	<td>30 percent</td>
-         	<td>1,190,000</td>
-      	</tr>
-      	<tr>
-          	<td>South Korea</td>
-      		<td>51.2 million</td>
-     		<td>82 years old</td>
-          	<td>173.5 cm</td>
-     		<td>$39,400</td>
-          	<td>92.4 percent</td>
-          	<td>100 percent</td>
-          	<td>630,000</td>
-      	</tr>
-    </tbody>
-    <tfoot>
-    	<tr>
-      		<td colspan="8">
-              Sources: World Bank, CIA Factbook, Journal of Economics and Human Biology, IISS
-          	</td>
-      	</tr>
-    </tfoot>
+</th>
+</tr>  
 
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Indicators</p>
+</td>
+<td>
+<p>North Korea</p>
+</td>
+<td>
+<p>South Korea</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total Population (2017)</p>
+</td>
+<td>
+<p>25.3 million</p>
+</td>
+<td>
+<p>51.2 million</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Life Expectancy At Birth (2016)</p>
+</td>
+<td>
+<p>72 years old</p>
+</td>
+<td>
+<p>82 years old</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Average Height (2009)</p>
+</td>
+<td>
+<p>165.5 - 170.5 cm</p>
+</td>
+<td>
+<p>173.5 cm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gross Domestic Product Per Capita (2017)</p>
+</td>
+<td>
+<p>$1,700</p>
+</td>
+<td>
+<p>$39,400</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Paved Roadways (2016)</p>
+</td>
+<td>
+<p>2.8 percent</p>
+</td>
+<td>
+<p>92.4 percent</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Electrification (2016)</p>
+</td>
+<td>
+<p>30 percent</p>
+</td>
+<td>
+<p>100 percent</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Active Military Personnel (2017)</p>
+</td>
+<td>
+<p>1,190,000</p>
+</td>
+<td>
+<p>630,000</p>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+Sources: World Bank, CIA Factbook, Journal of Economics and Human Biology, IISS
+</td>
+</tr>
+</tfoot>
 </table>
+
 
 North Korea’s deterioration in the years since is the result of choice, priorities, and neglect—not accident—stretching across the Kim family dynasty. It grows out of a form of governance, executed over the decades, that categorizes populations into [politically defined castes](https://www.hrnk.org/uploads/pdfs/HRNK_Songbun_Web.pdf) and gives excessive preference to protecting elites. It emerged from the shocks of the 1990s when Soviet subsidies suddenly ended and chronic mismanagement created a famine in 1994–1998 that left over 1 million dead. It flows from the conscious decision, in the post–Cold War era, to radically center resources and power in the hands of the military, with huge shares dedicated to the pursuit of nuclear weapons and an ambitious missile program, as part of North Korea’s strategy to counter the perceived threat from the United States. Implicitly, the health decay of the past 25 years is the flip side, the price North Korea’s citizens have paid for the regime’s quest to concentrate its grip on power and resources and survive by entering the nuclear club.  
   
