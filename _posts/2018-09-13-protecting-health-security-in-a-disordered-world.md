@@ -4,7 +4,7 @@ date: 2018-09-13 00:00:00 +0000
 authors: []
 excerpt: The reality of the disordered world demands U.S. leadership and action to
   ensure health security.
-content_type: ''
+content_type: commentary
 themes:
 - _themes/global-disorder.md
 series: ''
@@ -52,6 +52,7 @@ references: |-
   \[10\] USIP, “Task Force on Extremism in Fragile States,” 2018, [https://www.usip.org/programs/task-force-extremism-fragile-states.](https://www.usip.org/programs/task-force-extremism-fragile-states. "https://www.usip.org/programs/task-force-extremism-fragile-states.")
 links: []
 keywords: []
+undefined: ''
 
 ---
 ## Key Challenges
