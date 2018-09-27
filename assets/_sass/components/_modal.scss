@@ -14,11 +14,10 @@
 
   @include breakpoint('medium') {
     padding: 1.25rem 0.5rem 1.5rem 1.5rem;
-
     top: 10%;
     width: 62.5%;
     max-width: 900px;
-    height: 600px;
+    height: 55vh;
     margin: auto;
   }
 
