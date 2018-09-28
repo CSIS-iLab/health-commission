@@ -1,5 +1,5 @@
 <{{ include.tag | default: 'figcaption' }} class="img-caption">
-{{ include.desc }}
+{{ include.desc | default: site.data.language.photo_credit }}
 {% if include.source %}
   <span class="img-caption__source">{{ include.source | prepend: ' ' }}</span>
 {% endif %}
