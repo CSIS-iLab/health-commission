@@ -28,7 +28,7 @@
  </div>
  {% endif %}
 
- {% if page.featured_post %}
+ {% if page.featured_post and page.featured_post.size > 0 %}
  <div class="page-highlights__col page-highlights__col--last page-highlights__featured">
   <h3 class="section-title">{{ site.data.language.single_post.featured_post | escape }}</h3>
   {% assign featured_post = site.posts | where: 'relative_path', page.featured_post %}
