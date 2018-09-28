@@ -12,8 +12,8 @@
     radial-gradient(
       circle at 50% 40%,
       rgba(11, 31, 55, 0),
-      rgba(11, 31, 55, 0.35) 70%,
-      rgba(11, 31, 55, 0.85) 80%,
+      rgba(11, 31, 55, 0.35) 67%,
+      rgba(11, 31, 55, 0.85) 74%,
       rgba(11, 31, 55, 1)
     ),
     linear-gradient(
@@ -21,14 +21,14 @@
       rgba($color-dark-blue, 1) 1%,
       rgba($color-gray-blue, 1) 25%,
       rgba($color-gray-blue, 1) 75%,
-      rgba($color-dark-blue, 1) 100%
+      rgba($color-dark-blue, 1) 95%
     );
   background-size: 125% 100%;
   background-position: 50% 50%;
 
-  padding-top: calc(4rem + #{$size-site-header-height});
+  padding: calc(4rem + #{$size-site-header-height}) 0 4rem;
   @include breakpoint('medium') {
-    padding-top: calc(8rem + #{$size-site-header-height-desktop});
+    padding: calc(8rem + #{$size-site-header-height-desktop}) 0 8rem;
   }
 
   &__content {
@@ -38,7 +38,7 @@
 
     @include breakpoint('medium') {
       min-height: calc(
-        100vh - 500px - 8rem - #{$size-site-header-height-desktop}
+        100vh - 510px - 16rem - #{$size-site-header-height-desktop}
       );
     }
 
@@ -47,7 +47,7 @@
       display: flex;
       flex-wrap: wrap;
 
-      @include breakpoint('large') {
+      @media screen and (min-width: 65em) {
         flex-wrap: nowrap;
       }
 
@@ -81,7 +81,7 @@
         margin: 0 0 2rem;
         flex-basis: 100%;
 
-        @include breakpoint('large') {
+        @media screen and (min-width: 65em) {
           padding: 0 6rem;
           flex-basis: auto;
         }
