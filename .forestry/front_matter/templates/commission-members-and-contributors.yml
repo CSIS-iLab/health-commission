@@ -19,7 +19,7 @@ fields:
 - type: text
   name: header_image_caption
   label: Header Image Caption
-- name: image_credit
+- name: header_image_credit
   label: Header Image credit
   type: text
   hidden: false
