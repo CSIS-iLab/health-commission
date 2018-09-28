@@ -16,8 +16,11 @@ fields:
 - type: file
   name: image
   label: Header Image
-- name: image_credit
-  label: Image credit
+- type: text
+  name: header_image_caption
+  label: Header Image Caption
+- name: header_image_credit
+  label: Header Image Credit
   type: text
   hidden: false
   default: ''
