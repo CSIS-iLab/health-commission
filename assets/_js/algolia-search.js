@@ -142,7 +142,24 @@ const AlgoliaSearch = function() {
     )
 
     search.on('render', () => {
-      if (!search.searchParameters.query) {
+      let title = search.searchParameters.query
+
+      if (
+        !title &&
+        search.searchParameters.hasOwnProperty('disjunctiveFacetsRefinements')
+      ) {
+        let facets = Object.keys(
+          search.searchParameters.disjunctiveFacetsRefinements
+        )
+
+        facets.forEach(
+          facet =>
+            (title =
+              search.searchParameters.disjunctiveFacetsRefinements[facet][0])
+        )
+      }
+
+      if (!title) {
         return
       }
 
@@ -152,7 +169,7 @@ const AlgoliaSearch = function() {
         toggleElementsOnNoResults(elementsToHideNoResults, 'remove')
       }
 
-      updateSearchTitle(search.searchParameters.query)
+      updateSearchTitle(title)
     })
   }
 
