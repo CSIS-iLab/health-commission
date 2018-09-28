@@ -20,7 +20,7 @@ post_image_credit: Liz Lynch
 post_image_caption: Commission co-chairs Kelly Ayotte and Julie Gerberding at the
   April 17, 2018 Commission launch.
 header_image_caption: "(From left) Commissioners General Carter Ham, Congressman Tom
-  Cole, Ambassador Karl Hofmann, Congresswoman Anna Eshoo"
+  Cole, Ambassador Karl Hofmann, Congresswoman Anna Eshoo."
 header_image_credit: Liz Lynch
 
 ---
