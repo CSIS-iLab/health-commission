@@ -1,0 +1,15 @@
+{%- assign author_image = include.image_url -%}
+
+  <svg class="blue-tint">
+   <filter id="blue_tint" color-interpolation-filters="sRGB"
+           x="0" y="0" height="100%" width="100%">
+     <feColorMatrix type="matrix"
+       values="0.70 -0.1 0 -0.1 0.15
+               0.62 0 0 0 0.15
+               0.50 0 0 0 0.30
+               0    0 0 1 0" />
+   </filter>
+  </svg>
+
+  <img class="author-photo-tint" src="{{ author_image }}">
+  </svg>

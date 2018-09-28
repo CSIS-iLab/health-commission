@@ -4,7 +4,11 @@
 
 .tag-list {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+
+  @include breakpoint('medium') {
+    align-items: center;
+  }
 
   &__title {
     @extend %btn;
@@ -17,14 +21,17 @@
     @extend %tag;
     list-style-type: none;
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
     margin: 0;
     padding: 0;
 
     li {
+      flex: 1 1 auto;
       background-color: $color-beige;
       display: inline-block;
-      margin-right: 0.5rem;
-      padding: 0.25rem 0.4rem;
+      margin: 0 0.25rem 0.25rem 0;
+      max-width: fit-content;
       text-align: center;
       text-transform: uppercase;
       transition: background-color 0.3s ease-in-out;
@@ -35,6 +42,8 @@
 
       a {
         display: block;
+        height: 100%;
+        padding: 0.25rem 0.4rem;
       }
     }
   }

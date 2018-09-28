@@ -12,9 +12,11 @@
 @import 'base/typography';
 @import 'base/base';
 
+@import 'components/404';
 @import 'components/about-table-contents';
 @import 'components/aside-container';
 @import 'components/authors-block';
+@import 'components/author-photo-tint';
 @import 'components/buttons';
 @import 'components/forms';
 @import 'components/cite-page';
@@ -32,6 +34,7 @@
 @import 'components/pagination';
 @import 'components/post-block';
 @import 'components/post-further-reading';
+@import 'components/post-related-posts';
 @import 'components/post-meta';
 @import 'components/tag-list';
 @import 'components/social-share-icons';

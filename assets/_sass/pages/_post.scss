@@ -67,28 +67,39 @@
 
   &__footer {
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: 1fr;
     grid-gap: 2rem;
     max-width: $size-page-text-max-width;
     margin: 0 auto;
+
+    @include breakpoint('medium') {
+      grid-template-columns: auto minmax(auto, 25%);
+    }
   }
 
   &__references,
   &__authors-full,
   &__further-reading {
     position: relative;
-    grid-column: span 2;
-    padding-top: 2rem;
+    padding: 2rem 0;
+
+    @include breakpoint('medium') {
+      grid-column: span 2;
+    }
     
     &::before {
       content: '';
       display: block;
       position: absolute;
       top: 0;
+      margin-left: calc((100vw - 100%) / 2 * -1);
       width: 100vw;
       height: 1px;
-      margin-left: calc((100vw - #{$size-page-text-max-width}) / 2 * -1);
       background-color: $color-silver;
+
+      @include breakpoint('medium') {
+        margin-left: calc((100vw - #{$size-page-text-max-width}) / 2 * -1);
+      }
     }
 
     p:last-of-type {

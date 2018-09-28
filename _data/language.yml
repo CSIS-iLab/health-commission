@@ -60,7 +60,7 @@ home:
   themes_desc: Click on a theme in the list below to view details and related content.
 photo_credit: 'Photo Credit:'
 search_placeholder: What are you searching for?
-tags: Tags
+tags: "Tags:"
 share: Share
 cite: cite
 this_page: this page
@@ -72,3 +72,6 @@ pdf_desktop: Download PDF
 pdf_mobile: PDF
 series:
   from: 'from '
+next_article: Next Article
+previous_article: Previous Article
+related_articles: Related Articles

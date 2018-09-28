@@ -15,7 +15,7 @@ authors:
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1537965558/health-commission/Ebola_in_America_Documentary_Photo.png
+image: ''
 image_caption: ''
 image_credit: ''
 pdf: ''

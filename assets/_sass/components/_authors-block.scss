@@ -40,11 +40,7 @@
 
   &__title {
     @extend %bio-title;
-    margin-bottom: 1rem;
-
-    @include breakpoint('medium') {
-      margin-bottom: 0;
-    }
+    margin-bottom: 0.5rem;
   }
 
   &__bio {
@@ -55,12 +51,5 @@
     width: $image-size;
     height: $image-size;
     margin: 0 auto;
-    border-radius: 50%;
-    filter: grayscale(100%);
-    filter: url(#blue_tint);
-  }
-
-  &__blue-tint {
-    display: none;
   }
 }
