@@ -35,6 +35,10 @@ Used by the `page-header` include to capture a `style` attribute for the page he
 - `class`: Add additional classes to block. Useful for specifying a featured post
 - `num_themes`: Leave blank to show all themes, otherwise set to number of themes to display. Parameter is passed to the `themes-list` include.
 
+## post-meta-authors
+`{% include post-meta-authors.html authors=page.authors %}`
+
+- `authors`: Set to `page.authors` in page-header (post-meta-authors will rely on post.authors by default)
 
 ## themes-list
 `{%- include themes-list.html num_themes='1' -%}`
