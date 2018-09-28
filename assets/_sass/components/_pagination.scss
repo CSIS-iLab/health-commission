@@ -285,5 +285,17 @@ $filter-transition: 0.4s ease-in-out;
       }
     }
   }
+
+  &--is-hidden {
+    display: none;
+  }
+}
+
+.ais-hits__empty {
+  margin: 2rem 0;
+  
+  .section-title {
+    margin-bottom: 1rem;
+  }
 }
 
