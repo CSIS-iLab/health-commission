@@ -76,4 +76,12 @@
       }
     }
   }
+
+  .post__footer & {
+    display: none;
+
+    @include breakpoint('medium') {
+      display: flex;
+    }
+  }
 }
