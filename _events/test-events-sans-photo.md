@@ -10,6 +10,5 @@ image: ''
 image_caption: ''
 image_credit: ''
 documents: []
-published: false
 
 ---
