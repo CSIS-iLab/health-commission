@@ -8,5 +8,7 @@ image_credit: Liz Lynch
 excerpt: The CSIS Commission on Strengthening America’s Health Security aims to chart
   a bold vision for the future of U.S. leadership in global health security, at home
   and abroad.
+header_image_caption: "(From left) Commissioners General Carter Ham, Congressman Tom
+  Cole, Ambassador Karl Hofmann, Congresswoman Anna Eshoo."
 
 ---
