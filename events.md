@@ -12,5 +12,7 @@ excerpt: The CSIS Commission on Strengthening America’s Health Security aims t
   and abroad.
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537985742/health-commission/Events-Header.jpg
 image_credit: Liz Lynch
+header_image_caption: ''
+header_image_credit: Liz Lynch
 
 ---
