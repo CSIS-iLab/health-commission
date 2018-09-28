@@ -6,7 +6,7 @@
   {%- assign author_info = site.authors | where: "relative_path", author | first -%}
 
   <div class="authors-block">
-    {% include page-author-tinted-photo.html image_url=author_info.image %}
+    {% include author-photo-tint.html image_url=author_info.image %}
     <div class="authors-block__info">
       <span class="authors-block__name"><a href="{{ author_info.url | relative_url }}" class="authors-block__name">{{author_info.title}}</a></span>
       <span class="authors-block__title">{{author_info.long_title}}</span>

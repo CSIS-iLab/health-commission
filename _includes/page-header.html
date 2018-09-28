@@ -13,7 +13,7 @@
   <div class="page-header__wrapper">
   {% if page.collection == 'authors' %}
     <div class="page-header__author-photo-mobile">
-      {% include page-author-tinted-photo.html image_url=page.image %}
+      {% include author-photo-tint.html image_url=page.image %}
     </div>
   {% endif %}
   {% if page.collection == 'posts' %}
@@ -25,7 +25,7 @@
 </header>
 {% if page.collection == 'authors' %}
   <div class="page-header__author-photo-desktop">
-    {% include page-author-tinted-photo.html image_url=page.image %}
+    {% include author-photo-tint.html image_url=page.image %}
   </div>
 {% endif %}
 {% include page-highlights.html %}

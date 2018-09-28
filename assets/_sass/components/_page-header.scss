@@ -60,7 +60,7 @@
 
     @include breakpoint('medium') {
       display: inline-block;
-      margin: -2em 0em 0em 0em;
+      margin-top: calc(#{$size-author-image-header-desktop} / -2);
     }
   }
 
