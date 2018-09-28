@@ -1,6 +1,6 @@
 .footnotes {
   padding-left: 2.5rem;
-  margin-top: 3.5rem;
+  margin-top: 5rem;
   position: relative;
 
   &:before {
@@ -9,16 +9,16 @@
     @extend %section-title;
     text-transform: uppercase;
     top: -3rem;
-    left: 1.5rem;
+    left: calc(2rem - 3px);
   }
 
   &:after {
     content: '';
     position: absolute;
-    background-color: $color-dusty-lavender;
+    background-color: $color-silver;
     right: calc(100% - 2rem);
     top: 0;
-    width: 3px;
+    width: 2px;
     height: 100%;
   }
 
