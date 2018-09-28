@@ -20,8 +20,8 @@ fields:
   name: short_title
   label: Short Title
 - type: textarea
-  name: short_description
-  label: Short Description
+  name: excerpt
+  label: Excerpt
   config:
     wysiwyg: true
     schema:
