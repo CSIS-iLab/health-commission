@@ -1,4 +1,7 @@
 <{{ include.tag | default: 'figcaption' }} class="img-caption">
+{% if include.header_caption %}
+  {{ include.header_caption }}
+{% endif %}
 {{ include.desc }}
 {% if include.source %}
   <span class="img-caption__source">{{ include.source | prepend: ' ' }}</span>

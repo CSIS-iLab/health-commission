@@ -20,6 +20,7 @@ Displays the caption and source for a photo.
 - `tag`: The HTML tag to use. Default is `figcaption`
 - `desc`: The image caption
 - `source`: The image source (optional)
+- `header_caption`: displays caption for header photo
 
 ## page-header-background-img
 Used by the `page-header` include to capture a `style` attribute for the page header's background image.

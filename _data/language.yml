@@ -58,7 +58,6 @@ home:
   recent_header: Latest Articles
   themes_header: Guiding Themes
   themes_desc: Click on a theme in the list below to view details and related content.
-photo_credit: 'Photo Credit:'
 search_placeholder: What are you searching for?
 tags: Tags
 share: Share
@@ -72,3 +71,4 @@ pdf_desktop: Download PDF
 pdf_mobile: PDF
 series:
   from: 'from '
+photo_credit: 'Photo Credit:'
