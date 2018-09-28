@@ -10,7 +10,14 @@ layout: default
         <p class="post__excerpt">{{ page.excerpt | remove: '
         <p>' | remove: '</p>' }}</p>
       {% endif %}
-      {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+
+      {% if page.image.size == 0 and page.collection == 'events' %}
+        {% assign events = site.pages | where: "name",'events.md' | first %}
+        {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=events.image_credit -%}
+      {% else %}
+        {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+      {% endif %}
+
       {%- include themes-list.html -%}
     </div>
     {%- include from-commission.html -%}
@@ -28,9 +35,7 @@ layout: default
     {% include tag-list.html %}
     {% include social-share-icons.html %}
     {% include post-references.html %}
-<div class="post__authors-full">{% include authors-block.html %}</div>
-    <div class="post__related-posts">Related Posts</div>
-
+    <div class="post__authors-full">{% include authors-block.html %}</div>
   </footer>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
