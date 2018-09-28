@@ -1,0 +1,27 @@
+.author-photo-tint {
+  filter: grayscale(100%);
+  filter: url(#blue_tint);
+  border-radius: 50%;
+  padding: none;
+  position: relative;
+  z-index: 10;
+
+  .authors-block & {
+    width: $size-author-image-block;
+    height: $size-author-image-block;
+  }
+
+  .page-header__author-photo-desktop & {
+    width: $size-author-image-header-desktop;
+    height: $size-author-image-header-desktop;
+  }
+
+  .page-header__author-photo-mobile & {
+    width: $size-author-image-header-mobile;
+    height: $size-author-image-header-mobile;
+  }
+}
+
+.blue-tint {
+  display: none;
+}

@@ -55,12 +55,5 @@
     width: $image-size;
     height: $image-size;
     margin: 0 auto;
-    border-radius: 50%;
-    filter: grayscale(100%);
-    filter: url(#blue_tint);
-  }
-
-  &__blue-tint {
-    display: none;
   }
 }

@@ -1,22 +1,31 @@
-{% if page.image.size > 0 %}
+{% if page.image.size > 0 and page.collection != 'authors' %}
   {% include page-header-background-img.html image_url=page.image %}
 {% endif %}
 
 {% if page.collection == 'posts' and page.themes.size > 0 %}
   {% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
   {% if primary_theme.image.size > 0 %}
-    {% include page-header-background-img.html image_url=primary_theme.image %}
+      {% include page-header-background-img.html image_url=primary_theme.image %}
   {% endif %}
 {% endif %}
 
 <header class="page-header" role="header" {{ background_img }}>
   <div class="page-header__wrapper">
+  {% if page.collection == 'authors' %}
+    <div class="page-header__author-photo-mobile">
+      {% include author-photo-tint.html image_url=page.image %}
+    </div>
+  {% endif %}
   {% if page.collection == 'posts' %}
     {% include page-header-post.html %}
   {% else %}
   <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}{%- if page.permalink == '/search/' -%}: <span></span>{%- endif -%}</h1>
   {% endif %}
   </div>
-
 </header>
+{% if page.collection == 'authors' %}
+  <div class="page-header__author-photo-desktop">
+    {% include author-photo-tint.html image_url=page.image %}
+  </div>
+{% endif %}
 {% include page-highlights.html %}
