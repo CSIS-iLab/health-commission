@@ -72,3 +72,6 @@ pdf_desktop: Download PDF
 pdf_mobile: PDF
 series:
   from: 'from '
+next_article: Next Article
+previous_article: Previous Article
+related_articles: Related Articles

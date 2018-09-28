@@ -1,0 +1,8 @@
+<div class="next-by-theme">
+  <h3 class="section-title">
+    {{ section_title }}
+  </h3>
+  {% for post in read_next %}
+    {% include post-block.html num_themes=1 %}
+  {% endfor %}
+</div>
