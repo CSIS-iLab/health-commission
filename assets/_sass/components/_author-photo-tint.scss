@@ -6,31 +6,23 @@
   $image-size-author-block: 80px;
   border-radius: 50%;
   padding: none;
-  z-index: 999;
+  position: relative;
+  z-index: 10;
 
   .authors-block & {
     width: $image-size-author-block;
     height: $image-size-author-block;
   }
 
-  .page-header__photo-desktop & {
+  .page-header__author-photo-desktop & {
     width: $image-size-header-desktop;
     height: $image-size-header-desktop;
-    display: none;
-
-    @include breakpoint('medium') {
-      display: inline-block;
-      margin: -3em 0em 0em 1.5em;
-    }
   }
 
-  .page-header__photo-mobile & {
+  .page-header__author-photo-mobile & {
     width: $image-size-header-mobile;
     height: $image-size-header-mobile;
-    display: inline;
 
-    @include breakpoint('medium') {
-      display: none;
     }
   }
 }

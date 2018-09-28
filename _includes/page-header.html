@@ -1,8 +1,5 @@
-{% if page.image.size > 0 %}
+{% if page.image.size > 0 and page.collection != 'authors' %}
   {% include page-header-background-img.html image_url=page.image %}
-  {% if page.collection == 'authors' %}
-    {% include page-header-background-img.html %}
-  {% endif %}
 {% endif %}
 
 {% if page.collection == 'posts' and page.themes.size > 0 %}
@@ -15,7 +12,7 @@
 <header class="page-header" role="header" {{ background_img }}>
   <div class="page-header__wrapper">
   {% if page.collection == 'authors' %}
-    <div class="page-header__photo-mobile">
+    <div class="page-header__author-photo-mobile">
       {% include page-author-tinted-photo.html image_url=page.image %}
     </div>
   {% endif %}
@@ -27,7 +24,7 @@
   </div>
 </header>
 {% if page.collection == 'authors' %}
-  <div class="page-header__photo-desktop">
+  <div class="page-header__author-photo-desktop">
     {% include page-author-tinted-photo.html image_url=page.image %}
   </div>
 {% endif %}
