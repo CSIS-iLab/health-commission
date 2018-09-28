@@ -202,7 +202,7 @@
   color: $color-black;
   text-transform: uppercase;
 
-  @include breakpoint('medium') {
+  @include breakpoint($breakpoint-desktop) {
     @include font-size(18px);
     line-height: 1.78;
     letter-spacing: 1px;
@@ -217,7 +217,7 @@
   line-height: 1.18;
   color: $color-black;
 
-  @include breakpoint('medium') {
+  @include breakpoint($breakpoint-desktop) {
     @include font-size(16px);
     line-height: 1.25;
     color: $color-dark-silver;
@@ -230,7 +230,7 @@
   line-height: 1.09;
   color: $color-black;
 
-  @include breakpoint('medium') {
+  @include breakpoint($breakpoint-desktop) {
     font-family: $font-europa;
     @include font-size(16px);
     color: $color-white;

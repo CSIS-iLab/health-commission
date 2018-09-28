@@ -20,7 +20,7 @@
     @extend %header-nav-link;
     color: $color-white;
 
-    @include breakpoint('medium') {
+    @include breakpoint($breakpoint-desktop) {
       width: $search-size;
     }
 
@@ -39,7 +39,7 @@
       right: -$size-wrapper-padding-mobile;
       padding: 0 $size-wrapper-padding-mobile;
 
-      @include breakpoint('medium') {
+      @include breakpoint($breakpoint-desktop) {
         right: unset;
         padding: 0;
       }
@@ -85,7 +85,7 @@
     span {
       display: none;
 
-      @include breakpoint('medium') {
+      @include breakpoint($breakpoint-desktop) {
         display: inline;
       }
     }
@@ -125,7 +125,7 @@
     opacity: 0;
     transition: opacity 0.2s 0.3s ease-in-out;
 
-    @include breakpoint('medium') {
+    @include breakpoint($breakpoint-desktop) {
       margin: 0 1rem;
       @include font-size(28px);
     }
@@ -136,7 +136,7 @@
     opacity: 0;
     transition: opacity 0.2s 0.3s ease-in-out;
 
-    @include breakpoint('medium') {
+    @include breakpoint($breakpoint-desktop) {
       width: calc(100% - #{$search-size} - (#{$size-wrapper-padding * 2}) - 3rem);
     }
   }
