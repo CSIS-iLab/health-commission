@@ -10,15 +10,19 @@ import {
 import breakpoints from './breakpoints'
 
 const AlgoliaSearch = function() {
-  let searchParameters = {
+  const searchParameters = {
     hitsPerPage: 10
   }
-  let archiveEl = document.querySelector('.archive')
-  let dataFacet = archiveEl.getAttribute('data-facet')
-  let dataFacetValue = archiveEl.getAttribute('data-facet-value')
+  const archiveEl = document.querySelector('.archive')
+  const dataFacet = archiveEl.getAttribute('data-facet')
+  const dataFacetValue = archiveEl.getAttribute('data-facet-value')
   if (dataFacet && dataFacetValue) {
     searchParameters.facetFilters = [`${dataFacet}: ${dataFacetValue}`]
   }
+
+  const elementsToHideNoResults = document.querySelectorAll(
+    '.pagination--hide-no-results'
+  )
 
   let search = instantsearch({
     appId: '7UNKAH6RMH',
@@ -35,7 +39,9 @@ const AlgoliaSearch = function() {
         item: hit => {
           return `${hit.post_html}`
         },
-        empty: 'No results found.'
+        empty: `<h2 class="section-title">Nothing Found</h2>
+          <p>Sorry, but nothing matched your search terms. Please try again with different keywords.</p>
+          <a href="." class="btn">Clear All Filters</a>`
       }
     })
   )
@@ -72,10 +78,11 @@ const AlgoliaSearch = function() {
   if (document.querySelector('.archive--search')) {
     search.addWidget(
       searchBox({
-        container: '#search-input'
-        // queryHook: function(query, search) {
-        //   updateSearchTitle(query)
-        // }
+        container: '#search-input',
+        queryHook: function(query, search) {
+          updateSearchTitle(query)
+          search(query)
+        }
       })
     )
 
@@ -135,14 +142,42 @@ const AlgoliaSearch = function() {
     )
 
     search.on('render', () => {
-      if (!search.searchParameters.query) {
+      let title = search.searchParameters.query
+
+      if (
+        !title &&
+        search.searchParameters.hasOwnProperty('disjunctiveFacetsRefinements')
+      ) {
+        let facets = Object.keys(
+          search.searchParameters.disjunctiveFacetsRefinements
+        )
+
+        facets.forEach(
+          facet =>
+            (title =
+              search.searchParameters.disjunctiveFacetsRefinements[facet][0])
+        )
+      }
+
+      if (!title) {
         return
       }
-      updateSearchTitle(search.searchParameters.query)
+
+      if (search.helper.lastResults.nbHits == 0) {
+        toggleElementsOnNoResults(elementsToHideNoResults, 'add')
+      } else {
+        toggleElementsOnNoResults(elementsToHideNoResults, 'remove')
+      }
+
+      updateSearchTitle(title)
     })
   }
 
   search.start()
+}
+
+function toggleElementsOnNoResults(elements, action) {
+  elements.forEach(el => el.classList[action]('pagination--is-hidden'))
 }
 
 function updateSearchTitle(query) {

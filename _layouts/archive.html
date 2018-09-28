@@ -26,7 +26,7 @@ layout: default
     </div>
     {% endif %}
     {% include search-input.html %}
-    <div id="stats-container" class="pagination__stats"></div>
+    <div id="stats-container" class="pagination__stats pagination--hide-no-results"></div>
     {% include search-filter.html %}
   </section>
   {% if page.use_algolia %}{% assign section_id = 'id="hits"' %}{% endif %}
@@ -43,7 +43,7 @@ layout: default
   </section>
 
   <footer class="archive__footer" role="footer">
-    <div id="pagination" class="pagination__pagination"></div>
+    <div id="pagination" class="pagination__pagination pagination--hide-no-results"></div>
   </footer>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
