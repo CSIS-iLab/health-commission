@@ -1,24 +1,36 @@
 ---
-layout: default
+title: '404'
+permalink: "/404/"
 ---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{%- include head.html -%}
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<body>
+  {%- include header.html -%}
+  <div class="page-404">
+    <main class="page-404__content">
+      {% assign wrapper_class = 'wrapper-full' %}
+      <div class="page-404__content__container {{ wrapper_class }}">
+        <div class="stage">
+        <div class="table">
+          <div class="slide">
+            <img class="specimen" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1465055/404-img.png">
+            <div class="blur"></div>
+          </div>
+          </div>
+        </div>
+        <div class="text-content">
+          <div class="text-content__section-title">404</div>
+          <h1 class="text-content__page-title" itemprop="name headline">Page not found</h1>
+          <p>
+            Our apologies, this is probably not the page you were looking for.
+            <br /> Please try the search tool, above, or visit our home page.
+          </p>
+        </div>
+    </main>
+    </div>
+    {%- include footer.html -%}
+</body>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+</html>

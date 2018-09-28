@@ -34,14 +34,15 @@ $color-yellow: #f5a623;
 $color-dark-yellow: #c18015;
 $color-dark-blue-gray: #0b1f37;
 $color-darkest-blue: #1c334f;
+$color-gray-blue: #2d4766;
 
 $color__background-body: $color-white;
 $color__background-screen: $color-white;
 $color__background-hr: $color-black;
 $color__background-pre: $color-light-gray;
-$color__logo-white-dots: #FF4C30;
+$color__logo-white-dots: #ff4c30;
 $color__logo-white-lines: $color-off-white;
-$color__logo-color-dots: #F6241D;
+$color__logo-color-dots: #f6241d;
 $color__logo-color-lines: #143459;
 
 $color__text-screen: $color-black;
@@ -106,6 +107,5 @@ $size-page-highlights-height-mobile: 50px;
 $size-site-header-height: 60px;
 $size-site-header-height-desktop: 70px;
 $size-site-header-padding: 0.5rem;
-$size-page-author-block-height-desktop:75px;
-
+$size-page-author-block-height-desktop: 75px;
 $breakpoint-desktop: 68em;
