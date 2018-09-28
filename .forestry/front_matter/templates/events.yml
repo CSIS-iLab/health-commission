@@ -20,7 +20,7 @@ fields:
   name: content_type
   label: Content type
   hidden: true
-  default: event
+  default: events
 - type: include
   label: Categories
   name: categories
