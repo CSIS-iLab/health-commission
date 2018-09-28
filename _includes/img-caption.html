@@ -1,9 +1,13 @@
 <{{ include.tag | default: 'figcaption' }} class="img-caption">
-{% if include.header_caption %}
+
+{% if include.header_caption.size > 0 %}
   {{ include.header_caption }}
+{% else %}
+  {{ include.desc }}
 {% endif %}
-{{ include.desc }}
-{% if include.source %}
+
+{% if include.source or include.header_credit %}
   <span class="img-caption__source">{{ include.source | prepend: ' ' }}</span>
+  <span class="img-caption__source">{{ include.header_credit }}</span>
 {% endif %}
 </{{ include.tag | default: 'figcaption' }}>
