@@ -7,9 +7,9 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v2/health-commission
 image_caption: This is a test caption.
 image_credit: Getty Images
 authors:
-- _authors/Jonathan-Hillman.md
-- _authors/steve-davis.md
-- _authors/kelly-ayotte.md
+- _authors/Nellie-Bristol.md
+- _authors/Cathryn-Streifel.md
+- _authors/beth-cameron.md
 themes:
 - _themes/high-risk-disease-outbreaks.md
 - _themes/global-disorder.md
