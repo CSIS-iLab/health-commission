@@ -21,7 +21,7 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      {% include post-block.html %}
+      {% include post-block.html num_themes=1 %}
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
 
@@ -33,16 +33,26 @@
   {% endfor %}
 
   {% if maxRelatedCounter == 0 %}
-
+    {% assign related = "" | split: ',' %}
     {% if next_posts.size > 1 %}
-      {% assign related = next_posts | where_exp:"item","item.url != page.url" | sort: date | slice: 1,2 %}
+      {% for item in next_posts %}
+        {% if item.url != page.url and item.url != read_next[0].url %}
+          {% assign related = related | push: item %}
+        {% endif %}
+      {% endfor %}
+      {% assign related_posts = related | sort: date | slice: 0,2 %}
     {% elsif previous_posts.size > 1 %}
-      {% assign related = previous_posts | where_exp:"item","item.url != page.url" | sort: date | reverse | slice: 1,2 %}
+      {% for item in previous_posts %}
+        {% if item.url != page.url and item.url != read_next[0].url %}
+          {% assign related = related | push: item %}
+        {% endif %}
+      {% endfor %}
+      {% assign related_posts = related | sort: date | reverse | slice: 0,2 %}
     {% endif %}
 
-    {% for post in related %}
+    {% for post in related_posts | limit: 2 %}
       {% if post.url != page.url %}
-        {% include post-block.html %}
+        {% include post-block.html num_themes=1 %}
       {% endif %}
     {% endfor %}
 

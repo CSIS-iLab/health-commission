@@ -5,12 +5,10 @@
   {% for theme in page.themes %}
     {% assign posts = site.posts | concat: site.events %}
       {% for post in posts %}
-        {% if post.themes contains theme %}
-          {% if post.date > page.date %}
-            {% assign next_posts = next_posts | push: post %}
-          {% elsif post.date < page.date %}
-            {% assign previous_posts = previous_posts | push: post %}
-          {% endif %}
+        {% if post.themes contains theme and post.date > page.date %}
+          {% assign next_posts = next_posts | push: post %}
+        {% elsif  post.themes contains theme and post.date < page.date %}
+          {% assign previous_posts = previous_posts | push: post %}
         {% endif %}
     {% endfor %}
   {% endfor %}
@@ -26,7 +24,7 @@
 
   {% include post-next-by-theme.html %}
 
-  {% include post-related-by-tag.html %}
+  {% include post-related-by-tag.html read_next=read_next %}
 
 </div>
 {% endif %}
