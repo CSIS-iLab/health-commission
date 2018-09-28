@@ -4,7 +4,7 @@ date: 2018-04-19 02:16:15 +0000
 excerpt: The CSIS Commission on Strengthening America’s Health Security officially
   launched on April 17, 2018. Commissioners gathered to discuss the major objectives
   of the Commission for its two-year life span.
-content_type: ''
+content_type: event
 tags:
 - _keywords/commission-meeting.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1538081875/health-commission/Event-Commission_Launch.jpg
