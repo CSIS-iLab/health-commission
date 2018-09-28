@@ -8,7 +8,7 @@ content_type: ''
 tags:
 - _keywords/commission-meeting.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1538081875/health-commission/Event-Commission_Launch.jpg
-image_caption: ommission Co-Chairs Kelly Ayotte (left) and Julie Gerberding at the
+image_caption: Commission Co-Chairs Kelly Ayotte (left) and Julie Gerberding at the
   April 17 Commission launch.
 image_credit: Liz Lynch
 documents: []
