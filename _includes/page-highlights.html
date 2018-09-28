@@ -14,7 +14,7 @@
     <p class="page__excerpt">
       {{ page.excerpt }}
     </p>
-    {% if page.name == 'about.md' %}
+    {% if page.name == 'about.md' or page.name == 'all-events.md' or page.name == 'members.md' %}
       {%- include img-caption.html tag='p' desc=site.data.language.photo_credit header_caption=page.header_image_caption source=page.header_image_credit header=true -%}
     {% else %}
       {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
