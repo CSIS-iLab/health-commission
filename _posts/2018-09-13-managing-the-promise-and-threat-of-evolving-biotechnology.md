@@ -47,11 +47,11 @@ The myriad ways in which biotechnology could be applied to nefarious ends are co
 
 Fortunately, there have not yet been instances of actual misuse of modern biotech for harmful purposes. The very infrequent misuse leads some to argue that the true risks of dual-use are low or that the intent to use these capabilities for nefarious purposes by individuals, organizations or countries is lacking. While the opportunity for misuse remains high, the evidence of the intent to do so remains scant.
 
-Disagreement within the Expert Community
+### Disagreement within the Expert Community
 
 Uncertainty about the risk of misuse contributes to a lack of agreement among experts about the magnitude and nature of the threat posed by bioweapons and biotechnology as well as the costs and benefits associated with regulating high-risk research.  Indeed, when science and defense experts were surveyed about the likelihood of a large-scale bioweapons attack in any country in the next 10 years and the most likely actor or agent, their answers were highly divergent.[^3] While the opportunity for misuse is high, so too is the importance this rapidly evolving and innovative technologies to provide essential capabilities to respond to many of the globe’s health security challenges in the form of vaccines, treatments and countermeasures, and advanced diagnostics. The scientific and policy community remain divided about the need and efficacy of efforts to regulate and manage biotech risks. There is no clear consensus on the path forward and significant disagreement in the scientific community about the appropriate level and form of policing.
 
-Regulatory Challenges
+### Regulatory Challenges
 
 When recombinant DNA emerged forty years ago, leading scientists concerned with its future implications met in Asilomar in northern California to hash out new rules of the road to fit this new technology.[^4] We no longer live in a 1970s Asilomar world. The world of science and innovation today is globalized, private sector-dominated, and vastly bigger and more complex. Many biotechnological experiments and projects require modest resources, space, and training, making advanced biotechnology widely accessible and enabling individuals and informal groups to perform “do-it-yourself” (DIY) biology. This poses challenges for crafting enforceable regulatory and policy regimes for minimizing potential risks associated with biotechnology. Further, much of biotechnological research’s application is occurring in Asian countries where regulatory regimes are weak.
 
