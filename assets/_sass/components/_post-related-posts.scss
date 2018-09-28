@@ -5,7 +5,7 @@
   position: relative;
   max-width: $size-wrapper-full-max-width;
 
-  @include breakpoint(medium) {
+  @include breakpoint(large) {
     flex-wrap: nowrap;
     margin: auto;
 
@@ -39,6 +39,9 @@
     .post-meta__series {
       display: none;
     }
+    .post-meta__author-name {
+      text-transform: initial;
+    }
 
     &__header {
       margin-bottom: 0.5rem;
@@ -50,18 +53,27 @@
     padding: 1.5rem $size-wrapper-padding-mobile;
     flex-basis: 100%;
 
-    @include breakpoint(medium) {
-      padding: 1.5rem 2.5rem 3rem $size-page-content-padding;
+    @include breakpoint(large) {
+      padding: 2rem 2rem 2rem $size-page-content-padding;
       flex-basis: 25%;
     }
 
     > *:not(h3),
     .post-block__title a,
-    .post-meta__date {
+    .post-block__title a:visited,
+    .post-meta__date,
+    .post-meta a,
+    .post-meta a:visited,
+    .themes-list a,
+    .themes-list a:visited {
       color: $color-white;
     }
 
-    @include breakpoint(medium) {
+    .post-meta__date {
+      color: $color-beige;
+    }
+
+    @include breakpoint(large) {
       .post-meta:not(.post-meta__date) {
         @include font-size(16px);
       }
@@ -73,7 +85,6 @@
 
     .themes-list {
       a {
-        color: $color-white;
         padding-left: 0;
         &:before {
           display: none;
@@ -87,8 +98,8 @@
     padding: 1.5rem $size-wrapper-padding-mobile;
     flex-basis: 100%;
 
-    @include breakpoint(medium) {
-      padding: 1.5rem $size-page-content-padding 3rem 2.5rem;
+    @include breakpoint(large) {
+      padding: 2rem $size-page-content-padding 2rem 2rem;
       flex-basis: 75%;
     }
 
@@ -96,12 +107,12 @@
       display: flex;
       flex-wrap: wrap;
       position: relative;
-      @include breakpoint(medium) {
+      @include breakpoint(large) {
         flex-wrap: nowrap;
       }
 
       .post-block {
-        @include breakpoint(medium) {
+        @include breakpoint(large) {
           flex-basis: 50%;
         }
 
@@ -112,7 +123,7 @@
         &:first-of-type {
           padding: 0 0 3rem;
 
-          @include breakpoint(medium) {
+          @include breakpoint(large) {
             padding: 0 10% 0 0;
           }
         }
@@ -120,7 +131,7 @@
         &:last-of-type:not(:only-child) {
           position: relative;
 
-          @include breakpoint(medium) {
+          @include breakpoint(large) {
             padding: 0 0 0 2.5rem;
           }
 
@@ -131,9 +142,9 @@
             left: 0%;
             top: -1.5rem;
             height: 1px;
-            width: 100%;
+            width: calc(100vw - (#{$size-wrapper-padding-mobile} * 2));
 
-            @include breakpoint(medium) {
+            @include breakpoint(large) {
               left: -5%;
               top: 0;
               width: 1px;
