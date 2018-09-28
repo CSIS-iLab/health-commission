@@ -2,6 +2,9 @@
 {% if post.authors.size > 0%}
   {% assign authors_list = post.authors %}
 {% endif %}
+
+{% if authors_list.size > 0 %}
+<div class="post__authors-full">
 {% for author in authors_list %}
   {%- assign author_info = site.authors | where: "relative_path", author | first -%}
 
@@ -12,6 +15,7 @@
       <span class="authors-block__title">{{author_info.long_title}}</span>
       <p class="authors-block__bio">{{author_info.content}}</p>
     </div>
-
   </div>
 {% endfor %}
+</div>
+{% endif %}
