@@ -73,8 +73,8 @@ $filter-transition: 0.4s ease-in-out;
 
         .ais-header {
           @include breakpoint('medium') {
-            padding-right: 0.5rem;
-            padding-left: 0.5rem; 
+            padding-right: 1rem;
+            padding-left: 1rem; 
           }
 
           &::after {
@@ -140,10 +140,6 @@ $filter-transition: 0.4s ease-in-out;
       cursor: pointer;
       transition: all 0.3s ease-in-out;
 
-      @include breakpoint('medium') {
-        padding: 0.5rem;
-      }
-
       &:hover {
         color: $color-dark-sand;
       }
@@ -162,6 +158,10 @@ $filter-transition: 0.4s ease-in-out;
       margin-bottom: 0;
       padding-right: 0;
       border-right: 1px solid $color-dusty-lavender;
+    }
+
+    .ais-refinement-list--item {
+      letter-spacing: 0;
     }
   }
 
@@ -235,6 +235,7 @@ $filter-transition: 0.4s ease-in-out;
       content: '';
       display: block;
       position: relative;
+      top: -0.5rem;
       left: -1rem;
       right: -1rem;
       width: calc(100% + 2rem);
@@ -283,6 +284,15 @@ $filter-transition: 0.4s ease-in-out;
       i::before {
         width: auto;
       }
+    }
+
+    .ais-pagination--item__previous {
+      margin-right: 1.75rem;
+    }
+
+    .ais-pagination--item__next {
+      margin-left: 0.75rem;
+      margin-right: 0;
     }
   }
 

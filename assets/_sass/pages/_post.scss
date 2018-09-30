@@ -32,7 +32,7 @@
 
   &__content {
     max-width: $size-page-content-max-width;
-    margin: 0 auto 3rem;
+    margin: 0 auto 5rem;
     @extend %post-body;
 
     & > :not(&-overflow) {

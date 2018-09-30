@@ -138,13 +138,13 @@
       padding-right: 0;
 
       @include breakpoint('large') {
-        padding-left: $cell-padding-sides;
-        padding-right: $cell-padding-sides;
+        padding: 2rem $cell-padding-sides;
       }
     }
 
     .page__excerpt {
       @extend %page-description;
+      margin-bottom: 0.5rem;
     }
 
     #{$ph}__photo-credit {
@@ -166,6 +166,7 @@
         align-items: flex-start;
         flex-basis: 300px;
         max-width: 300px;
+        padding: 2rem $cell-padding-sides;
       }
     }
   }
