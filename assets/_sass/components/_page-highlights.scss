@@ -170,7 +170,8 @@
     }
   }
 
-  &.events .page-highlights__col--last {
+  &.events .page-highlights__col--last,
+  &.posts .page-highlights__col--last {
     flex-basis: 33%;
     max-width: 33%;
 
