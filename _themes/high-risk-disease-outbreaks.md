@@ -6,9 +6,7 @@ short_title: High Risk Disease Outbreaks
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886678/health-commission/High-Risk-Disease-Outbreaks.jpg
 image_caption: A man dressed in protective hazmat clothing treats the front porch
   of an apartment where a second person diagnosed with the Ebola virus resides on
-  October 12, 2014 in Dallas, Texas. A female nurse working at Texas Heath Presbyterian
-  Hospital, the same facility that treated Thomas Eric Duncan, has tested positive
-  for the virus.
+  October 12, 2014 in Dallas, Texas.
 image_credit: Mike Stone/Getty Images
 in_depth_overview: _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 featured_post: _posts/2018-09-13-Navigating-the-Ebola-Outbreak-in-the-Democratic-Republic-of-the-Congo.md

@@ -15,7 +15,15 @@ layout: default
         {% assign events = site.pages | where: "name",'events.md' | first %}
         {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=events.image_credit -%}
       {% else %}
-        {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+        {% assign header_image_credit = page.image_credit %}
+
+        {% if page.collection == 'posts' and page.themes.size > 0 %}
+          {% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
+          {% if primary_theme.image.size > 0 %}
+              {% assign header_image_credit = primary_theme.image_credit %}
+          {% endif %}
+        {% endif %}
+        {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=header_image_credit -%}
       {% endif %}
 
       {%- include themes-list.html -%}

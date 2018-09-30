@@ -17,7 +17,9 @@
     {% if page.header_image_caption.size > 0 or page.header_image_credit.size > 0 %}
       {%- include img-caption.html tag='p' desc=page.header_image_caption source=page.header_image_credit -%}
     {% else %}
+      {{ primary_theme | jsonify }}
       {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+      }
     {% endif %}
 
     {% if page.name == 'members.md' %}
