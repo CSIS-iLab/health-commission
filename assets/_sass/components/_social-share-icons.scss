@@ -82,6 +82,7 @@
 
     @include breakpoint('medium') {
       display: flex;
+      grid-column: 2;
     }
   }
 }

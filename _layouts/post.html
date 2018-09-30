@@ -25,8 +25,7 @@ layout: default
   <section class="post__content e-content" itemprop="articleBody">
     {% if page.collection == 'posts' and page.image.size > 0 %}
     <figure class="post__feature-image post__content-overflow">
-      {% include cloudinary-responsive-img.html path=page.image title=page.image_caption alt=page.image_caption %}
-      {%- include img-caption.html desc=page.image_caption source=page.image_credit -%}
+      {% include cloudinary-responsive-img.html path=page.image title=page.image_caption alt=page.image_credit %}
     </figure>
     {% endif %}
     {{ content }}
