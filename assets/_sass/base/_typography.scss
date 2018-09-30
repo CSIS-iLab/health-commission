@@ -63,6 +63,7 @@ hr {
 	border: 0;
 	height: 1px;
 	margin: 2rem 0;
+	clear: both;
 }
 
 b, strong {
@@ -75,6 +76,11 @@ dfn, cite, em, i {
 
 blockquote {
 	@extend %blockquote;
+	@extend .post__content-overflow;
+
+	@include breakpoint('medium') {
+	  margin-top: 0;
+	}
 	
 	p {
 		font-family: inherit;

@@ -64,7 +64,7 @@ The Institute of Health Metrics and Evaluation (IHME) at the University of Washi
 
 At Amsterdam, the Dutch government succeeded in enlisting ten health ministers from Eastern Europe and Central Asia to join a closed-door dialogue that even included the Russians in the same room with Ukrainians: that was a very promising political step engineered through careful diplomatic finesse and commitment. But absent from Amsterdam were any heads of state, with the exception of former President Bill Clinton, now 18 years out of power. South Africa raised hope that it would fill the void with the appearance of the deputy president, but he was diverted to other priorities, just prior to the conference.
 
-![Former US President Bill Clinton speaks on the last day of the international aids conference AIDS2018 in Amsterdam on July 27, 2018.](https://res.cloudinary.com/csisideaslab/image/upload/v1537914287/health-commission/180817_Aids_Conference.jpg "KOEN VAN WEEL/AFP/Getty Images")
+![KOEN VAN WEEL/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914287/health-commission/180817_Aids_Conference.jpg "Former US President Bill Clinton speaks on the last day of the international aids conference AIDS2018 in Amsterdam on July 27, 2018.")
 
 ### What Happened?
 
@@ -112,7 +112,7 @@ Paradoxically, the fragile continuity of U.S. commitments in the Trump era was (
 
 The United States accounts today for $6 billion of the $8.1 billion of donor dollars committed to HIV/AIDS. As other donors have exited, the United States has stood its ground. That means that the United States looms ever larger and conspicuous as the lynchpin of global engagement on HIV. That unstable equilibrium is hardly a comfortable position to be in.
 
-![Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009.](https://res.cloudinary.com/csisideaslab/image/upload/v1537914393/health-commission/180817_red_ribbons.jpg "ROBERT VOS/AFP/Getty Images")
+![ROBERT VOS/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914393/health-commission/180817_red_ribbons.jpg "Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009.")
 
 ### What Now?
 
