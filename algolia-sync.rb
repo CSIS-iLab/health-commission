@@ -2,12 +2,18 @@
 
 require 'json'
 require 'algoliasearch'
+require "net/http"
+require "uri"
 
-# Copy the algolia from prior commit to a tmp file for comparison
-`git show $(git rev-parse HEAD~1):posts.json > old-posts.json`
+uri = URI.parse("https://csis-health-commission.netlify.com/posts.json")
 
-current_algolia = JSON.parse(File.read('posts.json'))
-old_algolia = JSON.parse(File.read('old-posts.json'))
+http = Net::HTTP.new(uri.host, uri.port)
+request = Net::HTTP::Get.new(uri.request_uri)
+
+response = http.request(request)
+
+current_algolia = JSON.parse(File.read('_site/posts.json'))
+old_algolia = JSON.parse(response.body)
 
 current_hash = current_algolia.map{ |x| [x['objectID'], x] }.to_h
 old_hash = old_algolia.map{ |x| [x['objectID'], x] }.to_h
