@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/jimmy-kolker.md
 - _authors/stephen-morrison.md
 - _authors/david-relman.md
 - _authors/rebecca-katz.md
@@ -39,7 +40,6 @@ pages:
 - _authors/Jacki-Lyden.md
 - _authors/Justin-Kenny.md
 - _authors/Kee-Park.md
-- _authors/jimmy-kolker.md
 - _authors/christine-wormuth.md
 - _authors/nancy-lindborg.md
 - _authors/tom-cole.md

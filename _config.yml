@@ -1,10 +1,9 @@
 title: "CSIS Commission on Strengthening America's Health Security"
 email: csisideaslab@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Quick starter project for Jekyll including full setup for gulp, Sass, Autoprefixer, Bourbon/Neat/Bitters, Browserify, imagemin, Browsersync, PostCSS etc. Built on top of Frasco
+description: >-
+  The CSIS Commission on Strengthening America’s Health Security aims to chart a bold vision for the future of U.S. leadership in global health security, at home and abroad. The Commission brings together a distinguished and diverse group of senior leaders who bridge the health and security fields, comprising members of Congress, past administrations, industry, foundations, universities, and NGOs, and the Commission is advised by a group of preeminent subject experts. This is a two-year effort organized by the CSIS Global Health Policy Center.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://healthsecurity.csis.org"
-twitter_username:
 
 date_format: '%b %-d, %Y'
 tag_url: /search/?dFR[keywords][0]=

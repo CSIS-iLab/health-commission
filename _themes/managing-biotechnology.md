@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886678/health-c
 image_caption: Photo caption goes here
 image_credit: University Of Michigan School Of Natural Resources & Environment/Flickr
 in_depth_overview: _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
-featured_post: _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
+featured_post: ''
 further_reading: |-
   National Research Council. “Biotechnology Research in an Age of Terrorism.” The National Academies Press. 2004. [https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism.](https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism. "https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism.")
 

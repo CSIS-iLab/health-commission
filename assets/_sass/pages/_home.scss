@@ -2,13 +2,12 @@
 =            Home Page            =
 =================================*/
 .home {
-  $breakpoint-desktop: 68em;
   $padding: 2rem;
   $image-offset: 17px;
   display: grid;
 
   grid-template-rows: minmax(400px, auto) repeat(4, auto);
-  grid-template-columns: auto;
+  grid-template-columns: 1fr;
   grid-template-areas:
     "hero"
     "desc"
@@ -59,11 +58,15 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     background-color: $color-darkest-blue;
     background-image: linear-gradient(to top, $color-darkest-blue, $color-darkest-blue 25%, $gradient-dark 100%);
     color: $color-white;
     @include fullWidthBackground($color-darkest-blue);
+
+    @include breakpoint($breakpoint-desktop) {
+      justify-content: center;
+    }
 
     &::before,
     &::after {

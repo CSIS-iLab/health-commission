@@ -1,0 +1,47 @@
+/*==============================
+=            Tables            =
+==============================*/
+
+table {
+  width: 100%;
+  margin: 2rem auto;
+
+  thead {
+    th {
+      font-family: $font-europa;
+      @include font-size(16px);
+      text-transform: uppercase;
+      border-bottom: 2px solid $color-dusty-lavender;
+      text-align: left;
+      padding: 0.5rem;
+      vertical-align: bottom;
+
+      &.table-title {
+        @extend %h4;
+        font-weight: bold;
+        text-transform: none;
+        padding-bottom: 1.25rem;
+        border-bottom: 0;
+        text-align: center;
+      }
+    }
+  }
+
+  tbody {
+    tr:nth-child(even) {
+      background-color: $color-off-white;
+    }
+
+    td {
+      padding: 0.5rem;
+      vertical-align: top;
+    }
+  }
+  tfoot td {
+    border-top: 1px solid $color-dusty-lavender;
+    padding: 0.5rem;
+    @include font-size(14px);
+    line-height: 1.3;
+    color: $color-gray;
+  }
+}

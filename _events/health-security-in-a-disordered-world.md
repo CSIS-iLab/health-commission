@@ -7,9 +7,9 @@ excerpt: On August 6, 2018, the CSIS Commission on Strengthening America’s Hea
 content_type: event
 keywords:
 - Public Event
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1538081875/health-commission/Event-Health-Security-Disordered-World.jpg
 image_caption: ''
-image_credit: ''
+image_credit: Getty Images
 documents: []
 location: University of Washington, Seattle, WA
 themes:

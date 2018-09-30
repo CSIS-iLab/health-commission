@@ -26,7 +26,7 @@ further_reading: |-
   The National Academies of Sciences, Engineering, and Medicine Committee on Global Health and the Future of the United States. “Global Health and the Future Role of the United States (Consensus Study Report).” The National Academies Press. 2017. [http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.](http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx. "http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.")
 
   WHO. “An R&D Blueprint for Action to Prevent Epidemics: Plan of Action.” May 2016. [http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.](http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1. "http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.")
-references: "\\\\"
+references: ''
 links: []
 keywords: []
 undefined: ''
@@ -65,8 +65,6 @@ Across the many studies of the international response to the Ebola epidemic, the
 Over 20 organizations have been established over the last ten years to stimulate development and coordination of countermeasures. WHO created the Research & Development Blueprint in 2016 to encourage rapid activation of R&D activities during epidemics and to fast-track the availability of tests, vaccines and medicines.[^12] While these new alliances, institutions, and NGOs play an essential role, the challenge remains to coordinate efforts and investments and minimize redundancy.
 
 One promising new effort is the Coalition for Epidemic Preparedness Innovations (CEPI), an alliance launched in early 2017.[^13] With early capital pledges of $630 million, CEPI is prioritizing the development of two kinds of vaccines in its first five years: “just in case” vaccines developed to combat a single pathogen (CEPI has chosen to focus on vaccines for MERS-CoV, Lassa, and Nipah viruses) and “just in time” vaccines focusing on the development and validation of versatile and fast R&D platform technologies that can be applied to a range of infectious diseases, including a currently unknown Pathogen X, in the event of a potential epidemic. Speed is essential: these platforms need to be able to produce a vaccine for testing within a maximum of 16 weeks from identification and sequencing of a novel pathogen.
-
-##### NOTES
 
 [^1]: Trust for America’s Health, “Ready or Not? Protecting the Public from Diseases, Disasters, and Bioterrorism,” December 2016, [http://healthyamericans.org/reports/readyornot2016/.](http://healthyamericans.org/reports/readyornot2016/. "http://healthyamericans.org/reports/readyornot2016/.")
 

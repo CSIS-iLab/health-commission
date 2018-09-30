@@ -40,7 +40,7 @@ undefined: ''
 
 ### Increasing Conflict and Displacement
 
-Violent conflict is on the rise after decades of decline. Since 2010, the number of major violent conflicts has tripled,[^1] and the average duration of civil wars in progress has increased to more than 20 years.[^2] Record numbers of unresolved wars, concentrated in the Middle East and Africa, show no signs of abating. As a result, we are witnessing the highest levels of displacement on record, with 68.5 million people forcibly displaced worldwide as of June 2018, compared to 33.9 million in 1997.[^3] Over 84 percent of refugees are hosted by developing countries, and the top six-refugee receiving countries—Turkey, Pakistan, Lebanon, Iran, Uganda and Ethiopia—increasingly struggle to maintain their own political stability.[^4](Ibid.) Much of the exploding displaced population lacks regular access to basic health services.
+Violent conflict is on the rise after decades of decline. Since 2010, the number of major violent conflicts has tripled,[^1] and the average duration of civil wars in progress has increased to more than 20 years.[^2] Record numbers of unresolved wars, concentrated in the Middle East and Africa, show no signs of abating. As a result, we are witnessing the highest levels of displacement on record, with 68.5 million people forcibly displaced worldwide as of June 2018, compared to 33.9 million in 1997.[^3] Over 84 percent of refugees are hosted by developing countries, and the top six-refugee receiving countries—Turkey, Pakistan, Lebanon, Iran, Uganda and Ethiopia—increasingly struggle to maintain their own political stability.[^4] (Ibid.) Much of the exploding displaced population lacks regular access to basic health services.
 
 ### Demographic Shifts
 
@@ -68,7 +68,6 @@ U.S. leadership and commitment are essential. The United States accounts for rou
 
 Maintaining the centrality of U.S. leadership on health security requires the prioritization of the disordered world in stated U.S. policy goals and strategy. Congress will play a critical role in shaping the concrete agenda for innovation and higher levels of U.S. engagement. Winning health battles in the disordered world will also require a high degree of diplomacy and sustained commitment to an alliance-based model to reinforce and sustain international norms as laid out in international humanitarian law. The United States must engage partners not only bilaterally but multilaterally to support and strengthen international capacity to track, grasp, and anticipate health security crises, shape outcomes early and preempt worst outcomes, and better manage these burgeoning challenges.
 
-##### NOTES
 
 [^1]: Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/.](http://ucdp.uu.se/. "http://ucdp.uu.se/.")
 

@@ -86,10 +86,16 @@
       right: 0;
       width: 100%;
       height: 100%;
-      z-index: 1;
+      z-index: -1;
 
       @include breakpoint('large') {
-        display: none;
+        width: calc(
+          100% +
+            (
+              (100vw - #{$size-page-highlights-width} + #{$size-wrapper-padding}) /
+                2
+            )
+        );
       }
     }
   }

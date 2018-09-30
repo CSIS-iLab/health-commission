@@ -15,7 +15,7 @@ authors:
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1537965558/health-commission/Ebola_in_America_Documentary_Photo.png
+image: ''
 image_caption: ''
 image_credit: ''
 pdf: ''
@@ -29,8 +29,6 @@ undefined: ''
 <div class="video-wrapper post-feature-video">
 <iframe width="700" height="394" src="https://www.youtube.com/embed/cQvgYxn3Neo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
-<iframe width="700" height="394" src="https://www.youtube.com/embed/cQvgYxn3Neo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _”Ebola in America: Epidemic of Fear,” a CSIS Global Health Policy Center feature-length documentary executive produced and directed by CSIS Commission on Strengthening America’s Health Security Secretariat Director J. Stephen Morrison, illuminates the effects of high-risk disease outbreaks abroad on domestic health security. The 2014 Ebola outbreak provoked panic in the United States, revealing weaknesses in both international and domestic outbreak preparedness and response._
 

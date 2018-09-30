@@ -18,7 +18,7 @@ image_caption: A Iraqi family who fled recent fighting near the city of Mosul pr
   Kurdish region.
 image_credit: Spencer Platt/Getty Images
 in_depth_overview: _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
-featured_post: _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
+featured_post: _posts/2018-09-13-Navigating-the-Ebola-Outbreak-in-the-Democratic-Republic-of-the-Congo.md
 further_reading: |-
   UNHCR, “Figures at a Glance,” updated June 19, 2018, [http://www.unhcr.org/en-us/figures-at-a-glance.html.](http://www.unhcr.org/en-us/figures-at-a-glance.html. "http://www.unhcr.org/en-us/figures-at-a-glance.html.")
 
