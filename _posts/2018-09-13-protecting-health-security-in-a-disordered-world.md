@@ -11,36 +11,22 @@ series: ''
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886677/health-commission/Global-Disorder.jpg
 image_caption: A Iraqi family who fled recent fighting near the city of Mosul prepares
   to sleep on the ground as they try to enter a temporary displacement camp but are
-  blocked by Kurdish soldiers on July 3, 2014 in Khazair, Iraq. The families, many
-  with small and sick children, have no shelter and little water and food. The displacement
-  camp Khazair is now home to an estimated 1,500 internally displaced persons (IDP's)
-  with the number rising daily. Tens of thousands of people have fled Iraq's second
-  largest city of Mosul after it was overrun by ISIS (Islamic State of Iraq and Syria)
-  militants. Many have been temporarily housed at various IDP camps around the region
-  including the area close to Erbil, as they hope to enter the safety of the nearby
-  Kurdish region.
+  blocked by Kurdish soldiers on July 3, 2014 in Khazair, Iraq.
 image_credit: Spencer Platt/Getty Images
 pdf: ''
 is_commission_related:
   description: ''
   related_event: ''
-further_reading: |-
-  UNHCR, “Figures at a Glance,” updated June 19, 2018, [http://www.unhcr.org/en-us/figures-at-a-glance.html.](http://www.unhcr.org/en-us/figures-at-a-glance.html. "http://www.unhcr.org/en-us/figures-at-a-glance.html.")
-
-  UN OCHA, “Global Humanitarian Overview 2017,” 2016, [https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.](https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf. "https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.")
-
-  Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/.](http://ucdp.uu.se/. "http://ucdp.uu.se/.")
 references: ''
 links: []
 keywords: []
-undefined: ''
 
 ---
 ## Key Challenges
 
 ### Increasing Conflict and Displacement
 
-Violent conflict is on the rise after decades of decline. Since 2010, the number of major violent conflicts has tripled,[^1] and the average duration of civil wars in progress has increased to more than 20 years.[^2] Record numbers of unresolved wars, concentrated in the Middle East and Africa, show no signs of abating. As a result, we are witnessing the highest levels of displacement on record, with 68.5 million people forcibly displaced worldwide as of June 2018, compared to 33.9 million in 1997.[^3] Over 84 percent of refugees are hosted by developing countries, and the top six-refugee receiving countries—Turkey, Pakistan, Lebanon, Iran, Uganda and Ethiopia—increasingly struggle to maintain their own political stability.[^4] (Ibid.) Much of the exploding displaced population lacks regular access to basic health services.
+Violent conflict is on the rise after decades of decline. Since 2010, the number of major violent conflicts has tripled,[^1] and the average duration of civil wars in progress has increased to more than 20 years.[^2] Record numbers of unresolved wars, concentrated in the Middle East and Africa, show no signs of abating. As a result, we are witnessing the highest levels of displacement on record, with 68.5 million people forcibly displaced worldwide as of June 2018, compared to 33.9 million in 1997.[^3] Over 84 percent of refugees are hosted by developing countries, and the top six-refugee receiving countries—Turkey, Pakistan, Lebanon, Iran, Uganda and Ethiopia—increasingly struggle to maintain their own political stability.[^4] Much of the exploding displaced population lacks regular access to basic health services.
 
 ### Demographic Shifts
 
@@ -74,6 +60,8 @@ Maintaining the centrality of U.S. leadership on health security requires the pr
 [^2]: James D. Fearon, “Civil War & the Current International System,” Daedalus 146, no. 4 (2017): 18-32, [https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456.](https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456. "https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456.")
 
 [^3]: UNHCR, “Figures at a Glance,” updated June 19, 2018, [http://www.unhcr.org/en-us/figures-at-a-glance.html.](http://www.unhcr.org/en-us/figures-at-a-glance.html. "http://www.unhcr.org/en-us/figures-at-a-glance.html.")
+
+[^4]: Ibid.
 
 [^5]: UNHCR, “Women,” accessed August 2018, [http://www.unhcr.org/en-us/women.html.](http://www.unhcr.org/en-us/women.html. "http://www.unhcr.org/en-us/women.html.")
 

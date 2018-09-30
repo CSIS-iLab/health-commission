@@ -40,8 +40,6 @@ table {
   tfoot td {
     border-top: 1px solid $color-dusty-lavender;
     padding: 0.5rem;
-    @include font-size(14px);
-    line-height: 1.3;
-    color: $color-gray;
+    @extend %photo-caption-credit;
   }
 }

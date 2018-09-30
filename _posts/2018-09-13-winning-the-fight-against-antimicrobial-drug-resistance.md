@@ -16,24 +16,9 @@ pdf: ''
 is_commission_related:
   description: ''
   related_event: ''
-further_reading: |-
-  CDC. “Antibiotic/Antimicrobial Resistance.” Last updated March 29, 2018. [https://www.cdc.gov/drugresistance/index.html.](https://www.cdc.gov/drugresistance/index.html. "https://www.cdc.gov/drugresistance/index.html.")
-
-  CDC. “International Activities to Combat AR.” Last updated June 14, 2018. [https://www.cdc.gov/drugresistance/intl-actvities.html.](https://www.cdc.gov/drugresistance/intl-actvities.html. "https://www.cdc.gov/drugresistance/intl-actvities.html.")
-
-  Coukell, Alan and Tim Jinks. “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project. October 26, 2016. [http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.](http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics. "http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.")
-
-  The Pew Charitable Trusts Antibiotic Resistance Project. “Trends in U.S. Antibiotic Use, 2018.” August 1, 2018. [http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview.](http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview. "http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview.")
-
-  The White House. “National Action Plan for Combating Antibiotic-Resistant Bacteria.” March 2015. [https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf](https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf "https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf")
-
-  WHO. “Antimicrobial resistance.” February 15, 2018. [http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.](http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. "http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.")
-
-  World Health Assembly. “Global action plan on antimicrobial resistance.” May 2015. [http://www.who.int/antimicrobial-resistance/global-action-plan/en/.](http://www.who.int/antimicrobial-resistance/global-action-plan/en/. "http://www.who.int/antimicrobial-resistance/global-action-plan/en/.")
 references: ''
 links: []
 keywords: []
-undefined: ''
 
 ---
 ## Key Challenges
@@ -50,7 +35,7 @@ Key driving factors behind drug resistance are the overuse and misuse of antibio
 
 There is urgent need for both new diagnostic tools and new antimicrobials to replace those rendered ineffective by widespread resistance, yet the current pipeline of antibiotics is insufficient to meet future demands. There are significant economic, scientific, and regulatory challenges to antibiotic development. Historically, clinical drug development has a low success rate, with only about 20 percent of drugs that enter human testing being approved for patients.[^5]
 
-Antibiotic development is no longer considered an economically wise investment for the pharmaceutical industry. Given their short-term use, antibiotics are not as profitable as drugs that treat chronic conditions.[^6] Experts have also begun to advise restricting antibiotic use, further decreasing the profitability of antibiotic development.[^7] (Ibid.) Industrial innovation is discouraged by weak market conditions and awareness of the potential for evolving resistance to quickly render new drugs obsolete.
+Antibiotic development is no longer considered an economically wise investment for the pharmaceutical industry. Given their short-term use, antibiotics are not as profitable as drugs that treat chronic conditions.[^6] Experts have also begun to advise restricting antibiotic use, further decreasing the profitability of antibiotic development.[^7] Industrial innovation is discouraged by weak market conditions and awareness of the potential for evolving resistance to quickly render new drugs obsolete.
 
 Key scientific barriers have impeded attempts to discover new types of antibiotics. One of those barriers is a major gap in the understanding of how to defeat some of the toughest and most complex pathogens out there: drug-resistant Gram-negative bacteria, which cause many of the most serious and deadly bacterial infections.[^8] A better understanding of Gram-negative bacteria will be necessary to make significant progress in antibiotic development.
 
@@ -77,6 +62,8 @@ The United States has made progress in responding to AMR. At least 2 million peo
 [^5]: The Pew Charitable Trusts Antibiotic Resistance Project, “Antibiotics Currently in Global Clinical Development,” February 17, 2014, [https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development.](https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development. "https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development.")
 
 [^6]: C. Lee Ventola, “The Antibiotic Resistance Crisis, Part 1: Causes and Threats,” Pharmacy & Therapeutics 40, no. 4 (2015): 277-283, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/. "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/.")
+
+[^7]: Ibid.
 
 [^8]: Alan Coukell and Tim Jinks, “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project, October 26, 2016, [http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.](http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics. "http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.")
 

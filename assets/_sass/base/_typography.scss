@@ -17,17 +17,17 @@ h1 {
 
 h2 {
 	@extend %h2 !optional;
-	margin: 0;
+	margin: 0 0 1rem;
 }
 
 h3 {
 	@extend %h3 !optional;
-	margin: 0.5rem 0;
+	margin: 0.75rem 0;
 }
 
 h4 {
 	@extend %h4 !optional;
-	margin: 0.5rem 0;
+	margin: 0.75rem 0;
 }
 
 .section-title {
@@ -50,13 +50,12 @@ p {
 	margin: 0 0 1rem;
 }
 
-p + h2,
-p + h3,
-p + h4,
-p + h5,
-p + h6
-{
-	margin-top: 2rem;
+@for $i from 2 through 6 {
+  p + h#{$i},
+  ul + h#{$i},
+  ol + h#{$i} {
+  	margin-top: 2.5rem;
+  }
 }
 
 hr {
