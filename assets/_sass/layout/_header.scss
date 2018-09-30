@@ -121,9 +121,15 @@
     }
 
     #{$s}__subtitle {
+      padding-top: 0.5rem;
       @extend %post-meta;
       @include font-size(11px);
+      line-height: 1;
       text-transform: uppercase;
+
+      @include breakpoint($breakpoint-desktop) {
+        padding-top: 0;
+      }
     }
 
     #{$s}__title {

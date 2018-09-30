@@ -62,7 +62,17 @@
     }
   }
 
+  &__authors {
+    .page-highlights & {
+      display: none;
+    }
+  }
+
   &__series {
+    
+    a {
+      font-style: italic;
+    }
 
     &::before {
       content: "\2014";

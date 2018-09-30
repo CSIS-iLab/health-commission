@@ -12,6 +12,10 @@
     display: inline-block;
     overflow: hidden;
 
+    &:hover {
+      color: $color-dust;
+    }
+
     &::after {
       content: '\ebb4';
       font-family: 'healthcom';
