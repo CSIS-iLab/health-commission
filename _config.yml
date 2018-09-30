@@ -38,10 +38,6 @@ collections:
 defaults:
 - scope:
     path: ''
-  values:
-    image: # Default social media image should go here
-- scope:
-    path: ''
     type: 'posts'
   values:
     layout: post
@@ -86,6 +82,10 @@ defaults:
 
 
 cloudinary_url: https://res.cloudinary.com/csisideaslab/image/upload/
+
+twitter:
+  card: summary
+logo: /assets/images/health-commission-twitter.jpg
 
 # Build settings
 markdown: kramdown
