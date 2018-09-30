@@ -3,17 +3,13 @@
 require 'json'
 require 'algoliasearch'
 require "net/http"
-require "uri"
 
-uri = URI.parse("https://csis-health-commission.netlify.com/posts.json")
+url = 'https://csis-health-commission.netlify.com/posts.json'
+uri = URI(url)
+response = Net::HTTP.get(uri)
 
-http = Net::HTTP.new(uri.host, uri.port)
-request = Net::HTTP::Get.new(uri.request_uri)
-
-response = http.request(request)
-
+old_algolia = JSON.parse(response)
 current_algolia = JSON.parse(File.read('_site/posts.json'))
-old_algolia = JSON.parse(response.body)
 
 current_hash = current_algolia.map{ |x| [x['objectID'], x] }.to_h
 old_hash = old_algolia.map{ |x| [x['objectID'], x] }.to_h
