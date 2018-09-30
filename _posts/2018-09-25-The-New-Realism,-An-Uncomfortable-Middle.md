@@ -32,8 +32,6 @@ undefined: ''
 
 _Just recently, 16,000 gathered in Amsterdam for the International AIDS Conference—“AIDS2018.” Many leading figures painted a sobering picture: goals for global HIV/AIDS treatment and prevention goals are not likely to be attained, funding has declined, high-level political will is lacking, and there is the risk of a resurgent epidemic. All of which makes for considerable discomfort and uncertainty. We are at a turning point in thinking about what comes next in controlling HIV/AIDS in the coming years._
 
-***
-
 During the week of July 23, 16,000 advocates, persons living with HIV, scientists, clinicians, service providers, policymakers, and researchers convened in Amsterdam for the biannual International AIDS Conference—“AIDS2018.”
 
 Collectively, a large number of the leading figures at Amsterdam painted a common, deeply sobering picture. In varying ways, each acknowledged that global HIV treatment and prevention goals are not likely to be attained, while there is little evidence or hope of major new funding to meet outstanding needs in the global response (indeed, the likelier prospect is continued decline). That is matched by a conspicuous deficit of high-level political will, and intensified competition for attention and resources. Several voiced the fear of losing ground, and several pointed to the real risk of a resurgent epidemic.
