@@ -1,11 +1,13 @@
 .modal {
+  $modal-height-desktop: 75vh;
+
   display: none;
   position: fixed;
-  z-index: 11;
+  z-index: 20;
   background-color: $color-white;
   box-shadow: 0 2px 9px -1px rgba(0, 0, 0, 0.29);
   border-radius: 3px;
-  padding: 0.5rem 0.5rem 1.5rem 1.5rem;
+  padding: 0.5rem 0.5rem 3rem 1.5rem;
   left: 0;
   right: 0;
   top: 0;
@@ -14,10 +16,10 @@
 
   @include breakpoint('medium') {
     padding: 0.5rem 0.5rem 1.5rem 1.5rem;
-    top: 10%;
+    top: calc((100vh - #{$modal-height-desktop}) / 2);
     width: 62.5%;
     max-width: 900px;
-    height: 55vh;
+    height: $modal-height-desktop;
     margin: auto;
   }
 
@@ -26,11 +28,16 @@
     text-align: right;
     cursor: pointer;
     margin-bottom: -1rem;
+    @include font-size(32px);
+    color: $color-gray-brown;
+    transition: color 0.3s ease-in-out;
+
+    &:hover {
+      color: $color-dust;
+    }
 
     &:before {
-      @include font-size(32px);
       margin: 0;
-      color: $color-gray-brown;
     }
 
     @include breakpoint('medium') {

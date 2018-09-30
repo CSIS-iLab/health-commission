@@ -5,10 +5,16 @@
   <h2>{{ page.title | replace: " and Contributors", "" }}</h2>
   {% for group in site.data.members %}
   <div class="group {{ group.type }}">
+    {% if group.type == 'experts_advisors' or group.type == 'secretariat' %}
+    <h2>{{ group.title }} <a name="{{ group.type }}"></a></h2>
+    {% else %}
     <h3 class="group__title">{{ group.title }} <a name="{{ group.type }}"></a></h3>
+    {% endif %}
 
     {% for member in site.data[group.type] %}
     <div class="group__member">
+      <a class="group__member-anchor" name="{{ member['Last Name'] | append: member['First Name'] | slugify }}"></a>
+
       {% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
       {% assign path = site.cloudinary_url | append: "r_max/v2/health-commission/" %}
       {% assign placeholder = "Anon.jpg"  %}
@@ -16,7 +22,6 @@
       <img class="group__member__photo" onerror="this.src='{{ path }}{{ placeholder }}'" src="{{ path }}{{ file }}" />
 
       <div class="group__member__text">
-        <a name="{{ member['Last Name'] | append: member['First Name'] | slugify }}"></a>
         <div class="bio-name">{{ member['Display Name'] }}</div>
         <div class="bio-title">{{ member['Short Title'] }}</div>
         <p class="bio-short">{{ member['Short Bio'] }}</p>

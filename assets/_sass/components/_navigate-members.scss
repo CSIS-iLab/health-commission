@@ -6,6 +6,7 @@
   left: -#{$size-wrapper-padding-mobile};
   min-height: #{$size-page-highlights-height-mobile};
   background-color: $color-white;
+  box-shadow: 1px -2px 6px 0px rgba(140,137,140,0.4);
 
   @include breakpoint(medium) {
     display: none;
@@ -44,13 +45,16 @@
       }
     }
   }
+
   &__container {
     height: 67vh;
-    padding: 1.5rem 2rem;
+    padding: 0.5rem 2rem 1.5rem;
     overflow-y: auto;
+    transition: all 0.3s ease-in-out;
 
     &.hide {
-      display: none;
+      height: 0;
+      padding: 0;
     }
 
     &__instruction {

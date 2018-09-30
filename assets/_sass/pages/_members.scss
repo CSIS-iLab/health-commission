@@ -27,7 +27,15 @@
           margin: 1.5rem auto;
           grid-column: 1 / -1;
         }
+
+        h2 {
+          grid-column: 1 / -1;
+          margin-bottom: 4rem;
+        }
+
         &__member {
+          position: relative;
+          
           padding-bottom: 4.5rem;
 
           @include breakpoint('large') {
@@ -44,10 +52,16 @@
               padding-right: 3rem;
             }
           }
+
+          &-anchor {
+            position: absolute;
+            top: -1rem;
+          }
         }
 
         &:not(:last-child) {
           position: relative;
+          margin-bottom: 3rem;
 
           &:after {
             content: '';
@@ -127,10 +141,18 @@
         text-align: left;
       }
     }
-    .bio-short,
+
+    .bio-short {
+      @extend %body-text;
+    }
+
     .bio-long {
       @extend %post-body;
-      margin: calculate-rem(18px) 0;
+    }
+
+    .bio-short,
+    .bio-long {
+      margin: 0.5rem 0 1.125rem;
     }
 
     .btn {

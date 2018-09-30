@@ -74,6 +74,7 @@ const compose = (member, placeholder) => {
 const exit = () => {
   modal.style.display = 'none'
   overlay.style.display = 'none'
+  list.classList.add('hide')
 }
 
 window.addEventListener('DOMContentLoaded', () => {
