@@ -28,7 +28,7 @@ references: ''
 undefined: ''
 
 ---
-### The Issue
+## The Issue
 
 _Just recently, 16,000 gathered in Amsterdam for the International AIDS Conference—“AIDS2018.” Many leading figures painted a sobering picture: goals for global HIV/AIDS treatment and prevention goals are not likely to be attained, funding has declined, high-level political will is lacking, and there is the risk of a resurgent epidemic. All of which makes for considerable discomfort and uncertainty. We are at a turning point in thinking about what comes next in controlling HIV/AIDS in the coming years._
 
@@ -42,7 +42,7 @@ It is what you read in the writings of Jon Cohen of Science,[^5] Chris Beyrer an
 
 Interestingly, this pronounced shift in tone and substance does not jettison pride and optimism. Rather, what you often encounter is an awkward back and forth between hope and pessimism. The result: HIV/AIDS has come to occupy an uncomfortable, unstable, and murky middle ground. It is a place of decidedly mixed sentiment, that frankly can be confusing and fragile, that feeds fear and uncertainty, and that begs for answers that remain elusive.
 
-### The Dilemma
+## The Dilemma
 
 Today the AIDS world faces a confounding dilemma.
 
@@ -64,7 +64,7 @@ At Amsterdam, the Dutch government succeeded in enlisting ten health ministers f
 
 ![KOEN VAN WEEL/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914287/health-commission/180817_Aids_Conference.jpg "Former US President Bill Clinton speaks on the last day of the international aids conference AIDS2018 in Amsterdam on July 27, 2018.")
 
-### What Happened?
+## What Happened?
 
 Many factors account for where we are today.
 
@@ -84,7 +84,7 @@ Elsewhere, Russia’s menacing actions impede any international dialogue on refo
 
 The shadow of Russia’s malevolence was in evidence at the opening of “AIDS2018,” which featured a memorial to the five AIDS experts who were among the almost 300 victims of the shoot-down of Malaysia Flight 17 over Ukraine in July 2014, as it was heading for Melbourne, site of “AIDS2014.”. Investigators have subsequently tied that incident back to Moscow.
 
-### The World Has Changed
+## The World Has Changed
 
 Four shifts have also fundamentally changed the larger context for deliberations over the future of HIV/AIDS, making it far more difficult, not less, to command focus and commitment.
 
@@ -112,7 +112,7 @@ The United States accounts today for $6 billion of the $8.1 billion of donor dol
 
 ![ROBERT VOS/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914393/health-commission/180817_red_ribbons.jpg "Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009.")
 
-### What Now?
+## What Now?
 
 Where does this all leave us? Though there are no easy answers, a few options come to mind.
 
@@ -138,7 +138,7 @@ The single most important priority is protecting the vital U.S. program from pop
 
 Holding “AIDS2020” in San Francisco and Oakland, a source of controversy and debate in Amsterdam, will carry clear risks, in the degraded and polarized political and media environment in the United States. But it can also be an opportunity, if seized and managed correctly, in mobilizing bipartisan congressional participation and galvanizing support from the faith, advocacy, foundations, and business communities. “AIDS2020” can potentially help stir a new national debate over HIV/AIDS, at home and abroad.
 
-### Last Thought
+## Last Thought
 
 President Clinton declared on the closing day of the Amsterdam gathering that “There can be no Brexit for AIDS.” That remarkably astute and succinct statement captures where we are today: at the edge of real danger, but still able to resist and fight back. Realism has moved to center stage but not vanquished hope and optimism.
 
