@@ -26,6 +26,7 @@
         position: relative;
         &::after {
           position: absolute;
+          top: -6px;
           right: -0.8rem;
           color: $color-dust;
           font-weight: bold;
