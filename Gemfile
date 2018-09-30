@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.1"
 gem "public_suffix", "3.0.3"
+gem "algoliasearch", "1.6.1"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
