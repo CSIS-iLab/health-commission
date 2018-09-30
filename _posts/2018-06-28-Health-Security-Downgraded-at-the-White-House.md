@@ -14,12 +14,7 @@ themes:
 - _themes/high-risk-disease-outbreaks.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537913938/health-commission/GettyImages-456932390.jpg
 image_caption: 'A health worker takes the temperature of U.S. Marines arriving to
-  take part in Operation United Assistance on October 9, 2014 near Monrovia, Liberia.
-  Some 90 Marines landed on KC-130 transport planes and MV-22 Ospreys to support the
-  American effort to contain the Ebola epidemic. The Ospreys, which can land vertically
-  like helicopters, will transport U.S. troops and supplies as they build 17 Ebola
-  treatment centers around Liberia. U.S. President Barack Obama has committed up to
-  4,000 troops in West Africa to combat the disease. '
+  take part in Operation United Assistance on October 9, 2014 near Monrovia, Liberia.'
 image_credit: John Moore/Getty Images
 pdf: ''
 is_commission_related:

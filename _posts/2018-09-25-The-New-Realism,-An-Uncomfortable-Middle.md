@@ -28,7 +28,7 @@ references: ''
 undefined: ''
 
 ---
-### **The Issue**
+### The Issue
 
 _Just recently, 16,000 gathered in Amsterdam for the International AIDS Conference—“AIDS2018.” Many leading figures painted a sobering picture: goals for global HIV/AIDS treatment and prevention goals are not likely to be attained, funding has declined, high-level political will is lacking, and there is the risk of a resurgent epidemic. All of which makes for considerable discomfort and uncertainty. We are at a turning point in thinking about what comes next in controlling HIV/AIDS in the coming years._
 
@@ -44,7 +44,7 @@ It is what you read in the writings of Jon Cohen of Science,[^5] Chris Beyrer an
 
 Interestingly, this pronounced shift in tone and substance does not jettison pride and optimism. Rather, what you often encounter is an awkward back and forth between hope and pessimism. The result: HIV/AIDS has come to occupy an uncomfortable, unstable, and murky middle ground. It is a place of decidedly mixed sentiment, that frankly can be confusing and fragile, that feeds fear and uncertainty, and that begs for answers that remain elusive.
 
-### **The Dilemma**
+### The Dilemma
 
 Today the AIDS world faces a confounding dilemma.
 
@@ -64,9 +64,9 @@ The Institute of Health Metrics and Evaluation (IHME) at the University of Washi
 
 At Amsterdam, the Dutch government succeeded in enlisting ten health ministers from Eastern Europe and Central Asia to join a closed-door dialogue that even included the Russians in the same room with Ukrainians: that was a very promising political step engineered through careful diplomatic finesse and commitment. But absent from Amsterdam were any heads of state, with the exception of former President Bill Clinton, now 18 years out of power. South Africa raised hope that it would fill the void with the appearance of the deputy president, but he was diverted to other priorities, just prior to the conference.
 
-![Former US President Bill Clinton speaks on the last day of the international aids conference AIDS2018 in Amsterdam on July 27, 2018. KOEN VAN WEEL/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914287/health-commission/180817_Aids_Conference.jpg "Former US President Bill Clinton speaks on the last day of the international aids conference AIDS2018 in Amsterdam on July 27, 2018. KOEN VAN WEEL/AFP/Getty Images")
+![KOEN VAN WEEL/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914287/health-commission/180817_Aids_Conference.jpg "Former US President Bill Clinton speaks on the last day of the international aids conference AIDS2018 in Amsterdam on July 27, 2018.")
 
-### **What Happened?**
+### What Happened?
 
 Many factors account for where we are today.
 
@@ -86,7 +86,7 @@ Elsewhere, Russia’s menacing actions impede any international dialogue on refo
 
 The shadow of Russia’s malevolence was in evidence at the opening of “AIDS2018,” which featured a memorial to the five AIDS experts who were among the almost 300 victims of the shoot-down of Malaysia Flight 17 over Ukraine in July 2014, as it was heading for Melbourne, site of “AIDS2014.”. Investigators have subsequently tied that incident back to Moscow.
 
-### **The World Has Changed**
+### The World Has Changed
 
 Four shifts have also fundamentally changed the larger context for deliberations over the future of HIV/AIDS, making it far more difficult, not less, to command focus and commitment.
 
@@ -112,9 +112,9 @@ Paradoxically, the fragile continuity of U.S. commitments in the Trump era was (
 
 The United States accounts today for $6 billion of the $8.1 billion of donor dollars committed to HIV/AIDS. As other donors have exited, the United States has stood its ground. That means that the United States looms ever larger and conspicuous as the lynchpin of global engagement on HIV. That unstable equilibrium is hardly a comfortable position to be in.
 
-![Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009. ROBERT VOS/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914393/health-commission/180817_red_ribbons.jpg "Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009. ROBERT VOS/AFP/Getty Images")
+![ROBERT VOS/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914393/health-commission/180817_red_ribbons.jpg "Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009.")
 
-### **What Now?**
+### What Now?
 
 Where does this all leave us? Though there are no easy answers, a few options come to mind.
 
@@ -140,13 +140,12 @@ The single most important priority is protecting the vital U.S. program from pop
 
 Holding “AIDS2020” in San Francisco and Oakland, a source of controversy and debate in Amsterdam, will carry clear risks, in the degraded and polarized political and media environment in the United States. But it can also be an opportunity, if seized and managed correctly, in mobilizing bipartisan congressional participation and galvanizing support from the faith, advocacy, foundations, and business communities. “AIDS2020” can potentially help stir a new national debate over HIV/AIDS, at home and abroad.
 
-### **Last Thought**
+### Last Thought
 
 President Clinton declared on the closing day of the Amsterdam gathering that “There can be no Brexit for AIDS.” That remarkably astute and succinct statement captures where we are today: at the edge of real danger, but still able to resist and fight back. Realism has moved to center stage but not vanquished hope and optimism.
 
-***
 
-[^1]: Michel Sidibé, “Our Wake-Up Call,” (speech, Amsterdam, Netherlands, July 23, 2018), AIDS 2018,[http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf](http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf "http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf").
+[^1]: Michel Sidibé, “Our Wake-Up Call,” (speech, Amsterdam, Netherlands, July 23, 2018), AIDS 2018,[http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf](http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf).
 
 [^2]: Peter Sands, “Financing UHC and AIDS, TB and hepatitis elimination,” (panel discussion, Amsterdam, Netherlands, July 23, 2018), Eliminating AIDS epidemics on the road to universal health coverage, AIDS 2018.
 
@@ -154,22 +153,22 @@ President Clinton declared on the closing day of the Amsterdam gathering that �
 
 [^4]: Mark Dybul, “The future of funding the HIV response,” (speech, Amsterdam, Netherlands, July 22, 2018), Meeting the 90-90-90 targets: faster and better.
 
-[^5]: Jon Cohen, "A Campaign to End AIDS by 2030 Is Faltering Worldwide," _Science | AAAS_, July 31, 2018,[http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide](http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide "http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide").
+[^5]: Jon Cohen, "A Campaign to End AIDS by 2030 Is Faltering Worldwide," _Science \| AAAS_, July 31, 2018, [http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide](http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide).
 
-[^6]: Linda-Gail Bekker et al., “Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society – Lancet Commission,” _The Lancet_ 392, no. 10144_,_(July 28, 2018): 312-358.
+[^6]: Linda-Gail Bekker et al., “Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society – Lancet Commission,” _The Lancet_ 392, no. 10144, (July 28, 2018): 312-358.
 
 [^7]: Pamela Das and Richard Horton, "Beyond the Silos: Integrating HIV and Global Health," _The Lancet_ 392, no. 10144 (July 28, 2018): 260-61.
 
-[^8]: Laurie Garrett, "Welcome to the Next Deadly AIDS Pandemic," _Foreign Polic_y, July 25, 2018,[https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/](https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/ "https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/").
+[^8]: Laurie Garrett, "Welcome to the Next Deadly AIDS Pandemic," _Foreign Policy_, July 25, 2018,[https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/](https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/).
 
-[^9]: "A Certain Weariness Is Entering the War on AIDS. Wrongly so," _The Economist_, July 26, 2018,[https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so](https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so "https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so").
+[^9]: "A Certain Weariness Is Entering the War on AIDS. Wrongly so," _The Economist_, July 26, 2018,[https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so](https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so).
 
-[^10]: “New Data Show Dramatic Progress in Namibia Toward HIV Epidemic Control and Substantial Gaps in Cote d’Ivoire and Cameroon,” PEPFAR Press Release, July 25, 2018, [https://www.pepfar.gov/press/releases/284464.htm](https://www.pepfar.gov/press/releases/284464.htm "https://www.pepfar.gov/press/releases/284464.htm").
+[^10]: “New Data Show Dramatic Progress in Namibia Toward HIV Epidemic Control and Substantial Gaps in Cote d’Ivoire and Cameroon,” PEPFAR Press Release, July 25, 2018, [https://www.pepfar.gov/press/releases/284464.htm](https://www.pepfar.gov/press/releases/284464.htm).
 
-[^11]: Institute for Health Metrics and Evaluation (2018), “Financing Global Health 2017: Funding Universal Health Coverage and the Unfinished HIV/AIDS Agenda,”[http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf](http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf "http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf").
+[^11]: Institute for Health Metrics and Evaluation (2018), “Financing Global Health 2017: Funding Universal Health Coverage and the Unfinished HIV/AIDS Agenda,”[http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf](http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf).
 
-[^12]: Jennifer Kates, Adam Wexler, Eric Lief, and UNAIDS (2018), “Donor Government Funding for HIV in Low- and Middle-Income Countries in 2017,” [https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/](https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/ "https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/").
+[^12]: Jennifer Kates, Adam Wexler, Eric Lief, and UNAIDS (2018), “Donor Government Funding for HIV in Low- and Middle-Income Countries in 2017,” [https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/](https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/).
 
 [^13]: Peter Piot, “Global health and the HIV response,” (speech, Amsterdam, Netherlands, July 26, 2018), AIDS 2018; Achieving 90-90-90 means 90 percent of PLHIV know their status, 81 percent (90x90) of all PLHIV are on ART, and 73 percent (81x90) of all PLHIV are virally suppressed. Hence 27 percent of all PLHIV would not be virally suppressed if 90-90-90 is achieved.
 
-[^14]: “New evidence shows far-reaching impact of expanded US ‘global gag rule,’” AIDS2018 Press Release_,_ July 27, 2018, [http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D](http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D "http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D").
+[^14]: “New evidence shows far-reaching impact of expanded US ‘global gag rule,’” AIDS2018 Press Release, July 27, 2018, [http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D](http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D).

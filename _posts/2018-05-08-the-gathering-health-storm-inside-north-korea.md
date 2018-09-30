@@ -20,24 +20,17 @@ themes:
 series: _series/health-security-dimensions-of-geopolitical-crises.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537912875/health-commission/GettyImages-528833666.jpg
 image_caption: A nurse tends to new-born infants in a ward at the Pyongyang Maternity
-  Hospital during a government-organised media tour in Pyongyang on May 7, 2016. North
-  Korea organised an unusual media tour of a gleaming modern hospital, apparently
-  seeking to highlight its leaders' love for the people during a major ruling party
-  gathering. The Pyongyang Maternity Hospital owes everything to the party and to
-  the Kim dynasty which has ruled the country since its creation, according to officials
-  who escorted foreign reporters around the showpiece institution.
-image_credit: " Ed Jones/AFP/Getty Images"
+  Hospital during a government-organised media tour in Pyongyang on May 7, 2016.
+image_credit: "Ed Jones/AFP/Getty Images"
 pdf: ''
 is_commission_related:
   description: ''
   related_event: ''
-further_reading: ''
 references: ''
 links: []
 keywords:
 - Tuberculosis
 - North Korea
-undefined: ''
 
 ---
 Health realities in North Korea are grim, poorly understood, and seldom studied as part of the larger problem of potential instability on the Korean peninsula. Yet, while accurate health data is often elusive and there is evidence of recent gains, the advanced state of deterioration is undeniable. Moreover, North Korea’s health decay is genuinely exceptional: in the dangers it poses, its unusual root causes, the astonishing contrast between North and South Korea, and the limited number and limited impact of key external organizations. This peculiar situation merits much higher attention, as we ponder the uncertain future of North Korea and the region at large–-whether the situation worsens, improves due to ongoing talks, or simply stays the same. There are proactive high-level diplomatic steps that the United States and others can and should initiate today to improve the immediate health and humanitarian situation inside North Korea, while planning for the future.  
@@ -47,59 +40,53 @@ When it comes to health security in North Korea, much of the discussion has focu
 North Korea has an exceptionally high incidence of untreated drug-susceptible tuberculosis and rising MDR-TB. Though there has been no national survey on MDR-TB, independent experts estimate there are [5,000 to 6,000 MDR-TB](https://extranet.who.int/sree/Reports?op=Replet&name=/WHO_HQ_Reports/G2/PROD/EXT/TBCountryProfile&ISO2=KP&outtype=html) cases, and there’s a good chance the true numbers are much higher. [The Eugene Bell Foundation tested](https://synapse.koreamed.org/DOIx.php?id=10.3346/jkms.2017.32.7.1105) 947 TB samples in 2007–2009 and found that 76.9 percent of TB patients had MDR-TB. At present, there are no fewer than 120,000 patients receiving TB treatment through international programs. As the table below attests, North Korea is a glaring standout globally with respect to tuberculosis.
 
 <table>
-<thead>
-<tr>
-<th colspan="4" class="table-title">
-
-          	</th>
-      	</tr>  
-      	<tr>
-         	<th>Estimates of TB Burden (2016)</th>
-          	<th>North Korea</th>
-      		<th>South Korea</th>
-     		<th>China</th>
-          	<th>Russia</th>
-     		<th>India</th>
-          	<th>South Africa</th>
-      	</tr>
-    </thead>
-    <tbody>
-    	<tr>
-          	<td>Mortality Rate Per 100,000 (Excludes HIV + TB)</td>
-      		<td>43</td>
-     		<td>5.1</td>
-          	<td>2.8</td>
-     		<td>8.2</td>
-          	<td>32</td>
-          	<td>41</td>
-      	</tr>
-      	<tr>
-          	<td>Incidence Rate Per 100,000 (Includes HIV + TB)</td>
-      		<td>513</td>
-     		<td>77</td>
-          	<td>64</td>
-     		<td>66</td>
-          	<td>211</td>
-          	<td>781</td>
-      	</tr>
-      	<tr>
-          	<td>Incidence Rate Per 100,000 (MDR/RR-TB)</td>
-      		<td>22</td>
-     		<td>4.8</td>
-          	<td>5.2</td>
-     		<td>44</td>
-          	<td>11</td>
-          	<td>34</td>
-      	</tr>
-    </tbody>
-    <tfoot>
-    	<tr>
-      		<td colspan="7">
-              Source: World Health Organization Global Tuberculosis Report 2017
-          	</td>
-      	</tr>
-    </tfoot>
-
+  <thead>
+    <tr>
+      <th>Estimates of TB Burden (2016)</th>
+      <th>North Korea</th>
+      <th>South Korea</th>
+      <th>China</th>
+      <th>Russia</th>
+      <th>India</th>
+      <th>South Africa</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mortality Rate Per 100,000 (Excludes HIV + TB)</td>
+      <td>43</td>
+      <td>5.1</td>
+      <td>2.8</td>
+      <td>8.2</td>
+      <td>32</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td>Incidence Rate Per 100,000 (Includes HIV + TB)</td>
+      <td>513</td>
+      <td>77</td>
+      <td>64</td>
+      <td>66</td>
+      <td>211</td>
+      <td>781</td>
+    </tr>
+    <tr>
+      <td>Incidence Rate Per 100,000 (MDR/RR-TB)</td>
+      <td>22</td>
+      <td>4.8</td>
+      <td>5.2</td>
+      <td>44</td>
+      <td>11</td>
+      <td>34</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="7">
+        Source: World Health Organization Global Tuberculosis Report 2017
+      </td>
+    </tr>
+  </tfoot>
 </table>
 
 Though the socialized health system established 60 years ago does reach every community and includes many dedicated career personnel, that means little when it is woefully underfinanced and composed of many undertrained staff, barren medicine cabinets, and 60-year-old diagnostics. The only way to address TB and other infectious diseases effectively is through a holistic approach to the fundamental problems of poverty in North Korea, rooted in the lack of clean water, basic nutrition, and electrical power. Elementary preparedness capacities to prevent, detect, and respond to pandemics fall far short. This is a government whose only recourse during previous health crises ([Middle East respiratory syndrome](https://www.voanews.com/a/mers-outbreak-anxiety-spreads-to-north-korea/2807036.html) \[MERS\], [Ebola](https://www.washingtonpost.com/world/after-four-months-north-koreas-ebola-quarantine-comes-to-an-end/2015/03/03/3ab34415-3b35-4159-b70b-321167635b73_story.html?noredirect=on&utm_term=.7019a052a172), and [pandemic flu](https://www.nknews.org/2018/02/north-korea-hit-by-rapidly-developing-flu-outbreak-ifrc/)) was a panicked shutdown.  
@@ -119,11 +106,6 @@ How exactly did North Korea reach this point? Most fundamentally, it is because 
 <table>
 <thead>
 <tr>
-<th colspan="3" class="table-title">
-
-</th>
-</tr>  
-<tr>
 <th>
 Indicators
 </th>
@@ -136,7 +118,6 @@ South Korea
 </tr>
 </thead>
 <tbody>
-
 <tr>
 <td>
 <p>Total Population (2017)</p>
@@ -229,7 +210,9 @@ North Korea’s deterioration in the years since is the result of choice, priori
   
 These realities notwithstanding, [international engagement](http://apps.who.int/iris/bitstream/handle/10665/250298/9789290224716-eng.pdf?sequence=1&isAllowed=y) in health and related humanitarian activities has not only been possible but actually expanded in recent years, creating an important but limited foothold inside an otherwise walled-off North Korea. The World Health Organization (WHO), the UN International Children’s Emergency Fund (UNICEF), the World Food Program (WFP), the Global Fund to Fight AIDS, Tuberculosis and Malaria, Gavi, the International Committee of the Red Cross, as well as European and a few intrepid American Christian and other nongovernmental groups, have achieved some success in identifying and treating those with MDR-TB, hepatitis B, and malaria; in addition, they have raised immunization coverage and lowered the mortality of mothers and children under age five.
 
-![CSIS](https://res.cloudinary.com/csisideaslab/image/upload/v1537913227/health-commission/NK_Graph_4.jpg "Global Estimates of Under-Five Infant and Neo-Natal Mortality Rates in North Korea")Prospects for continued international engagement have, however, declined sharply.  
+![CSIS](https://res.cloudinary.com/csisideaslab/image/upload/v1537913227/health-commission/NK_Graph_4.jpg "Global Estimates of Under-Five Infant and Neo-Natal Mortality Rates in North Korea")
+
+Prospects for continued international engagement have, however, declined sharply.  
   
 Three rounds of ever-[tougher international sanctions](https://www.cfr.org/backgrounder/what-know-about-sanctions-north-korea) came into force in 2017 in response to North Korea’s accelerated nuclear and missile programs. China for its part tightened controls over critical North Korean exports (seafood, coal, textiles) and energy imports. In combination, these measures have made it dramatically more [difficult for external providers](https://www.usnews.com/news/politics/articles/2018-01-29/aid-groups-feel-heat-as-sanctions-on-north-korea-intensify) of health and humanitarian assistance to continue to operate inside North Korea. Indeed, these intensifying geopolitical pressures now call into question these programs’ very viability. And in this overheated context, decisions by donors not to support humanitarian appeals, or to suspend, scale back, or end programs, have stirred debate over whether political considerations have come into play.  
   
@@ -244,7 +227,6 @@ Future events could cut in two contrary directions, and we need to prepare for e
 If current trends persist, intensified pressures will continue to squeeze the external health and humanitarian infrastructure, and much of what has been erected in the past decade may collapse. Unless there is a concerted push by major donors to increase resources and make it more feasible for humanitarian providers to operate in North Korea, there will be limited hope of success for the [UN appeal](https://www.wsj.com/articles/u-n-appeals-for-aid-to-north-korea-as-donations-drop-1523609690), issued April 12, which calls for $111 million to meet the basic food, health, and sanitation requirements of 6 million people. Instead, gains in TB, malaria and hepatitis control, childhood immunization, nutrition focused on children under five and lactating and pregnant women, and strengthening of primary services will likely be reversed. The risk that MDR-TB will spread internally and into the region will rise. Under this scenario, a majority of the population could slip into an escalating human crisis, at a moment when key international organizations are increasingly less able to address these needs.  
   
 Paradoxically, something quite different might also happen.  
-  
 If talks between South and North Korea advance, and/or talks between the United States and North Korea go anywhere, attention could shift suddenly to what type of conciliatory actions might be undertaken that could demonstrate concrete progress without lifting sanctions. That could swing open the gate for renewed health and humanitarian initiatives in North Korea. Efforts to focus on reducing these critical health security risks as part of early gestures in a negotiation process would not only meet immediate humanitarian needs but would also address serious health threats to countries beyond North Korea’s borders. Just as we need to prepare for new risks, we need to prepare for new opportunities. The United States must think ahead, with the South Koreans, Chinese, and implementing organizations in particular, about how to expedite investments in clean water, nutrition, TB and malaria control, and immunizations inside North Korea.  
   
 The one clear conclusion that emerges from North Korea’s clouded, confusing, and highly dangerous situation is that _careful high-level advance planning should accelerate_ right away to address North Korea’s health insecurity through a coordinated international approach. It’s important to maintain the maximum pressure through sanctions that have brought the North Korean regime to consider the benefits of a new approach. But more can and should be done to ensure today that adequate resources are available and that humanitarians are able to operate effectively and free of extreme restrictions. And far more can and should be done to position humanitarian programs to expand quickly if opportunity strikes.
