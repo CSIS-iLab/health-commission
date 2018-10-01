@@ -9,7 +9,7 @@ url = 'https://csis-health-commission.netlify.com/posts.json'
 uri = URI(url)
 response = Net::HTTP.get(uri)
 
-old_algolia = JSON.parse(response)
+old_algolia = []
 current_algolia = JSON.parse(File.read('_site/posts.json'))
 
 current_hash = current_algolia.map{ |x| [x['objectID'], x] }.to_h
