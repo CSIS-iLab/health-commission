@@ -5,11 +5,8 @@ layout: default
 
   {% include page-header.html %}
   <section class="post__content">
-    {% if page.name == 'about.md' and page.image.size > 0 %}
-    <figure class="post__feature-image post__content-overflow">
-      {% include cloudinary-responsive-img.html path=page.post_image title=page.image_caption alt=page.image_caption %}
-      {%- include img-caption.html desc=page.post_image_caption source=page.post_image_credit -%}
-    </figure>
+    {% if page.name == 'about.md' and page.post_image.size > 0 %}
+    {% include cloudinary-responsive-img.html path=page.post_image title=page.post_image_caption alt=page.post_image_credit classes="post__feature-image post__content-overflow" %}
     {% endif %}
 
     <h2 class="section-title-lg">{{ page.title }}</h2>

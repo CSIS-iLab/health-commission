@@ -20,6 +20,7 @@
   #{$minimal} & {
     @include breakpoint($breakpoint-desktop) {
      flex-basis: 88%;
+     margin-left: -1rem;
     }
   }
 
@@ -204,8 +205,9 @@
             display: block;
             position: absolute;
             top: -$size-site-header-padding;
-            left: 0;
-            right: 0;
+            left: calc((100% - 100vw) / 2);
+            right: calc((100% - 100vw) / 2);
+            width: 100vw;
             height: calc(100% + (#{$size-site-header-padding} * 2));
             opacity: 1;
             background-color: rgba($color-dark-blue, 0.7);
@@ -276,6 +278,8 @@
       }
 
       li {
+        padding: 0.25rem 0;
+        
         @include breakpoint($breakpoint-desktop) {
           margin: 1rem 0 0;
           padding: 0;
@@ -306,7 +310,7 @@
       @include breakpoint($breakpoint-desktop) {
         position: relative;
 
-        &:not(:first-of-type)::before {
+        &:not(:first-of-type):not(.all_work)::before {
           content: '';
           display: block;
           position: absolute;
@@ -332,6 +336,32 @@
 
         &::before {
           top: 10px !important;
+        }
+      }
+    }
+
+    #{$s}__dropdown-menu.all_work {
+      @include breakpoint($breakpoint-desktop) {
+        text-align: right;
+
+        a {
+          position: relative;
+          color: $color-dust;
+
+          &:hover {
+            color: $color-dark-sand;
+          }
+
+          &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            top: 50%;
+            left: 62%;
+            width: 35px;
+            height: 1px;
+            background-color: $color-slate;
+          }
         }
       }
     }

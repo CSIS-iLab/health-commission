@@ -22,8 +22,8 @@
         <div class="site-nav__dropdown">
           {% if parent_item.identifier == 'work' %}
             {%- for item in items -%}
-            <span class="site-nav__dropdown-heading">{{ item.section_title }}</span>
-            <ul class="site-nav__dropdown-menu">
+            <span class="site-nav__dropdown-heading {{ item.identifier }}">{{ item.section_title }}</span>
+            <ul class="site-nav__dropdown-menu {{ item.identifier }}">
             {% if item.collection %}
               {% for post in site[item.collection] %}
                 <li><a href="{{ post.url | relative_url }}" title="{{ post.title | escape }}">{{ post[item.item_title_field] | default: post.title | escape }}</a></li>
@@ -36,7 +36,7 @@
             </ul>
             {% endfor %}
           {% else %}
-          <ul class="site-nav__dropdown-menu">
+          <ul class="site-nav__dropdown-menu {{ item.identifier }}">
             {%- for item in items -%}
               <li><a href="{{ item.url | relative_url | escape }}" title="{{ item.desc }}">{{ item.title }}</a></li>
             {%- endfor -%}
