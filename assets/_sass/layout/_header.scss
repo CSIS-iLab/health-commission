@@ -130,6 +130,7 @@
       @extend %post-meta;
       @include font-size(11px);
       line-height: 1;
+      letter-spacing: 0;
       text-transform: uppercase;
 
       @include breakpoint($breakpoint-desktop) {
@@ -141,8 +142,8 @@
       @extend %page-title;
       @include font-size(16px);
       color: $color-white;
-      letter-spacing: 1px;
-      max-width: 250px;
+      letter-spacing: 0;
+      max-width: 225px;
     }
   }
 

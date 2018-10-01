@@ -34,7 +34,7 @@
     item_title_field: title
     hide_footer: true
   - identifier: all_work
-    section_title: All
+    section_title: 
     hide_footer: true
     items:
     - identifier: all_articles
