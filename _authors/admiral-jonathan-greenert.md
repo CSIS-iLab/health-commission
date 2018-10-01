@@ -11,6 +11,7 @@ short_bio: "**Admiral Jonathan Greenert** is the John M. Shalikashvili Chair in 
   as the 30th chief of naval operations from 2011 to 2015."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475626/health-commission/Greenert_Jonathan.jpg
 published: false
 
 ---
