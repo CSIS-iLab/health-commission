@@ -10,6 +10,7 @@ has_photo: true
 short_bio: "**Samantha Stroman** is a program coordinator and research assistant with
   the CSIS Global Health Policy Center, with a focus on global health security."
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475630/health-commission/Stroman_Samantha.jpg
 published: false
 
 ---
