@@ -1,7 +1,6 @@
 .author-photo-tint {
   filter: grayscale(100%);
   filter: contrast(137%) brightness(80%) grayscale(100%) sepia(0.61) hue-rotate(176deg) saturate(67%);
-  // filter: url(#blue_tint);
   border-radius: 50%;
   padding: none;
   position: relative;
@@ -10,6 +9,7 @@
   .authors-block & {
     width: $size-author-image-block;
     height: $size-author-image-block;
+    margin: 0 auto 0.5rem;
   }
 
   .page-header__author-photo-desktop & {
