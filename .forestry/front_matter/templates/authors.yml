@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/anna-eshoo.md
 - _authors/jimmy-kolker.md
 - _authors/stephen-morrison.md
 - _authors/david-relman.md
@@ -22,7 +23,6 @@ pages:
 - _authors/laura-holgate.md
 - _authors/jim-greenwood.md
 - _authors/tom-frieden.md
-- _authors/anna-eshoo.md
 - _authors/julie-louise-gerberding-m-d-mph.md
 - _authors/u.s.-congresswoman-susan-brooks.md
 - _authors/Katherine-Bliss.md

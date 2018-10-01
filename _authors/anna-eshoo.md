@@ -13,6 +13,7 @@ short_bio: "**Congresswoman Anna Eshoo** is the current representative from Cali
   Committee."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475624/health-commission/Eshoo_Anna.jpg
 published: false
 
 ---
