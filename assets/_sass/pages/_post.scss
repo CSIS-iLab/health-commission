@@ -28,6 +28,20 @@
 
   &__excerpt {
     @extend %post-intro;
+    margin-left: -$size-wrapper-padding-mobile;
+    margin-right: -$size-wrapper-padding-mobile;
+    padding: 1rem;
+    background-color: $color-off-white;
+
+    @include breakpoint('medium') {
+      margin: 1rem 0 0;
+      padding: 0;
+      background-color: transparent;
+    }
+
+    @include breakpoint('large') {
+      margin-top: 0;
+    }
   }
 
   &__content {
