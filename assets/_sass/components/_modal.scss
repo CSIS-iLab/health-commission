@@ -7,7 +7,7 @@
   background-color: $color-white;
   box-shadow: 0 2px 9px -1px rgba(0, 0, 0, 0.29);
   border-radius: 3px;
-  padding: 0.5rem 0.5rem 3rem 1.5rem;
+  padding: 0.5rem 1.5rem 3rem;
   left: 0;
   right: 0;
   top: 0;
@@ -15,12 +15,23 @@
   margin: 1.5rem;
 
   @include breakpoint('medium') {
-    padding: 0.5rem 0.5rem 1.5rem 1.5rem;
+    padding-bottom: 1.5rem;
     top: calc((100vh - #{$modal-height-desktop}) / 2);
     width: 62.5%;
     max-width: 900px;
     height: $modal-height-desktop;
     margin: auto;
+  }
+
+  &::after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1.5rem;
+    background-color: $color-white;
   }
 
   .icon-icon_close {
