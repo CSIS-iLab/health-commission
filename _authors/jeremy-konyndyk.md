@@ -12,6 +12,7 @@ short_bio: "**Jeremy Konyndyk** is a senior policy fellow at the Center for Glob
   from 2013-2017 as the director of USAID’s Office of US Foreign Disaster Assistance
   (OFDA), where he led the US government’s response to international disasters."
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475629/health-commission/Konyndyk_Jeremy.jpg
 published: false
 
 ---
