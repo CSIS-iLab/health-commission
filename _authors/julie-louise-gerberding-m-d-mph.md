@@ -12,7 +12,7 @@ short_bio: "**Dr. Julie Gerberding** is Executive Vice President and Chief Patie
   for Disease Control and Prevention (CDC) from 2002 to 2009."
 type: commission
 excerpt: ''
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475625/health-commission/Gerberding_Julie.jpg
 published: false
 
 ---
