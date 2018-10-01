@@ -89,6 +89,11 @@
     @include breakpoint('medium') {
       grid-template-columns: auto minmax(auto, 25%);
     }
+
+    .tag-list,
+    .share {
+      margin-bottom: 0.5rem;
+    }
   }
 
   &__references,

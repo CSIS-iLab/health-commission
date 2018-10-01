@@ -128,5 +128,15 @@
       margin-top: 0;
     }
   }
+
+  &.archive--all-events {
+    .page-highlights {
+      display: block;
+    }
+    
+    .post__header-meta {
+      display: none;
+    }
+  }
 }
 

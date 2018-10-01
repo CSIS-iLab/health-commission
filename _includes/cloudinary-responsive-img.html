@@ -1,5 +1,5 @@
 {% if include.path.size > 0 %}
-<figure class="post__image">
+<figure class="{{ include.classes | default: post__image }}">
 {% if include.path contains 'cloudinary' %}
 {% assign image_name = include.path | split: "/upload/" | last %}
   <img
@@ -16,7 +16,7 @@
   src="{{ site.cloudinary_url }}f_auto,w_800/v2/health-commission/{{ image_name }}" title="{{ include.title }}"
   alt="{{ include.title }}" />
 {% else %}
-<img src="{{ include.path }}" title="{{ include.title }}" alt="{{ include.title }}" />
+  <img src="{{ include.path }}" title="{{ include.title }}" alt="{{ include.title }}" />
 {% endif %}
   {% if include.title %}
     <figcaption class="img-caption">{{ include.title }} <span class="img-caption__source">{{ include.alt }}</span></figcaption>
