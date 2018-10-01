@@ -11,6 +11,7 @@ short_bio: "**Trevor Mundel** is the president of the Global Health Division at 
   developing countries. Previously, Trevor was global head of development with Novartis."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475630/health-commission/Mundel_Trevor.jpg
 published: false
 
 ---
