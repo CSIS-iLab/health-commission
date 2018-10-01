@@ -1,15 +1,7 @@
 ---
 title: Kelly Ayotte
 date: 2018-09-13 00:00:00 +0000
-name: Kelly Ayotte
-role: Co-Chair
 short_title: Former Senator (R-NH)
-has_photo: false
-short_bio: ''
-Title: Former Senator (NH)
-long_title: Former Senator (NH)
-type: commission
-excerpt: ''
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537904851/health-commission/Ayotte_Kelly.jpg
 published: false
 
