@@ -1,7 +1,7 @@
 ---
 title: Cathryn Streifel
 date: 2018-09-25 21:24:22 +0000
-short_title: CSIS
+short_title: Center for Strategic and International Studies
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537985009/health-commission/Streifel_Cathryn.jpg
 
 ---

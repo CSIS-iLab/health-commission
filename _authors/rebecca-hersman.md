@@ -1,7 +1,7 @@
 ---
 title: Rebecca Hersman
 date: 2018-09-13 15:18:28 +0000
-short_title: CSIS
+short_title: Center for Strategic and International Studies
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475627/health-commission/Hersman_Rebecca.jpg
 
 ---
