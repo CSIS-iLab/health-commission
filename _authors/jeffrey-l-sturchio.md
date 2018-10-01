@@ -11,7 +11,7 @@ short_bio: "**Jeffrey L. Sturchio** is President & CEO of Rabin Martin, a global
   for senior leaders in the private sector, multilateral organizations, governments,
   NGOs and foundations."
 excerpt: ''
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1537904851/health-commission/Sturchio_Jeff.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537904851/health-commission/Sturchio_Jeffrey.jpg
 published: false
 
 ---
