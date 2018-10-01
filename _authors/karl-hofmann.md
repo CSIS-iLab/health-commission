@@ -13,6 +13,7 @@ short_bio: "**Ambassador Karl Hofmann** is the President and CEO of Population S
   years."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475627/health-commission/Hofmann_Karl.jpg
 published: false
 
 ---
