@@ -12,6 +12,7 @@ short_bio: "**Tom Frieden** is President and Chief Executive Officer of Resolve 
   Control and Prevention (CDC) from 2009 to 2017."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475625/health-commission/Frieden_Tom.jpg
 published: false
 
 ---
