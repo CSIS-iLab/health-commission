@@ -9,8 +9,9 @@
 @import 'vendors/normalize';
 @import 'vendors/fontello/fontello';
 
-@import 'base/typography';
 @import 'base/base';
+@import 'base/print';
+@import 'base/typography';
 
 @import 'components/404';
 @import 'components/about-table-contents';

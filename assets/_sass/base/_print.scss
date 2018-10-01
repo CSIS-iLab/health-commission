@@ -1,0 +1,277 @@
+/*=========================================
+=            Print Stylesheets            =
+=========================================*/
+@media print {
+  *,
+  *:not(li):before,
+  *:after {
+    color: #000 !important; // Black prints faster: h5bp.com/s
+    box-shadow: none !important;
+    text-shadow: none !important;
+    filter: none !important;
+    -ms-filter: none !important;
+    background: transparent !important;
+  }
+
+  body {
+    padding: 0px !important;
+    font-size: 12pt;
+    margin: 25mm 25mm 25mm 25mm;
+
+    &:before {
+      content: "The CSIS Commission on Strengthening America's Health Security";
+      font-size: 3rem;
+      display: block;
+    }
+
+    &:after {
+      content: "Printed from The CSIS Commission on Strengthening America's Health Security, ©2018 by the Center for Strategic and International Studies. All rights reserved.";
+      margin-top: 1cm;
+      font-size: 12pt;
+    }
+  }
+  .printable,
+  .printable * {
+    visibility: visible;
+  }
+  article.printable {
+    position: absolute;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+
+  img {
+    page-break-inside: avoid;
+    margin: auto !important;
+  }
+
+  .site-header,
+  .page-highlights,
+  .img-caption,
+  .site-footer__copyright,
+  .btn {
+    display: none !important;
+  }
+
+  .wrapper,
+  .wrapper-full,
+  .page-header__wrapper,
+  .post-block {
+    padding: initial !important;
+  }
+
+  .page-content {
+    margin: 0 !important;
+  }
+
+  a:link,
+  a:visited,
+  .site-footer li {
+    color: #000 !important;
+  }
+
+  .tag-list__title {
+    padding: 0.25rem 0.4rem;
+  }
+
+  .authors-block {
+    flex-direction: row !important;
+
+    &__info {
+      padding-left: 2rem !important;
+    }
+
+    &__name,
+    &__title {
+      text-align: left !important;
+    }
+  }
+
+  .post {
+    .post__content img {
+      margin: auto !important;
+      display: block !important;
+    }
+
+    &__related-posts {
+      margin: 0 !important;
+      max-width: initial !important;
+      .next-by-theme {
+        flex-basis: 33% !important;
+      }
+      .related-by-tag {
+        flex-basis: 67% !important;
+
+        .post-block {
+          flex-basis: 50% !important;
+        }
+      }
+    }
+  }
+
+  /*===============================
+  =             Home              =
+  ================================*/
+  .home {
+    &__hero {
+      display: none !important;
+    }
+    & > * {
+      min-height: initial !important;
+    }
+    grid-template-rows: auto !important;
+    &__featured-primary {
+      position: initial !important;
+      left: initial !important;
+      right: initial !important;
+      margin: 0 !important;
+      width: 100% !important;
+
+      &:before {
+        content: initial !important;
+      }
+      &-img {
+        &:before {
+          content: initial !important;
+        }
+      }
+    }
+  }
+
+  /*===============================
+  =             Header              =
+  ================================*/
+  .page-header {
+    min-height: initial !important;
+    background-image: none !important;
+    background-color: initial !important;
+    position: initial !important;
+    left: initial !important;
+    right: initial !important;
+    margin: 0.5cm 0 1cm !important;
+    &__wrapper {
+      position: initial !important;
+
+      &__title {
+        color: #000 !important;
+      }
+    }
+    &:before {
+      content: initial !important;
+    }
+  }
+
+  /*===============================
+  =             Footer               =
+  ================================*/
+  .site-footer {
+    &__follow {
+      display: flex !important;
+      flex-wrap: wrap !important;
+      max-height: 3rem !important;
+      line-height: 0;
+
+      margin: 2.5rem 0 1.5rem;
+      flex-direction: row !important;
+      height: auto !important;
+
+      &-csis,
+      &-program {
+        width: auto !important;
+      }
+
+      &-icon {
+        order: -1 !important;
+      }
+    }
+
+    &__follow-program {
+      line-height: 1.8 !important;
+      &:after {
+        content: ' <' attr(href) '> ';
+        text-transform: initial !important;
+        font-weight: normal !important;
+      }
+    }
+
+    &__contact-list {
+      justify-content: space-between !important;
+      flex-wrap: nowrap !important;
+
+      li {
+        &:first-of-type {
+          flex: 1 1 75% !important;
+          position: relative !important;
+
+          &:after {
+            content: '' !important;
+            height: 1px !important;
+            width: 30% !important;
+            background-color: $color-slate !important;
+            top: calc(50% - 0.6rem) !important;
+            left: 60% !important;
+            position: absolute !important;
+          }
+        }
+
+        &:not(:first-of-type) {
+          flex: 1 1 100% !important;
+          position: relative !important;
+
+          &:nth-of-type(n + 3):before {
+            content: '' !important;
+            position: absolute !important;
+            left: -33% !important;
+            top: -0.5rem !important;
+            width: 1px !important;
+            height: 100% !important;
+            background-color: $color-slate !important;
+          }
+        }
+      }
+    }
+  }
+
+  /*===============================
+    =           Member List         =
+    ================================*/
+  .member-directory {
+    .group {
+      display: grid !important;
+      grid-template-columns: repeat(2, minmax(35%, 1fr)) !important;
+
+      &__member {
+        position: relative !important;
+
+        padding-bottom: 4.5rem !important;
+
+        display: grid !important;
+        grid-template-columns: minmax(50px, 150px) minmax(250px, auto) !important;
+        &:nth-child(odd) {
+          padding-left: 3rem !important;
+        }
+
+        &:nth-child(even) {
+          padding-right: 3rem !important;
+        }
+      }
+    }
+
+    img[class$='member__photo'] {
+      margin: 0 !important;
+      max-width: none !important;
+      border-radius: 0% !important;
+    }
+    div[class$='member__text'] {
+      padding-left: 1.5rem !important;
+
+      .bio-name,
+      .bio-title {
+        text-align: left !important;
+      }
+    }
+  }
+}
