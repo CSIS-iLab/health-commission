@@ -1,13 +1,7 @@
 ---
 title: Tom Cole
 date: 2018-09-13 15:12:36 +0000
-role: ''
 short_title: R-OK-4
-long_title: R-OK
-has_photo: false
-short_bio: ''
-type: commission
-excerpt: ''
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537904851/health-commission/Cole_Tom.jpg
 published: false
 

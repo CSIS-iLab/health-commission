@@ -1,7 +1,7 @@
 ---
 title: Victor Cha
 date: 2018-09-25 21:24:01 +0000
-short_title: CSIS
+short_title: Center for Strategic and International Studies
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537985009/health-commission/Cha_Victor.jpg
 
 ---

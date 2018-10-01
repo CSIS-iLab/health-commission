@@ -1,7 +1,7 @@
 ---
 title: Katherine Bliss
 date: 2018-09-25 21:25:31 +0000
-short_title: CSIS
+short_title: Center for Strategic and International Studies
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1538159297/health-commission/Bliss_Katherine.jpg
 
 ---
