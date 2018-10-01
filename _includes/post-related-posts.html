@@ -13,7 +13,7 @@
 
 {% assign theme_posts = next_posts | concat: previous_posts %}
 
-{% if page.collection == 'posts' and theme_posts !=0 or page.collection == 'events' and theme_posts !=0 %}
+{% if page.collection == 'posts' and theme_posts.size !=0 or page.collection == 'events' and theme_posts.size !=0 %}
 <div class="post__related-posts">
   {% if next_posts.size > 0 %}
     {% assign read_next = next_posts | sort: date | slice: 0,1 %}

@@ -5,11 +5,12 @@
   border-radius: 50%;
   padding: none;
   position: relative;
-  z-index: 10;
+  z-index: 5;
 
   .authors-block & {
     width: $size-author-image-block;
     height: $size-author-image-block;
+    margin: 0 auto;
   }
 
   .page-header__author-photo-desktop & {

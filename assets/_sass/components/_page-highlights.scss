@@ -7,7 +7,7 @@
   width: calc(100% + #{$size-wrapper-padding-mobile} * 2);
   left: -$size-wrapper-padding-mobile;
   padding: 0 $size-wrapper-padding-mobile;
-  z-index: 5;
+  z-index: 10;
   display: flex;
   position: relative;
   background-color: $color-off-white;
@@ -108,7 +108,7 @@
 
     &:first-of-type {
       @include breakpoint('large') {
-        padding-left: 0 !important; 
+        padding-left: 0 !important;
       }
     }
 
