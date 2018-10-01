@@ -12,6 +12,7 @@ short_bio: "**Senator Patty Murray** is the senior Senator from the state of Was
   Ranking Member of the Senate Health, Education, Labor, and Pensions Committee."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475630/health-commission/Murray_Patty.jpg
 published: false
 
 ---
