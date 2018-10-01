@@ -104,6 +104,7 @@
       z-index: 1;
       @extend %full-width-content;
       text-align: center;
+      overflow: hidden;
 
       @include breakpoint('medium') {
         position: absolute;
@@ -112,8 +113,19 @@
       }
 
       svg {
+        position: relative;
+        left: -25%;
+        width: 160vw;
+
+        @include breakpoint('medium') {
+          left: 0;
+          width: 100vw;
+        }
 
         @include breakpoint($breakpoint-desktop) {
+          position: static;
+          left: unset;
+          width: auto;
           height: 490px;
         }
       }
