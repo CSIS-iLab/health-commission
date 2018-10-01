@@ -13,6 +13,7 @@ short_bio: "**Jim Greenwood** is President and CEO of the Biotechnology Innovati
   from 1993 to 2005."
 type: commission
 excerpt: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537475626/health-commission/Greenwood_Jim.jpg
 published: false
 
 ---
