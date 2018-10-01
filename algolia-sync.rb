@@ -9,7 +9,7 @@ url = 'https://csis-health-commission.netlify.com/posts.json'
 uri = URI(url)
 response = Net::HTTP.get(uri)
 
-old_algolia = []
+old_algolia = JSON.parse(response)
 current_algolia = JSON.parse(File.read('_site/posts.json'))
 
 current_hash = current_algolia.map{ |x| [x['objectID'], x] }.to_h
@@ -35,4 +35,4 @@ Algolia.init :application_id => ENV['ALGOLIA_APP_KEY'], :api_key => ENV['ALGOLIA
 index = Algolia::Index.new(ENV['ALGOLIA_INDEX'])
 index.add_objects(update_records)
 index.delete_objects(delete_records)
-puts "finished algolia search sync..."
+puts "fix algolia search sync..."
