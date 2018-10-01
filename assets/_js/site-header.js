@@ -36,7 +36,10 @@ const siteHeader = () => {
       return
     }
 
-    if (scrollPos >= header_height) {
+    if (
+      scrollPos >= header_height ||
+      document.body.classList.contains('menu-open')
+    ) {
       doHideHeader = true
       add_class_on_scroll(minimal_class)
       remove_class_on_scroll(trigger_minimal_class)
