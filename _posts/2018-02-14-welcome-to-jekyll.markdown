@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Welcome to Jekyll Algolia!
 date: 2018-02-13 15:56:34 +0000
 categories: jekyll update
 image: https://res.cloudinary.com/csisideaslab/image/upload/v2/health-commission/photo-1529928750697-1d9646312221.jpg
