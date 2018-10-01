@@ -4,6 +4,7 @@ require 'json'
 require 'algoliasearch'
 require "net/http"
 
+puts "running algolia search sync..."
 url = 'https://csis-health-commission.netlify.com/posts.json'
 uri = URI(url)
 response = Net::HTTP.get(uri)
@@ -34,3 +35,4 @@ Algolia.init :application_id => ENV['ALGOLIA_APP_KEY'], :api_key => ENV['ALGOLIA
 index = Algolia::Index.new(ENV['ALGOLIA_INDEX'])
 index.add_objects(update_records)
 index.delete_objects(delete_records)
+puts "finished algolia search sync..."
