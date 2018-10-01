@@ -10,6 +10,10 @@
   height: 100%;
   margin-left: 0.5rem;
 
+  @include breakpoint($breakpoint-desktop) {
+    flex: 0 0 5%;
+  }
+
   .btn--search {
     position: relative;
     display: flex;

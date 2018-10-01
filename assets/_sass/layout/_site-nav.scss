@@ -11,9 +11,16 @@
   margin: 0 0.5rem;
 
   @include breakpoint($breakpoint-desktop) {
-    flex: 1 1 auto;
+    flex: 1 1 30%;
     max-width: unset;
     margin-right: 1rem;
+    transition: flex-basis 0.3s ease-in-out;
+  }
+
+  #{$minimal} & {
+    @include breakpoint($breakpoint-desktop) {
+     flex-basis: 88%;
+    }
   }
 
   &__trigger {
@@ -121,14 +128,11 @@
       right: unset;
       height: 100%;
       flex-direction: row;
-      justify-content: flex-end;
+      justify-content: flex-start;
       padding: 0;
       background-color: transparent;
       opacity: 1;
-
-      #{$minimal} & {
-        justify-content: flex-start;
-      }
+      transition: justify-content 0.3s ease-in-out;
     }
 
     #{$s}__trigger:checked ~ & {
@@ -167,6 +171,12 @@
         }
       }
 
+      &::before {
+        content: '';
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+      }
+
       &:active,
       &:hover {
 
@@ -188,6 +198,23 @@
 
           &:first-of-type::after {
             width: 180px;
+          }
+
+          &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            top: -$size-site-header-padding;
+            left: 0;
+            right: 0;
+            height: calc(100% + (#{$size-site-header-padding} * 2));
+            opacity: 1;
+            background-color: rgba($color-dark-blue, 0.7);
+            z-index: -1;
+
+            #{$minimal} & {
+              display: none;
+            }
           }
         }
 
