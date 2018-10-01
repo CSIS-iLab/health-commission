@@ -10,7 +10,7 @@ authors:
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1537914173/health-commission/GettyImages-1004594474.jpg
+image: ''
 image_caption: 'Doug Brooks, Senior Director for Community Engagement, Gilead Sciences,
   Paul Stoffels, Vice Chairman and Chief Scientific Officer, Johnson & Johnson, Ambassador
   Deborah L. Birx, U.S.ÊGlobal AIDS Coordinator & U.S. Special Representative for
@@ -28,25 +28,27 @@ references: ''
 undefined: ''
 
 ---
-## The Issue
+### **The Issue**
 
 _Just recently, 16,000 gathered in Amsterdam for the International AIDS Conference—“AIDS2018.” Many leading figures painted a sobering picture: goals for global HIV/AIDS treatment and prevention goals are not likely to be attained, funding has declined, high-level political will is lacking, and there is the risk of a resurgent epidemic. All of which makes for considerable discomfort and uncertainty. We are at a turning point in thinking about what comes next in controlling HIV/AIDS in the coming years._
+
+***
 
 During the week of July 23, 16,000 advocates, persons living with HIV, scientists, clinicians, service providers, policymakers, and researchers convened in Amsterdam for the biannual International AIDS Conference—“AIDS2018.”
 
 Collectively, a large number of the leading figures at Amsterdam painted a common, deeply sobering picture. In varying ways, each acknowledged that global HIV treatment and prevention goals are not likely to be attained, while there is little evidence or hope of major new funding to meet outstanding needs in the global response (indeed, the likelier prospect is continued decline). That is matched by a conspicuous deficit of high-level political will, and intensified competition for attention and resources. Several voiced the fear of losing ground, and several pointed to the real risk of a resurgent epidemic.
 
-This is the new prevailing consensus, the new realism. It is what you heard in listening in Amsterdam to the individual public remarks of Michel Sidibé,[^1] head of UNAIDS, Peter Sands,[^2] head of the Global Fund to Fight AIDS, Tuberculosis and Malaria, Peter Piot,[^3] former head of UNAIDS and now Dean of the London School of Hygiene and Tropical Medicine, and Mark Dybul,[^4] former head of the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) and the Global Fund and now at Georgetown University.
+This is the new prevailing consensus, the new realism. It is what you heard in listening in Amsterdam to the individual public remarks of Michel Sidibé,\[^1\] head of UNAIDS, Peter Sands,\[^2\] head of the Global Fund to Fight AIDS, Tuberculosis and Malaria, Peter Piot,\[^3\] former head of UNAIDS and now Dean of the London School of Hygiene and Tropical Medicine, and Mark Dybul,\[^4\] former head of the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) and the Global Fund and now at Georgetown University.
 
-It is what you read in the writings of Jon Cohen of Science,[^5] Chris Beyrer and Linda-Gail Bekker et al. in the International AIDS Society (IAS)_-Lancet_ Commission report,[^6] Richard Horton and Pamela Das of _The Lancet_,[^7] Laurie Garrett in _Foreign Policy_,[^8] and a reporter in _The Economist_.[^9]
+It is what you read in the writings of Jon Cohen of Science,\[^5\] Chris Beyrer and Linda-Gail Bekker et al. in the International AIDS Society (IAS)_-Lancet_ Commission report,\[^6\] Richard Horton and Pamela Das of _The Lancet_,\[^7\] Laurie Garrett in _Foreign Policy_,\[^8\] and a reporter in _The Economist_.\[^9\]
 
 Interestingly, this pronounced shift in tone and substance does not jettison pride and optimism. Rather, what you often encounter is an awkward back and forth between hope and pessimism. The result: HIV/AIDS has come to occupy an uncomfortable, unstable, and murky middle ground. It is a place of decidedly mixed sentiment, that frankly can be confusing and fragile, that feeds fear and uncertainty, and that begs for answers that remain elusive.
 
-## The Dilemma
+### **The Dilemma**
 
 Today the AIDS world faces a confounding dilemma.
 
-We are nearly two decades into realizing historic achievements—22 million of 38 million persons living with HIV are on life-sustaining antiretroviral treatment. In the past 20 years, those treatments have become more powerful, more convenient to take (from dozens of pills a day to single-tablet daily regimens), with fewer side effects, and at costs that are 1/100th of what they once were in lower- and middle-income countries. Especially in southern and eastern Africa, heavy investment by the United States (exceeding $80 billion since 2004), the Global Fund, and others has propelled countries toward achieving UNAIDS’ 90-90-90 goals of 90% who know their status, 90% of those who are on antiretroviral treatment, and 90% of those who have successfully suppressed the virus and ceased to transmit infections. That investment has created an impressive new public health infrastructure. PEPFAR in particular has demonstrated in a limited group of focal countries, that if there is real focus, commitment, resources, and partnerships, remarkable results are indeed possible. New data presented by PEPFAR at Amsterdam demonstrated the impressive progress achieved in Namibia.[^10]
+We are nearly two decades into realizing historic achievements—22 million of 38 million persons living with HIV are on life-sustaining antiretroviral treatment. In the past 20 years, those treatments have become more powerful, more convenient to take (from dozens of pills a day to single-tablet daily regimens), with fewer side effects, and at costs that are 1/100th of what they once were in lower- and middle-income countries. Especially in southern and eastern Africa, heavy investment by the United States (exceeding $80 billion since 2004), the Global Fund, and others has propelled countries toward achieving UNAIDS’ 90-90-90 goals of 90% who know their status, 90% of those who are on antiretroviral treatment, and 90% of those who have successfully suppressed the virus and ceased to transmit infections. That investment has created an impressive new public health infrastructure. PEPFAR in particular has demonstrated in a limited group of focal countries, that if there is real focus, commitment, resources, and partnerships, remarkable results are indeed possible. New data presented by PEPFAR at Amsterdam demonstrated the impressive progress achieved in Namibia.\[^10\]
 
 Yet countries that have demonstrated considerable success—Namibia, Botswana, eSwatini, Malawi—are beginning to look more like exceptions than vanguards, especially when placed against formidable, conspicuous barriers.
 
@@ -58,13 +60,13 @@ There is still no vaccine or cure, and no hope of seeing either in the near to m
 
 We are witnessing the steady erosion of high-level political commitments, combined with the erosion of a reliable and predictable financial base. Both deficits may widen into the future.
 
-The Institute of Health Metrics and Evaluation (IHME) at the University of Washington has documented how donor commitments dropped by $3 billion between 2012 and 2017.[^11] Kaiser Family Foundation and UNAIDS in their report released ahead of the Amsterdam documents how 8 of 14 major donors decreased their commitments in 2017.[^12] At the same time, national governments have failed to offset this decline with increased commitments.
+The Institute of Health Metrics and Evaluation (IHME) at the University of Washington has documented how donor commitments dropped by $3 billion between 2012 and 2017.\[^11\] Kaiser Family Foundation and UNAIDS in their report released ahead of the Amsterdam documents how 8 of 14 major donors decreased their commitments in 2017.\[^12\] At the same time, national governments have failed to offset this decline with increased commitments.
 
 At Amsterdam, the Dutch government succeeded in enlisting ten health ministers from Eastern Europe and Central Asia to join a closed-door dialogue that even included the Russians in the same room with Ukrainians: that was a very promising political step engineered through careful diplomatic finesse and commitment. But absent from Amsterdam were any heads of state, with the exception of former President Bill Clinton, now 18 years out of power. South Africa raised hope that it would fill the void with the appearance of the deputy president, but he was diverted to other priorities, just prior to the conference.
 
-![KOEN VAN WEEL/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914287/health-commission/180817_Aids_Conference.jpg "Former US President Bill Clinton speaks on the last day of the international aids conference AIDS2018 in Amsterdam on July 27, 2018.")
+![KOEN VAN WEEL/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914287/health-commission/180817_Aids_Conference.jpg "Former US President Bill Clinton speaks on the last day of the international aids conference AIDS2018 in Amsterdam on July 27, 2018. KOEN VAN WEEL/AFP/Getty Images")
 
-## What Happened?
+### **What Happened?**
 
 Many factors account for where we are today.
 
@@ -72,7 +74,7 @@ Gone is the threat of HIV/AIDS that seized the global community in the 1980s and
 
 There is instead today a widespread complacency, a function of success, hubris, and our own rhetoric. The convenient optimistic, rallying cries of just a few years ago—the declaration that we are near an “End to AIDS”—may have bolstered and sustained commitments in the short term, but such claims were premature and demobilized and desensitized opinion leaders. State leaders, legislators, and senior policymakers do not today see an acute threat from HIV/AIDS in the same way that it was understood to be a politically and destabilizing force around the turn of the millennium. Nor do they today understand the possibility of a resurgent HIV/AIDS epidemic, even though a case can be made that we do indeed face that threat, especially with the doubling of the youth population in sub-Saharan Africa in the next decades and persistent HIV infection rates. Nor do they see the full scope of the unfinished business, the 15 million living with HIV and the urgent need to expand prevention efforts. How to restore high-level attention is altogether unclear.
 
-Confidence has waned. As many countries creep closer to the 90-90-90 goals, we have had to grapple with the discovery that we remain still very distant from success and have had to recalibrate expectations accordingly. Even if these goals are achieved, 27 percent of all people living with HIV still would not be virally suppressed and hence be capable of continuing to pass on the virus. Aggressive action is needed to stay at or above those goals by continuing to put more people on treatment and stop new infections that would increase the overall number of people living with HIV.[^13]
+Confidence has waned. As many countries creep closer to the 90-90-90 goals, we have had to grapple with the discovery that we remain still very distant from success and have had to recalibrate expectations accordingly. Even if these goals are achieved, 27 percent of all people living with HIV still would not be virally suppressed and hence be capable of continuing to pass on the virus. Aggressive action is needed to stay at or above those goals by continuing to put more people on treatment and stop new infections that would increase the overall number of people living with HIV.\[^13\]
 
 Moreover, reaching the final “10-10- 10” is proving to be hugely problematic—politically, operationally, programmatically, and financially. It is that population that includes the most marginal, criminalized, stigmatized, vulnerable, and difficult to reach: men who have sex with men, injecting drug users, sex workers, young men between 15-35 years, and adolescent girls and young women. These are the populations that account for half of new infections and experience bewilderingly high rates of new infection. They are the populations likely to be living in the deepest poverty, with the least economic power and legal protections, and the greatest vulnerability to sexual violence.
 
@@ -84,7 +86,7 @@ Elsewhere, Russia’s menacing actions impede any international dialogue on refo
 
 The shadow of Russia’s malevolence was in evidence at the opening of “AIDS2018,” which featured a memorial to the five AIDS experts who were among the almost 300 victims of the shoot-down of Malaysia Flight 17 over Ukraine in July 2014, as it was heading for Melbourne, site of “AIDS2014.”. Investigators have subsequently tied that incident back to Moscow.
 
-## The World Has Changed
+### **The World Has Changed**
 
 Four shifts have also fundamentally changed the larger context for deliberations over the future of HIV/AIDS, making it far more difficult, not less, to command focus and commitment.
 
@@ -102,7 +104,7 @@ That historic, geopolitical shift is built on a shared discontent, anger, and in
 
 Thus far, priority targets for populist nationalists in the United States and elsewhere have been Western establishment political alliances, security pacts, and global trade relations, along with longstanding normative commitments on human rights and multilateralism.
 
-Luckily, HIV/AIDS up to now has not been expressly in the firing line. But neither has it been entirely spared: witness the expansion by the United States of the Mexico City Policy, known colloquially as the “global gag rule” that applies now to an estimated 470 international NGOs managing and estimated $900 million in programs.[^14] At the same time, the deteriorating respect for human rights and protections in many countries is directly threatening to the ability of HIV/AIDS programs to reach key populations.
+Luckily, HIV/AIDS up to now has not been expressly in the firing line. But neither has it been entirely spared: witness the expansion by the United States of the Mexico City Policy, known colloquially as the “global gag rule” that applies now to an estimated 470 international NGOs managing and estimated $900 million in programs.\[^14\] At the same time, the deteriorating respect for human rights and protections in many countries is directly threatening to the ability of HIV/AIDS programs to reach key populations.
 
 The two capitals who were the stalwart foundations of the decade-long steep ascent of HIV/AIDS and global health writ large—Washington and London—have flipped into the populist nationalist camps, creating an enormous new leadership vacuum. A resilient U.S. Congress has held the line against repeated Trump administration budgetary assaults, leveraging the realization that millions of lives are at-stake and reflecting the continued influence of advocates, former presidents, foundations, the faith community, and business. No less important, Ambassador Deborah Birx has retained leadership of PEPFAR.
 
@@ -110,9 +112,9 @@ Paradoxically, the fragile continuity of U.S. commitments in the Trump era was (
 
 The United States accounts today for $6 billion of the $8.1 billion of donor dollars committed to HIV/AIDS. As other donors have exited, the United States has stood its ground. That means that the United States looms ever larger and conspicuous as the lynchpin of global engagement on HIV. That unstable equilibrium is hardly a comfortable position to be in.
 
-![ROBERT VOS/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914393/health-commission/180817_red_ribbons.jpg "Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009.")
+![Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009. ROBERT VOS/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1537914393/health-commission/180817_red_ribbons.jpg "Activists place white crosses with red ribbons at the Museumplein in Amsterdam on December 1, 2009. ROBERT VOS/AFP/Getty Images")
 
-## What Now?
+### **What Now?**
 
 Where does this all leave us? Though there are no easy answers, a few options come to mind.
 
@@ -138,35 +140,36 @@ The single most important priority is protecting the vital U.S. program from pop
 
 Holding “AIDS2020” in San Francisco and Oakland, a source of controversy and debate in Amsterdam, will carry clear risks, in the degraded and polarized political and media environment in the United States. But it can also be an opportunity, if seized and managed correctly, in mobilizing bipartisan congressional participation and galvanizing support from the faith, advocacy, foundations, and business communities. “AIDS2020” can potentially help stir a new national debate over HIV/AIDS, at home and abroad.
 
-## Last Thought
+### **Last Thought**
 
 President Clinton declared on the closing day of the Amsterdam gathering that “There can be no Brexit for AIDS.” That remarkably astute and succinct statement captures where we are today: at the edge of real danger, but still able to resist and fight back. Realism has moved to center stage but not vanquished hope and optimism.
 
+***
 
-[^1]: Michel Sidibé, “Our Wake-Up Call,” (speech, Amsterdam, Netherlands, July 23, 2018), AIDS 2018,[http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf](http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf).
+\[^1\]: Michel Sidibé, “Our Wake-Up Call,” (speech, Amsterdam, Netherlands, July 23, 2018), AIDS 2018,[http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf](http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf "http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf").
 
-[^2]: Peter Sands, “Financing UHC and AIDS, TB and hepatitis elimination,” (panel discussion, Amsterdam, Netherlands, July 23, 2018), Eliminating AIDS epidemics on the road to universal health coverage, AIDS 2018.
+\[^2\]: Peter Sands, “Financing UHC and AIDS, TB and hepatitis elimination,” (panel discussion, Amsterdam, Netherlands, July 23, 2018), Eliminating AIDS epidemics on the road to universal health coverage, AIDS 2018.
 
-[^3]: Peter Piot, “Global health and the HIV response,” (speech, Amsterdam, Netherlands, July 26, 2018), AIDS 2018.
+\[^3\]: Peter Piot, “Global health and the HIV response,” (speech, Amsterdam, Netherlands, July 26, 2018), AIDS 2018.
 
-[^4]: Mark Dybul, “The future of funding the HIV response,” (speech, Amsterdam, Netherlands, July 22, 2018), Meeting the 90-90-90 targets: faster and better.
+\[^4\]: Mark Dybul, “The future of funding the HIV response,” (speech, Amsterdam, Netherlands, July 22, 2018), Meeting the 90-90-90 targets: faster and better.
 
-[^5]: Jon Cohen, "A Campaign to End AIDS by 2030 Is Faltering Worldwide," _Science \| AAAS_, July 31, 2018, [http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide](http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide).
+\[^5\]: Jon Cohen, "A Campaign to End AIDS by 2030 Is Faltering Worldwide," _Science | AAAS_, July 31, 2018,[http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide](http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide "http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide").
 
-[^6]: Linda-Gail Bekker et al., “Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society – Lancet Commission,” _The Lancet_ 392, no. 10144, (July 28, 2018): 312-358.
+\[^6\]: Linda-Gail Bekker et al., “Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society – Lancet Commission,” _The Lancet_ 392, no. 10144_,_(July 28, 2018): 312-358.
 
-[^7]: Pamela Das and Richard Horton, "Beyond the Silos: Integrating HIV and Global Health," _The Lancet_ 392, no. 10144 (July 28, 2018): 260-61.
+\[^7\]: Pamela Das and Richard Horton, "Beyond the Silos: Integrating HIV and Global Health," _The Lancet_ 392, no. 10144 (July 28, 2018): 260-61.
 
-[^8]: Laurie Garrett, "Welcome to the Next Deadly AIDS Pandemic," _Foreign Policy_, July 25, 2018,[https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/](https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/).
+\[^8\]: Laurie Garrett, "Welcome to the Next Deadly AIDS Pandemic," _Foreign Polic_y, July 25, 2018,[https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/](https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/ "https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/").
 
-[^9]: "A Certain Weariness Is Entering the War on AIDS. Wrongly so," _The Economist_, July 26, 2018,[https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so](https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so).
+\[^9\]: "A Certain Weariness Is Entering the War on AIDS. Wrongly so," _The Economist_, July 26, 2018,[https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so](https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so "https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so").
 
-[^10]: “New Data Show Dramatic Progress in Namibia Toward HIV Epidemic Control and Substantial Gaps in Cote d’Ivoire and Cameroon,” PEPFAR Press Release, July 25, 2018, [https://www.pepfar.gov/press/releases/284464.htm](https://www.pepfar.gov/press/releases/284464.htm).
+\[^10\]: “New Data Show Dramatic Progress in Namibia Toward HIV Epidemic Control and Substantial Gaps in Cote d’Ivoire and Cameroon,” PEPFAR Press Release, July 25, 2018, [https://www.pepfar.gov/press/releases/284464.htm](https://www.pepfar.gov/press/releases/284464.htm "https://www.pepfar.gov/press/releases/284464.htm").
 
-[^11]: Institute for Health Metrics and Evaluation (2018), “Financing Global Health 2017: Funding Universal Health Coverage and the Unfinished HIV/AIDS Agenda,”[http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf](http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf).
+\[^11\]: Institute for Health Metrics and Evaluation (2018), “Financing Global Health 2017: Funding Universal Health Coverage and the Unfinished HIV/AIDS Agenda,”[http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf](http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf "http://www.healthdata.org/sites/default/files/files/policy_report/2018/IHME_FGH_2017_fullreport.pdf").
 
-[^12]: Jennifer Kates, Adam Wexler, Eric Lief, and UNAIDS (2018), “Donor Government Funding for HIV in Low- and Middle-Income Countries in 2017,” [https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/](https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/).
+\[^12\]: Jennifer Kates, Adam Wexler, Eric Lief, and UNAIDS (2018), “Donor Government Funding for HIV in Low- and Middle-Income Countries in 2017,” [https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/](https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/ "https://www.kff.org/global-health-policy/report/donor-government-funding-for-hiv-in-low-and-middle-income-countries-in-2017/").
 
-[^13]: Peter Piot, “Global health and the HIV response,” (speech, Amsterdam, Netherlands, July 26, 2018), AIDS 2018; Achieving 90-90-90 means 90 percent of PLHIV know their status, 81 percent (90x90) of all PLHIV are on ART, and 73 percent (81x90) of all PLHIV are virally suppressed. Hence 27 percent of all PLHIV would not be virally suppressed if 90-90-90 is achieved.
+\[^13\]: Peter Piot, “Global health and the HIV response,” (speech, Amsterdam, Netherlands, July 26, 2018), AIDS 2018; Achieving 90-90-90 means 90 percent of PLHIV know their status, 81 percent (90x90) of all PLHIV are on ART, and 73 percent (81x90) of all PLHIV are virally suppressed. Hence 27 percent of all PLHIV would not be virally suppressed if 90-90-90 is achieved.
 
-[^14]: “New evidence shows far-reaching impact of expanded US ‘global gag rule,’” AIDS2018 Press Release, July 27, 2018, [http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D](http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D).
+\[^14\]: “New evidence shows far-reaching impact of expanded US ‘global gag rule,’” AIDS2018 Press Release_,_ July 27, 2018, [http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D](http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D "http://www.aids2018.org/Media-Centre/The-latest/Press-releases/ArticleID/194/New-evidence-shows-far-reaching-impact-of-expanded-US-%E2%80%9Cglobal-gag-rule%E2%80%9D").
