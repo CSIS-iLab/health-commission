@@ -46,10 +46,4 @@
   &__bio {
     @extend %body-text;
   }
-
-  &__photo {
-    width: $image-size;
-    height: $image-size;
-    margin: 0 auto;
-  }
 }
