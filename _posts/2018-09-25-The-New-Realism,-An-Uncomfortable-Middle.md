@@ -10,15 +10,15 @@ authors:
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: ''
-image_caption: 'Doug Brooks, Senior Director for Community Engagement, Gilead Sciences,
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1537914173/health-commission/GettyImages-1004594474.jpg
+image_caption: Doug Brooks, Senior Director for Community Engagement, Gilead Sciences,
   Paul Stoffels, Vice Chairman and Chief Scientific Officer, Johnson & Johnson, Ambassador
   Deborah L. Birx, U.S.ÊGlobal AIDS Coordinator & U.S. Special Representative for
   Global Health Diplomacy, Prince Harry, Duke of Sussex, Sir Elton John, Ndaba Mandela,
   Peter Sands, Executive Director, Global Fund, Anne Aslett, Executive Director, EJAF,
   Robert Matiru, Director of Operations, UNITAID, and Miles Kemplay, Executive Director,
   Adolescence, CIFF attend the Launch of the Menstar Coalition To Promote HIV Testing
-  & Treatment of Men on July 24, 2018 in Amsterdam, Netherlands. '
+  & Treatment of Men on July 24, 2018 in Amsterdam, Netherlands.
 image_credit: Michael Kovac/Getty Images for EJAF
 pdf: ''
 is_commission_related:
