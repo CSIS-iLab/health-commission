@@ -14,13 +14,14 @@ fields:
   label: IMAGE
 pages:
 - _authors/tom-frieden.md
-- _authors/jim-greenwood.md
-- _authors/anna-eshoo.md
+- _authors/Nellie-Bristol.md
 - _authors/jimmy-kolker.md
+- _authors/jim-greenwood.md
+- _authors/amanda-glassman.md
+- _authors/anna-eshoo.md
 - _authors/stephen-morrison.md
 - _authors/david-relman.md
 - _authors/rebecca-katz.md
-- _authors/amanda-glassman.md
 - _authors/rocco-casagrande.md
 - _authors/laura-holgate.md
 - _authors/julie-louise-gerberding-m-d-mph.md
@@ -28,7 +29,6 @@ pages:
 - _authors/Katherine-Bliss.md
 - _authors/Jonathan-Hillman.md
 - _authors/steve-davis.md
-- _authors/Nellie-Bristol.md
 - _authors/Cathryn-Streifel.md
 - _authors/Victor-Cha.md
 - _authors/Elhadj-Sy.md
