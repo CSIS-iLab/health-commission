@@ -11,8 +11,8 @@ authors:
 - _authors/jimmy-kolker.md
 - _authors/nancy-lindborg.md
 - _authors/christine-wormuth.md
-excerpt: A nurse tends to new-born infants in a ward at the Pyongyang Maternity Hospital
-  during a government-organised media tour in Pyongyang on May 7, 2016.
+excerpt: Health realities in North Korea are grim, poorly understood, and seldom studied
+  as part of the larger problem of potential instability on the Korean peninsula.
 content_type: commentary
 themes:
 - _themes/global-disorder.md
@@ -21,7 +21,7 @@ series: _series/health-security-dimensions-of-geopolitical-crises.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537912875/health-commission/GettyImages-528833666.jpg
 image_caption: A nurse tends to new-born infants in a ward at the Pyongyang Maternity
   Hospital during a government-organised media tour in Pyongyang on May 7, 2016.
-image_credit: "Ed Jones/AFP/Getty Images"
+image_credit: Ed Jones/AFP/Getty Images
 pdf: ''
 is_commission_related:
   description: ''
@@ -31,6 +31,7 @@ links: []
 keywords:
 - Tuberculosis
 - North Korea
+undefined: ''
 
 ---
 Health realities in North Korea are grim, poorly understood, and seldom studied as part of the larger problem of potential instability on the Korean peninsula. Yet, while accurate health data is often elusive and there is evidence of recent gains, the advanced state of deterioration is undeniable. Moreover, North Korea’s health decay is genuinely exceptional: in the dangers it poses, its unusual root causes, the astonishing contrast between North and South Korea, and the limited number and limited impact of key external organizations. This peculiar situation merits much higher attention, as we ponder the uncertain future of North Korea and the region at large–-whether the situation worsens, improves due to ongoing talks, or simply stays the same. There are proactive high-level diplomatic steps that the United States and others can and should initiate today to improve the immediate health and humanitarian situation inside North Korea, while planning for the future.  
