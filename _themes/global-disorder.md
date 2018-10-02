@@ -20,11 +20,11 @@ image_credit: Spencer Platt/Getty Images
 in_depth_overview: _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 featured_post: _posts/2018-09-13-Navigating-the-Ebola-Outbreak-in-the-Democratic-Republic-of-the-Congo.md
 further_reading: |-
-  UNHCR, “Figures at a Glance,” updated June 19, 2018, [http://www.unhcr.org/en-us/figures-at-a-glance.html.](http://www.unhcr.org/en-us/figures-at-a-glance.html. "http://www.unhcr.org/en-us/figures-at-a-glance.html.")
+  UNHCR, “Figures at a Glance,” updated June 19, 2018, [http://www.unhcr.org/en-us/figures-at-a-glance.html](http://www.unhcr.org/en-us/figures-at-a-glance.html. "http://www.unhcr.org/en-us/figures-at-a-glance.html.")
 
-  UN OCHA, “Global Humanitarian Overview 2017,” 2016, [https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.](https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf. "https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.")
+  UN OCHA, “Global Humanitarian Overview 2017,” 2016, [https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf](https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf. "https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf.")
 
-  Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/.](http://ucdp.uu.se/. "http://ucdp.uu.se/.")
+  Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/](http://ucdp.uu.se/. "http://ucdp.uu.se/.")
 short_description: ''
 
 ---
