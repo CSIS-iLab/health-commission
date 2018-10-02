@@ -15,13 +15,13 @@ image_credit: Safin Hamed/Stringer
 in_depth_overview: _posts/2018-09-13-accelerating-medical-countermeasures.md
 featured_post: _posts/2018-03-13-A-Ripe-Moment-for-Reducing-Vaccine-Preventable-Disease.md
 further_reading: |-
-  CEPI. “Mission.” Accessed August 2018. [http://cepi.net/mission.](http://cepi.net/mission. "http://cepi.net/mission.")
+  CEPI. “Mission.” Accessed August 2018. [http://cepi.net/mission](http://cepi.net/mission. "http://cepi.net/mission.")
 
-  Daschle, Tom, Judd Gregg, G. William Hoagland, and Anand Parekh. “Budgeting for Medical Countermeasures: An Ongoing Need for Preparedness.” Bipartisan Policy Center. February 2018. [https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf.](https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf. "https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf.")
+  Daschle, Tom, Judd Gregg, G. William Hoagland, and Anand Parekh. “Budgeting for Medical Countermeasures: An Ongoing Need for Preparedness.” Bipartisan Policy Center. February 2018. [https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf](https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf. "https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf.")
 
-  The National Academies of Sciences, Engineering, and Medicine Committee on Global Health and the Future of the United States. “Global Health and the Future Role of the United States (Consensus Study Report).” The National Academies Press. 2017. [http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.](http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx. "http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.")
+  The National Academies of Sciences, Engineering, and Medicine Committee on Global Health and the Future of the United States. “Global Health and the Future Role of the United States (Consensus Study Report).” The National Academies Press. 2017. [http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx](http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx. "http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.")
 
-  WHO. “An R&D Blueprint for Action to Prevent Epidemics: Plan of Action.” May 2016. [http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.](http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1. "http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.")
+  WHO. “An R&D Blueprint for Action to Prevent Epidemics: Plan of Action.” May 2016. [http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1](http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1. "http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.")
 short_description: ''
 
 ---
