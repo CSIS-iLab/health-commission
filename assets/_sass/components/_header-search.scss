@@ -58,6 +58,10 @@
         bottom: -$size-site-header-padding;
         z-index: 5;
         background-color: $color-dust;
+
+        @include breakpoint($breakpoint-desktop) {
+          display: none;
+        }
       }
 
       &:hover,

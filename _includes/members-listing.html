@@ -2,13 +2,13 @@
 {% include navigate-members.html %}
 <div class="member-directory">
 
-  <h2>{{ page.title | replace: " and Contributors", "" }}</h2>
+  <h2 id="commission_members">{{ page.title | replace: " and Contributors", "" }}</h2>
   {% for group in site.data.members %}
   <div class="group {{ group.type }}">
     {% if group.type == 'experts_advisors' or group.type == 'secretariat' %}
-    <h2>{{ group.title }} <a name="{{ group.type }}"></a></h2>
+    <h2 id="{{ group.type }}">{{ group.title }}</h2>
     {% else %}
-    <h3 class="group__title">{{ group.title }} <a name="{{ group.type }}"></a></h3>
+    <h3 class="group__title" id="{{ group.type }}">{{ group.title }}</h3>
     {% endif %}
 
     {% for member in site.data[group.type] %}
