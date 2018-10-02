@@ -31,4 +31,4 @@ The bleak health realities of North Korea are an understudied part of the larger
 
 Here is an exclusive preview of _The Gathering Health Storm Inside North Korea_, launching later this month.
 
-<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="[https://www.youtube.com/embed/5gAMXbKsNW8](https://www.youtube.com/embed/5gAMXbKsNW8 "https://www.youtube.com/embed/5gAMXbKsNW8")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/5gAMXbKsNW8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
