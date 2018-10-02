@@ -31,7 +31,7 @@ further_reading: |-
 
   The White House. “National Action Plan for Combating Antibiotic-Resistant Bacteria.” March 2015. [https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf](https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf "https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf")
 
-  WHO. “Antimicrobial resistance.” February 15, 2018. [http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.](http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. "http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.")
+  WHO. “Antimicrobial resistance.” February 15, 2018. [http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance](http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. "http://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.")
 
   World Health Assembly. “Global action plan on antimicrobial resistance.” May 2015. [http://www.who.int/antimicrobial-resistance/global-action-plan/en/](http://www.who.int/antimicrobial-resistance/global-action-plan/en/. "http://www.who.int/antimicrobial-resistance/global-action-plan/en/.")
 short_description: ''
