@@ -2,9 +2,8 @@
 title: Preventing and Responding to High-Risk Disease Outbreaks
 date: 2018-09-13 00:00:00 +0000
 authors: []
-excerpt: A man dressed in protective hazmat clothing treats the front porch of an
-  apartment where a second person diagnosed with the Ebola virus resides on October
-  12, 2014 in Dallas, Texas.
+excerpt: High-risk disease outbreaks are a real and growing threat to U.S. national
+  security at home and abroad.
 content_type: commentary
 themes:
 - _themes/high-risk-disease-outbreaks.md
@@ -21,6 +20,7 @@ is_commission_related:
 references: ''
 links: []
 keywords: []
+undefined: ''
 
 ---
 ## Key Challenges
