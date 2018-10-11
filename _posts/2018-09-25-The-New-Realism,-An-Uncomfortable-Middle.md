@@ -144,6 +144,8 @@ Holding “AIDS2020” in San Francisco and Oakland, a source of controversy and
 
 President Clinton declared on the closing day of the Amsterdam gathering that “There can be no Brexit for AIDS.” That remarkably astute and succinct statement captures where we are today: at the edge of real danger, but still able to resist and fight back. Realism has moved to center stage but not vanquished hope and optimism.
 
+***
+
 [^1]: Michel Sidibé, “Our Wake-Up Call,” (speech, Amsterdam, Netherlands, July 23, 2018), AIDS 2018, [http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf](http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf "http://www.unaids.org/sites/default/files/media_asset/20180723_EXD_SP_AIDS2018_en.pdf")
 
 [^2]: Peter Sands, “Financing UHC and AIDS, TB and hepatitis elimination,” (panel discussion, Amsterdam, Netherlands, July 23, 2018), Eliminating AIDS epidemics on the road to universal health coverage, AIDS 2018.
