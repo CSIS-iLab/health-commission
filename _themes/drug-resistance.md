@@ -21,13 +21,13 @@ image_credit: Yawar Nazir/Getty Images
 in_depth_overview: _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 featured_post: _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
 further_reading: |-
-  CDC. “Antibiotic/Antimicrobial Resistance.” Last updated March 29, 2018. [https://www.cdc.gov/drugresistance/index.html](https://www.cdc.gov/drugresistance/index.html. "https://www.cdc.gov/drugresistance/index.html.")
+  CDC. “Antibiotic/Antimicrobial Resistance.” Last updated March 29, 2018. [https://www.cdc.gov/drugresistance/index.html](https://www.cdc.gov/drugresistance/index.html "https://www.cdc.gov/drugresistance/index.html.")
 
-  CDC. “International Activities to Combat AR.” Last updated June 14, 2018. [https://www.cdc.gov/drugresistance/intl-actvities.html](https://www.cdc.gov/drugresistance/intl-actvities.html. "https://www.cdc.gov/drugresistance/intl-actvities.html.")
+  CDC. “International Activities to Combat AR.” Last updated June 14, 2018. [https://www.cdc.gov/drugresistance/intl-actvities.html](https://www.cdc.gov/drugresistance/intl-actvities.html "https://www.cdc.gov/drugresistance/intl-actvities.html.")
 
-  Coukell, Alan and Tim Jinks. “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project. October 26, 2016. [http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics](http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics. "http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.")
+  Coukell, Alan and Tim Jinks. “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project. October 26, 2016. [http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics](http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics "http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics.")
 
-  The Pew Charitable Trusts Antibiotic Resistance Project. “Trends in U.S. Antibiotic Use, 2018.” August 1, 2018. [http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview](http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview. "http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview.")
+  The Pew Charitable Trusts Antibiotic Resistance Project. “Trends in U.S. Antibiotic Use, 2018.” August 1, 2018. [http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview](http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview "http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/08/trends-in-us-antibiotic-use-2018#0-overview.")
 
   The White House. “National Action Plan for Combating Antibiotic-Resistant Bacteria.” March 2015. [https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf](https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf "https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf")
 
