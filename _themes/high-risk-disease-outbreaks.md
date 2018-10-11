@@ -13,19 +13,19 @@ featured_post: _posts/2018-09-13-Navigating-the-Ebola-Outbreak-in-the-Democratic
 excerpt: High-risk disease outbreaks are a real and growing threat to U.S. national
   security at home and abroad.
 further_reading: |-
-  Blue Ribbon Study Panel on Biodefense. “A National Blueprint for Biodefense: Leadership and Major Reform Needed to Optimize Efforts.” October 2015. [http://www.biodefensestudy.org/a-national-blueprint-for-biodefense](http://www.biodefensestudy.org/a-national-blueprint-for-biodefense. "http://www.biodefensestudy.org/a-national-blueprint-for-biodefense.")
+  Blue Ribbon Study Panel on Biodefense. “A National Blueprint for Biodefense: Leadership and Major Reform Needed to Optimize Efforts.” October 2015. [http://www.biodefensestudy.org/a-national-blueprint-for-biodefense](http://www.biodefensestudy.org/a-national-blueprint-for-biodefense "http://www.biodefensestudy.org/a-national-blueprint-for-biodefense.")
 
-  CDC. “All-Hazards Preparedness Guide.” March 2013. [https://www.cdc.gov/phpr/documents/AHPG_FINAL_March_2013.pdf](https://www.cdc.gov/phpr/documents/AHPG_FINAL_March_2013.pdf. "https://www.cdc.gov/phpr/documents/AHPG_FINAL_March_2013.pdf.")
+  CDC. “All-Hazards Preparedness Guide.” March 2013. [https://www.cdc.gov/phpr/documents/AHPG_FINAL_March_2013.pdf](https://www.cdc.gov/phpr/documents/AHPG_FINAL_March_2013.pdf "https://www.cdc.gov/phpr/documents/AHPG_FINAL_March_2013.pdf.")
 
-  DHS. “Planning.” 2018. [https://www.ready.gov/planning](https://www.ready.gov/planning. "https://www.ready.gov/planning.")
+  DHS. “Planning.” 2018. [https://www.ready.gov/planning](https://www.ready.gov/planning "https://www.ready.gov/planning.")
 
-  GHSA. “Global Health Security Agenda.” 2018. [https://www.ghsagenda.org/home](https://www.ghsagenda.org/home. "https://www.ghsagenda.org/home.")
+  GHSA. “Global Health Security Agenda.” 2018. [https://www.ghsagenda.org/home](https://www.ghsagenda.org/home "https://www.ghsagenda.org/home.")
 
-  HHS. “Pandemic Influenza Plan 2017 Update.” 2017. [https://www.cdc.gov/flu/pandemic-resources/pdf/pan-flu-report-2017v2.pdf](https://www.cdc.gov/flu/pandemic-resources/pdf/pan-flu-report-2017v2.pdf. "https://www.cdc.gov/flu/pandemic-resources/pdf/pan-flu-report-2017v2.pdf.")
+  HHS. “Pandemic Influenza Plan 2017 Update.” 2017. [https://www.cdc.gov/flu/pandemic-resources/pdf/pan-flu-report-2017v2.pdf](https://www.cdc.gov/flu/pandemic-resources/pdf/pan-flu-report-2017v2.pdf "https://www.cdc.gov/flu/pandemic-resources/pdf/pan-flu-report-2017v2.pdf.")
 
-  The White House. “National Security Strategy of the United States of America.” December 2017. [https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf](https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf. "https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf.")
+  The White House. “National Security Strategy of the United States of America.” December 2017. [https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf](https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf "https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf.")
 
-  WHO. “International Health Regulations (IHR).” 2018. [http://www.who.int/topics/international_health_regulations/en/](http://www.who.int/topics/international_health_regulations/en/. "http://www.who.int/topics/international_health_regulations/en/.")
+  WHO. “International Health Regulations (IHR).” 2018. [http://www.who.int/topics/international_health_regulations/en/](http://www.who.int/topics/international_health_regulations/en/ "http://www.who.int/topics/international_health_regulations/en/.")
 short_description: ''
 
 ---
