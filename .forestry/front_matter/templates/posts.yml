@@ -80,6 +80,7 @@ fields:
       format: markdown
 - type: text
 pages:
+- _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 - _posts/2018-10-02-preview-the-gathering-health-storm-inside-north-korea.md
 - _posts/2018-09-25-The-New-Realism,-An-Uncomfortable-Middle.md
 - _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
@@ -88,7 +89,6 @@ pages:
 - _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 - _posts/2017-04-17-Meeting-Basic-Health-Needs-in-a-Venezuela-in-Crisis-What-Roles-Can-the-United-States-and-International-Community-Play.md
 - _posts/2016-04-22-Ebola-in-America-Epidemic-of-Fear.md
-- _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
 - _posts/2018-09-13-managing-the-promise-and-threat-of-evolving-biotechnology.md
 - _posts/2018-09-13-accelerating-medical-countermeasures.md
 - _posts/2018-03-13-A-Ripe-Moment-for-Reducing-Vaccine-Preventable-Disease.md

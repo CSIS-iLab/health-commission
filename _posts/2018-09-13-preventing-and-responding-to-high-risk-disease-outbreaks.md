@@ -59,6 +59,8 @@ Global threats are domestic threats. For example, when Ebola erupted in West Afr
 
 The 2017 National Security Strategy explicitly states that the U.S. will work with other countries to detect and mitigate outbreaks early to prevent the spread of disease.[^14] This involves “encouraging other countries to invest in basic health care systems and to strengthen global health security across the intersection of human and animal health to prevent infectious disease outbreaks.”[^15] Naturally-occurring virus outbreaks, including Ebola and SARS, and the deliberate 2001 anthrax attacks were recognized as national security threats that can exact tolls on American public health and economic gains.[^16]
 
+***
+
 [^1]:WHO, “The World Health Report 2007: A Safer Future – Global Public Health Security in the 21st Century,” 2007, [http://www.who.int/whr/2007/whr07_en.pdf?ua=1.](http://www.who.int/whr/2007/whr07_en.pdf?ua=1. "http://www.who.int/whr/2007/whr07_en.pdf?ua=1.")
 
 [^2]:Baylor College of Medicine, “Emerging Infectious Diseases,” 2018, [https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases.](https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases. "https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases.")
