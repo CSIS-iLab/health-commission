@@ -65,7 +65,7 @@ One promising new effort is the Coalition for Epidemic Preparedness Innovations 
 
 [^4]: Cynthia Bascetta, “Public Health Preparedness: Developing and Acquiring Medical Countermeasures Against Chemical, Biological, Radiological, and Nuclear Agents (Testimony Before the Subcommittee on Emergency Preparedness, Response, and Communications, Committee on Homeland Security, House of Representatives),” GAO-11-567T, April 13, 2011, [https://www.gao.gov/assets/130/126034.pdf](https://www.gao.gov/assets/130/126034.pdf "https://www.gao.gov/assets/130/126034.pdf")
 
-[^5]: HHS ASPR, “Fiscal Year 2018 Budget-in-Brief: Public Health and Social Services Emergency Fund,” 2018, [https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf](https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf "https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf.")
+[^5]: HHS ASPR, “Fiscal Year 2018 Budget-in-Brief: Public Health and Social Services Emergency Fund,” 2018, [https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf](https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf "https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf")
 
 [^6]: Rick Bright, “Examining U.S. Public Health Preparedness for and Response Efforts to Seasonal Influenza (Written Testimony for the House Committee on Energy and Commerce, Subcommittee on Oversight and Investigations),” HHS ASPR, March 8, 2018, [https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf](https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf "https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf")
 
