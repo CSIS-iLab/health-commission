@@ -158,7 +158,7 @@ President Clinton declared on the closing day of the Amsterdam gathering that â€
 
 [^7]: Pamela Das and Richard Horton, "Beyond the Silos: Integrating HIV and Global Health," _The Lancet_ 392, no. 10144 (July 28, 2018): 260-61.
 
-[^8]: Laurie Garrett, "Welcome to the Next Deadly AIDS Pandemic," _Foreign Policy_, July 25, 2018,[https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/](https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/ "https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/")
+[^8]: Laurie Garrett, "Welcome to the Next Deadly AIDS Pandemic," _Foreign Policy_, July 25, 2018, [https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/](https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/ "https://foreignpolicy.com/2018/07/25/welcome-to-the-next-deadly-aids-pandemic/")
 
 [^9]: "A Certain Weariness Is Entering the War on AIDS. Wrongly so," _The Economist_, July 26, 2018,[https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so](https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so "https://www.economist.com/science-and-technology/2018/07/26/a-certain-weariness-is-entering-the-war-on-aids-wrongly-so")
 
