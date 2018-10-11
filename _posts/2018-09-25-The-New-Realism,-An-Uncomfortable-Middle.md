@@ -152,7 +152,7 @@ President Clinton declared on the closing day of the Amsterdam gathering that �
 
 [^4]: Mark Dybul, “The future of funding the HIV response,” (speech, Amsterdam, Netherlands, July 22, 2018), Meeting the 90-90-90 targets: faster and better.
 
-[^5]: Jon Cohen, "A Campaign to End AIDS by 2030 Is Faltering Worldwide," _Science and AAAS_, July 31, 2018, [http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide](http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide "http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide")
+[^5]: Jon Cohen, "A Campaign to End AIDS by 2030 Is Faltering Worldwide," _Science_, _AAAS_, July 31, 2018, [http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide](http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide "http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide")
 
 [^6]: Linda-Gail Bekker et al., “Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society – Lancet Commission,” _The Lancet_ 392, no. 10144_,_(July 28, 2018): 312-358.
 
