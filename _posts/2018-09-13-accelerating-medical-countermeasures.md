@@ -20,13 +20,14 @@ is_commission_related:
 references: ''
 links: []
 keywords: []
+undefined: ''
 
 ---
 ## Key Challenges
 
 ### Supply Shortfalls
 
-According to a 2016 report from the Trust for America’s Health, 40 percent of states lack backup medical supplies to cope with a pandemic influenza or other major outbreak.[^1] The 2018 flu highlights critical shortfalls in the vaccine and medical product supply chain. Dependent upon imports for 75-80 percent of raw materials for drugs, the United States remains vulnerable to shortages and an uncertain ability to meet sudden surges in demand.[^2]
+According to a 2016 report from the Trust for America’s Health, 40 percent of states lack backup medical supplies to cope with a pandemic influenza or other major outbreak.\[^1\] The 2018 flu highlights critical shortfalls in the vaccine and medical product supply chain. Dependent upon imports for 75-80 percent of raw materials for drugs, the United States remains vulnerable to shortages and an uncertain ability to meet sudden surges in demand.\[^2]
 
 ### Development Time and Resources
 
@@ -56,28 +57,28 @@ Over 20 organizations have been established over the last ten years to stimulate
 
 One promising new effort is the Coalition for Epidemic Preparedness Innovations (CEPI), an alliance launched in early 2017.[^13] With early capital pledges of $630 million, CEPI is prioritizing the development of two kinds of vaccines in its first five years: “just in case” vaccines developed to combat a single pathogen (CEPI has chosen to focus on vaccines for MERS-CoV, Lassa, and Nipah viruses) and “just in time” vaccines focusing on the development and validation of versatile and fast R&D platform technologies that can be applied to a range of infectious diseases, including a currently unknown Pathogen X, in the event of a potential epidemic. Speed is essential: these platforms need to be able to produce a vaccine for testing within a maximum of 16 weeks from identification and sequencing of a novel pathogen.
 
-[^1]: Trust for America’s Health, “Ready or Not? Protecting the Public from Diseases, Disasters, and Bioterrorism,” December 2016, [http://healthyamericans.org/reports/readyornot2016/.](http://healthyamericans.org/reports/readyornot2016/. "http://healthyamericans.org/reports/readyornot2016/.")
+[^1]: Trust for America’s Health, “Ready or Not? Protecting the Public from Diseases, Disasters, and Bioterrorism,” December 2016, [http://healthyamericans.org/reports/readyornot2016/](http://healthyamericans.org/reports/readyornot2016/ "http://healthyamericans.org/reports/readyornot2016/")
 
-[^2]: The National Academies of Sciences, Engineering, and Medicine Committee on Global Health and the Future of the United States, “Global Health and the Future Role of the United States (Consensus Study Report),” The National Academies Press, 2017, [http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.](http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx. "http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx.")
+[^2]: The National Academies of Sciences, Engineering, and Medicine Committee on Global Health and the Future of the United States, “Global Health and the Future Role of the United States (Consensus Study Report),” The National Academies Press, 2017, [http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx](http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx "http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx")
 
-[^3]: Tom Daschle, Judd Gregg, G. William Hoagland, and Anand Parekh, “Budgeting for Medical Countermeasures: An Ongoing Need for Preparedness,” Bipartisan Policy Center, February 2018, [https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf.](https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf. "https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf.")
+[^3]: Tom Daschle, Judd Gregg, G. William Hoagland, and Anand Parekh, “Budgeting for Medical Countermeasures: An Ongoing Need for Preparedness,” Bipartisan Policy Center, February 2018, [https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf](https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf "https://bipartisanpolicy.org/wp-content/uploads/2018/02/BPC-Health-Budgeting-For-Medical-Countermeasures-An-Ongoing-Need-For-Preparedness.pdf")
 
-[^4]: Cynthia Bascetta, “Public Health Preparedness: Developing and Acquiring Medical Countermeasures Against Chemical, Biological, Radiological, and Nuclear Agents (Testimony Before the Subcommittee on Emergency Preparedness, Response, and Communications, Committee on Homeland Security, House of Representatives),” GAO-11-567T, April 13, 2011, [https://www.gao.gov/assets/130/126034.pdf.](https://www.gao.gov/assets/130/126034.pdf. "https://www.gao.gov/assets/130/126034.pdf.")
+[^4]: Cynthia Bascetta, “Public Health Preparedness: Developing and Acquiring Medical Countermeasures Against Chemical, Biological, Radiological, and Nuclear Agents (Testimony Before the Subcommittee on Emergency Preparedness, Response, and Communications, Committee on Homeland Security, House of Representatives),” GAO-11-567T, April 13, 2011, [https://www.gao.gov/assets/130/126034.pdf](https://www.gao.gov/assets/130/126034.pdf "https://www.gao.gov/assets/130/126034.pdf")
 
-[^5]: HHS ASPR, “Fiscal Year 2018 Budget-in-Brief: Public Health and Social Services Emergency Fund,” 2018, [https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf.](https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf. "https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf.")
+[^5]: HHS ASPR, “Fiscal Year 2018 Budget-in-Brief: Public Health and Social Services Emergency Fund,” 2018, [https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf](https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf "https://www.phe.gov/about/ofpa/Documents/bib-2018.pdf.")
 
-[^6]: Rick Bright, “Examining U.S. Public Health Preparedness for and Response Efforts to Seasonal Influenza (Written Testimony for the House Committee on Energy and Commerce, Subcommittee on Oversight and Investigations),” HHS ASPR, March 8, 2018, [https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf.](https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf. "https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf.")
+[^6]: Rick Bright, “Examining U.S. Public Health Preparedness for and Response Efforts to Seasonal Influenza (Written Testimony for the House Committee on Energy and Commerce, Subcommittee on Oversight and Investigations),” HHS ASPR, March 8, 2018, [https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf](https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf "https://docs.house.gov/meetings/IF/IF02/20180308/106967/HHRG-115-IF02-Wstate-BrightR-20180308.pdf")
 
 [^7]: HHS ASPR, “Fiscal Year 2018 Budget-in-Brief: Public Health and Social Services Emergency Fund.”
 
-[^8]: National Biodefense Science Board and Office of Public health Preparedness and Response Board of Scientific Counselors, “Anticipated Responsibilities of the Strategic National Stockpile (SNS) in the Year 2020: An Examination with Recommendations,” April 2013, [https://www.phe.gov/Preparedness/legal/boards/nprsb/recommendations/Documents/nbsb-bsc-sns-2020-final.pdf.](https://www.phe.gov/Preparedness/legal/boards/nprsb/recommendations/Documents/nbsb-bsc-sns-2020-final.pdf. "https://www.phe.gov/Preparedness/legal/boards/nprsb/recommendations/Documents/nbsb-bsc-sns-2020-final.pdf.")
+[^8]: National Biodefense Science Board and Office of Public health Preparedness and Response Board of Scientific Counselors, “Anticipated Responsibilities of the Strategic National Stockpile (SNS) in the Year 2020: An Examination with Recommendations,” April 2013, [https://www.phe.gov/Preparedness/legal/boards/nprsb/recommendations/Documents/nbsb-bsc-sns-2020-final.pdf](https://www.phe.gov/Preparedness/legal/boards/nprsb/recommendations/Documents/nbsb-bsc-sns-2020-final.pdf "https://www.phe.gov/Preparedness/legal/boards/nprsb/recommendations/Documents/nbsb-bsc-sns-2020-final.pdf")
 
 [^9]: Bascetta, “Public Health Preparedness: Developing and Acquiring Medical Countermeasures Against Chemical, Biological, Radiological, and Nuclear Agents (Testimony Before the Subcommittee on Emergency Preparedness, Response, and Communications, Committee on Homeland Security, House of Representatives).”
 
-[^10]: GAO, “Biological Defense: DOD has strengthened coordination on medical countermeasures but can improve its process for threat prioritization,” May 2014, [https://www.gao.gov/assets/670/663212.pdf.](https://www.gao.gov/assets/670/663212.pdf. "https://www.gao.gov/assets/670/663212.pdf.")
+[^10]: GAO, “Biological Defense: DOD has strengthened coordination on medical countermeasures but can improve its process for threat prioritization,” May 2014, [https://www.gao.gov/assets/670/663212.pdf](https://www.gao.gov/assets/670/663212.pdf "https://www.gao.gov/assets/670/663212.pdf")
 
 [^11]: Daschle, Gregg, Hoagland, and Parekh, “Budgeting for Medical Countermeasures: An Ongoing Need for Preparedness.”
 
-[^12]: WHO, “An R&D Blueprint for Action to Prevent Epidemics: Plan of Action,” May 2016, [http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.](http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1. "http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1.")
+[^12]: WHO, “An R&D Blueprint for Action to Prevent Epidemics: Plan of Action,” May 2016, [http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1](http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1 "http://www.who.int/blueprint/about/r_d_blueprint_plan_of_action.pdf?ua=1")
 
-[^13]: CEPI, “Mission,” accessed August 2018, [http://cepi.net/mission.](http://cepi.net/mission. "http://cepi.net/mission.")
+[^13]: CEPI, “Mission,” accessed August 2018, [http://cepi.net/mission](http://cepi.net/mission "http://cepi.net/mission")
