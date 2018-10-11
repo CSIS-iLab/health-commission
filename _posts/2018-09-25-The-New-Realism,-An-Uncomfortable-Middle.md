@@ -40,7 +40,7 @@ Collectively, a large number of the leading figures at Amsterdam painted a commo
 
 This is the new prevailing consensus, the new realism. It is what you heard in listening in Amsterdam to the individual public remarks of Michel Sidibé,[^1] head of UNAIDS, Peter Sands,[^2] head of the Global Fund to Fight AIDS, Tuberculosis and Malaria, Peter Piot,[^3] former head of UNAIDS and now Dean of the London School of Hygiene and Tropical Medicine, and Mark Dybul,[^4] former head of the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) and the Global Fund and now at Georgetown University.
 
-It is what you read in the writings of Jon Cohen of Science, Chris Beyrer[^5] and Linda-Gail Bekker et al. in the International AIDS Society (IAS)_-Lancet_ Commission report,[^6] Richard Horton and Pamela Das of _The Lancet_,[^7] Laurie Garrett in _Foreign Policy_,[^8] and a reporter in _The Economist_.[^9]
+It is what you read in the writings of Jon Cohen of Science, Chris Beyrer/[^5/] and Linda-Gail Bekker et al. in the International AIDS Society (IAS)_-Lancet_ Commission report,[^6] Richard Horton and Pamela Das of _The Lancet_,[^7] Laurie Garrett in _Foreign Policy_,[^8] and a reporter in _The Economist_.[^9]
 
 Interestingly, this pronounced shift in tone and substance does not jettison pride and optimism. Rather, what you often encounter is an awkward back and forth between hope and pessimism. The result: HIV/AIDS has come to occupy an uncomfortable, unstable, and murky middle ground. It is a place of decidedly mixed sentiment, that frankly can be confusing and fragile, that feeds fear and uncertainty, and that begs for answers that remain elusive.
 
