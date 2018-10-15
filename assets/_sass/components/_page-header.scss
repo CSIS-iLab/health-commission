@@ -7,7 +7,7 @@
   display: flex;
   align-items: flex-end;
   min-height: calc(
-    #{$size-vertical-height} - #{$size-page-highlights-height-mobile}
+    #{$size-page-header-min-height-mobile} - #{$size-page-highlights-height-mobile}
   );
   padding: 3rem 0 1rem;
   background-color: $color-slate;
@@ -15,7 +15,7 @@
   background-position: center center;
   background-size: cover;
 
-  @include breakpoint('medium') {
+  @include breakpoint('small') {
     min-height: $size-page-header-min-height-desktop;
   }
 
