@@ -279,7 +279,7 @@
 
       li {
         padding: 0.25rem 0;
-        
+
         @include breakpoint($breakpoint-desktop) {
           margin: 1rem 0 0;
           padding: 0;
@@ -347,6 +347,7 @@
         a {
           position: relative;
           color: $color-dust;
+          font-style: italic;
 
           &:hover {
             color: $color-dark-sand;
@@ -357,7 +358,7 @@
             display: block;
             position: absolute;
             top: 50%;
-            left: 62%;
+            left: calc(100% - 127px);
             width: 35px;
             height: 1px;
             background-color: $color-slate;
@@ -368,4 +369,3 @@
 
   }
 }
-
