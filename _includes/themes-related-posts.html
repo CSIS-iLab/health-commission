@@ -11,5 +11,7 @@
   {% for post in theme_posts limit: post_list_limit %}
   {% include post-block.html %}
   {% endfor %}
+  {% if theme_posts.size > 3 %}
   <a href="{{ site.theme_url | append: page.short_title }}" class="btn btn--dark-gray themes__more-posts">{{ site.data.language.single_post.more_posts }}</a>
+  {% endif %}
 </div>
