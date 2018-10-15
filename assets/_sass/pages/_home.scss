@@ -169,7 +169,7 @@
     }
 
     @include breakpoint($breakpoint-desktop) {
-      width: calc(25vw + #{$size-wrapper-padding};
+      width: calc(25vw + #{$size-wrapper-padding});
       left: unset;
       right: unset;
       margin-left: -#{$size-wrapper-padding};
