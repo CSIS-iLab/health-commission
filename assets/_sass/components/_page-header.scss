@@ -6,12 +6,20 @@
   @extend %full-width-content;
   display: flex;
   align-items: flex-end;
-  min-height: 600px;
+  min-height: calc(
+    #{$size-vertical-height} - #{$size-page-highlights-height-mobile}
+  );
+  // $size-page-header-min-height-mobile;
+  // min-height: 100vh - #{$size-page-highlights-height-mobile};
   padding: 3rem 0 1rem;
   background-color: $color-slate;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+
+  @include breakpoint('medium') {
+    min-height: $size-page-header-min-height-desktop;
+  }
 
   &::before {
     content: '';
