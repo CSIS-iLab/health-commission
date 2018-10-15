@@ -95,7 +95,7 @@
       @include breakpoint('medium') {
         padding-right: 33%;
         @include font-size(72px);
-        line-height: 1.21; 
+        line-height: 1.21;
       }
     }
 
@@ -179,7 +179,7 @@
     @include breakpoint($size-wrapper-full-max-width) {
       width: 100%;
       margin-left: 0;
-      @include fullWidthBackground($color-off-white, left);
+      @include fullWidthBackground($color-darkest-blue, left);
     }
   }
 
@@ -396,7 +396,7 @@
     padding: $padding 0;
 
     @include breakpoint($breakpoint-desktop) {
-     padding: $padding; 
+     padding: $padding;
     }
 
     .post-block {
@@ -462,7 +462,7 @@
         @include breakpoint($breakpoint-desktop) {
           margin-top: 1rem;
           padding-top: 1rem;
-         border-top: 1px solid $color-silver; 
+         border-top: 1px solid $color-silver;
         }
       }
     }
@@ -527,7 +527,7 @@
       @each $name, $colors in $themes {
         $color: nth($colors, 1);
         $hover: nth($colors, 2);
-         
+
         &.home__themes-item--#{$name} {
           &::before {
             background-color: $color;
@@ -540,7 +540,7 @@
           &:hover a {
             color: $hover;
           }
-        }  
+        }
       }
     }
 
@@ -571,4 +571,3 @@
     }
   }
 }
-
