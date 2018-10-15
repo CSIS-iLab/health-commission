@@ -9,8 +9,6 @@
   min-height: calc(
     #{$size-vertical-height} - #{$size-page-highlights-height-mobile}
   );
-  // $size-page-header-min-height-mobile;
-  // min-height: 100vh - #{$size-page-highlights-height-mobile};
   padding: 3rem 0 1rem;
   background-color: $color-slate;
   background-repeat: no-repeat;
