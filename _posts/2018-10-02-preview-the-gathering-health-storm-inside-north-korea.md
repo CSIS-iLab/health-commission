@@ -4,8 +4,8 @@ keywords:
 - Video
 date: 2018-10-02 00:00:00 +0000
 content_type: commentary
-excerpt: _The Gathering Health Storm Inside North Korea_ examines the rapid decay
-  of North Korea’s health systems and the dangers it poses to neighboring countries,
+excerpt: The Gathering Health Storm Inside North Korea examines the rapid decay of
+  North Korea’s health systems and the dangers it poses to neighboring countries,
   through interviews with experts on North Korea and health security and exclusive
   footage from inside the little-seen nation.
 authors:
