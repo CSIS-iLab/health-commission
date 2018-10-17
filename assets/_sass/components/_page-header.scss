@@ -6,12 +6,18 @@
   @extend %full-width-content;
   display: flex;
   align-items: flex-end;
-  min-height: 600px;
+  min-height: calc(
+    #{$size-page-header-min-height-mobile} - #{$size-page-highlights-height-mobile}
+  );
   padding: 3rem 0 1rem;
   background-color: $color-slate;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+
+  @include breakpoint('small') {
+    min-height: $size-page-header-min-height-desktop;
+  }
 
   &::before {
     content: '';
