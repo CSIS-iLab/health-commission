@@ -111,7 +111,6 @@
     display: flex;
     align-items: center;
     background-color: $color-white;
-    @include fullWidthBackground($color-white);
     transition: visibility 0s, opacity 0s, transform 0.3s 0.3s linear;
 
     &.is-active {
