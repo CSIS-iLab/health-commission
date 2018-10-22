@@ -220,7 +220,7 @@
         }
 
         #{$s}__dropdown {
-          display: block;
+          max-height: 500px;
           margin-left: 2rem;
 
           @include breakpoint($breakpoint-desktop) {
@@ -228,6 +228,7 @@
             top: calc(100% + #{$size-site-header-padding});
             left: $size-wrapper-padding;
             right: $size-wrapper-padding;
+            max-height: unset;
             margin-left: 0;
             padding: 1rem 0;
             display: grid;
@@ -237,7 +238,7 @@
             visibility: visible;
             opacity: 1;
             background-color: $color-dark-blue;
-           @include fullWidthBackground($color-dark-blue);
+            @include fullWidthBackground($color-dark-blue);
 
             * {
               display: block;
@@ -253,13 +254,17 @@
     }
 
     #{$s}__dropdown {
-      display: none;
+      display: block;
+      max-height: 0;
+      overflow: hidden;
+      transition: all 0.3s ease-in-out;
 
       @include breakpoint($breakpoint-desktop) {
         position: absolute;
         display: block;
         visibility: hidden;
         opacity: 0;
+        overflow: unset;
         transition: visibility 0s, opacity 0.2s ease-in-out;
 
         & * {
