@@ -12,6 +12,7 @@ const Members = () => {
 
   document.querySelector('.member-directory').addEventListener('click', e => {
     if (e.target.classList.contains('btn')) {
+      document.body.classList.add('menu-open')
       modal.style.display = 'block'
       overlay.style.display = 'block'
       container.scrollTop = 0
@@ -52,6 +53,7 @@ const Members = () => {
 
 const toggleNavigator = () => {
   list.classList.toggle('hide')
+  document.body.classList.add('menu-open')
   overlay.style.display = overlay.style.display === 'block' ? 'none' : 'block'
 }
 
@@ -75,6 +77,7 @@ const exit = () => {
   modal.style.display = 'none'
   overlay.style.display = 'none'
   list.classList.add('hide')
+  document.body.classList.remove('menu-open')
 }
 
 window.addEventListener('DOMContentLoaded', () => {
