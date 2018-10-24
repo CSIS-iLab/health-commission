@@ -1,4 +1,5 @@
 let modal, overlay, close, container, navigator, list
+import scroll from '@threespot/freeze-scroll'
 
 const Members = () => {
   modal = document.querySelector('.modal')
@@ -12,7 +13,7 @@ const Members = () => {
 
   document.querySelector('.member-directory').addEventListener('click', e => {
     if (e.target.classList.contains('btn')) {
-      document.body.classList.add('menu-open')
+      scroll.freeze()
       modal.style.display = 'block'
       overlay.style.display = 'block'
       container.scrollTop = 0
@@ -53,7 +54,7 @@ const Members = () => {
 
 const toggleNavigator = () => {
   list.classList.toggle('hide')
-  document.body.classList.add('menu-open')
+  scroll.freeze()
   overlay.style.display = overlay.style.display === 'block' ? 'none' : 'block'
 }
 
@@ -77,7 +78,7 @@ const exit = () => {
   modal.style.display = 'none'
   overlay.style.display = 'none'
   list.classList.add('hide')
-  document.body.classList.remove('menu-open')
+  scroll.unfreeze()
 }
 
 window.addEventListener('DOMContentLoaded', () => {
