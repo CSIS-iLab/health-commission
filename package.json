@@ -58,6 +58,7 @@
     "yargs": "^12.0.2"
   },
   "dependencies": {
+    "@threespot/freeze-scroll": "^1.0.3",
     "clipboard": "^2.0.1",
     "instantsearch.js": "^2.10.4"
   }
