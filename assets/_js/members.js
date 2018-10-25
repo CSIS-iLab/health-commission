@@ -1,5 +1,5 @@
-let modal, overlay, close, container, navigator, list
 import scroll from '@threespot/freeze-scroll'
+let modal, overlay, close, container, navigator, list
 
 const Members = () => {
   modal = document.querySelector('.modal')
