@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.1"
+gem "jekyll", "~> 3.8.4"
 gem "public_suffix", "3.0.3"
 gem "algoliasearch", "1.6.1"
 
@@ -28,4 +28,3 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
