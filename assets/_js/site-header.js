@@ -30,59 +30,59 @@ const siteHeader = () => {
   }
 
   window.addEventListener('scroll', function() {
-    if (document.classList.contains('js-no-scroll')) {
+    if (document.documentElement.classList.contains('js-no-scroll')) {
       return false
+    }
+
+    scrollPos = window.scrollY
+
+    if (Math.abs(lastScrollPos - scrollPos) <= visibleNavDelta) {
+      return
+    }
+
+    if (
+      scrollPos >= header_height ||
+      document.body.classList.contains('menu-open')
+    ) {
+      doHideHeader = true
+      add_class_on_scroll(minimal_class)
+      remove_class_on_scroll(trigger_minimal_class)
     } else {
-      scrollPos = window.scrollY
+      doHideHeader = false
+      remove_class_on_scroll(minimal_class)
+      remove_class_on_scroll(hiddenNavClass)
+      add_class_on_scroll(trigger_minimal_class)
+    }
 
-      if (Math.abs(lastScrollPos - scrollPos) <= visibleNavDelta) {
-        return
-      }
-
-      if (
-        scrollPos >= header_height ||
-        document.body.classList.contains('menu-open')
-      ) {
-        doHideHeader = true
-        add_class_on_scroll(minimal_class)
-        remove_class_on_scroll(trigger_minimal_class)
+    if (postBar) {
+      if (scrollPos > postContentTop) {
+        showPostBar()
       } else {
-        doHideHeader = false
-        remove_class_on_scroll(minimal_class)
-        remove_class_on_scroll(hiddenNavClass)
-        add_class_on_scroll(trigger_minimal_class)
+        hidePostBar()
       }
+    }
 
-      if (postBar) {
-        if (scrollPos > postContentTop) {
-          showPostBar()
-        } else {
+    if (!doHideHeader) {
+      return
+    }
+
+    if (scrollPos > lastScrollPos && scrollPos > header_height) {
+      add_class_on_scroll(hiddenNavClass)
+    } else {
+      if (
+        scrollPos +
+        window.innerHeight +
+        document.documentElement.scrollHeight
+      ) {
+        remove_class_on_scroll(hiddenNavClass)
+
+        if (postBar) {
           hidePostBar()
         }
       }
-
-      if (!doHideHeader) {
-        return
-      }
-
-      if (scrollPos > lastScrollPos && scrollPos > header_height) {
-        add_class_on_scroll(hiddenNavClass)
-      } else {
-        if (
-          scrollPos +
-          window.innerHeight +
-          document.documentElement.scrollHeight
-        ) {
-          remove_class_on_scroll(hiddenNavClass)
-
-          if (postBar) {
-            hidePostBar()
-          }
-        }
-      }
-
-      lastScrollPos = scrollPos
     }
+
+    lastScrollPos = scrollPos
   })
 
   function showPostBar() {
