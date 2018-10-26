@@ -31,6 +31,7 @@ const siteHeader = () => {
 
   window.addEventListener('scroll', function() {
     if (document.documentElement.classList.contains('js-no-scroll')) {
+      add_class_on_scroll(hiddenNavClass)
       return false
     }
 
