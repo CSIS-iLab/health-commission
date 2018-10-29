@@ -65,13 +65,13 @@ For more information on what is included and modifying the default configuration
 When modifying the code base, always make a new branch. Unless it's necessary to do otherwise, all branches should be created off of `master`.
 
 Branches should use the following naming conventions:
-| Branch type | Name       | Example                     |
-|-------------|------------|-----------------------------|
-| New Feature | `feature/<short description of feature>` | `feature/header-navigation` |
-| Bug Fixes   | `bug/<short description of bug>`| `bug/mobile-navigation` |
-| Documentation | `docs/<short description of documentation being updated>` | `docs/readme` |
-| Code clean-up/refactoring | `refactor/<short description>` | `refactor/apply-linting` |
-| Content Updates | `content/<short description of content>` | `content/add-new-posts` |
+| Branch type               | Name                                                      | Example                     |
+|---------------------------|-----------------------------------------------------------|-----------------------------|
+| New Feature               | `feature/<short description of feature>`                  | `feature/header-navigation` |
+| Bug Fixes                 | `bug/<short description of bug>`                          | `bug/mobile-navigation`     |
+| Documentation             | `docs/<short description of documentation being updated>` | `docs/readme`               |
+| Code clean-up/refactoring | `refactor/<short description>`                            | `refactor/apply-linting`    |
+| Content Updates           | `content/<short description of content>`                  | `content/add-new-posts`     |
 
 When ready to merge, submit a Pull Request into `master`. All code will be reviewed by the lead developer on the project before being merged into `master`.
 
