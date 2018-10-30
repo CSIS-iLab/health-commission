@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/Justin-Kenny.md
 - _authors/tom-frieden.md
 - _authors/Nellie-Bristol.md
 - _authors/jimmy-kolker.md
@@ -38,7 +39,6 @@ pages:
 - _authors/Daniel-Lucey.md
 - _authors/Peter-Salama.md
 - _authors/Jacki-Lyden.md
-- _authors/Justin-Kenny.md
 - _authors/Kee-Park.md
 - _authors/christine-wormuth.md
 - _authors/nancy-lindborg.md
