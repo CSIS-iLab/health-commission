@@ -1,5 +1,5 @@
 ---
-title: 'Protecting Health Security in a Disordered World  '
+title: Protecting Health Security in a Disordered World
 date: 2018-09-13 00:00:00 +0000
 authors: []
 excerpt: The reality of the disordered world demands U.S. leadership and action to
