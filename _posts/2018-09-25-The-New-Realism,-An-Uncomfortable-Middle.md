@@ -1,5 +1,5 @@
 ---
-title: 'The New Realism, An Uncomfortable Middle '
+title: The New Realism, An Uncomfortable Middle
 keywords: []
 date: 2018-09-25 00:00:00 +0000
 content_type: commentary
@@ -136,7 +136,7 @@ It is similarly worth testing what new forms of engagement with China may be fru
 
 The single most important priority is protecting the vital U.S. program from populist assault. That will rest on reinvigorating and updating congressional interest in both PEPFAR and the Global Fund to preserve strong bipartisan support. Knowledge and familiarity in Congress are rapidly thinning, and a big new crop of freshly elected members will arrive in January.
 
-Holding “AIDS2020” in San Francisco and Oakland, a source of controversy and debate in Amsterdam, will carry clear risks, in the degraded and polarized political and media environment in the United States. But it can also be an opportunity, if seized and managed correctly, in mobilizing bipartisan congressional participation and galvanizing support from the faith, advocacy, foundations, and business communities. “AIDS2020” can potentially help stir a new national debate over HIV/AIDS, at home and abroad.     
+Holding “AIDS2020” in San Francisco and Oakland, a source of controversy and debate in Amsterdam, will carry clear risks, in the degraded and polarized political and media environment in the United States. But it can also be an opportunity, if seized and managed correctly, in mobilizing bipartisan congressional participation and galvanizing support from the faith, advocacy, foundations, and business communities. “AIDS2020” can potentially help stir a new national debate over HIV/AIDS, at home and abroad.   
 
 ### **Last Thought**
 
