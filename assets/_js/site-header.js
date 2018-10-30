@@ -30,6 +30,11 @@ const siteHeader = () => {
   }
 
   window.addEventListener('scroll', function() {
+    if (document.documentElement.classList.contains('js-no-scroll')) {
+      remove_class_on_scroll(hiddenNavClass)
+      return false
+    }
+
     scrollPos = window.scrollY
 
     if (Math.abs(lastScrollPos - scrollPos) <= visibleNavDelta) {
