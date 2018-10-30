@@ -78,7 +78,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: text
 pages:
 - _posts/2018-09-25-The-New-Realism,-An-Uncomfortable-Middle.md
 - _posts/2018-10-29-the-gathering-health-storm-inside-north-korea.md
