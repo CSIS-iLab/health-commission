@@ -24,19 +24,48 @@ gulp.task('jekyll-build', function (done) {
   } else {
     jekyllConfig += config.jekyll.config.development ? ',' + config.jekyll.config.development : '';
   }
-  return cp.spawn(jekyll, ['build', '--config', jekyllConfig], {stdio: 'inherit', env: process.env})
+
+  let buildArgs = ['build', '--config', jekyllConfig]
+
+  if (argv.preview) {
+    buildArgs.push('--drafts')
+    buildArgs.push('--unpublished')
+    buildArgs.push('--future')
+  }
+
+  if (argv.forestry) {
+    buildArgs.push('--destination')
+    buildArgs.push('_forestry_site')
+  }
+
+  return cp.spawn(jekyll, buildArgs, {stdio: 'inherit', env: process.env})
     .on('close', done);
 });
 
 gulp.task('jekyll-build-with-deps', build, function (done) {
   let jekyllConfig = config.jekyll.config.default;
+
   if (argv.jekyllEnv == 'production') {
     process.env.JEKYLL_ENV = 'production';
     jekyllConfig += config.jekyll.config.production ? ',' + config.jekyll.config.production : '';
   } else {
     jekyllConfig += config.jekyll.config.development ? ',' + config.jekyll.config.development : '';
   }
-  return cp.spawn(jekyll, ['build', '--config', jekyllConfig], {stdio: 'inherit', env: process.env})
+
+  let buildArgs = ['build', '--config', jekyllConfig]
+
+  if (argv.preview) {
+    buildArgs.push('--drafts')
+    buildArgs.push('--unpublished')
+    buildArgs.push('--future')
+  }
+
+  if (argv.forestry) {
+    buildArgs.push('--destination')
+    buildArgs.push('_forestry_site')
+  }
+
+  return cp.spawn(jekyll, buildArgs, {stdio: 'inherit', env: process.env})
     .on('close', done);
 });
 
