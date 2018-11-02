@@ -63,11 +63,3 @@ public_path: https://res.cloudinary.com/csisideaslab/image/upload
 front_matter_path: https://res.cloudinary.com/csisideaslab/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
-build:
-  preview_command: npm run forestry:preview
-  publish_command: npm run forestry:publish
-  output_directory: _forestry_site
-  preview_env:
-  - JEKYLL_ENV=staging
-  publish_env: 
-  - JEKYLL_ENV=production
