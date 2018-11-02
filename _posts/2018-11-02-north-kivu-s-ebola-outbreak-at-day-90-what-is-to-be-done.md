@@ -19,7 +19,7 @@ image_caption: A team of medical workers don protective equipment before enterin
   an Ebola Treatment Center in Beni, the epicenter of the outbreak in the Democratic
   Republic of the Congo.
 image_credit: JOHN WESSELS/AFP/Getty Images
-pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/181102_DRC_ebola.pdf?Y.4VC6QnTXbxfjXIy17HSGT_TVTSwVIM
+pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/181102_DRCebola_v3.pdf?3isFFx_oJleFNxP4AoHTFjcUENnSHcQ0
 is_commission_related:
   description: ''
   related_event: ''
