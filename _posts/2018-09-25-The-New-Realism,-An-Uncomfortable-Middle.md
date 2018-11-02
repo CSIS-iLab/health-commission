@@ -136,7 +136,7 @@ It is similarly worth testing what new forms of engagement with China may be fru
 
 The single most important priority is protecting the vital U.S. program from populist assault. That will rest on reinvigorating and updating congressional interest in both PEPFAR and the Global Fund to preserve strong bipartisan support. Knowledge and familiarity in Congress are rapidly thinning, and a big new crop of freshly elected members will arrive in January.
 
-Holding “AIDS2020” in San Francisco and Oakland, a source of controversy and debate in Amsterdam, will carry clear risks, in the degraded and polarized political and media environment in the United States. But it can also be an opportunity, if seized and managed correctly, in mobilizing bipartisan congressional participation and galvanizing support from the faith, advocacy, foundations, and business communities. “AIDS2020” can potentially help stir a new national debate over HIV/AIDS, at home and abroad.   
+Holding “AIDS2020” in San Francisco and Oakland, a source of controversy and debate in Amsterdam, will carry clear risks, in the degraded and polarized political and media environment in the United States. But it can also be an opportunity, if seized and managed correctly, in mobilizing bipartisan congressional participation and galvanizing support from the faith, advocacy, foundations, and business communities. “AIDS2020” can potentially help stir a new national debate over HIV/AIDS, at home and abroad.
 
 ### **Last Thought**
 
@@ -154,7 +154,7 @@ President Clinton declared on the closing day of the Amsterdam gathering that �
 
 \[^5\]: Jon Cohen, "A Campaign to End AIDS by 2030 Is Faltering Worldwide," _Science_, _AAAS_, July 31, 2018, [http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide](http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide "http://www.sciencemag.org/news/2018/07/campaign-end-aids-2030-faltering-worldwide")
 
-\[^6\]: Linda-Gail Bekker et al., “Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society – Lancet Commission,” _The Lancet_ 392, no. 10144_,_(July 28, 2018): 312-358.
+\[^6\]: Linda-Gail Bekker et al., “Advancing global health and strengthening the HIV response in the era of the Sustainable Development Goals: the International AIDS Society – Lancet Commission,” _The Lancet_ 392, no. 10144,(July 28, 2018): 312-358.
 
 \[^7\]: Pamela Das and Richard Horton, "Beyond the Silos: Integrating HIV and Global Health," _The Lancet_ 392, no. 10144 (July 28, 2018): 260-61.
 
