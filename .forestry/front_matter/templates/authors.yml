@@ -13,6 +13,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/judd-devermont.md
 - _authors/Justin-Kenny.md
 - _authors/tom-frieden.md
 - _authors/Nellie-Bristol.md
