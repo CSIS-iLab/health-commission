@@ -26,11 +26,11 @@ is_commission_related:
 references: ''
 
 ---
-**The Issue**
+## The Issue
 
 _There is a high risk that the international response to the Ebola outbreak in eastern Congo, the first in a war zone, is falling far short of what is required. Indeed, we may be at the edge of a swiftly expanding epidemic that spreads regionally and perhaps beyond. Armed attacks, wary communities, and insufficient on-the-ground capacity are major barriers to arresting the outbreak. There is an urgent need for high-level political attention focused on generating an updated game plan to improve security, train and deploy community health workers and Congolese public health experts, and win community trust and cooperation. The United States—vitally important to the international response in West Africa 2014-2016—has chosen thus far, out of security concerns, to limit its engagement to the periphery of the outbreak. Quick action is needed to affirm U.S. leadership in eastern Congo, better understand the specific security threats at play, and come up with practical solutions that permit the safe deployment of a small U.S. expert contingent into the center of the outbreak, where seasoned U.S. talent is most needed._
 
-**Introduction**
+## Introduction
 
 In the third week of October, armed rebels in two separate attacks killed 19 individuals, in the vicinity of the major urban center of Beni and kidnapped a dozen children. This was the most recent of multiple deadly attacks since the Democratic Republic of the Congo (DRC) announced an Ebola outbreak on August 1 in the populous, perennially violent and chaotic North Kivu province of eastern Congo. Ironically, the attack immediately followed the Emergency Committee of the World Health Organization (WHO) ruling that the outbreak did not yet constitute a Public Health Emergency of International Concern (PHEIC).
 
@@ -40,12 +40,12 @@ Rising apprehension and uncertainty surround the international response to what 
 
 On-the-ground Congolese capacity is insufficient, both trained community workers and professional public health expertise. The response is also weakened by the conspicuous absence of seasoned U.S. experts at the epicenter (along with insufficient numbers of other international experts.) Armed attacks have repeatedly convulsed the response, undermining essential activities such as contact identification and monitoring; in the meantime, the threat of future attacks persists. Community trust in health personnel, the essential element in winning cooperation, is sorely lacking, translating in many instances into active resistance. As a result of these multiple barriers, responders have not yet reliably and steadily arrested the outbreak. Indeed, they are falling short in their efforts to break transmission through rapid identification, isolation, and treatment of Ebola cases; target vaccinations of all who need them; trace all contacts; and ensure safe and dignified burials.
 
-_Rising apprehension and uncertainty surround the international response to what is now unfolding in the DRC, the first Ebola outbreak in an active war zone . . . there is a high risk of losing the game in the DRC, resulting in a break-out epidemic._
+> #### Rising apprehension and uncertainty surround the international response to what is now unfolding in the DRC, the first Ebola outbreak in an active war zone . . . there is a high risk of losing the game in the DRC, resulting in a break-out epidemic.
 
 90 days into this dangerous outbreak, there is an urgent need to reassess. Determined high-level engagement is needed to devise realistic solutions that can stop attacks, win over wary communities, and strengthen the ground game. U.S. leadership remains essential across all fronts.
 
-###   
-**A Promising Start**
+##   
+A Promising Start
 
 The Congolese and international mobilization into the outbreak zone has been quick and laudable.
 
@@ -61,8 +61,8 @@ By contrast with the West Africa outbreak, a vaccine has been available, and thu
 
 The UN peacekeeping force—the United Nations Organization Mission in Democratic Republic of the Congo (MONUSCO)—has provided security escorts on the roads leading in and out of the urban center of Beni. To date, no international or civilian national health provider has been injured or killed. (Two DRC military medical personnel were among those killed October 21. Separately, two local staff of an International Federation of the Red Cross safe burial team were recently seriously injured by community members.)
 
-###   
-**Insecurity, Demographics, Elections, Mistrust**
+##   
+Insecurity, Demographics, Elections, Mistrust
 
 Yet to the increased dismay of those many committed individuals leading the Ebola response on-the-ground, that effort has run headlong into a plethora of complex barriers and vulnerabilities.
 
@@ -72,11 +72,11 @@ SECOND PHOTO HERE
 
 These attacks emerge within what WHO has described as North Kivu and Ituri’s “[perfect storm](https://www.bing.com/videos/search?q=perfect+storm+ebola&view=detail&mid=CD05321672906795906BCD05321672906795906B&FORM=VIRE)”—over 40 armed groups, potentially destabilizing elections, and a large, highly mobile population in close proximity to porous, international borders. Its population for years has lived through recurrent humanitarian emergencies. The DRC national government, located a thousand miles away in Kinshasa, has never truly gained effective control or legitimacy in the east. While criminal groups, Mai-Mai militias, and the rebel ADF are credited with the majority of the violence, the DRC’s security forces have an equally infamous reputation; since 2017 they have killed over 100 civilians in North Kivu.
 
-_Yet to the increased dismay of those many committed individuals leading the Ebola response on-the-ground, that effort has run headlong into  a plethora of complex barriers  and vulnerabilities._
+> #### Yet to the increased dismay of those many committed individuals leading the Ebola response on-the-ground, that effort has run headlong into  a plethora of complex barriers  and vulnerabilities.
 
 Presidential, regional, and legislative elections stand on the horizon, scheduled for December 23, 2018. In the midst of the current Ebola outbreak, that could be a source of major distraction, on the part of national leadership. It could also exacerbate tensions in the east, compounding, in turn, the odds of getting control over the epidemic.
 
-[In 2014, Liberia repeatedly delayed its senatorial elections ](https://www.nytimes.com/2014/12/19/world/africa/liberia-will-proceed-with-senate-vote-delayed-by-ebola-.html)for two months because of fears around public gathering during the Ebola crisis. If President Kabila were to do the same and postpone the election in the DRC, even in part, it could fuel significant unrest because Kabila is [deeply unpopular](https://www.reuters.com/article/us-congo-politics-poll/opponents-of-congos-kabila-lead-presidential-race-poll-idUSKBN1KL1AL), and any adjustment to the election schedule would confirm suspicions that Kabila has no intention to step down after 17 years in power. Kabila is especially unpopular in eastern Congo where [anti-government protests ](https://www.nytimes.com/2018/01/21/world/africa/democratic-republic-of-congo-protests.html)are a common occurrence in Beni and Goma. If elections hold, past experience suggests that traveling to polling stations will add to cross-regional migration flows and may increase transmission.
+[In 2014, Liberia repeatedly delayed its senatorial elections](https://www.nytimes.com/2014/12/19/world/africa/liberia-will-proceed-with-senate-vote-delayed-by-ebola-.html) for two months because of fears around public gathering during the Ebola crisis. If President Kabila were to do the same and postpone the election in the DRC, even in part, it could fuel significant unrest because Kabila is [deeply unpopular](https://www.reuters.com/article/us-congo-politics-poll/opponents-of-congos-kabila-lead-presidential-race-poll-idUSKBN1KL1AL), and any adjustment to the election schedule would confirm suspicions that Kabila has no intention to step down after 17 years in power. Kabila is especially unpopular in eastern Congo where [anti-government protests ](https://www.nytimes.com/2018/01/21/world/africa/democratic-republic-of-congo-protests.html)are a common occurrence in Beni and Goma. If elections hold, past experience suggests that traveling to polling stations will add to cross-regional migration flows and may increase transmission.
 
 The region’s demographics are daunting, both for getting control over the outbreak and containing its spread beyond. There are 6 million people living in North Kivu, making it nearly 1.5 times denser than Guinea, Liberia, and Sierra Leone combined. 1.1 million of North Kivu’s population are internally displaced. Tens of thousands of traders, refugees, internally displaced people, and militants [circulate ](https://reliefweb.int/report/democratic-republic-congo/iom-dr-congo-migration-health-division-ebola-response-north-kivu)through the region and into neighboring states daily, increasing the likelihood of a widening transmission. The urban epicenter, Beni, population 1 million, is just 300 miles away from Uganda’s capital, Kampala, an international transit hub.
 
@@ -84,14 +84,14 @@ PHOTO HERE
 
 The lack of trust and engagement with communities is a critical barrier, as well as insufficient local capacity to manage the outbreak. As seen in West Africa in 2014-2015, there is active community resistance to responders: hostility and mistrust, refusal to cooperate in identifying cases and persons who have been exposed, including deliberate misreporting, and obstruction of safe and dignified burials. These same communities face a critical shortage of skilled case investigators with adequate supervision and guidance.
 
-After decades of government repression and ineffective international responses, civilians, not surprisingly, often regard response efforts with considerable suspicion. Anthropologists deployed with the Congolese Ministry of Health [report ](file:///C:/Users/JeLee/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/UE0TQMRS/Fighting%2520Ebola%2520in%2520conflict%2520in%2520the%2520DR%2520Congo%2520-%2520The%2520Lancet.pdf)that the government is “not doing enough to make it safe. The United Nations is judged to be complicit in the massacres here, and for not protecting the population except for a few battalions. And NGOs, people think they are here just to make money.” Rumors circulate that Ebola is “witchcraft,” a government tactic to stall elections or even a ploy introduced by the international community.
+After decades of government repression and ineffective international responses, civilians, not surprisingly, often regard response efforts with considerable suspicion. Anthropologists deployed with the Congolese Ministry of Health [report](file:///C:/Users/JeLee/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/UE0TQMRS/Fighting%2520Ebola%2520in%2520conflict%2520in%2520the%2520DR%2520Congo%2520-%2520The%2520Lancet.pdf) that the government is “not doing enough to make it safe. The United Nations is judged to be complicit in the massacres here, and for not protecting the population except for a few battalions. And NGOs, people think they are here just to make money.” Rumors circulate that Ebola is “witchcraft,” a government tactic to stall elections or even a ploy introduced by the international community.
 
 There are limits to the security protection MONUSCO can offer. Local Congolese view the United Nations as compromised by its association with the DRC national government and its security forces. To preserve their neutrality, groups like MSF and the International Committee of the Red Cross will not travel with MONUSCO motorcades.
 
-###   
-**Dangerous Gaps Emerging As the Ground Game Falters**
+##   
+Dangerous Gaps Emerging As the Ground Game Falters
 
-The daily rate of new Ebola cases has more than doubled in early October, and an October 18 WHO bulletin [indicates](http://www.who.int/csr/don/18-october-2018-ebola-drc/en/) even this large spike may be an underestimation, indicating that “the rising trends are likely underestimated given expected delays in case reporting, the ongoing detection of sporadic cases, and security concerns which limit contact tracing and investigation of alerts.” Most experts attribute this spike in part to the temporary suspension of Ebola response programming in late September. On September 22, an [attack](https://www.who.int/csr/don/04-october-2018-ebola-drc/en/) in Beni, one of the epicenters of the outbreak, killed 21 civilians and prompted a five-day period of mourning that interrupted contact-tracing and led the rate of Ebola cases to [almost double.](https://www.aljazeera.com/news/2018/10/ebola-spread-uganda-rwanda-warns-181011141950957.html?utm_source=Media+Review+for+October+12%2C+2018&utm_campaign=Media+Review+for+October+12%2C+2018&utm_medium=email)
+The daily rate of new Ebola cases has more than doubled in early October, and an October 18 WHO bulletin [indicates](http://www.who.int/csr/don/18-october-2018-ebola-drc/en/) even this large spike may be an underestimation, indicating that “the rising trends are likely underestimated given expected delays in case reporting, the ongoing detection of sporadic cases, and security concerns which limit contact tracing and investigation of alerts.” Most experts attribute this spike in part to the temporary suspension of Ebola response programming in late September. On September 22, an [attack](https://www.who.int/csr/don/04-october-2018-ebola-drc/en/) in Beni, one of the epicenters of the outbreak, killed 21 civilians and prompted a five-day period of mourning that interrupted contact-tracing and led the rate of Ebola cases to [almost double](https://www.aljazeera.com/news/2018/10/ebola-spread-uganda-rwanda-warns-181011141950957.html?utm_source=Media+Review+for+October+12%2C+2018&utm_campaign=Media+Review+for+October+12%2C+2018&utm_medium=email).
 
 PHOTO HERE
 
@@ -105,14 +105,14 @@ PHOTO HERE
 
 The monitoring of known contacts—intended to be twice daily communication for 21 days—has also proven problematic, as follow-up has faltered and cases have been lost. The WHO reported on October 17 that contact tracing performance in the previous week ranged from 52 percent to 87 percent, attributing this poor performance to the challenges of contact tracing in restive Beni. There is no cumulative record at present of the numbers and identities of those contacts who have gone missing.
 
-###   
-**U.S. Policy Caught in a Bind**
+##   
+U.S. Policy Caught in a Bind
 
-The Ebola outbreak in eastern Congo occurred just a few months after the decision by the Trump administration in May to dismiss Rear Admiral Tim Ziemer and dissolve his post as senior director for global health security and biothreats at the National Security Council. That downgrading of health security at the White House [raised questions ](https://www.csis.org/analysis/health-security-downgraded-white-house)of how well-equipped the administration would be in the future to manage dangerous outbreaks.
+The Ebola outbreak in eastern Congo occurred just a few months after the decision by the Trump administration in May to dismiss Rear Admiral Tim Ziemer and dissolve his post as senior director for global health security and biothreats at the National Security Council. That downgrading of health security at the White House [raised questions](https://www.csis.org/analysis/health-security-downgraded-white-house) of how well-equipped the administration would be in the future to manage dangerous outbreaks.
 
 One factor contributing to weaknesses in the international ground response is the decision thus far by the United States to keep its seasoned civilian experts—essential players in prior Ebola outbreaks—at a distance from the conflict zone, out of harm’s way.
 
-This caution reflects the grave—and undeniable—security threats in eastern Congo. It may also reflect President Trump’s own personal skepticism about the wisdom of the United States leading an international response, given his prior [vociferous objections ](https://www.csis.org/programs/global-health-policy-center/ghpc-videos/csis-original-documentary-ebola-america-epidemic-fear)—through Twitter and elsewhere —to the U.S. engagement in West Africa in 2014.
+This caution reflects the grave—and undeniable—security threats in eastern Congo. It may also reflect President Trump’s own personal skepticism about the wisdom of the United States leading an international response, given his prior [vociferous objections](https://www.csis.org/programs/global-health-policy-center/ghpc-videos/csis-original-documentary-ebola-america-epidemic-fear) —through Twitter and elsewhere —to the U.S. engagement in West Africa in 2014.
 
 Such caution is also contrary to the fundamental lesson learned in the West African Ebola outbreak in 2014-2015: attack the outbreak quickly at its source. In the DRC case, this decision has held back critically important, seasoned Centers for Disease Control and Prevention (CDC) expertise in surveillance and data integration, community relations, case investigation and contact tracing, and safe and dignified burials. In the Ebola outbreak in West Africa in 2014-2015, over 1,400 CDC personnel voluntarily did rotations. None were seriously injured or infected during the response, despite often quite adverse conditions.
 
@@ -122,12 +122,12 @@ Only a few U.S. personnel have been on the ground in Beni for a very brief perio
 
 Over the subsequent two months, an unresolved debate has unfolded within U.S. interagency circles over what the policy approach should be, including security preconditions, for redeploying U.S. civilian personnel into Beni and its environs. At present, the United States provides technical support to the health ministry in Kinshasa, while providing similar assistance to Rwanda, South Sudan, and Uganda for surveillance, infection prevention and control, border screening, and emergency management. CDC also provides staff to support WHO in Geneva and has hired three contractors (two health experts and a logistician) to support WHO in the outbreak zone, in non-supervisory roles.
 
-CDC Director Robert Redfield on October 23 disclosed that he had pressed for [U.S. experts to work at the epicenter of the outbreak, ](https://www.statnews.com/2018/10/23/cdc-director-says-he-pushed-to-keep-u-s-experts-in-ebola-zone-but-was-overruled/)on public health grounds. In his view, the absence of U.S. personnel on the ground is undermining the international response: there is “an enormous disadvantage of not having expertise the CDC has on the ground.” Up to now, security considerations have prevailed. The U.S. government’s risk aversion sends a strong message to the international community that the security risks are too high to warrant engagement, which may, in turn, dissuade other foreign governments from deploying health experts.
+CDC Director Robert Redfield on October 23 disclosed that he had pressed for [U.S. experts to work at the epicenter of the outbreak](https://www.statnews.com/2018/10/23/cdc-director-says-he-pushed-to-keep-u-s-experts-in-ebola-zone-but-was-overruled/), on public health grounds. In his view, the absence of U.S. personnel on the ground is undermining the international response: there is “an enormous disadvantage of not having expertise the CDC has on the ground.” Up to now, security considerations have prevailed. The U.S. government’s risk aversion sends a strong message to the international community that the security risks are too high to warrant engagement, which may, in turn, dissuade other foreign governments from deploying health experts.
 
 Washington appears to be stalemated, caught, at least for now, in a bind. It faces the risk of deploying U.S. personnel into the center of the outbreak, where they might find themselves at the wrong place at the wrong time or be targeted violently, potentially inciting allegations in Congress, the media and elsewhere, reminiscent of Benghazi, that the Trump administration has risked U.S. lives. At the same time, the administration faces the risk that if it chooses to stay on the sidelines, and the outbreak mushrooms and globalizes, the blame will be laid at least in part at Washington’s door. There is also the possibility that President Trump may choose to become directly engaged.
 
-###   
-**What Is to Be Done?**
+##   
+What Is to Be Done?
 
 For now, the outbreak shows no signs of abating. Arresting it could require a year or longer, in the opinion of senior U.S. officials. In the coming months, the outbreak will likely continue to churn and expand in eastern Congo. It is still unknown whether—or when—it will jump into the surrounding provinces and beyond, becoming a far more active and visible threat, regionally, and globally. In the meantime, however, fear of a widening outbreak is steadily growing among experts. WHO just recently reclassified the risk of spread to neighboring countries as “very high.” On October 30, the UN Security Council passed [resolution 2439](https://www.un.org/press/en/2018/sc13559.doc.htm), voicing “serious concern” over the deteriorating security situation impeding the response to the Ebola outbreak in eastern Congo, “demanded” that all armed groups respect international humanitarian law and called for heightened international engagement and an expanded UN response.
 
@@ -155,4 +155,4 @@ For the United States, a few discrete steps would go a long way to buoying the i
 
 Progress along all of these far-flung fronts will be difficult, but practical solutions still lie within reach.
 
-_This article was first published as a_[_CSIS Brief_](https://www.csis.org/analysis/north-kivus-ebola-outbreak-day-90-what-be-done) _on November 1, 2018._
+_This article was first published as a_ [_CSIS Brief_](https://www.csis.org/analysis/north-kivus-ebola-outbreak-day-90-what-be-done) _on November 1, 2018._
