@@ -19,7 +19,7 @@ image_caption: A team of medical workers don protective equipment before enterin
   an Ebola Treatment Center in Beni, the epicenter of the outbreak in the Democratic
   Republic of the Congo.
 image_credit: JOHN WESSELS/AFP/Getty Images
-pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/181101_DRC_ebolav2.pdf?YR8C3Ypb4EFFAoLRo1iSuXsEgQaN.FCE
+pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/181102_DRC_ebola.pdf?Y.4VC6QnTXbxfjXIy17HSGT_TVTSwVIM
 is_commission_related:
   description: ''
   related_event: ''
@@ -54,7 +54,7 @@ The WHO, the DRC Ministry of Health, Doctors without Borders (MSF), the Internat
 
 ![](https://res.cloudinary.com/csisideaslab/image/upload/v1541164006/health-commission/DRC-brief-1.jpg)
 
-Facilities supported by International Medical Corps’ emergency response team have screened more than 70,000 people, and IMC has trained over 200 healthcare workers. The International Rescue Committee is operating in and around Beni on infection prevention and control. The Rwandan and Ugandan governments are screening thousands of people crossing their borders with DRC.
+Facilities supported by International Medical Corps’ (IMC) emergency response team have screened more than 70,000 people, and IMC has trained over 200 healthcare workers. The International Rescue Committee is operating in and around Beni on infection prevention and control. The Rwandan and Ugandan governments are screening thousands of people crossing their borders with DRC.
 
 Thus far, money has not been a serious constraining factor. Funding pledges have arrived, including a $100 million grant to the DRC through the recently created World Bank Pandemic Emergency Funding facility (PEF).
 
