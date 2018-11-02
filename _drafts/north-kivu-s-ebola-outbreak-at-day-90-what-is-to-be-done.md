@@ -3,7 +3,7 @@ title: 'North Kivu’s Ebola Outbreak at Day 90: What Is to Be Done?'
 keywords:
 - Ebola
 date: 2018-11-02 00:00:00 +0000
-content_type: report
+content_type: commentary
 excerpt: The Ebola outbreak unfolding in Eastern DRC is the most recent, powerful
   showcase of what it means to battle dangerous health security threats in a disordered
   world. While categoric judgments are elusive, the high risk of losing the game in
@@ -26,11 +26,11 @@ is_commission_related:
 references: ''
 
 ---
-## The Issue
+### The Issue
 
 _There is a high risk that the international response to the Ebola outbreak in eastern Congo, the first in a war zone, is falling far short of what is required. Indeed, we may be at the edge of a swiftly expanding epidemic that spreads regionally and perhaps beyond. Armed attacks, wary communities, and insufficient on-the-ground capacity are major barriers to arresting the outbreak. There is an urgent need for high-level political attention focused on generating an updated game plan to improve security, train and deploy community health workers and Congolese public health experts, and win community trust and cooperation. The United States—vitally important to the international response in West Africa 2014-2016—has chosen thus far, out of security concerns, to limit its engagement to the periphery of the outbreak. Quick action is needed to affirm U.S. leadership in eastern Congo, better understand the specific security threats at play, and come up with practical solutions that permit the safe deployment of a small U.S. expert contingent into the center of the outbreak, where seasoned U.S. talent is most needed._
 
-## Introduction
+***
 
 In the third week of October, armed rebels in two separate attacks killed 19 individuals, in the vicinity of the major urban center of Beni and kidnapped a dozen children. This was the most recent of multiple deadly attacks since the Democratic Republic of the Congo (DRC) announced an Ebola outbreak on August 1 in the populous, perennially violent and chaotic North Kivu province of eastern Congo. Ironically, the attack immediately followed the Emergency Committee of the World Health Organization (WHO) ruling that the outbreak did not yet constitute a Public Health Emergency of International Concern (PHEIC).
 
