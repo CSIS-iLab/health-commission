@@ -32,6 +32,8 @@ _There is a high risk that the international response to the Ebola outbreak in e
 
 ***
 
+## Introduction
+
 In the third week of October, armed rebels in two separate attacks killed 19 individuals, in the vicinity of the major urban center of Beni and kidnapped a dozen children. This was the most recent of multiple deadly attacks since the Democratic Republic of the Congo (DRC) announced an Ebola outbreak on August 1 in the populous, perennially violent and chaotic North Kivu province of eastern Congo. Ironically, the attack immediately followed the Emergency Committee of the World Health Organization (WHO) ruling that the outbreak did not yet constitute a Public Health Emergency of International Concern (PHEIC).
 
 Many health security crises today appear in fragile or broken states, ungoverned territories, and areas of open conflict. The Ebola outbreak unfolding in North Kivu and Ituri provinces is the most recent, powerful showcase of what it means to battle dangerous health security threats in a disordered world.
@@ -44,8 +46,7 @@ On-the-ground Congolese capacity is insufficient, both trained community workers
 
 90 days into this dangerous outbreak, there is an urgent need to reassess. Determined high-level engagement is needed to devise realistic solutions that can stop attacks, win over wary communities, and strengthen the ground game. U.S. leadership remains essential across all fronts.
 
-##   
-A Promising Start
+## A Promising Start
 
 The Congolese and international mobilization into the outbreak zone has been quick and laudable.
 
@@ -61,8 +62,7 @@ By contrast with the West Africa outbreak, a vaccine has been available, and thu
 
 The UN peacekeeping force—the United Nations Organization Mission in Democratic Republic of the Congo (MONUSCO)—has provided security escorts on the roads leading in and out of the urban center of Beni. To date, no international or civilian national health provider has been injured or killed. (Two DRC military medical personnel were among those killed October 21. Separately, two local staff of an International Federation of the Red Cross safe burial team were recently seriously injured by community members.)
 
-##   
-Insecurity, Demographics, Elections, Mistrust
+## Insecurity, Demographics, Elections, Mistrust
 
 Yet to the increased dismay of those many committed individuals leading the Ebola response on-the-ground, that effort has run headlong into a plethora of complex barriers and vulnerabilities.
 
@@ -84,12 +84,11 @@ The region’s demographics are daunting, both for getting control over the outb
 
 The lack of trust and engagement with communities is a critical barrier, as well as insufficient local capacity to manage the outbreak. As seen in West Africa in 2014-2015, there is active community resistance to responders: hostility and mistrust, refusal to cooperate in identifying cases and persons who have been exposed, including deliberate misreporting, and obstruction of safe and dignified burials. These same communities face a critical shortage of skilled case investigators with adequate supervision and guidance.
 
-After decades of government repression and ineffective international responses, civilians, not surprisingly, often regard response efforts with considerable suspicion. Anthropologists deployed with the Congolese Ministry of Health [report](file:///C:/Users/JeLee/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/UE0TQMRS/Fighting%2520Ebola%2520in%2520conflict%2520in%2520the%2520DR%2520Congo%2520-%2520The%2520Lancet.pdf) that the government is “not doing enough to make it safe. The United Nations is judged to be complicit in the massacres here, and for not protecting the population except for a few battalions. And NGOs, people think they are here just to make money.” Rumors circulate that Ebola is “witchcraft,” a government tactic to stall elections or even a ploy introduced by the international community.
+After decades of government repression and ineffective international responses, civilians, not surprisingly, often regard response efforts with considerable suspicion. Anthropologists deployed with the Congolese Ministry of Health \[report\]() that the government is “not doing enough to make it safe. The United Nations is judged to be complicit in the massacres here, and for not protecting the population except for a few battalions. And NGOs, people think they are here just to make money.” Rumors circulate that Ebola is “witchcraft,” a government tactic to stall elections or even a ploy introduced by the international community.
 
 There are limits to the security protection MONUSCO can offer. Local Congolese view the United Nations as compromised by its association with the DRC national government and its security forces. To preserve their neutrality, groups like MSF and the International Committee of the Red Cross will not travel with MONUSCO motorcades.
 
-##   
-Dangerous Gaps Emerging As the Ground Game Falters
+## Dangerous Gaps Emerging As the Ground Game Falters
 
 The daily rate of new Ebola cases has more than doubled in early October, and an October 18 WHO bulletin [indicates](http://www.who.int/csr/don/18-october-2018-ebola-drc/en/) even this large spike may be an underestimation, indicating that “the rising trends are likely underestimated given expected delays in case reporting, the ongoing detection of sporadic cases, and security concerns which limit contact tracing and investigation of alerts.” Most experts attribute this spike in part to the temporary suspension of Ebola response programming in late September. On September 22, an [attack](https://www.who.int/csr/don/04-october-2018-ebola-drc/en/) in Beni, one of the epicenters of the outbreak, killed 21 civilians and prompted a five-day period of mourning that interrupted contact-tracing and led the rate of Ebola cases to [almost double](https://www.aljazeera.com/news/2018/10/ebola-spread-uganda-rwanda-warns-181011141950957.html?utm_source=Media+Review+for+October+12%2C+2018&utm_campaign=Media+Review+for+October+12%2C+2018&utm_medium=email).
 
@@ -105,8 +104,7 @@ The proportion of new confirmed cases, which do not appear on any contact list a
 
 The monitoring of known contacts—intended to be twice daily communication for 21 days—has also proven problematic, as follow-up has faltered and cases have been lost. The WHO reported on October 17 that contact tracing performance in the previous week ranged from 52 percent to 87 percent, attributing this poor performance to the challenges of contact tracing in restive Beni. There is no cumulative record at present of the numbers and identities of those contacts who have gone missing.
 
-##   
-U.S. Policy Caught in a Bind
+## U.S. Policy Caught in a Bind
 
 The Ebola outbreak in eastern Congo occurred just a few months after the decision by the Trump administration in May to dismiss Rear Admiral Tim Ziemer and dissolve his post as senior director for global health security and biothreats at the National Security Council. That downgrading of health security at the White House [raised questions](https://www.csis.org/analysis/health-security-downgraded-white-house) of how well-equipped the administration would be in the future to manage dangerous outbreaks.
 
@@ -126,8 +124,7 @@ CDC Director Robert Redfield on October 23 disclosed that he had pressed for [U
 
 Washington appears to be stalemated, caught, at least for now, in a bind. It faces the risk of deploying U.S. personnel into the center of the outbreak, where they might find themselves at the wrong place at the wrong time or be targeted violently, potentially inciting allegations in Congress, the media and elsewhere, reminiscent of Benghazi, that the Trump administration has risked U.S. lives. At the same time, the administration faces the risk that if it chooses to stay on the sidelines, and the outbreak mushrooms and globalizes, the blame will be laid at least in part at Washington’s door. There is also the possibility that President Trump may choose to become directly engaged.
 
-##   
-What Is to Be Done?
+## What Is to Be Done?
 
 For now, the outbreak shows no signs of abating. Arresting it could require a year or longer, in the opinion of senior U.S. officials. In the coming months, the outbreak will likely continue to churn and expand in eastern Congo. It is still unknown whether—or when—it will jump into the surrounding provinces and beyond, becoming a far more active and visible threat, regionally, and globally. In the meantime, however, fear of a widening outbreak is steadily growing among experts. WHO just recently reclassified the risk of spread to neighboring countries as “very high.” On October 30, the UN Security Council passed [resolution 2439](https://www.un.org/press/en/2018/sc13559.doc.htm), voicing “serious concern” over the deteriorating security situation impeding the response to the Ebola outbreak in eastern Congo, “demanded” that all armed groups respect international humanitarian law and called for heightened international engagement and an expanded UN response.
 
