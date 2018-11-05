@@ -79,8 +79,8 @@ fields:
     schema:
       format: markdown
 pages:
-- _posts/this-is-a-draft-post.md
 - _posts/2018-11-02-north-kivu-s-ebola-outbreak-at-day-90-what-is-to-be-done.md
+- _posts/this-is-a-draft-post.md
 - _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 - _posts/2018-09-25-The-New-Realism,-An-Uncomfortable-Middle.md
 - _posts/2018-10-29-the-gathering-health-storm-inside-north-korea.md
