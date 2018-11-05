@@ -114,7 +114,7 @@ This caution reflects the grave—and undeniable—security threats in eastern C
 
 Such caution is also contrary to the fundamental lesson learned in the West African Ebola outbreak in 2014-2015: attack the outbreak quickly at its source. In the DRC case, this decision has held back critically important, seasoned Centers for Disease Control and Prevention (CDC) expertise in surveillance and data integration, community relations, case investigation and contact tracing, and safe and dignified burials. In the Ebola outbreak in West Africa in 2014-2015, over 1,400 CDC personnel voluntarily did rotations. None were seriously injured or infected during the response, despite often quite adverse conditions.
 
-_One factor contributing to weaknesses in the international ground response is the decision thus far by the United States to keep its seasoned civilian experts—essential players in prior Ebola outbreaks—at a distance from the conflict zone, out of harm’s way_
+> #### One factor contributing to weaknesses in the international ground response is the decision thus far by the United States to keep its seasoned civilian experts—essential players in prior Ebola outbreaks—at a distance from the conflict zone, out of harm’s way
 
 Only a few U.S. personnel have been on the ground in Beni for a very brief period. Three staff from CDC and one staff from the United States Agency for International Development (USAID) were deployed to Beni on August 22. Two days later, the ADF attacked a DRC military base located on a road traveled by U.S. personnel. Due to security concerns, the four U.S. staff were pulled back to Goma and were not cleared to return to Beni.
 
