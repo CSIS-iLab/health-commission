@@ -19,7 +19,7 @@ image_caption: A team of medical workers don protective equipment before enterin
   an Ebola Treatment Center in Beni, the epicenter of the outbreak in the Democratic
   Republic of the Congo.
 image_credit: JOHN WESSELS/AFP/Getty Images
-pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/181102_DRCebola_v3.pdf?3isFFx_oJleFNxP4AoHTFjcUENnSHcQ0
+pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/181105_DRCebola_v4.pdf?U_LQZL8G5JT9x5uNffCJ5YnXw2Y5panl
 is_commission_related:
   description: ''
   related_event: ''
@@ -56,7 +56,7 @@ The WHO, the DRC Ministry of Health, Doctors without Borders (MSF), the Internat
 
 Facilities supported by International Medical Corps’ (IMC) emergency response team have screened more than 70,000 people, and IMC has trained over 200 healthcare workers. The International Rescue Committee is operating in and around Beni on infection prevention and control. The Rwandan and Ugandan governments are screening thousands of people crossing their borders with DRC.
 
-Thus far, money has not been a serious constraining factor. 
+Thus far, money has not been a serious constraining factor.
 
 By contrast with the West Africa outbreak, a vaccine has been available, and thus far over 24,000 exposed or vulnerable individuals have been immunized. Patients are receiving five experimental therapies, made available under compassionate use authorities. The foundation is in place to carry out surveillance and integrate data, conduct case investigation and contact tracing, isolate and treat those sick with Ebola, and promote safe and dignified burials.
 
