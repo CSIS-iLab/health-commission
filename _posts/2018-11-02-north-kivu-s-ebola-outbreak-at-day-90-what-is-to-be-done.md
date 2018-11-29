@@ -98,7 +98,7 @@ Prevention and control of infection have been highly problematic. Numerous cases
 
 The proportion of new confirmed cases, which do not appear on any contact list and have no known epidemiological link to prior cases, has risen in recent weeks to roughly 60 percent to 80 percent. That means, in effect, that contact tracing is only covering 20 percent to 40 percent of actual contacts. Responders are operating in the dark on the balance of contacts.
 
-![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1541164007/health-commission/DRC-brief-4.jpg "New Cases by Week of Onset")
+![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1541164009/health-commission/DRC-brief-5.jpg "% of Cases From Unknown Chains of Transmission")
 
 The monitoring of known contacts—intended to be twice daily communication for 21 days—has also proven problematic, as follow-up has faltered and cases have been lost. The WHO reported on October 17 that contact tracing performance in the previous week ranged from 52 percent to 87 percent, attributing this poor performance to the challenges of contact tracing in restive Beni. There is no cumulative record at present of the numbers and identities of those contacts who have gone missing.
 
