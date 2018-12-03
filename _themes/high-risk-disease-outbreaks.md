@@ -2,7 +2,7 @@
 title: Preventing and Responding to High-Risk Disease Outbreaks
 date: 2018-09-13 02:42:39 +0000
 long_title_formatted: Preventing and Responding to **HIGH-RISK DISEASE** **OUTBREAKS**
-short_title: High Risk Disease Outbreaks
+short_title: High-Risk Disease Outbreaks
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886678/health-commission/High-Risk-Disease-Outbreaks.jpg
 image_caption: A man dressed in protective hazmat clothing treats the front porch
   of an apartment where a second person diagnosed with the Ebola virus resides on
