@@ -10,7 +10,7 @@ excerpt: On October 2, 2018, the CSIS Commission on Strengthening Health Securit
   to construct and operationalize a ten-year U.S. vision for health security.
 series: ''
 themes: []
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1543862287/health-commission/Event-Commission_Launch_copy.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1543870009/health-commission/Second-Commission-Meeting-Header.jpg
 image_caption: "(From left) Commission Co-Chair Julie Gerberding, Commission Secretariat
   Director J. Stephen Morrison, Commission Expert Advisors Jeffrey L. Sturchio and
   Tom Inglesby, National Security Advisor to Commissioner Senator Todd Young Brad
