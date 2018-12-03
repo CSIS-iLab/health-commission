@@ -10,19 +10,20 @@ excerpt: On October 2, 2018, the CSIS Commission on Strengthening Health Securit
   to construct and operationalize a ten-year U.S. vision for health security.
 series: ''
 themes: []
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1543862287/health-commission/Event-Commission_Launch_copy.jpg
+image_caption: "(From left) Commission Co-Chair Julie Gerberding, Commission Secretariat
+  Director J. Stephen Morrison, Commission Expert Advisors Jeffrey L. Sturchio and
+  Tom Inglesby, National Security Advisor to Commissioner Senator Todd Young Brad
+  Bowman, and Commissioners Congressman Tom Cole and Congresswoman Susan Brooks"
+image_credit: Liz Lynch
 documents: []
 published: false
 
 ---
 The CSIS Commission on Strengthening America’s Health Security held its second full Commission meeting on October 2, 2018. Commissioners gathered to discuss the Commission’s ongoing work to construct and operationalize a ten-year U.S. vision for health security.
 
- 
+**![Liz Lynch](https://res.cloudinary.com/csisideaslab/image/upload/v1543862287/health-commission/Oct._2_Commission_meeting_body_photo_1.jpg "Commissioners Congressman Tom Cole and Congresswoman Susan Brooks at the October 2, 2018 Commission meeting")**
 
 Commission Co-Chairs Julie Gerberding and Kelly Ayotte offered opening remarks, followed by comments from the Congressional members of the Commission on the direction of the Commission’s ongoing work. The Commissioners then launched into an in-depth discussion on the Commission’s ten-year vision work. The main focus areas of the discussion included an integrated approach to health security capacity and resilience, best bets for health security technology investments, and ensuring access to critical health services in disordered settings.
 
- 
-
-The Commissioners highlighted the importance of integration, multisectoral engagement, sustainability, and efficiency across the work of the Commission. The Commissioners identified key components for operationalizing a ten-year vision for health security, including incorporation of current and recent legislation and ongoing dialogue with Congressional committees. Moving forward, the work of the Commission will build on the valuable October 2nd discussions, and the Commission will reconvene in spring 2019 to discuss progress on the ten-year vision work.
+![Liz Lynch](https://res.cloudinary.com/csisideaslab/image/upload/v1543862290/health-commission/Oct._2_Commission_meeting_body_photo_2.jpg "Commissioners Senator Todd Young, Senator Patty Murray, and Congressman Tom Cole at the October 2, 2018 Commission meeting")The Commissioners highlighted the importance of integration, multisectoral engagement, sustainability, and efficiency across the work of the Commission. The Commissioners identified key components for operationalizing a ten-year vision for health security, including incorporation of current and recent legislation and ongoing dialogue with Congressional committees. Moving forward, the work of the Commission will build on the valuable October 2nd discussions, and the Commission will reconvene in spring 2019 to discuss progress on the ten-year vision work.
