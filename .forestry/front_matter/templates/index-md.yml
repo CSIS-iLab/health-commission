@@ -15,6 +15,7 @@ fields:
       section: jekyll-posts
   label: Featured Post Primary
   name: featured_post_primary
+  default: _posts/2018-11-02-north-kivu-s-ebola-outbreak-at-day-90-what-is-to-be-done.md
 - type: list
   name: featured_post_secondary
   label: Featured Post Secondary
@@ -24,6 +25,8 @@ fields:
     source:
       type: pages
       section: jekyll-posts
+  default:
+  - _posts/2018-10-29-the-gathering-health-storm-inside-north-korea.md
 - type: select
   name: featured_events
   config:
@@ -32,5 +35,6 @@ fields:
       section: events
   label: Featured Events
   description: If left blank, this section will not display.
+  default: _events/north-kivu-s-ebola-outbreak-at-day-105-what-s-next.md
 pages:
 - index.md
