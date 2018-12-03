@@ -3,7 +3,7 @@ title: 'Plagues and the Paradox of Progress: A Conversation with Thomas J. Bolly
 content_type: event
 keywords:
 - Public Event
-date: 2018-12-03 18:47:58 +0000
+date: 2018-10-25 17:47:58 +0000
 excerpt: 'On October 25, the CSIS Global Health Policy Center hosted a conversation
   with Thomas J. Bollyky on his new book, Plagues and the Paradox of Progress: Why
   the World is Getting Healthier in Worrisome Ways.'
