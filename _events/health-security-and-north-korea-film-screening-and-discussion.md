@@ -2,8 +2,9 @@
 title: 'Health Security and North Korea: Film Screening and Discussion'
 content_type: event
 keywords:
-- Tuberculosis
 - Public Event
+- North Korea
+- Tuberculosis
 date: 2018-10-29 18:08:44 +0000
 excerpt: On October 29, the CSIS Commission on Strengthening America’s Health Security
   hosted a screening of its new film, The Gathering Health Storm Inside North Korea,
@@ -11,11 +12,10 @@ excerpt: On October 29, the CSIS Commission on Strengthening America’s Health 
   assistance.
 series: _series/health-security-dimensions-of-geopolitical-crises.md
 themes: []
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1543864014/health-commission/North_Korea_event_photo.jpg
 image_caption: ''
-image_credit: ''
+image_credit: Liz Lynch
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="[https://www.youtube.com/embed/th1p3ufUZW8](https://www.youtube.com/embed/omtuaKqNnnc "https://www.youtube.com/embed/omtuaKqNnnc")"></iframe> </div>
