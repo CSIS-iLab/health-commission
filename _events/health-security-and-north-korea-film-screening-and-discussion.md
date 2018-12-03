@@ -11,7 +11,9 @@ excerpt: On October 29, the CSIS Commission on Strengthening America’s Health 
   followed by a roundtable discussion with regional experts and providers of humanitarian
   assistance.
 series: _series/health-security-dimensions-of-geopolitical-crises.md
-themes: []
+themes:
+- _themes/global-disorder.md
+- _themes/drug-resistance.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1543864014/health-commission/North_Korea_event_photo.jpg
 image_caption: ''
 image_credit: Liz Lynch
