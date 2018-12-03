@@ -17,7 +17,6 @@ image_caption: "(From left) Commission Co-Chair Julie Gerberding, Commission Sec
   Bowman, and Commissioners Congressman Tom Cole and Congresswoman Susan Brooks"
 image_credit: Liz Lynch
 documents: []
-published: false
 
 ---
 The CSIS Commission on Strengthening America’s Health Security held its second full Commission meeting on October 2, 2018. Commissioners gathered to discuss the Commission’s ongoing work to construct and operationalize a ten-year U.S. vision for health security.
