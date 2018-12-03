@@ -18,7 +18,7 @@ image_credit: Liz Lynch
 documents: []
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="[https://www.youtube.com/embed/th1p3ufUZW8](https://www.youtube.com/embed/0ro0guxEMZU "https://www.youtube.com/embed/0ro0guxEMZU")"></iframe> </div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/th1p3ufUZW8"></iframe> </div>
 
 The Ebola outbreak unfolding in eastern Democratic Republic of the Congo is the most recent, powerful showcase of what it means to battle dangerous health security threats in a disordered world. WHO leadership is critically important to ongoing Ebola response efforts. The week of November 5, Peter Salama, WHO Deputy Director-General of Emergency Preparedness and Response, traveled on a delegation to the epicenter of the outbreak in the DRC with WHO Director-General Tedros Adhanom Ghebreyesus and UN Under-Secretary-General for Peacekeeping Operations Jean-Pierre Lacroix to examine the state of outbreak response, including the security environment, community mobilization, strengthening programmatic response, and what additional action needs to be taken to contain the crisis. 
 
