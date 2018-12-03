@@ -3,10 +3,10 @@ layout: home
 commission_desc: The CSIS Commission on Strengthening America’s Health Security brings
   together a distinguished and diverse group of high-level opinion leaders who bridge
   security and health.
-featured_post_primary: _posts/2018-10-29-the-gathering-health-storm-inside-north-korea.md
+featured_post_primary: _posts/2018-11-02-north-kivu-s-ebola-outbreak-at-day-90-what-is-to-be-done.md
 featured_post_secondary:
+- _posts/2018-10-29-the-gathering-health-storm-inside-north-korea.md
 - _posts/2018-09-13-Navigating-the-Ebola-Outbreak-in-the-Democratic-Republic-of-the-Congo.md
-- _posts/2018-05-08-the-gathering-health-storm-inside-north-korea.md
 featured_events: ''
 
 ---
