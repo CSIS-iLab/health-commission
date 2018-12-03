@@ -4,15 +4,16 @@ content_type: event
 keywords:
 - Public Event
 date: 2018-12-03 18:47:58 +0000
-excerpt: ''
+excerpt: 'On October 25, the CSIS Global Health Policy Center hosted a conversation
+  with Thomas J. Bollyky on his new book, Plagues and the Paradox of Progress: Why
+  the World is Getting Healthier in Worrisome Ways.'
 series: ''
 themes:
 - _themes/global-disorder.md
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1543864013/health-commission/Bollyky_event_photo.jpg
 image_caption: ''
-image_credit: ''
+image_credit: Liz Lynch
 documents: []
-published: false
 
 ---
 For the first time in recorded history, bacteria, viruses, and other infectious diseases do not cause the majority of deaths or disabilities in any region of the world. But the news is not all good. The recent declines in plagues and parasites have not been accompanied by the same gains in infrastructure, job opportunities, and governance that came with those health improvements in the past. That has meant the byproducts of better health – a growing young work force, less deadly cities, and the shift in countries' health needs to adults – have become potential risks for instability and impoverishment rather than drivers of prosperity. For today’s improved health to lead to broader progress, Bollyky argues, it must be embedded in a larger development strategy, including investment in quality health-care and education systems, making cities more livable, and family planning.
