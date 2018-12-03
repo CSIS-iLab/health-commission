@@ -16,7 +16,7 @@ image_credit: Liz Lynch
 documents: []
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="[https://www.youtube.com/embed/th1p3ufUZW8](https://www.youtube.com/embed/th1p3ufUZW8 "https://www.youtube.com/embed/th1p3ufUZW8")"></iframe> </div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/th1p3ufUZW8"></iframe> </div>
 
 For the first time in recorded history, bacteria, viruses, and other infectious diseases do not cause the majority of deaths or disabilities in any region of the world. But the news is not all good. The recent declines in plagues and parasites have not been accompanied by the same gains in infrastructure, job opportunities, and governance that came with those health improvements in the past. That has meant the byproducts of better health – a growing young work force, less deadly cities, and the shift in countries' health needs to adults – have become potential risks for instability and impoverishment rather than drivers of prosperity. For today’s improved health to lead to broader progress, Bollyky argues, it must be embedded in a larger development strategy, including investment in quality health-care and education systems, making cities more livable, and family planning.
 
