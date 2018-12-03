@@ -20,7 +20,7 @@ image_credit: Liz Lynch
 documents: []
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/th1p3ufUZW8"></iframe></div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/omtuaKqNnnc"></iframe></div>
 
 The bleak health realities of North Korea are an understudied part of the larger problem of potential instability on the Korean peninsula. North Korea has an exceptionally high rate of multidrug resistant tuberculosis (MDR-TB), an estimated 42% of its population is undernourished, and at least 3 in 10 North Korean citizens are stunted. From a health security standpoint, these are just a few of the health issues that can pose an immediate threat to the surrounding region, especially through the possibility that conflict in North Korea could ignite a mass exodus of North Korean refugees carrying infectious diseases such as MDR-TB into South Korea and China.  
    
