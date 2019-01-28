@@ -14,8 +14,8 @@ credits: <em>Health Commission</em> is a product of the <a href="https://www.csi
   Studies.
 funder_acknowledgements: This project is funded through the generous support of the
   Bill & Melinda Gates Foundation.
-header_image: https://res.cloudinary.com/csisideaslab/image/upload/v1537899884/health-commission/About_Header_Photo.jpg
-post_image: https://res.cloudinary.com/csisideaslab/image/upload/v1537904699/health-commission/About_Smaller_Photo.jpg
+header_image: https://res.cloudinary.com/csisideaslab/image/upload/v1548438225/health-commission/About_Header_Photo.jpg
+post_image: https://res.cloudinary.com/csisideaslab/image/upload/v1548438055/health-commission/About_Smaller_Photo.jpg
 post_image_credit: Liz Lynch
 post_image_caption: Commission co-chairs Kelly Ayotte and Julie Gerberding at the
   April 17, 2018 Commission launch.
