@@ -38,7 +38,7 @@ But it is still early days in understanding and battling this new phase of synth
 
 Fentanyl, a synthetic opioid that is 50 times stronger than heroin and 100 times stronger than morphine, is now widely understood to be an exceptionally lethal new threat to the health security of Americans. Average life expectancy in the United States declined in 2016 and 2017 for the first time in decades, partly due to the rise in opioid overdose deaths, which totaled 72,000 in 2017—a new record. Almost 30,000 of these deaths in 2017 were directly attributable to fentanyl, the drug category with the steepest increase in lethal overdoses over the last several years.
 
-[![https://csis-prod.s3.amazonaws.com/s3fs-public/graph_health.jpg](cid:image001.jpg@01D4C399.D960A830 =624x407)](https://csis-prod.s3.amazonaws.com/s3fs-public/graph_health.jpg)
+![](https://res.cloudinary.com/csisideaslab/image/upload/v1550094159/health-commission/graph_health.jpg)
 
 Source: [National Institute on Drug Abuse](https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates)
 
