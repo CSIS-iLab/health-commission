@@ -8,8 +8,8 @@ excerpt: China’s commitment to ban fentanyl as a drug class, a welcome announc
   synthetic opioids, poses a grave, direct health security threat.
 date: 2019-02-18 05:00:00 +0000
 authors:
-- _authors/emily-munden.md
 - _authors/stephen-morrison.md
+- _authors/emily-munden.md
 series: ''
 themes:
 - _themes/global-disorder.md
