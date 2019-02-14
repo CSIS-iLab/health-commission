@@ -6,7 +6,7 @@ excerpt: China’s commitment to ban fentanyl as a drug class, a welcome announc
   at the December 2018 G20 summit in Buenos Aires, was just the most recent, powerful
   signal of the growing understanding that fentanyl, the front edge of a new era of
   synthetic opioids, poses a grave, direct health security threat.
-date: 2019-02-18 05:00:00 +0000
+date: 2019-01-01 05:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
 - _authors/emily-munden.md
