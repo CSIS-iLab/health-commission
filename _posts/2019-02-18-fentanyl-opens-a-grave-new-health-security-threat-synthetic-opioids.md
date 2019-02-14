@@ -9,6 +9,7 @@ excerpt: China’s commitment to ban fentanyl as a drug class, a welcome announc
 date: 2019-01-01 05:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
+- _authors/emily-munden.md
 series: ''
 themes:
 - _themes/global-disorder.md
