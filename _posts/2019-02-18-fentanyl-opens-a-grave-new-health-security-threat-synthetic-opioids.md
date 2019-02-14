@@ -71,7 +71,7 @@ Even though the U.S.-China relationship is in the midst of a fraught period of e
 
 The focus now shifts to China’s follow-through: it will need to amend its current laws before the ban can take effect and outline how exactly it will enforce new regulations.
 
-**Pathways for U.S. Action Today and in Future Battles against Synthetic Opioids**
+## **Pathways for U.S. Action Today and in Future Battles against Synthetic Opioids**
 
 Despite the breakthroughs of 2018, the United States (and others) are still struggling to catch up and get ahead of this dynamic and dangerous new era of synthetic opioids. Part of that is the widening realization that the health security threat we face encompasses far more than just fentanyl per se and far more than just the U.S.-China relationship.
 
