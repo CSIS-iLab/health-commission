@@ -39,9 +39,7 @@ But it is still early days in understanding and battling this new phase of synth
 
 Fentanyl, a synthetic opioid that is 50 times stronger than heroin and 100 times stronger than morphine, is now widely understood to be an exceptionally lethal new threat to the health security of Americans. Average life expectancy in the United States declined in 2016 and 2017 for the first time in decades, partly due to the rise in opioid overdose deaths, which totaled 72,000 in 2017—a new record. Almost 30,000 of these deaths in 2017 were directly attributable to fentanyl, the drug category with the steepest increase in lethal overdoses over the last several years.
 
-![Source: National Institute on Drug Abuse](https://res.cloudinary.com/csisideaslab/image/upload/v1550094159/health-commission/graph_health.jpg "Source: National Institute on Drug Abuse")
-
-Source: [National Institute on Drug Abuse](https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates "Drugs Involved in U.S. Overdose Deaths, 1999 to 2017")
+![Source: National Institute on Drug Abuse](https://res.cloudinary.com/csisideaslab/image/upload/v1550094159/health-commission/graph_health.jpg "Drugs Involved in U.S. Overdose Deaths, 1999 to 2017  ")
 
 While fentanyl is legal with a prescription, it is commonly trafficked and consumed illicitly. Drug cartels now commonly cut heroin with fentanyl to increase both potency and profitability. The cartels increasingly rely on fentanyl cheaply sourced from China but can produce their own fentanyl as needed. Most heroin enters the United States via Mexican drug cartels, which means, in practice, a large proportion of fentanyl enters the U.S. black market through Mexican smuggling channels, such as the Tijuana/San Diego corridor controlled by the Sinaloa Cartel.
 
