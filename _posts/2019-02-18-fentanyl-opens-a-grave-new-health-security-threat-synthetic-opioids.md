@@ -35,7 +35,7 @@ U.S.-China diplomatic cooperation over fentanyl has advanced even as trade, secu
 
 But it is still early days in understanding and battling this new phase of synthetic opioids and the proliferating health security threats it poses. The curve of ever-higher fentanyl-derived deaths has not yet been bent in the United States and Canada (though recent data shows downturns in some key places). Newly legislated steps to control mail traffic and the importation of fentanyl have not yet been tested. Despite our common interests, it is not clear whether China is truly committed to following through on its promises, and China may be constrained by its own lack of capacity and political will, perhaps compounded by the worsening of U.S.-China relations. Long-term, we do not fully understand the implications of a scientific transformation in illicit drug manufacturing, unlike anything we have faced before, which will continually throw forward dangerous new molecules and test our ability to devise new capacities—in diplomacy, diagnostics, regulatory regimes, industrial norms, supply chains, and communications—that will allow us to get ahead of this revolution.
 
-**Fentanyl**: **A Grave External Threat**
+## **Fentanyl**: **A Grave External Threat**
 
 Fentanyl, a synthetic opioid that is 50 times stronger than heroin and 100 times stronger than morphine, is now widely understood to be an exceptionally lethal new threat to the health security of Americans. Average life expectancy in the United States declined in 2016 and 2017 for the first time in decades, partly due to the rise in opioid overdose deaths, which totaled 72,000 in 2017—a new record. Almost 30,000 of these deaths in 2017 were directly attributable to fentanyl, the drug category with the steepest increase in lethal overdoses over the last several years.
 
@@ -47,7 +47,7 @@ While fentanyl is legal with a prescription, it is commonly trafficked and consu
 
 All synthetic opioids except for methadone are more powerful and deadly—in minuscule, easily concealable doses—than plant-based opioids. Users often have no visibility into the strength of the dose they are consuming, which places them in acute danger of overdose and death. For those without an acquired tolerance, the lethal dose of fentanyl is two milligrams, about the size of two grains of salt. Those who overdose on fentanyl often do not respond to standard doses of naloxone, the overdose reversal drug. Exposure to fentanyl poses dangers to anyone proximate to users—health care providers, law enforcement, and family members or any other person who may have accidental contact.
 
-**The Front Edge of a Historic Moment**
+## **The Front Edge of a Historic Moment**
 
 We are at the front edge of a scientific transformation in the way opioids are produced. We have entered a world of synthetic opioids that is capable of rapidly generating further analogs.
 
@@ -57,7 +57,7 @@ Fentanyl analogs allow manufacturers to stay a few steps ahead of the law. By si
 
 Evidence shows that illicit manufacturers are already moving beyond fentanyl-based analogs to other synthetic opioids like U-47700 and MT-45. And the numbers of novel synthetic opioids seized in the United States are rapidly rising. According to the Drug Enforcement Administration’s (DEA) 2017 Emerging Threats Report, 55 percent of the synthetic opioids identified in 2017 were identified for the first time that year.
 
-**Unified U.S. Action Elevates Fentanyl**
+## **Unified U.S. Action Elevates Fentanyl**
 
 The Trump administration and Congress have recognized fentanyl as a grave threat to the U.S. public. In October 2018, President Trump signed into law the Support for Patients and Communities Act, a sweeping package of bills aimed at fighting the U.S. opioid crisis, which passed Congress with overwhelming bipartisan support. The package calls for improved U.S. interagency coordination on improving fentanyl detection and testing at U.S. border checks and includes the Synthetics Trafficking and Overdose Prevention (STOP) Act of 2018, legislation that strengthens standards for international packages at the U.S. Postal Service (the primary supply route for fentanyl into the United States).
 
@@ -65,7 +65,7 @@ In February, the DEA issued a two-year temporary order that proactively regulate
 
 China has also taken substantial unilateral actions, including labeling 25 fentanyl analogs and 2 precursors as controlled substances and announcing reforms to its chemical industry regulations and major chemical industry regulatory bodies.
 
-**U.S.-China Alignment**
+## **U.S.-China Alignment**
 
 The single most significant action from China on fentanyl is the commitment President Xi made to President Trump at a dinner on the sidelines of the November 2018 G20 summit, which was followed by a statement reiterating the commitment from the Chinese foreign ministry. By agreeing to label fentanyl as a class of controlled substances, China aligned itself with U.S. policy. The systematic criminalization of the trade of fentanyl and all current and future fentanyl analogs—by both the United States and China—is a diplomatic milestone.
 
