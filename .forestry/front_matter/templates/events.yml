@@ -42,6 +42,7 @@ fields:
   name: ''
   label: ''
 pages:
+- _events/clade-x-pandemic-simulation-exercise.md
 - _events/commission-launch.md
 - _events/health-security-in-a-disordered-world.md
 - _events/plagues-and-the-paradox-of-progress-a-conversation-with-thomas-j-bollyky.md
