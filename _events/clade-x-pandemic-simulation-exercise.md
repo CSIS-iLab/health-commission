@@ -16,7 +16,6 @@ image_caption: Congressman Ami Bera, Tom Inglesby, Senator Kelly Ayotte, Congres
   exercise.
 image_credit: Price Tyson / Johns Hopkins Center for Health Security
 documents: []
-published: false
 
 ---
 On January 28, 2019, the CSIS Commission on Strengthening America’s Health Security convened a high-level Clade X pandemic simulation exercise in collaboration with Commission expert advisor Tom Inglesby and the Johns Hopkins Center for Health Security. The exercise players included six Commissioners, including three Members of Congress, and two senior administration officials. Commission Secretariat Director J. Stephen Morrison offered welcoming remarks framing the exercise within the broader context of the Commission’s work, and Inglesby then led the players through the exercise.
@@ -31,20 +30,12 @@ The exercise produced a number of key takeaways for the Commission. The exercise
 
 The exercise players included:
 
-· Commission Co-Chair Kelly Ayotte, former U.S. Senator (R-NH);
-
-· Commissioner Todd Young, U.S. Senator (R-IN);
-
-· Commissioner Susan Brooks, U.S. Congresswoman (R-IN);
-
-· Commissioner Ami Bera, U.S. Congressman (D-CA);
-
-· Commissioner Jim Greenwood, President and CEO, Biotechnology Innovation Organization;
-
-· Commissioner Rebecca Hersman, Director, CSIS Project on Nuclear Issues, and Senior Adviser, CSIS International Security Program;
-
-· Dr. Robert Kadlec, Assistant Secretary for Preparedness and Response, U.S. Department of Health and Human Services;
-
-· Dr. Mitch Wolfe, Chief Medical Officer and Acting Director of the CDC Washington, D.C. Office, U.S. Centers for Disease Control and Prevention;
-
-· Commission Expert Advisor Tom Inglesby, Director, Johns Hopkins Center for Health Security.
+* Commission Co-Chair Kelly Ayotte, former U.S. Senator (R-NH);
+* Commissioner Todd Young, U.S. Senator (R-IN);
+* Commissioner Susan Brooks, U.S. Congresswoman (R-IN);
+* Commissioner Ami Bera, U.S. Congressman (D-CA);
+* Commissioner Jim Greenwood, President and CEO, Biotechnology Innovation Organization;
+* Commissioner Rebecca Hersman, Director, CSIS Project on Nuclear Issues, and Senior Adviser, CSIS International Security Program;
+* Dr. Robert Kadlec, Assistant Secretary for Preparedness and Response, U.S. Department of Health and Human Services;
+* Dr. Mitch Wolfe, Chief Medical Officer and Acting Director of the CDC Washington, D.C. Office, U.S. Centers for Disease Control and Prevention;
+* Commission Expert Advisor Tom Inglesby, Director, Johns Hopkins Center for Health Security.
