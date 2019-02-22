@@ -3,10 +3,10 @@ layout: home
 commission_desc: The CSIS Commission on Strengthening America’s Health Security brings
   together a distinguished and diverse group of high-level opinion leaders who bridge
   security and health.
-featured_post_primary: _posts/2019-02-18-fentanyl-opens-a-grave-new-health-security-threat-synthetic-opioids.md
+featured_post_primary: _posts/2019-02-22-more-is-possible-now-to-address-north-korea-s-health-and-humanitarian-needs.md
 featured_post_secondary:
+- _posts/2019-02-18-fentanyl-opens-a-grave-new-health-security-threat-synthetic-opioids.md
 - _posts/2018-11-02-north-kivu-s-ebola-outbreak-at-day-90-what-is-to-be-done.md
-- _posts/2018-10-29-video-the-gathering-health-storm-inside-north-korea.md
 featured_events: _events/clade-x-pandemic-simulation-exercise.md
 
 ---
