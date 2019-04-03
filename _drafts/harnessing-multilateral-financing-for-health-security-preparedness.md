@@ -11,9 +11,17 @@ authors: []
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1554312659/health-commission/GettyImages-470059074.jpg
+image_caption: 'WASHINGTON, DC - APRIL 17: World Bank Group President Jim Kim (C)
+  leads a meeting with finance and development ministers and international partners
+  and Guinea President Alpha Conde, Liberia President Ellen Johnson Sirleaf and Sierra
+  Leone President Ernest Bai Karoma about the ongoing efforts to recover from the
+  Ebola outbreak in West Africa during the World Bank- International Monetary Fund
+  Spring Meetings April 17, 2015 in Washington, DC. The World Bank announced Friday
+  that it would provide an additional US$650 million over the next year to help Guinea,
+  Liberia and Sierra Leone to recover from the social, economic and health impact
+  of the Ebola crisis.'
+image_credit: " Chip Somodevilla/Getty Images"
 pdf: ''
 is_commission_related:
   description: ''
