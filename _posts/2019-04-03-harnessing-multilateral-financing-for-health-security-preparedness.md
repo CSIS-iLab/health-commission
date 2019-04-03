@@ -68,9 +68,7 @@ Investments in preparedness are central to achieving universal health coverage. 
 
 **Investing in preparedness yields significant returns.** The potential economic impact of large-scale outbreaks is huge: pandemics could cause average annual economic losses of 0.7 percent of global GDP, or $570 billion each year, over the coming decades.\[^2\] On the other hand, the cost of preparedness for the next health security crisis is relatively modest, with an estimated cost of $4.5 billion per year.\[^3\]
 
-{: style="margin:0 auto 1rem; max-width:400px"}![Source: CSIS](https://res.cloudinary.com/csisideaslab/image/upload/v1554317848/health-commission/Economic%20Losses_Updated%20copy.jpg "Global Economic Loss from Diseases")
-
-**Source:** Yamey, Gavin et al., “Financing of international collective action for epidemic and pandemic preparedness,” The Lancet Global Health, 2017, [https://www.thelancet.com/journals/langlo/article/PIIS2214-109X](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X")[(17)30203-6/fulltext](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30203-6/fulltext).
+{: style="margin:0 auto 1rem; max-width:400px"}![Source: Yamey, Gavin et al., “Financing of international collective action for epidemic and pandemic preparedness,” The Lancet Global Health, 2017,](https://res.cloudinary.com/csisideaslab/image/upload/v1554317848/health-commission/Economic%20Losses_Updated%20copy.jpg "Global Economic Loss from Diseases")
 
 Without strong preparedness systems already in place, outbreaks are much more likely to spread out of control and undermine development investments. For example, the 2014-2015 Ebola outbreak in West Africa caused at minimum $2.8 billion in losses in GDP in the three most affected countries, primarily through disruptions in mineral and agricultural production, trade, new investment, banking, and transport.\[^4\],\[^5\] The outbreak wiped out nearly five years of World Bank Group (WBG) investments in the region and set back the region’s future development prospects.
 
@@ -78,9 +76,7 @@ Since 2014, 45 IDA-eligible countries have undertaken a national preparedness as
 
 **_National Preparedness Assessment (JEE) Scores, IDA countries only_**
 
-![Source: Prevent Epidemics](https://res.cloudinary.com/csisideaslab/image/upload/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg "National Preparedness Assessment")
-
-**Source:** See Prevent Epidemics at [https://preventepidemics.org/](https://preventepidemics.org/ "https://preventepidemics.org/").
+![Source: See Prevent Epidemics at https://preventepidemics.org](https://res.cloudinary.com/csisideaslab/image/upload/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg "National Preparedness Assessment")
 
 **The costs of upgrading defenses against health security threats are just a fraction of the resulting costs of epidemics.** Recent costings suggest that most countries would need to spend $0.50-$1.50 per person per year to get to an acceptable level of epidemic preparedness.\[^7\] For most countries, this is less than 2 percent of what is spent on healthcare.
 
