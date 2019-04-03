@@ -12,6 +12,8 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/tom-cole.md
+- _authors/rocco-casagrande.md
 - _authors/jim-greenwood.md
 - _authors/juan-zarate.md
 - _authors/emily-munden.md
@@ -25,7 +27,6 @@ pages:
 - _authors/stephen-morrison.md
 - _authors/david-relman.md
 - _authors/rebecca-katz.md
-- _authors/rocco-casagrande.md
 - _authors/laura-holgate.md
 - _authors/julie-louise-gerberding-m-d-mph.md
 - _authors/u.s.-congresswoman-susan-brooks.md
@@ -44,7 +45,6 @@ pages:
 - _authors/Kee-Park.md
 - _authors/christine-wormuth.md
 - _authors/nancy-lindborg.md
-- _authors/tom-cole.md
 - _authors/jennifer-kates.md
 - _authors/karl-hofmann.md
 - _authors/carter-ham.md
