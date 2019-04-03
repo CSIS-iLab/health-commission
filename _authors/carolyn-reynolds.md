@@ -10,6 +10,15 @@ themes:
 image: ''
 short_title: CSIS
 date: 2019-04-03 17:34:33 +0000
-published: false
+authors: []
+image_caption: ''
+image_credit: ''
+pdf: ''
+is_commission_related:
+  description: ''
+  related_event: ''
+references: ''
+series: ''
+keywords: []
 
 ---
