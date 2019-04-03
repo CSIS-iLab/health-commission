@@ -12,6 +12,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/tom-frieden.md
 - _authors/tom-cole.md
 - _authors/rocco-casagrande.md
 - _authors/jim-greenwood.md
@@ -19,7 +20,6 @@ pages:
 - _authors/emily-munden.md
 - _authors/judd-devermont.md
 - _authors/Justin-Kenny.md
-- _authors/tom-frieden.md
 - _authors/Nellie-Bristol.md
 - _authors/jimmy-kolker.md
 - _authors/amanda-glassman.md
