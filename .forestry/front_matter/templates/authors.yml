@@ -12,6 +12,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/anna-eshoo.md
 - _authors/tom-frieden.md
 - _authors/tom-cole.md
 - _authors/rocco-casagrande.md
@@ -23,7 +24,6 @@ pages:
 - _authors/Nellie-Bristol.md
 - _authors/jimmy-kolker.md
 - _authors/amanda-glassman.md
-- _authors/anna-eshoo.md
 - _authors/stephen-morrison.md
 - _authors/david-relman.md
 - _authors/rebecca-katz.md
