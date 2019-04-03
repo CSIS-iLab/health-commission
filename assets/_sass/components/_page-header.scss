@@ -52,7 +52,7 @@
 
     @include breakpoint('medium') {
       bottom: 20%;
-      padding-right: calc(100% - #{$size-page-highlights-width});
+      // padding-right: calc(100% - #{$size-page-highlights-width});
     }
   }
 
