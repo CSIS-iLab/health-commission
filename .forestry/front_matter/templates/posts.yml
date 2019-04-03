@@ -1,7 +1,6 @@
 ---
 label: Posts
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -79,8 +78,9 @@ fields:
     schema:
       format: markdown
 pages:
-- _posts/2019-02-22-more-is-possible-now-to-address-north-korea-s-health-and-humanitarian-needs.md
+- _posts/harnessing-multilateral-financing-for-health-security-preparedness.md
 - _posts/2019-02-18-fentanyl-opens-a-grave-new-health-security-threat-synthetic-opioids.md
+- _posts/2019-02-22-more-is-possible-now-to-address-north-korea-s-health-and-humanitarian-needs.md
 - _posts/2018-11-02-the-impossible-state-podcast-the-gathering-health-storm-inside-north-korea.md
 - _posts/2018-10-29-video-the-gathering-health-storm-inside-north-korea.md
 - _posts/2018-11-02-north-kivu-s-ebola-outbreak-at-day-90-what-is-to-be-done.md

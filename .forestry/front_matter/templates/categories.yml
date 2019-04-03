@@ -1,7 +1,6 @@
 ---
 label: Categories
 hide_body: false
-is_partial: true
 fields:
 - type: select
   name: series

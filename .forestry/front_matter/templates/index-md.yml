@@ -1,7 +1,6 @@
 ---
 label: index.md
 hide_body: false
-is_partial: false
 fields:
 - name: commission_desc
   label: Commission desc
