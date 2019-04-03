@@ -12,6 +12,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/carolyn-reynolds.md
 - _authors/anna-eshoo.md
 - _authors/tom-frieden.md
 - _authors/tom-cole.md
@@ -44,7 +45,6 @@ pages:
 - _authors/Jacki-Lyden.md
 - _authors/Kee-Park.md
 - _authors/christine-wormuth.md
-- _authors/carolyn-reynolds.md
 - _authors/nancy-lindborg.md
 - _authors/jennifer-kates.md
 - _authors/karl-hofmann.md
