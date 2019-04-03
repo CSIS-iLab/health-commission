@@ -60,7 +60,7 @@ _The World Bank Group’s International Development Association (IDA) replenishm
 
 **Pandemics and high-risk disease outbreaks spread quickly, rapidly infect large numbers of people, and can escalate swiftly into regional epidemics or even a global pandemic.** Estimates are that an influenza pandemic could infect billions, kill millions, and damage the global economy.[\[1\]](#_ftn1)The risk of health security threats is especially high in fragile and conflict-affected settings, concentrated among low-income countries (LICs). The ongoing, highly-dangerous Ebola outbreak in the Democratic Republic of the Congo is the second-largest Ebola outbreak in history and presents a significant, escalating threat to the region and potentially beyond. Responders struggle amid continued violent attacks, community resistance, weak existing health security capacity, and insufficient international financing.
 
-![](https://res.cloudinary.com/csisideaslab/image/upload/v1554317607/health-commission/death_from_diseases.jpg)
+![Source: CSIS](https://res.cloudinary.com/csisideaslab/image/upload/v1554317607/health-commission/death_from_diseases.jpg "Deaths from diseases")
 
 Underinvesting in preparedness undermines other critically important health objectives. For example, outbreak threats endanger ongoing efforts to combat antimicrobial resistance (AMR). AMR can contribute to serious illness and death during a large-scale outbreak and is a major health security risk globally in its own right. The AMR threat is rising, as common infections become deadly due to widespread drug resistance.
 
@@ -68,7 +68,7 @@ Investments in preparedness are central to achieving universal health coverage. 
 
 **Investing in preparedness yields significant returns.** The potential economic impact of large-scale outbreaks is huge: pandemics could cause average annual economic losses of 0.7 percent of global GDP, or $570 billion each year, over the coming decades.[\[2\]](#_ftn2) On the other hand, the cost of preparedness for the next health security crisis is relatively modest, with an estimated cost of $4.5 billion per year.[\[3\]](#_ftn3)
 
-![](https://res.cloudinary.com/csisideaslab/image/upload/v1554317848/health-commission/global_loss.jpg)
+![Source: CSIS](https://res.cloudinary.com/csisideaslab/image/upload/v1554317848/health-commission/global_loss.jpg "Global Economic Loss from Diseases")
 
 **Source:** Yamey, Gavin et al., “Financing of international collective action for epidemic and pandemic preparedness,” The Lancet Global Health, 2017, [https://www.thelancet.com/journals/langlo/article/PIIS2214-109X](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X")[(17)30203-6/fulltext](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30203-6/fulltext).
 
@@ -78,17 +78,17 @@ Since 2014, 45 IDA-eligible countries have undertaken a national preparedness as
 
 **_National Preparedness Assessment (JEE) Scores, IDA countries only_**
 
-![](https://res.cloudinary.com/csisideaslab/image/upload/v1554317903/health-commission/national_prepardness.jpg)
+![Source: Prevent Epidemics](https://res.cloudinary.com/csisideaslab/image/upload/v1554317903/health-commission/national_prepardness.jpg "National Preparedness Assessment")
 
 **Source:** See Prevent Epidemics at [https://preventepidemics.org/](https://preventepidemics.org/ "https://preventepidemics.org/").
 
 **The costs of upgrading defenses against health security threats are just a fraction of the resulting costs of epidemics.** Recent costings suggest that most countries would need to spend $0.50-$1.50 per person per year to get to an acceptable level of epidemic preparedness.[\[7\]](#_ftn7) For most countries, this is less than 2 percent of what is spent on healthcare.
 
-![](https://res.cloudinary.com/csisideaslab/image/upload/v1554317500/health-commission/cost_of_prepardness.jpg)
+![Source: CSIS](https://res.cloudinary.com/csisideaslab/image/upload/v1554317500/health-commission/cost_of_prepardness.jpg "Cost of Preparedness")
 
 Strengthening health security preparedness often receives very low priority in country budgets, despite the catastrophic risk to health and economies from a major epidemic. Many low-income countries underinvest in preparedness due to a lack of resources. A related factor is that preparedness creates outcomes that are often not visible, competing against investments in roads, housing, and education.
 
-![](https://res.cloudinary.com/csisideaslab/image/upload/v1554317964/health-commission/underinvest_preparedness.jpg)
+![Source: CSIS](https://res.cloudinary.com/csisideaslab/image/upload/v1554317964/health-commission/underinvest_preparedness.jpg "Why Do LICs and LMICs Underinvest in Preparedness")
 
 **There is a need to create new financial mechanisms that incentivize low-income countries to increase investments in their preparedness and begin to close the $4.5 billion global funding gap.** Low-income and lower-middle-income country investments in basic preparedness are strikingly low. Bilateral development assistance for health security will continue to play an important role in closing the financing gap, but dedicated funding for increasing preparedness in low-income countries has been limited. The United States led the way in this area through the $1 billion in Ebola supplemental funding appropriated by Congress for fiscal years 2015-2019, and these investments should be sustained post-2019 as part of the U.S. commitment to the Global Health Security Agenda. The G7, South Korea, and Australia have also pledged resources, but the size and sustainability of these funding streams fall far short of what is required. For the United States and other donors, the challenge is to find a combination of regularly budgeted bilateral investments and multilateral investments to adequately finance preparedness investments in low-income countries.
 
