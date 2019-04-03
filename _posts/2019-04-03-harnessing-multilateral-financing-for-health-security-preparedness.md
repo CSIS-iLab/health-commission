@@ -10,6 +10,7 @@ date: 2019-04-03 04:00:00 +0000
 authors:
 - _authors/kelly-ayotte.md
 - _authors/ami-bera.md
+- _authors/u.s.-congresswoman-susan-brooks.md
 - _authors/beth-cameron.md
 - _authors/steve-davis.md
 - _authors/mark-dybul.md
