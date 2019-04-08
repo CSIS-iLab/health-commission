@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/post-hong-kong-human-genome-editing-s-brave-new-world.md
 - _posts/human-genome-editing-s-brave-new-world.md
 - _posts/2019-04-03-harnessing-multilateral-financing-for-health-security-preparedness.md
 - _posts/2019-02-18-fentanyl-opens-a-grave-new-health-security-threat-synthetic-opioids.md
