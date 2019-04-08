@@ -9,8 +9,9 @@ date: 2019-04-02 04:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
 series: ''
-themes: []
-image: ''
+themes:
+- _themes/managing-biotechnology.md
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1554734743/health-commission/Gene%20editing%20podcast%20studio%20photo.jpg
 image_caption: ''
 image_credit: ''
 pdf: ''
