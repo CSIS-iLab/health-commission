@@ -12,6 +12,7 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/dr-victor-dzau.md
 - _authors/carolyn-reynolds.md
 - _authors/anna-eshoo.md
 - _authors/tom-frieden.md
