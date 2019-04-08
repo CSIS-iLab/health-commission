@@ -8,6 +8,7 @@ excerpt: J. Stephen Morrison and Dr. Victor Dzau of the National Academy of Medi
 date: 2019-04-02 04:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
+- _authors/dr-victor-dzau.md
 series: ''
 themes:
 - _themes/managing-biotechnology.md
