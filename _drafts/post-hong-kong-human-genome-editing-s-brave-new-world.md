@@ -22,7 +22,7 @@ is_commission_related:
 references: ''
 
 ---
-<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/BDK3TIMmo3I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/zAXcPkjN2RE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 A firestorm followed Professor He Jiankui’s disturbing announcement last fall in Hong Kong that he had made heritable genetic changes in human embryos that resulted in the birth of twin girls. Critics pointed to the lack of oversight and transparency, the inadequacy of the informed consent process, the lack of a compelling medical rationale, potential unknown future harms to the edited babies, and the lack of a clear consensus about the actual use of new, powerful gene editing technologies. This historic incident has stirred an intense debate over both the promise of these technologies to cure devastating diseases, such as Huntington’s Disease, and alarm over the idea that these same technologies might be used to create “designer babies.” The U.S. National Academy of Sciences and National Academy of Medicine, together with other international academies, have led vital international discussions over next steps.
 
