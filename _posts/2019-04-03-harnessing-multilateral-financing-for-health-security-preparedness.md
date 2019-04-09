@@ -83,12 +83,12 @@ Since 2014, 45 IDA-eligible countries have undertaken a national preparedness as
   <img sizes="(max-width: 320px) 320px,
         (max-width: 375px) 335px,
         (max-width: 480px) 440px,
-        (max-width: 675px) 635px,
-        800px" srcset="https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_320/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  320w,
-          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_335/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  335w,
-          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_480/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  480w,
-          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_635/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  635w,
-          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,w_800/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  800w" src="https://res.cloudinary.com/csisideaslab/image/upload/f_auto,w_800/v2/health-commission/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg " title="National Preparedness Assessment" alt="National Preparedness Assessment" style="
+        (max-width: 800px) 760px,
+        1200px" srcset="https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_450/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  320w,
+          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_80,w_335/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  335w,
+          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_80,w_480/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  480w,
+          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_80,w_635/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  635w,
+          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,w_1200/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg  800w" src="https://res.cloudinary.com/csisideaslab/image/upload/f_auto,w_1200/v2/health-commission/v1554317903/health-commission/190401_JEE-Scores_graph-01_updated.jpg " title="National Preparedness Assessment" alt="National Preparedness Assessment" style="
     width: 100%;
 ">
 
