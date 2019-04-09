@@ -14,7 +14,6 @@ fields:
     options:
     - commentary
     - report
-    - event
   label: Content Type
   hidden: false
 - type: textarea
