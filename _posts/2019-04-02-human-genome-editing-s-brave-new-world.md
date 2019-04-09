@@ -26,6 +26,6 @@ references: ''
 
 _This podcast with President of the National Academy of Medicine Dr. Victor Dzau, recorded for the CSIS Global Health Policy Center podcast series “Take as Directed,” examines the future of human genome editing post-Hong Kong summit._
 
-![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/c_limit,h_700,w_700/v1554738489/health-commission/Gene%20editing%20podcast%20studio%20photo-2.jpg "")
+![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/c_limit,h_700,w_700/v1554738489/health-commission/Gene%20editing%20podcast%20studio%20photo-2.jpg "Podcast Recording")
 
 At the Second International Summit on Human Genome Editing in Hong Kong last fall, Professor He Jiankui made a controversial announcement that he had made heritable genetic changes in human embryos, which resulted in the birth of twin girls. This action has been universally condemned and has sparked intense international debate over whether human germline genome editing should be permitted, and what regulatory or governance framework is needed. In this podcast, host J. Stephen Morrison, Commission Secretariat Director and CSIS Senior Vice President and Global Health Policy Center, sits down with Dr. Victor Dzau, President of the National Academy of Medicine, which was one of the conveners of the summit in Hong Kong. Dr. Dzau is a prominent leader in the current conversation as the scientific community seeks the best way forward.
