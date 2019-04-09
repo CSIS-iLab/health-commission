@@ -77,7 +77,25 @@ Since 2014, 45 IDA-eligible countries have undertaken a national preparedness as
 
 **_National Preparedness Assessment (JEE) Scores, IDA countries only_**
 
-![Source: See Prevent Epidemics at https://preventepidemics.org](https://res.cloudinary.com/csisideaslab/image/upload/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg "National Preparedness Assessment")
+<figure class="" style="
+    max-width: 1200px;
+">
+  <img sizes="(max-width: 320px) 320px,
+        (max-width: 375px) 335px,
+        (max-width: 480px) 440px,
+        (max-width: 675px) 635px,
+        800px" srcset="https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_320/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg  320w,
+          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_335/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg  335w,
+          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_480/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg  480w,
+          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,q_70,w_635/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg  635w,
+          https://res.cloudinary.com/csisideaslab/image/upload/f_auto,w_800/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg  800w" src="https://res.cloudinary.com/csisideaslab/image/upload/f_auto,w_800/v2/health-commission/v1554317903/health-commission/190401_JEE%20Scores_graph-01.jpg " title="National Preparedness Assessment" alt="National Preparedness Assessment" style="
+    width: 100%;
+">
+
+  
+    <figcaption class="img-caption">National Preparedness Assessment <span class="img-caption__source">Source: See Prevent Epidemics at https://preventepidemics.org</span></figcaption>
+  
+  </figure>
 
 **The costs of upgrading defenses against health security threats are just a fraction of the resulting costs of epidemics.** Recent costings suggest that most countries would need to spend $0.50-$1.50 per person per year to get to an acceptable level of epidemic preparedness.[^7] For most countries, this is less than 2 percent of what is spent on healthcare.
 
