@@ -1,0 +1,21 @@
+.single-image {
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+
+  .img-caption {
+    margin: 0.5rem auto 0;
+    @extend %photo-caption-desc;
+
+    &-label {
+      @extend %filter-labels;
+    }
+  }
+}
+
+.img-caption__source {
+  @extend %photo-caption-credit;
+}

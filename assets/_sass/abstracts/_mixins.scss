@@ -1,26 +1,26 @@
 // Rem output with px fallback
 @mixin font-size($size) {
-    font-size: $size; //Fallback in px
-    font-size: calculate-rem($size);
+  font-size: $size; //Fallback in px
+  font-size: calculate-rem($size);
 }
 
 // Center block
 @mixin center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 // Clearfix
 @mixin clearfix() {
-    content: "";
-    display: table;
-    table-layout: fixed;
+  content: '';
+  display: table;
+  table-layout: fixed;
 }
 
 // Clear after (not all clearfix need this also)
 @mixin clearfix-after() {
-    clear: both;
+  clear: both;
 }
 
 // Breakpoints
@@ -30,101 +30,141 @@ $breakpoint-medium: 48em;
 $breakpoint-small: 36em;
 $breakpoint-xsmall: 25em;
 
-@mixin breakpoint($break) {
-    @if $break==xlarge {
-        @media screen and (min-width: $breakpoint-xlarge) {
-            @content;
-        }
+$breakpoints: (
+  'xsmall': 25em,
+  'small': 36em,
+  'medium': 48em,
+  'large': 62em,
+  'xlarge': 90em
+);
+
+// $break: Breakpoint to use
+// $dir: 'min-width' or 'max-width'
+// $until: Maximum width
+// @include breakpoint('medium');
+// @include breakpoint($break: 'medium', $until: 'large');
+// @include breakpoint($break: 'medium', $dir: 'max-width');
+
+@mixin breakpoint(
+  $break,
+  $dir: 'min-width',
+  $until: null,
+  $breakpoints-map: $breakpoints
+) {
+  @if not map-has-key($breakpoints-map, $break) {
+    $break: $break;
+  } @else {
+    $break: map-get($breakpoints-map, $break);
+  }
+
+  @if $break and $until {
+    @if not map-has-key($breakpoints-map, $until) {
+      $until: $until;
+    } @else {
+      $until: map-get($breakpoints-map, $until);
     }
-    @else if $break==large {
-        @media screen and (min-width: $breakpoint-large) {
-            @content;
-        }
+
+    @media screen and (min-width: $break) and (max-width: $until) {
+      @content;
     }
-    @else if $break==medium {
-        @media screen and (min-width: $breakpoint-medium) {
-            @content;
-        }
+  } @else {
+    @media screen and ($dir: $break) {
+      @content;
     }
-    @else if $break==small {
-        @media screen and (min-width: $breakpoint-small) {
-            @content;
-        }
-    }
-    @else if $break==xsmall {
-        @media screen and (max-width: $breakpoint-xsmall) {
-            @content;
-        }
-    }
-    @else {
-        @media screen and (min-width: $break) {
-            @content;
-        }
-    }
+  }
 }
 
 // Box Shadow
 /* @include box-shadow(1px,1px,1px,0, #fff, true); */
 
 @mixin box-shadow($top, $left, $blur, $size, $color, $inset: false) {
-    @if $inset {
-        -webkit-box-shadow: inset $top $left $blur $size $color;
-        -moz-box-shadow: inset $top $left $blur $size $color;
-        box-shadow: inset $top $left $blur $size $color;
-    }
-    @else {
-        -webkit-box-shadow: $top $left $blur $size $color;
-        -moz-box-shadow: $top $left $blur $size $color;
-        box-shadow: $top $left $blur $size $color;
-    }
+  @if $inset {
+    -webkit-box-shadow: inset $top $left $blur $size $color;
+    -moz-box-shadow: inset $top $left $blur $size $color;
+    box-shadow: inset $top $left $blur $size $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $size $color;
+    -moz-box-shadow: $top $left $blur $size $color;
+    box-shadow: $top $left $blur $size $color;
+  }
 }
 
 // Extend Background to full width of window
-@mixin fullWidthBackground ( $background, $direction: '' ) {
-    $width_forumula: calc((100vw - 100%) / 2);
-    &::before,
-    &::after {
-        content: "";
-        display: block;
-        position: absolute;
-        top: 0;
-        width: $width_forumula;
-        height: 100%;
-        background-color: $background;
-    }
+@mixin fullWidthBackground($background, $direction: '') {
+  $width_forumula: calc((100vw - 100%) / 2);
+  &::before,
+  &::after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    width: $width_forumula;
+    height: 100%;
+    background-color: $background;
+  }
 
+  &::before {
+    right: 100%;
+  }
+
+  &::after {
+    left: 100%;
+  }
+
+  @if $direction == left {
     &::before {
-        right: 100%;
+      width: calc(#{$width_forumula} - 50%);
     }
-
     &::after {
-        left: 100%;
+      display: none;
     }
-
-    @if $direction == left {
-        &::before {
-            width: calc(#{$width_forumula} - 50%);
-        }
-        &::after {
-            display: none;
-        }
-    } @else if $direction == right {
-        &::after {
-            width: calc(#{$width_forumula} - 50%);
-        }
-       &::before {
-        display: none;
-       }
+  } @else if $direction == right {
+    &::after {
+      width: calc(#{$width_forumula} - 50%);
     }
+    &::before {
+      display: none;
+    }
+  }
 }
 
 @mixin post-overflow-content($direction: right) {
-    $opposite: 'left';
-    @if $direction == left {
-        $opposite: 'right';
+  $opposite: 'left';
+  @if $direction == left {
+    $opposite: 'right';
+  }
+  float: $direction;
+  max-width: $size-post-media-max-width;
+  margin-#{$direction}: 0;
+  margin-#{$opposite}: 2rem;
+}
+
+// Returns a property: value pair for each breakpoint
+/* @include structure($size__container-max-width, 'max-width'); */
+@mixin structure($map, $property, $sizes: $sizes__default) {
+  @each $size in $sizes {
+    $value: return-map-value($map, $size);
+    @if $size == 'small' {
+      @include structure-property($property, $value);
+    } @else {
+      @include breakpoint($size) {
+        @include structure-property($property, $value);
+      }
     }
-    float: $direction;
-    max-width: $size-post-media-max-width;
-    margin-#{$direction}: 0;
-    margin-#{$opposite}: 2rem;
+  }
+}
+
+// Used exclusively by the structure mixin to return property-left/property-right/property depending on the type of property.
+@mixin structure-property($property, $value) {
+  @if $property == 'padding' or $property == 'margin' {
+    $right: nth($value, 1);
+    $left: nth($value, 1);
+    @if length($value) == 2 {
+      $left: nth($value, 2);
+    }
+    #{$property}-right: $right;
+    #{$property}-left: $left;
+  } @else {
+    #{$property}: $value;
+  }
 }

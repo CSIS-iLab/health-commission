@@ -115,3 +115,43 @@ $size-author-image-header-mobile: 80px;
 $size-author-image-block: 80px;
 
 $breakpoint-desktop: 68em;
+$sizes__default: ('small', 'medium', 'large', 'xlarge');
+
+$size__float-small: (
+  'small': 100%,
+  'medium': 225px,
+  'large': 250px,
+  'xlarge': 250px
+);
+
+$size__float-medium: (
+  'small': 100%,
+  'medium': 350px,
+  'large': 400px,
+  'xlarge': 400px
+);
+
+$size__float-large: (
+  'small': 100%,
+  'medium': 350px,
+  'large': 40%,
+  'xlarge': 500px
+);
+
+$size__medium: (
+  'small': 100%,
+  'medium': 525px,
+  'large': 525px,
+  'xlarge': 550px
+);
+
+$size__large: (
+  'small': 100%,
+  'medium': 100%,
+  'large': calc(100% - 4vw),
+  'xlarge': 75%
+);
+
+$size__max: 100%;
+
+$size__full: 100vw;

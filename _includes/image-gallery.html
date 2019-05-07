@@ -1,0 +1,48 @@
+{%- assign images = include.images | map: "url"  -%}
+{%- assign captions = include.images | map: "caption"  -%}
+{%- assign credits_array = include.images | map: "credit"  -%}
+{%- assign credits = '' | split: ',' -%}
+
+{%- for item in credits_array -%}
+  {%- assign credit = item | strip  -%}
+  {%- if credit.size > 0 -%}
+    {%- capture credit -%}<span class="image-gallery__captions-single__text-source">{{ credit }}</span>{%- endcapture -%}
+  {%- else -%}
+    {% assign credit = "" -%}
+  {%- endif -%}
+  {% assign credits = credits | push: credit -%}
+{%- endfor -%}
+
+
+<div class="image-gallery full">
+  <div class="image-gallery__images">
+    {%- for image in images -%}
+
+      {%- assign caption = captions[forloop.index0] | markdownify -%}
+      {%- assign credit = credits[forloop.index0] -%}
+
+      {%- include single-image.html
+        url=image
+        figcaption=false
+        caption=caption
+        credit=credit
+        class="image-gallery__image-single"
+        height=include.height
+        -%}
+    {%- endfor -%}
+  </div>
+  <div class="image-gallery__captions">
+    {%- for image in images -%}
+
+      {%- assign caption = captions[forloop.index0] -%}
+      {%- assign credit = credits[forloop.index0] -%}
+
+    <div class="image-gallery__captions-single">
+      <span class="image-gallery__captions-single__indicator">{{ forloop.index }} of {{ images.size }}</span>
+      <span class="image-gallery__captions-single__text">{{ captions[forloop.index0] }} {{ credits[forloop.index0] }}</span>
+    </div>
+
+    {%- endfor -%}
+  </div>
+
+</div>

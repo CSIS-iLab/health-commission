@@ -1,0 +1,28 @@
+{%- assign width_class = null -%}
+{%- if include.width -%}
+  {%- assign width_class = include.width | prepend: ' ' -%}
+{%- endif -%}
+{%- assign align_class = null -%}
+{%- if include.align -%}
+  {%- assign align_class = include.align | prepend: ' float ' -%}
+  {%- assign width_class = include.width | prepend: ' float ' -%}
+{%- endif -%}
+
+{%- if include.class -%}
+  {%- assign component_class = include.mode | prepend: ' ' | prepend: include.class -%}
+{%- else -%}
+  {%- assign component_class = 'single-image' -%}
+{%- endif -%}
+
+{%- assign classes = align_class | prepend: width_class | prepend: ' ' | prepend: component_class -%}
+
+{%-
+  include cloudinary-responsive-img.html
+  figcaption=include.figcaption
+  path=include.url
+  title=include.caption
+  alt=include.credit
+  classes=classes
+  height=include.height
+  max_height=include.max_height
+  -%}

@@ -49,11 +49,11 @@
     margin: 0 auto 5rem;
     @extend %post-body;
 
-    & > :not(&-overflow) {
+    & > :not(&-overflow):not(.float):not(.full) {
       @include breakpoint('medium') {
         max-width: $size-page-text-max-width;
         margin-left: auto;
-        margin-right: auto; 
+        margin-right: auto;
       }
     }
 
@@ -105,7 +105,7 @@
     @include breakpoint('medium') {
       grid-column: span 2;
     }
-    
+
     &::before {
       content: '';
       display: block;

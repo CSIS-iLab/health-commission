@@ -1,0 +1,75 @@
+{%- assign align_class = null -%}
+{%- assign width_class = null -%}
+{%- if include.align -%}
+  {%- assign align_class = include.align | prepend: 'float ' -%}
+  {%- assign width_class = 'float large' -%}
+{%- endif -%}
+{%- if include.width -%}
+  {%- assign width_class = 'max' -%}
+{%- endif -%}
+
+
+{%- assign images = include.images | map: "url"  -%}
+{%- assign modes = include.images | map: "mode"  -%}
+{%- assign captions = include.images | map: "caption"  -%}
+{%- assign credits_array = include.images | map: "credit"  -%}
+{%- assign credits = '' | split: ',' -%}
+{%- assign credits = '' | split: ',' -%}
+
+{%- for item in credits_array -%}
+  {%- assign credit = item | strip  -%}
+  {%- if credit.size > 0 -%}
+    {%- capture credit -%}<span class="image-group__caption__source">({{ credit }})</span>{%- endcapture -%}
+  {%- else -%}
+    {% assign credit = "" -%}
+  {%- endif -%}
+  {% assign credits = credits | push: credit -%}
+{%- endfor -%}
+
+
+{%- assign labels="top,middle,bottom" | split: "," -%}
+
+{%- capture group_caption -%}
+  {%- for image in images -%}
+  {%- unless forloop.last -%}
+    <span class="image-group__caption-label {{ labels[forloop.index0] }}"> </span>
+    {{ captions[forloop.index0] }} {{ credits[forloop.index0] }} &nbsp;
+  {%- endunless -%}
+  {%- if forloop.last -%}
+    {%- assign last_index = labels.size | minus: 1 -%}
+    <span class="image-group__caption-label {{ labels[last_index] }}"> </span>
+    {{ captions[forloop.index0] }} {{ credits[forloop.index0] }} &nbsp;
+  {%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+
+
+<div class="image-group {{ align_class}} {{ width_class}}">
+
+  <figure>
+    <figure role="group" class="image-group__images">
+    {%- for image in images -%}
+    {%- assign caption = captions[forloop.index0] -%}
+    {%- assign credit = credits[forloop.index0] -%}
+    {%- assign img_index = forloop.index -%}
+
+    {%- assign mode = null -%}
+    {%- if modes[forloop.index0].size > 0 -%}
+      {%- assign mode=modes[forloop.index0] | prepend: '--' | prepend: 'image-group__images-single' -%}
+    {%- endif -%}
+      {%- include single-image.html
+        url=image
+        figcaption=false
+        caption=caption
+        credit=credit
+        class='image-group__images-single'
+        mode=mode
+        max_height=include.height
+        -%}
+    {%- endfor -%}
+    </figure>
+    <figcaption class="image-group__caption">
+      {{ group_caption }}
+    </figcaption>
+  </figure>
+</div>

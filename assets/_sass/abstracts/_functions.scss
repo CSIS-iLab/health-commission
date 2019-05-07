@@ -4,6 +4,14 @@
 
 $browser-context: 16px;
 @function calculate-rem($size) {
-    $remSize: $size / $browser-context;
-    @return #{$remSize}rem;
+  $remSize: $size / $browser-context;
+  @return #{$remSize}rem;
+}
+
+@function return-map-value($map, $breakpoint) {
+  @if not map-has-key($map, $breakpoint) {
+    @warn "'#{$breakpoint}' is not a valid size";
+  } @else {
+    @return map-get($map, $breakpoint);
+  }
 }
