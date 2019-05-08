@@ -3,6 +3,7 @@
 {% if include.path contains 'cloudinary' %}
 {% assign image_name = include.path | split: "/upload/" | last %}
   <img
+  data-src="{{ site.cloudinary_url }}f_auto/{{ image_name }}"
   sizes="(max-width: 320px) 320px,
         (max-width: 375px) 335px,
         (max-width: 480px) 440px,
@@ -13,7 +14,7 @@
           {{ site.cloudinary_url }}f_auto,q_70,w_480/{{ image_name }} 480w,
           {{ site.cloudinary_url }}f_auto,q_70,w_635/{{ image_name }} 635w,
           {{ site.cloudinary_url }}f_auto,w_800/{{ image_name }} 800w"
-  src="{{ site.cloudinary_url }}f_auto,w_800/v2/health-commission/{{ image_name }}" title="{{ include.title }}"
+  src="{{ site.cloudinary_url }}f_auto,w_800/{{ image_name }}" title="{{ include.title }}"
   alt="{{ include.title }}" />
 {% else %}
   <img src="{{ include.path }}" title="{{ include.title }}" alt="{{ include.title }}" />
