@@ -32,7 +32,7 @@ module.exports = {
     exclude: /node_modules/,
     loader: 'eslint-loader'
   },
-
+  externals: {},
   imagemin: {
     src: '_images',
     dest: 'images',
@@ -61,7 +61,12 @@ module.exports = {
   js: {
     src: '_js',
     dest: 'js',
-    entry: ['bundle.js', 'archives.js', 'members.js']
+    entry: [
+      'bundle.js',
+      'archives.js',
+      'members.js',
+      'custom-viz/disorder-outbreak.js'
+    ]
   },
 
   sass: {
@@ -78,6 +83,13 @@ module.exports = {
     mode: 'production',
     module: {
       rules: []
+    },
+    output: {
+      filename: chunkData => {
+        return chunkData.chunk.entryModule._identifier.includes('custom-viz/')
+          ? 'custom-viz/[name].js'
+          : '[name].js'
+      }
     }
   }
 }
