@@ -251,7 +251,7 @@ function renderMap(data) {
         maxSize: '25%',
         minSize: '3px',
         sizeBy: 'area',
-        color: '#FF6221',
+        color: '#f26522',
         states: {
           inactive: {
             opacity: 1
@@ -266,9 +266,9 @@ function renderMap(data) {
         verticalAlign: 'top',
         align: 'right',
         theme: {
-          fill: '#FF6221',
+          fill: '#f26522',
           'stroke-width': 0,
-          stroke: '#FF6221'
+          stroke: '#f26522'
         },
         style: {
           color: 'white',
