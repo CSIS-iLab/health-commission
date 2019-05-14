@@ -293,7 +293,8 @@ function renderMap(data) {
       headerFormat: '',
       useHTML: true,
       pointFormatter: pointFormatter,
-      nullFormatter: pointFormatter
+      nullFormatter: pointFormatter,
+      style: { fontFamily: '"europa",sans-serif' }
     },
 
     motion: {
