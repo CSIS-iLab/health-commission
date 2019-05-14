@@ -67,22 +67,71 @@ $button-background--hover: $color-dark-orange;
 
   svg {
     width: 100%;
-    max-width: 200px;
   }
 
   .outbreak-legend {
     @include breakpoint('medium') {
       flex-basis: 35%;
     }
+
+    .graphic {
+      max-width: 120px;
+
+      circle {
+        stroke-width: 3;
+        stroke: $color-orange;
+        stroke-width: 3;
+        stroke-miterlimit: 10;
+        fill: transparent;
+      }
+
+      line {
+        fill: none;
+        stroke: $color-black;
+        stroke-width: 3;
+        stroke-miterlimit: 10;
+        stroke-dasharray: 3, 3;
+        fill: transparent;
+      }
+
+      text {
+        font-size: 18px;
+      }
+    }
   }
 
   .fragility-legend {
     @include breakpoint('medium') {
-      flex-basis: 65%;
+      flex-basis: 60%;
+    }
+
+    .graphic {
+      rect:nth-child(1) {
+        fill: #d0dadf;
+      }
+
+      rect:nth-child(2) {
+        fill: #afbfc9;
+      }
+      rect:nth-child(3) {
+        fill: #758896;
+      }
+
+      rect:nth-child(4) {
+        fill: #536875;
+      }
+
+      rect:nth-child(5) {
+        fill: #304854;
+      }
+
+      text {
+        font-size: 14px;
+      }
     }
   }
 
-  .label-value {
+  .label {
     @extend %filter-labels;
     white-space: nowrap;
   }
@@ -99,7 +148,7 @@ $button-background--hover: $color-dark-orange;
   display: flex;
   align-items: center;
   margin-top: 1rem;
-  padding: 24px;
+  padding: 24px 0;
   text-align: center;
 
   #play-pause-button {
@@ -153,14 +202,18 @@ $button-background--hover: $color-dark-orange;
 
     #ticks {
       position: absolute;
-      top: 15px;
       left: 50%;
+      top: 10px;
       display: flex;
       justify-content: space-between;
       width: 98.5%;
       height: 1rem;
       margin: auto;
       transform: translateX(-50%);
+
+      @include breakpoint('medium') {
+        top: 15px;
+      }
     }
 
     .tick {
