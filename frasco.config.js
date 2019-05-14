@@ -65,7 +65,7 @@ module.exports = {
       'bundle.js',
       'archives.js',
       'members.js',
-      'custom-viz/disorder-outbreak.js'
+      'interactive/disorder-outbreak.js'
     ]
   },
 
@@ -86,8 +86,8 @@ module.exports = {
     },
     output: {
       filename: chunkData => {
-        return chunkData.chunk.entryModule._identifier.includes('custom-viz/')
-          ? 'custom-viz/[name].js'
+        return chunkData.chunk.entryModule._identifier.includes('interactive/')
+          ? 'interactive/[name].js'
           : '[name].js'
       }
     }

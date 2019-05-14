@@ -64,7 +64,6 @@
     "clipboard": "^2.0.1",
     "instantsearch.js": "^2.10.4",
     "luminous-lightbox": "^2.3.2",
-    "highcharts": "^7.1.1",
-    "instantsearch.js": "^2.10.4"
+    "highcharts": "^7.1.1"
   }
 }

@@ -11,7 +11,7 @@
      {%- if file.contains '://' -%}
        <link href="{{ file }}" rel="stylesheet">
      {%- else -%}
-       <link href="{{ file | prepend: '/assets/css/custom-viz/' | append: '.css' | relative_url }}" rel="stylesheet">
+       <link href="{{ file | prepend: '/assets/css/interactive/' | append: '.css' | relative_url }}" rel="stylesheet">
      {%- endif -%}
    {%- endfor -%}
  {%- endif -%}

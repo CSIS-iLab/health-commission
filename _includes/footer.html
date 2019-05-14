@@ -65,7 +65,7 @@
       {%- if file contains '://' -%}
       <script src="{{ file }}" type="text/javascript"></script>
       {%- else -%}
-        <script src="{{ file | prepend: '/assets/js/custom-viz/' | append: '.js' | relative_url }}" type="text/javascript"></script>
+        <script src="{{ file | prepend: '/assets/js/interactive/' | append: '.js' | relative_url }}" type="text/javascript"></script>
       {%- endif -%}
     {%- endfor -%}
   {%- endif -%}
