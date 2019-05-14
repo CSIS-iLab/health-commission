@@ -139,6 +139,7 @@ $button-background--hover: $color-dark-orange;
 
 #play-controls {
   max-width: calc(100vw - 48px);
+  background-color: #e3eaec;
 }
 
 /*=================================
@@ -148,7 +149,7 @@ $button-background--hover: $color-dark-orange;
   display: flex;
   align-items: center;
   margin-top: 1rem;
-  padding: 24px 0;
+  padding: 0 24px 24px;
   text-align: center;
 
   #play-pause-button {
