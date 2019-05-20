@@ -44,6 +44,23 @@ sections:
   label: Pages
   create: all
 - type: heading
+  label: COMMISSION MEMBERRS
+- type: document
+  path: _data/co_chairs.json
+  label: Co-Chairs
+- type: document
+  path: _data/experts_advisors.json
+  label: Experts & Advisors
+  match: "**/*"
+- type: document
+  path: _data/members_contributors.json
+  label: Members & Contributors
+  match: "**/*"
+- type: document
+  path: _data/secretariat.json
+  label: Secretariat
+  match: "**/*"
+- type: heading
   label: DATA
 - type: document
   path: _data/content_types.yml
@@ -51,9 +68,6 @@ sections:
 - type: document
   path: _data/language.yml
   label: Language
-- type: document
-  path: _data/co_chairs.csv
-  label: Co-Chairs
 - type: document
   path: _data/main_menus.yml
   label: Main Menus
