@@ -276,6 +276,12 @@ table {
     text-transform: uppercase;
   }
 
+  tfoot {
+    td {
+      color: $color-black;
+    }
+  }
+
   tr.section-fragility {
     color: $color-white;
 
@@ -288,15 +294,20 @@ table {
     td {
       color: $color-white;
       background-color: $color-orange;
-
-      &:not(:last-of-type) {
-        border-right: 2px solid $color-white;
-      }
     }
 
     ~ tr td {
       color: $color-black;
       background-color: rgba(228, 85, 39, 0.5);
+    }
+
+    td,
+    ~ tr td {
+      border-bottom: 2px solid $color-white;
+
+      &:not(:last-of-type) {
+        border-right: 2px solid $color-white;
+      }
     }
   }
 
