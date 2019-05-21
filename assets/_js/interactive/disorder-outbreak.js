@@ -470,12 +470,13 @@ function pointFormatter() {
     if (outbreakNotes.length) {
       table += '<tfoot>'
 
-      let outbreakNotes = outbreakNotes
+      let notes = outbreakNotes
         .map(function(o) {
           return '<tr><td colspan="2">' + o + '</td></tr>'
         })
         .join('')
-      table += outbreakNotes
+
+      table += notes
 
       table += '</tfoot>'
     }
@@ -494,5 +495,5 @@ function hexToRgb(hex) {
         b: parseInt(result[3], 16)
       }
     : null
-  return result.r + ',' + result.g + ',' + result.b
+  return result ? result.r + ',' + result.g + ',' + result.b : null
 }
