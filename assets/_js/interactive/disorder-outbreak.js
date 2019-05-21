@@ -1,5 +1,5 @@
-import Highcharts from 'Highcharts/highmaps'
-import hcData from 'Highcharts/modules/data'
+import Highcharts from '../../../node_modules/highcharts/highmaps'
+import hcData from '../../../node_modules/highcharts/modules/data'
 import motion from './globals/motion'
 import geoData from './globals/world.json'
 hcData(Highcharts)

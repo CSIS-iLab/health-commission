@@ -1,4 +1,4 @@
-import H from 'Highcharts/highmaps'
+import H from '../../../../node_modules/highcharts/highmaps'
 
 export default function() {
   // Initiates motion automatically if motion options object exists and
