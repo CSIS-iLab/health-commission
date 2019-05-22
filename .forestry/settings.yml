@@ -51,15 +51,12 @@ sections:
 - type: document
   path: _data/experts_advisors.json
   label: Experts & Advisors
-  match: "**/*"
 - type: document
   path: _data/members_contributors.json
   label: Members & Contributors
-  match: "**/*"
 - type: document
   path: _data/secretariat.json
   label: Secretariat
-  match: "**/*"
 - type: heading
   label: DATA
 - type: document

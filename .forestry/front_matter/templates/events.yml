@@ -38,8 +38,9 @@ fields:
   label: Documents
   description: Upload PDFs here with user-friendly titles.
 - type: include
-  name: ''
-  label: ''
+  name: themes
+  label: themes
+  template: themes
 pages:
 - _events/second-full-meeting-of-the-csis-commission-on-strengthening-america-s-health-security.md
 - _events/health-security-and-north-korea-film-screening-and-discussion.md
