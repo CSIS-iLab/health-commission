@@ -64,7 +64,7 @@ $button-background--hover: $color-dark-orange;
     align-items: center;
   }
 
-  svg {
+  .legend-graphic {
     width: 100%;
   }
 
@@ -73,7 +73,7 @@ $button-background--hover: $color-dark-orange;
       flex-basis: 35%;
     }
 
-    .graphic {
+    .legend-graphic {
       max-width: 120px;
 
       circle {
@@ -104,7 +104,7 @@ $button-background--hover: $color-dark-orange;
       flex-basis: 60%;
     }
 
-    .graphic {
+    .legend-graphic {
       rect:nth-child(1) {
         fill: #d0dadf;
       }
@@ -130,7 +130,7 @@ $button-background--hover: $color-dark-orange;
     }
   }
 
-  .label {
+  .legend-label {
     @extend %filter-labels;
     white-space: nowrap;
   }
