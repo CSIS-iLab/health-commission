@@ -1,8 +1,6 @@
-import Highcharts from '../../../node_modules/highcharts/highmaps'
-import hcData from '../../../node_modules/highcharts/modules/data'
+import highcharts from 'highcharts'
 import motion from './globals/motion'
 import geoData from './globals/world.json'
-hcData(Highcharts)
 
 motion()
 
@@ -10,7 +8,7 @@ const threshold = 1000
 let dataObj = { base: [], points: [], labels: [] },
   currentYear
 
-Highcharts.data({
+highcharts.data({
   googleSpreadsheetKey: '1lss8rBHn7TmYaXbw1S6AAyb0ZOAlaTB1LeeP87D4Zsw',
   googleSpreadsheetWorksheet: 1,
   switchRowsAndColumns: true,
@@ -45,7 +43,7 @@ Highcharts.data({
       })
     })
 
-    Highcharts.data({
+    highcharts.data({
       googleSpreadsheetKey: '144508dI92hTtIm5wp4OcQMeRP5ViuUpPv2ufvOOLaS0',
       googleSpreadsheetWorksheet: 1,
       switchRowsAndColumns: true,
@@ -170,7 +168,7 @@ function renderMap(data) {
     })
   })
 
-  Highcharts.mapChart('disorder-outbreak__graphic', {
+  highcharts.mapChart('disorder-outbreak__graphic', {
     chart: {
       marginTop: 0,
       marginBottom: 25,

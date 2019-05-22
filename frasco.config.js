@@ -32,7 +32,6 @@ module.exports = {
     exclude: /node_modules/,
     loader: 'eslint-loader'
   },
-  externals: {},
   imagemin: {
     src: '_images',
     dest: 'images',
@@ -83,6 +82,9 @@ module.exports = {
     mode: 'production',
     module: {
       rules: []
+    },
+    externals: {
+      highcharts: 'Highcharts'
     },
     output: {
       filename: chunkData => {

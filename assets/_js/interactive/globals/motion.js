@@ -1,15 +1,15 @@
-import H from '../../../../node_modules/highcharts/highmaps'
+import highcharts from 'highcharts'
 
 export default function() {
   // Initiates motion automatically if motion options object exists and
   // is not disabled
-  H.Chart.prototype.callbacks.push(function(chart) {
+  highcharts.Chart.prototype.callbacks.push(function(chart) {
     if (chart.options.motion && chart.options.motion.enabled) {
       chart.motion = new Motion(chart)
     }
   })
 
-  H.Motion = Motion
+  highcharts.Motion = Motion
 }
 
 // Sets up motion ready to use
@@ -18,11 +18,14 @@ function Motion(chart) {
 
   this.chart = chart
   this.paused = true
-  this.options = H.merge(this.defaultOptions, this.chart.options.motion)
+  this.options = highcharts.merge(
+    this.defaultOptions,
+    this.chart.options.motion
+  )
   this.dataSeries = []
   this.dataLength = 0
-  motion.options.series = H.splat(motion.options.series)
-  H.each(this.chart.series, function(series, index) {
+  motion.options.series = highcharts.splat(motion.options.series)
+  highcharts.each(this.chart.series, function(series, index) {
     if (motion.options.series.indexOf(index) >= 0) {
       motion.dataSeries[index] = series
       for (let i = 0; i < series.data.length; i++) {
@@ -33,7 +36,7 @@ function Motion(chart) {
     }
   })
 
-  this.playControls = H.createElement(
+  this.playControls = highcharts.createElement(
     'div',
     {
       id: 'play-controls'
@@ -44,7 +47,7 @@ function Motion(chart) {
   )
 
   // Play/pause HTML-button
-  this.playPauseBtn = H.createElement(
+  this.playPauseBtn = highcharts.createElement(
     'button',
     {
       id: 'play-pause-button',
@@ -56,7 +59,7 @@ function Motion(chart) {
   )
   this.playPauseBtn.className = 'fa fa-play'
 
-  this.range = H.createElement(
+  this.range = highcharts.createElement(
     'div',
     {
       id: 'range'
@@ -67,7 +70,7 @@ function Motion(chart) {
   )
 
   // Play-range HTML-input
-  this.playRange = H.createElement(
+  this.playRange = highcharts.createElement(
     'input',
     {
       id: 'play-range',
@@ -82,7 +85,7 @@ function Motion(chart) {
     null
   )
   // Play-range HTML-input
-  this.ticks = H.createElement(
+  this.ticks = highcharts.createElement(
     'div',
     {
       id: 'ticks'
@@ -91,7 +94,7 @@ function Motion(chart) {
     this.range,
     null
   )
-  this.labels = H.createElement(
+  this.labels = highcharts.createElement(
     'div',
     {
       id: 'labels'
@@ -145,23 +148,23 @@ function Motion(chart) {
   }
 
   // Bind controls to events
-  H.addEvent(this.playPauseBtn, 'click', function() {
+  highcharts.addEvent(this.playPauseBtn, 'click', function() {
     motion.togglePlayPause()
   })
-  H.addEvent(this.playRange, 'mouseup', function() {
+  highcharts.addEvent(this.playRange, 'mouseup', function() {
     motion.attractToStep()
   })
-  H.addEvent(this.playRange, 'input', function() {
+  highcharts.addEvent(this.playRange, 'input', function() {
     motion.updateChart(this.value)
   })
 
   // Request focus to the controls when clicking on controls div
-  H.addEvent(this.playControls, 'click', function() {
+  highcharts.addEvent(this.playControls, 'click', function() {
     motion.playRange.focus()
   })
   // Bind keys to events
-  H.addEvent(this.playPauseBtn, 'keydown', handleKeyEvents)
-  H.addEvent(this.playRange, 'keydown', handleKeyEvents)
+  highcharts.addEvent(this.playPauseBtn, 'keydown', handleKeyEvents)
+  highcharts.addEvent(this.playRange, 'keydown', handleKeyEvents)
 
   // Initial value
   this.inputValue = parseFloat(this.playRange.value)
