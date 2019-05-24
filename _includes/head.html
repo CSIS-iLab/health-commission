@@ -6,6 +6,15 @@
   {%- seo -%}
   <link rel="stylesheet" href="https://use.typekit.net/fvv3csf.css">
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  {%- if page.css_files.size > 0 -%}
+   {%- for file in page.css_files %}
+     {%- if file.contains '://' -%}
+       <link href="{{ file }}" rel="stylesheet">
+     {%- else -%}
+       <link href="{{ file | prepend: '/assets/css/interactive/' | append: '.css' | relative_url }}" rel="stylesheet">
+     {%- endif -%}
+   {%- endfor -%}
+ {%- endif -%}
   {%- feed_meta -%}
   {% unless page.image %}
   <meta property="og:image" content="{{ site.logo | relative_url }}" />

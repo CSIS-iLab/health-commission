@@ -32,7 +32,6 @@ module.exports = {
     exclude: /node_modules/,
     loader: 'eslint-loader'
   },
-
   imagemin: {
     src: '_images',
     dest: 'images',
@@ -61,7 +60,12 @@ module.exports = {
   js: {
     src: '_js',
     dest: 'js',
-    entry: ['bundle.js', 'archives.js', 'members.js']
+    entry: [
+      'bundle.js',
+      'archives.js',
+      'members.js',
+      'interactive/disorder-outbreak.js'
+    ]
   },
 
   sass: {
@@ -78,6 +82,16 @@ module.exports = {
     mode: 'production',
     module: {
       rules: []
+    },
+    externals: {
+      highcharts: 'Highcharts'
+    },
+    output: {
+      filename: chunkData => {
+        return chunkData.chunk.entryModule._identifier.includes('interactive/')
+          ? 'interactive/[name].js'
+          : '[name].js'
+      }
     }
   }
 }
