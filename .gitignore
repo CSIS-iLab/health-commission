@@ -35,3 +35,6 @@ doc/
 .DS_Store
 .idea
 .secret
+
+# Netlify
+.netlify/
