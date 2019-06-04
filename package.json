@@ -6,7 +6,6 @@
   "scripts": {
     "preinstall": "bundle install --path vendor/bundle",
     "start": "bundle exec gulp",
-    "test": "bundle exec gulp test",
     "browsersync": "bundle exec gulp browsersync",
     "browsersync-production": "bundle exec gulp browsersync --jekyllEnv='production'",
     "build": "bundle exec gulp build --jekyllEnv='production'",
@@ -15,8 +14,8 @@
     "production": "bundle exec gulp --jekyllEnv='production'",
     "sass": "bundle exec gulp sass",
     "watch": "bundle exec gulp watch",
-    "forestry:preview": "bundle exec gulp build --jekyllEnv='production' --forestry --preview",
-    "forestry:publish": "bundle exec gulp build --jekyllEnv='production' --forestry"
+    "forestry:preview": "bundle exec gulp build --jekyllEnv='production' --forestry --preview --port 8080 --host 0.0.0.0",
+    "forestry:publish": "bundle exec gulp build --jekyllEnv='production' --forestry --port 8080 --host 0.0.0.0"
   },
   "repository": {
     "type": "git",

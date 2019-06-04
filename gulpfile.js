@@ -33,6 +33,8 @@ function sassTask() {
     .on('end', () => log('SASS updated'))
 }
 
+exports.sass = sassTask
+
 /*----------  JavaScript  ----------*/
 
 const jsFiles = []
@@ -81,6 +83,8 @@ function imagesTask() {
     )
     .pipe(dest(config.assets + '/' + config.imagemin.dest))
 }
+
+exports.imagemin = imagesTask
 
 /*----------  Browsersync  ----------*/
 
