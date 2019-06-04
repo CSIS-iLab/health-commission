@@ -18,7 +18,6 @@ const webpackStream = require('webpack-stream')
 const webpack = require('webpack')
 
 const server = browserSync.create()
-const jekyll = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll'
 
 /*----------  SASS  ----------*/
 
@@ -153,7 +152,7 @@ function jekyllBuild(done) {
       : ''
   }
 
-  let buildArgs = ['build', '--config', jekyllConfig]
+  let buildArgs = ['exec', 'jekyll', 'build', '--config', jekyllConfig]
 
   if (argv.preview) {
     buildArgs.push('--drafts')
@@ -167,7 +166,7 @@ function jekyllBuild(done) {
   }
 
   return cp
-    .spawn(jekyll, buildArgs, { stdio: 'inherit', env: process.env })
+    .spawn('bundle', buildArgs, { stdio: 'inherit', env: process.env })
     .on('close', done)
 }
 
@@ -178,6 +177,4 @@ exports.default = series(
   watchTask
 )
 
-// exports.build = series(parallel(sassTask, webpackTask, imagesTask), jekyllBuild)
-
-exports.build = series(jekyllBuild)
+exports.build = series(parallel(sassTask, webpackTask, imagesTask), jekyllBuild)
