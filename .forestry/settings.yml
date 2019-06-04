@@ -30,9 +30,6 @@ sections:
   match: "**/*"
   templates:
   - series
-- type: document
-  path: _data/keywords.yml
-  label: Tags
 - type: directory
   path: _authors
   label: Authors
@@ -59,6 +56,9 @@ sections:
   label: Secretariat
 - type: heading
   label: DATA
+- type: document
+  path: _data/keywords.yml
+  label: Tags
 - type: document
   path: _data/content_types.yml
   label: Content Types
