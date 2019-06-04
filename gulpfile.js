@@ -2,16 +2,59 @@ const argv = require('yargs').argv
 const config = require('./frasco.config.js')
 const { src, dest, watch, series, parallel } = require('gulp')
 const autoprefixer = require('autoprefixer')
+const babel = require('gulp-babel')
 const browserSync = require('browser-sync')
 const cp = require('child_process')
 const eslint = require('gulp-eslint')
+const imagemin = require('gulp-imagemin')
+const named = require('vinyl-named')
+const newer = require('gulp-newer')
+const plumber = require('gulp-plumber')
 const postcss = require('gulp-postcss')
+const pngquant = require('imagemin-pngquant')
 const sass = require('gulp-sass')
 const log = require('fancy-log')
+const webpackStream = require('webpack-stream')
+const webpack = require('webpack')
 
 const server = browserSync.create()
 const jekyll = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll'
 
+/*----------  SASS  ----------*/
+
+function sassTask() {
+  return src(config.assets + '/' + config.sass.src + '/**/*.scss')
+    .pipe(
+      sass({ outputStyle: config.sass.outputStyle }).on('error', sass.logError)
+    )
+    .pipe(postcss([autoprefixer(config.sass.autoprefixer)]))
+    .pipe(dest(config.assets + '/' + config.sass.dest))
+    .pipe(server.stream({ match: '**/*.css' }))
+    .on('end', () => log('SASS updated'))
+}
+
+/*----------  JavaScript  ----------*/
+
+const jsFiles = []
+for (var i = 0; i <= config.js.entry.length - 1; i++) {
+  jsFiles.push(config.assets + '/' + config.js.src + '/' + config.js.entry[i])
+}
+
+if (config.tasks.eslint) config.webpack.module.rules.push(config.eslintLoader)
+
+config.webpack.watch = argv.watch
+config.webpack.mode = argv.mode || config.webpack.mode
+
+function webpackTask() {
+  return src(jsFiles)
+    .pipe(plumber())
+    .pipe(named())
+    .pipe(babel())
+    .pipe(webpackStream(config.webpack, webpack))
+    .pipe(dest(config.assets + '/' + config.js.dest))
+}
+
+/*----------  Linting  ----------*/
 const runEslint = function() {
   return src([
     config.assets + '/' + config.js.src + '/**/*.js',
@@ -23,15 +66,20 @@ const runEslint = function() {
 }
 exports.eslint = runEslint
 
-function sassTask() {
-  return src(config.assets + '/' + config.sass.src + '/**/*.scss')
+/*----------  Images  ----------*/
+
+function imagesTask() {
+  return src(config.assets + '/' + config.imagemin.src + '/**/*')
+    .pipe(plumber())
+    .pipe(newer(config.assets + '/' + config.imagemin.dest))
     .pipe(
-      sass({ outputStyle: config.sass.outputStyle }).on('error', sass.logError)
+      imagemin({
+        progressive: config.imagemin.progressive,
+        svgoPlugins: config.imagemin.svgoPlugins,
+        use: [pngquant()]
+      })
     )
-    .pipe(postcss([autoprefixer(config.sass.autoprefixer)]))
-    .pipe(dest(config.assets + '/' + config.sass.dest))
-    .pipe(server.stream({ match: '**/*.css' }))
-    .on('end', () => log('SASS updated'))
+    .pipe(dest(config.assets + '/' + config.imagemin.dest))
 }
 
 /*----------  Browsersync  ----------*/
@@ -77,14 +125,13 @@ const filesToWatch = [
 ]
 
 function watchTask() {
-  watch(
-    config.assets + '/' + config.sass.src + '/**/*',
-    series(sassTask, jekyllBuild, reload)
-  )
+  watch(config.assets + '/' + config.sass.src + '/**/*', series(sassTask))
 
-  if (config.tasks.browsersync) {
-    watch(filesToWatch, series(jekyllBuild, reload))
-  }
+  watch(config.assets + '/' + config.js.src + '/**/*', series(webpackTask))
+
+  watch(config.assets + '/' + config.imagemin.src + '/**/*', series(imagesTask))
+
+  watch(filesToWatch, series(jekyllBuild, reload))
 }
 
 /*----------  Jekyll  ----------*/
@@ -115,13 +162,16 @@ function jekyllBuild(done) {
     buildArgs.push('_forestry_site')
   }
 
-  console.log(buildArgs)
-
   return cp
     .spawn(jekyll, buildArgs, { stdio: 'inherit', env: process.env })
     .on('close', done)
 }
 
-exports.default = series(sassTask, jekyllBuild, serve, watchTask)
+exports.default = series(
+  parallel(sassTask, webpackTask, imagesTask),
+  jekyllBuild,
+  serve,
+  watchTask
+)
 
-exports.build = series(parallel(sassTask), jekyllBuild)
+exports.build = series(parallel(sassTask, webpackTask, imagesTask), jekyllBuild)
