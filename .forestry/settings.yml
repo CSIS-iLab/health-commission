@@ -20,6 +20,13 @@ sections:
   - events
 - type: heading
   label: COMMISSION MEMBERRS
+- type: directory
+  path: _authors
+  label: All Authors Images and Byline text
+  create: all
+  match: "**/*"
+  templates:
+  - authors
 - type: document
   path: _data/co_chairs.json
   label: Co-Chairs
@@ -48,13 +55,6 @@ sections:
   match: "**/*"
   templates:
   - series
-- type: directory
-  path: _authors
-  label: Authors
-  create: all
-  match: "**/*"
-  templates:
-  - authors
 - type: jekyll-pages
   label: Pages
   create: all
