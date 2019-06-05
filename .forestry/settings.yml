@@ -18,6 +18,10 @@ sections:
   match: "**/*"
   templates:
   - events
+- type: document
+  path: index.md
+  label: Homepage
+  match: "**/*"
 - type: heading
   label: COMMISSION MEMBERRS
 - type: directory
