@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
+- type: heading
+  label: MANAGE
 - type: jekyll-posts
   label: Posts
   create: all
@@ -16,6 +18,22 @@ sections:
   match: "**/*"
   templates:
   - events
+- type: heading
+  label: COMMISSION MEMBERRS
+- type: document
+  path: _data/co_chairs.json
+  label: Co-Chairs
+- type: document
+  path: _data/experts_advisors.json
+  label: Experts & Advisors
+- type: document
+  path: _data/members_contributors.json
+  label: Members & Contributors
+- type: document
+  path: _data/secretariat.json
+  label: Secretariat
+- type: heading
+  label: OTHER
 - type: directory
   path: _themes
   label: Themes
@@ -40,20 +58,6 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-- type: heading
-  label: COMMISSION MEMBERRS
-- type: document
-  path: _data/co_chairs.json
-  label: Co-Chairs
-- type: document
-  path: _data/experts_advisors.json
-  label: Experts & Advisors
-- type: document
-  path: _data/members_contributors.json
-  label: Members & Contributors
-- type: document
-  path: _data/secretariat.json
-  label: Secretariat
 - type: heading
   label: DATA
 - type: document
