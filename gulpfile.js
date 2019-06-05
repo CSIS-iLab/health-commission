@@ -177,4 +177,4 @@ exports.default = series(
   watchTask
 )
 
-exports.build = series(parallel(sassTask, webpackTask, imagesTask), jekyllBuild)
+exports.build = parallel(sassTask, webpackTask, imagesTask)
