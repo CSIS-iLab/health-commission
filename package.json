@@ -8,6 +8,7 @@
     "start": "gulp",
     "browsersync": "gulp browsersync",
     "browsersync-production": "gulp browsersync --jekyllEnv='production'",
+    "prebuild": "bundle install --path vendor/bundle",
     "build": "gulp build --jekyllEnv='production'",
     "eslint": "gulp eslint",
     "imagemin": "gulp imagemin",
