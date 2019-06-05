@@ -21,7 +21,6 @@ sections:
 - type: document
   path: index.md
   label: Homepage
-  match: "**/*"
 - type: heading
   label: COMMISSION MEMBERRS
 - type: directory
@@ -44,6 +43,21 @@ sections:
   path: _data/secretariat.json
   label: Secretariat
 - type: heading
+  label: DATA
+- type: document
+  path: _data/keywords.yml
+  label: Tags
+- type: document
+  path: _data/content_types.yml
+  label: Content Types
+- type: document
+  path: _data/language.yml
+  label: Language
+- type: document
+  path: _data/main_menus.yml
+  label: Main Menus
+  read_only: true
+- type: heading
   label: OTHER
 - type: directory
   path: _themes
@@ -62,21 +76,6 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-- type: heading
-  label: DATA
-- type: document
-  path: _data/keywords.yml
-  label: Tags
-- type: document
-  path: _data/content_types.yml
-  label: Content Types
-- type: document
-  path: _data/language.yml
-  label: Language
-- type: document
-  path: _data/main_menus.yml
-  label: Main Menus
-  read_only: true
 upload_dir: health-commission
 public_path: https://res.cloudinary.com/csisideaslab/image/upload
 front_matter_path: https://res.cloudinary.com/csisideaslab/image/upload
