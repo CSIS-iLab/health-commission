@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
+- type: heading
+  label: MANAGE
 - type: jekyll-posts
   label: Posts
   create: all
@@ -16,32 +18,18 @@ sections:
   match: "**/*"
   templates:
   - events
-- type: directory
-  path: _themes
-  label: Themes
-  create: all
-  match: "**/*"
-  templates:
-  - themes
-- type: directory
-  path: _series
-  label: Series
-  create: all
-  match: "**/*"
-  templates:
-  - series
+- type: document
+  path: index.md
+  label: Homepage
+- type: heading
+  label: COMMISSION MEMBERRS
 - type: directory
   path: _authors
-  label: Authors
+  label: All Authors Images and Byline text
   create: all
   match: "**/*"
   templates:
   - authors
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: heading
-  label: COMMISSION MEMBERRS
 - type: document
   path: _data/co_chairs.json
   label: Co-Chairs
@@ -69,6 +57,25 @@ sections:
   path: _data/main_menus.yml
   label: Main Menus
   read_only: true
+- type: heading
+  label: OTHER
+- type: directory
+  path: _themes
+  label: Themes
+  create: all
+  match: "**/*"
+  templates:
+  - themes
+- type: directory
+  path: _series
+  label: Series
+  create: all
+  match: "**/*"
+  templates:
+  - series
+- type: jekyll-pages
+  label: Pages
+  create: all
 upload_dir: health-commission
 public_path: https://res.cloudinary.com/csisideaslab/image/upload
 front_matter_path: https://res.cloudinary.com/csisideaslab/image/upload

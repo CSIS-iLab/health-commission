@@ -37,10 +37,6 @@ fields:
   name: documents
   label: Documents
   description: Upload PDFs here with user-friendly titles.
-- type: include
-  name: themes
-  label: themes
-  template: themes
 pages:
 - _events/post-hong-kong-human-genome-editing-s-brave-new-world.md
 - _events/commission-launch.md
