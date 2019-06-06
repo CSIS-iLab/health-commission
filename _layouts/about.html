@@ -1,19 +1,27 @@
 ---
 layout: default
 ---
-<article class="page h-entry" role="content" itemscope itemtype="http://schema.org/about">
 
+<article
+  class="page h-entry"
+  role="content"
+  itemscope
+  itemtype="http://schema.org/about"
+>
   {% include page-header.html %}
   <section class="post__content">
-    {% if page.name == 'about.md' and page.post_image.size > 0 %}
-    {% include cloudinary-responsive-img.html path=page.post_image title=page.post_image_caption alt=page.post_image_credit classes="post__feature-image post__content-overflow" %}
-    {% endif %}
+    {% if page.name == 'about.md' and page.post_image.size > 0 %} {% include
+    cloudinary-responsive-img.html path=page.post_image
+    title=page.post_image_caption alt=page.post_image_credit
+    classes="post__feature-image post__content-overflow" %} {% endif %}
 
     <h2 class="section-title-lg">{{ page.title }}</h2>
     {{ content }}
 
     <aside class="aside-container">
-      <h3 class="aside-container__subtitle">{{ site.data.language.about_the_commission.meet_commission }}</h3>
+      <h3 class="aside-container__subtitle">
+        {{ site.data.language.about_the_commission.meet_commission }}
+      </h3>
       <a href="{% link members.md %}" class="aside-container__title">
         {{ site.data.language.about_the_commission.members_contributors }}
       </a>
@@ -25,5 +33,7 @@ layout: default
     <p>
       {{ page.funder_acknowledgements }}
     </p>
+    <h3>{{ site.data.language.about_csis }}</h3>
+    {{ site.data.language.about_csis_desc | markdownify }}
   </section>
 </article>
