@@ -25,7 +25,7 @@ sections:
   label: COMMISSION MEMBERRS
 - type: directory
   path: _authors
-  label: All Authors Images and Byline text
+  label: All Author Images and Byline text
   create: all
   match: "**/*"
   templates:
