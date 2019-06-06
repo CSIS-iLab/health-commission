@@ -14,6 +14,7 @@ fields:
     options:
     - commentary
     - report
+    - news
   label: Content Type
   hidden: false
 - type: textarea
