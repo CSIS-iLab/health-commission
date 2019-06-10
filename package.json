@@ -4,6 +4,7 @@
   "description": "Website for the CSIS Commission on Strengthening America's Health Security.",
   "main": "gulpfile.js",
   "scripts": {
+    "preinstall": "bundle install --path /opt/buildhome/cache/bundle --binstubs=/opt/buildhome/cache/binstubs",
     "start": "gulp",
     "browsersync": "gulp browsersync",
     "browsersync-production": "gulp browsersync --jekyllEnv='production'",
