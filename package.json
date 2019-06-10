@@ -9,7 +9,7 @@
     "browsersync": "gulp browsersync",
     "browsersync-production": "gulp browsersync --jekyllEnv='production'",
     "build": "gulp build --jekyllEnv='production'",
-    "netlify:build": "bundle install --path /opt/buildhome/cache/bundle --binstubs=/opt/buildhome/cache/binstubs && gulp build --jekyllEnv='production'",
+    "netlify:build": "gulp build --jekyllEnv='production'",
     "eslint": "gulp eslint",
     "imagemin": "gulp imagemin",
     "production": "gulp --jekyllEnv='production'",
