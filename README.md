@@ -18,6 +18,7 @@ The website for the CSIS Commission on Strengthening America's Health Security. 
 $ git clone https://github.com/CSIS-iLab/health-commission.git
 $ cd health-commission
 $ npm install
+$ bundle install --path vendor/bundle
 $ npm start
 ```
 
@@ -90,6 +91,6 @@ Write clear and concise commit messages describing the changes you are making an
 
 - This project uses the [BEM](http://getbem.com/introduction/) naming convention.
 
-## Copyright / License Info
+## Copyright / License
 
 Copyright © 2018 CSIS iDeas Lab under the [MIT License](https://github.com/ixkaito/frasco/blob/master/LICENSE).
