@@ -39,10 +39,10 @@ fields:
   description: Upload PDFs here with user-friendly titles.
 pages:
 - _events/post-hong-kong-human-genome-editing-s-brave-new-world.md
-- _events/commission-launch.md
-- _events/clade-x-pandemic-simulation-exercise.md
-- _events/health-security-in-a-disordered-world.md
-- _events/plagues-and-the-paradox-of-progress-a-conversation-with-thomas-j-bollyky.md
-- _events/north-kivu-s-ebola-outbreak-at-day-105-what-s-next.md
-- _events/health-security-and-north-korea-film-screening-and-discussion.md
 - _events/second-full-meeting-of-the-csis-commission-on-strengthening-america-s-health-security.md
+- _events/health-security-and-north-korea-film-screening-and-discussion.md
+- _events/north-kivu-s-ebola-outbreak-at-day-105-what-s-next.md
+- _events/plagues-and-the-paradox-of-progress-a-conversation-with-thomas-j-bollyky.md
+- _events/health-security-in-a-disordered-world.md
+- _events/clade-x-pandemic-simulation-exercise.md
+- _events/commission-launch.md
