@@ -25,7 +25,7 @@ sections:
   label: COMMISSION MEMBERRS
 - type: directory
   path: _authors
-  label: All Authors Images and Byline text
+  label: All Author Images and Byline text
   create: all
   match: "**/*"
   templates:
@@ -82,7 +82,7 @@ front_matter_path: https://res.cloudinary.com/csisideaslab/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
 build:
-  preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
+  preview_command: npm run forestry:preview
   publish_command: bundle exec jekyll build -d _site
   preview_env:
   - JEKYLL_ENV=staging
