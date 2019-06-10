@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/algolia-test-post.md
 - _posts/2018-09-25-The-New-Realism,-An-Uncomfortable-Middle.md
 - _posts/2019-04-02-human-genome-editing-s-brave-new-world.md
 - _posts/2018-11-02-the-impossible-state-podcast-the-gathering-health-storm-inside-north-korea.md
