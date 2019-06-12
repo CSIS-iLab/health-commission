@@ -14,7 +14,7 @@
     "production": "gulp --jekyllEnv='production'",
     "sass": "gulp sass",
     "watch": "gulp watch",
-    "forestry:preview": "gulp build --jekyllEnv='production' --forestry --preview --port 8080 --host 0.0.0.0",
+    "forestry:preview": "gulp --jekyllEnv='production' --forestry --preview --port 8080 --host 0.0.0.0",
     "forestry:publish": "gulp build --jekyllEnv='production' --forestry --port 8080 --host 0.0.0.0"
   },
   "repository": {
