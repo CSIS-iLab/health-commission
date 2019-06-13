@@ -28,11 +28,12 @@ references: ''
 ---
 There were **9 new Ebola cases** in DRC as of June 12th.
 
-[WHO AFRO Dashboard/DRC MoH Stats](https://translate.googleusercontent.com/translate_c?depth=1&langpair=auto%7Cen&rurl=translate.google.com&sp=nmt4&u=https://us13.campaign-archive.com/%3Fu%3D89e5755d2cca4840b1af93176%26id%3D52c167a0be&xid=17259,15700019,15700186,15700190,15700256,15700259&usg=ALkJrhi5lF8MdH3aIGCq45-c1QW2wFG03g) (as of June 12)
+## WHO AFRO Dashboard/DRC MoH Stats <i>[Source<i/>{:class=”icon-external-link”}](https://translate.googleusercontent.com/translate_c?depth=1&langpair=auto%7Cen&rurl=translate.google.com&sp=nmt4&u=https://us13.campaign-archive.com/%3Fu%3D89e5755d2cca4840b1af93176%26id%3D52c167a0be&xid=17259,15700019,15700186,15700190,15700256,15700259&usg=ALkJrhi5lF8MdH3aIGCq45-c1QW2wFG03g){:target=”_blank”}{:rel=”noopener”} (as of June 12)
 
-**Total cases in DRC: 2,084**  
- - Confirmed cases: 1,990  
- - Probable cases: 94
+**Total cases in DRC: 2,084**
+
+* Confirmed cases: 1,990
+* Probable cases: 94
 
 \- Suspected cases: 284
 
@@ -40,7 +41,7 @@ There were **9 new Ebola cases** in DRC as of June 12th.
 
 **Vaccinated in DRC: 132,679**
 
-[Uganda bans public gatherings in Kasese district amid Ebola fears](https://www.aljazeera.com/news/2019/06/uganda-bans-public-gatherings-kasese-district-ebola-fears-190613061114340.html)
+[Uganda bans public gatherings in Kasese district amid Ebola fears](https://www.aljazeera.com/news/2019/06/uganda-bans-public-gatherings-kasese-district-ebola-fears-190613061114340.html) <i>Source<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
 
 _Al Jazeera, 6/13/19_
 
