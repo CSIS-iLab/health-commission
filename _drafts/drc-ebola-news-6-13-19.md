@@ -4,7 +4,7 @@ title: DRC Ebola News (6/13/19)
 content_type: news
 excerpt: Daily update on the current Ebola outbreak in eastern region of The Democratic
   Republic of the Congo
-date: 2019-06-13 18:30:00 +0000
+date: 2019-06-13 20:00:00 +0000
 authors: []
 series: ''
 themes: []
