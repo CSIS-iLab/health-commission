@@ -71,9 +71,9 @@ _Hill, 6/12/19_
 
 Regardless of trimester, pregnant women, as well as those lactating, should be offered the experimental #Ebola vaccine if they've been exposed to the virus — whether they are contacts or contacts of contacts, 2 experts argue in a commentary on @statnews. https://bit.ly/31vG7pz <i>[Source<i/>{:class=”icon-external-link”}](https://bit.ly/31vG7pz "https://bit.ly/31vG7pz"){:target=”_blank”}{:rel=”noopener”}
 
-[Tweet by WHO](https://twitter.com/WHO/status/1139147280139857920)—6/13/19
+### Tweet by WHO <i>[Source<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://twitter.com/WHO/status/1139147280139857920){:rel=”noopener”} —6/13/19
 
-The rVSV-ZEBOV-GP #Ebola vaccine has shown high efficacy of protection against the disease. [http://bit.ly/2X9pLA0](http://bit.ly/2X9pLA0 "http://bit.ly/2X9pLA0")
+The rVSV-ZEBOV-GP #Ebola vaccine has shown high efficacy of protection against the disease. http://bit.ly/2X9pLA0 <i>[Source<i/>{:class=”icon-external-link”}](http://bit.ly/2X9pLA0 "http://bit.ly/2X9pLA0"){:target=”_blank”}{:rel=”noopener”}
 
 [Tweet by EU in Uganda](https://twitter.com/EUinUG/status/1139139533184917505)—6/13/19
 
