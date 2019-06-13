@@ -75,12 +75,10 @@ Regardless of trimester, pregnant women, as well as those lactating, should be o
 
 The rVSV-ZEBOV-GP #Ebola vaccine has shown high efficacy of protection against the disease. http://bit.ly/2X9pLA0 <i>[Source<i/>{:class=”icon-external-link”}](http://bit.ly/2X9pLA0 "http://bit.ly/2X9pLA0"){:target=”_blank”}{:rel=”noopener”}
 
-[Tweet by EU in Uganda](https://twitter.com/EUinUG/status/1139139533184917505)—6/13/19
+### Tweet by EU in Uganda <i>[Source<i/>{:class=”icon-external-link”}](https://twitter.com/EUinUG/status/1139139533184917505){:target=”_blank”}{:rel=”noopener”} —6/13/19
 
-\#Ebola: European Union releases additional €3.5 million to tackle epidemic, of which €2.5 million (UGX 10.5 billion) is dedicated to 🇺🇬and €1 million for 🇸🇸. The aid package will strengthen rapid detection and reaction to Ebola cases. More: [http://europa.eu/rapid/press-release_IP-19-2990_en.htm](http://europa.eu/rapid/press-release_IP-19-2990_en.htm "http://europa.eu/rapid/press-release_IP-19-2990_en.htm") …
+\#Ebola: European Union releases additional €3.5 million to tackle epidemic, of which €2.5 million (UGX 10.5 billion) is dedicated to 🇺🇬and €1 million for 🇸🇸. The aid package will strengthen rapid detection and reaction to Ebola cases. More: [http://europa.eu/rapid/press-release_IP-19-2990_en.htm](http://europa.eu/rapid/press-release_IP-19-2990_en.htm "http://europa.eu/rapid/press-release_IP-19-2990_en.htm") #EUandUganda
 
-\#EUandUganda
-
-[Tweet by Jennifer Nuzzo](https://twitter.com/JenniferNuzzo/status/1138801194489516035)—6/12/19
+### Tweet by Jennifer Nuzzo <i>[Source<i/>{:class=”icon-external-link”}](https://twitter.com/JenniferNuzzo/status/1138801194489516035){:target=”_blank”}{:rel=”noopener”} —6/12/19
 
 Uganda is well-practiced at containing VHF outbreaks, including #Ebola. But even well-prepared environments can experience challenges and health facilities are often weak-points for control efforts. No country can take this for granted.
