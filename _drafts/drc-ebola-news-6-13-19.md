@@ -26,16 +26,16 @@ is_commission_related:
 references: ''
 
 ---
-There were **9 new Ebola cases** in DRC as of June 12th.
+There were **21 new Ebola cases** in DRC as of June 12th.
 
-## WHO AFRO Dashboard/DRC MoH Stats <i>[Source<i/>{:class=”icon-external-link”}](https://translate.googleusercontent.com/translate_c?depth=1&langpair=auto%7Cen&rurl=translate.google.com&sp=nmt4&u=https://us13.campaign-archive.com/%3Fu%3D89e5755d2cca4840b1af93176%26id%3D52c167a0be&xid=17259,15700019,15700186,15700190,15700256,15700259&usg=ALkJrhi5lF8MdH3aIGCq45-c1QW2wFG03g){:target=”_blank”}{:rel=”noopener”} (as of June 12)
+## WHO AFRO Dashboard/DRC MoH Stats <i>[Source<i/>{:class=”icon-external-link”}](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c){:target=”_blank”}{:rel=”noopener”} (as of June 12)
 
-**Total cases in DRC: 2,084**
+**Total cases in DRC: 2,105**
 
-* Confirmed cases: 1,990
+* Confirmed cases: 2,011
 * Probable cases: 94
 
-\- Suspected cases: 284
+\- Suspected cases: 336
 
 **Confirmed deaths in DRC: 1,405**
 
