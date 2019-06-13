@@ -36,8 +36,7 @@ There were **21 new Ebola cases** in DRC as of June 12th.
 
 * Confirmed cases: 2,011
 * Probable cases: 94
-
-\- Suspected cases: 336
+* Suspected cases: 336
 
 **Confirmed deaths in DRC: 1,405**
 
