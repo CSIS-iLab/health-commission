@@ -76,7 +76,7 @@ Regardless of trimester, pregnant women, as well as those lactating, should be o
 
 ### Tweet by WHO<i>[WHO Twitter<i/>{:class=”icon-external-link”}](https://twitter.com/WHO/status/1139147280139857920){:target=”_blank”}{:rel=”noopener”} -6/13/19
 
-The rVSV-ZEBOV-GP #Ebola vaccine has shown high efficacy of protection against the disease. http://bit.ly/2X9pLA0 <i>[Source<i/>{:class=”icon-external-link”}](http://bit.ly/2X9pLA0 "http://bit.ly/2X9pLA0"){:target=”_blank”}{:rel=”noopener”}
+The rVSV-ZEBOV-GP #Ebola vaccine has shown high efficacy of protection against the disease. <i>[Source<i/>{:class=”icon-external-link”}](http://bit.ly/2X9pLA0 "http://bit.ly/2X9pLA0"){:target=”_blank”}{:rel=”noopener”}
 
 ### Tweet by EU in Uganda<i>[EU Uganda<i/>{:class=”icon-external-link”}](https://twitter.com/EUinUG/status/1139139533184917505){:target=”_blank”}{:rel=”noopener”} -6/13/19
 
