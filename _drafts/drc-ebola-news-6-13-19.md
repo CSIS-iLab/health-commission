@@ -28,7 +28,9 @@ references: ''
 ---
 There were **21 new Ebola cases** in DRC as of June 12th.
 
-## WHO AFRO Dashboard/DRC MoH Stats <i>[Source<i/>{:class=”icon-external-link”}](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c){:target=”_blank”}{:rel=”noopener”} (as of June 12)
+## WHO AFRO Dashboard/DRC MoH Stats 
+
+<i>[WHO AFRO Dashboard<i/>{:class=”icon-external-link”}](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c){:target=”_blank”}{:rel=”noopener”} (as of June 12)
 
 **Total cases in DRC: 2,105**
 
@@ -41,7 +43,9 @@ There were **21 new Ebola cases** in DRC as of June 12th.
 
 **Vaccinated in DRC: 132,679**
 
-## Uganda bans public gatherings in Kasese district amid Ebola fears [<i>Source<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://www.aljazeera.com/news/2019/06/uganda-bans-public-gatherings-kasese-district-ebola-fears-190613061114340.html){:rel=”noopener”}
+## Uganda bans public gatherings in Kasese district amid Ebola fears
+
+<i>[Al Jazeera<i/>{:class=”icon-external-link”}](https://www.aljazeera.com/news/2019/06/uganda-bans-public-gatherings-kasese-district-ebola-fears-190613061114340.html){:target=”_blank”}{:rel=”noopener”}
 
 _Al Jazeera, 6/13/19_
 
@@ -53,13 +57,13 @@ _CDC Newsroom, 6/12/19_
 
 In a press release, CDC confirms that the three travel-associated cases in Uganda this week further emphasizes the ongoing threat of this outbreak and are working with the USAID Disaster Assistance Response Team (DART) on the ground in the DRC and the American Embassy in Kinshasa to support the Congolese and international response. CDC’s activation of the EOC at Level 3, the lowest level of activation, **allows the agency to provide increased operational support for the response to meet the outbreak’s evolving challenges**. The risk of global spread of Ebola remains low. Activation of the CDC EOC does not mean that the threat of Ebola to the United States has increased or that changes are being made to CDC’s outbreak-related guidance.
 
-## Rwanda on alert as three Ebola cases are confirmed in Uganda <i>[Source<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://www.newtimes.co.rw/news/rwanda-alert-ebola-uganda){:rel=”noopener”} 
+## Rwanda on alert as three Ebola cases are confirmed in Uganda <i>[Source<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://www.newtimes.co.rw/news/rwanda-alert-ebola-uganda){:rel=”noopener”}
 
 _New Times, 6/12/19_
 
 Rwanda’s ministry of health has implored the public and concerned agencies to strengthen measures to prevent the spread of Ebola into Rwanda. In a public notice, the ministry of health announced its continuation to work in coordination with the Rwanda Biomedical Center, WHO, and other partners to strengthen national capacity for early detection and containment in the event a case spreads in Rwanda. No Ebola case has been reported in the country.
 
-## Ebola outbreak in Africa spreads fake news in America <i>[Source<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://thehill.com/policy/international/448197-ebola-outbreak-in-africa-spreads-fake-news-in-america){:rel=”noopener”} 
+## Ebola outbreak in Africa spreads fake news in America <i>[Source<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://thehill.com/policy/international/448197-ebola-outbreak-in-africa-spreads-fake-news-in-america){:rel=”noopener”}
 
 _Hill, 6/12/19_
 
