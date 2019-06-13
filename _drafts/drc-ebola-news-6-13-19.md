@@ -57,7 +57,7 @@ In a press release, CDC confirms that the three travel-associated cases in Ugand
 
 _New Times, 6/12/19_
 
-Rwanda’s ministry of health has implored the public and concerned agencies to strengthen measures to prevent the spread of Ebola into Rwanda. In a public notice, the ministry of health announced its continuation to work in coordination with the Rwanda Biomedical Centre, WHO, and other partners to strengthen national capacity for early detection and containment in the event a case spreads in Rwanda. No Ebola case has been reported in the country.
+Rwanda’s ministry of health has implored the public and concerned agencies to strengthen measures to prevent the spread of Ebola into Rwanda. In a public notice, the ministry of health announced its continuation to work in coordination with the Rwanda Biomedical Center, WHO, and other partners to strengthen national capacity for early detection and containment in the event a case spreads in Rwanda. No Ebola case has been reported in the country.
 
 ## Ebola outbreak in Africa spreads fake news in America <i>[Source<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://thehill.com/policy/international/448197-ebola-outbreak-in-africa-spreads-fake-news-in-america){:rel=”noopener”} 
 
