@@ -28,7 +28,7 @@ references: ''
 ---
 There were **21 new Ebola cases** in DRC as of June 12th.
 
-## WHO AFRO Dashboard/DRC MoH Stats 
+## WHO AFRO Dashboard/DRC MoH Stats
 
 <i>[WHO AFRO Dashboard<i/>{:class=”icon-external-link”}](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c){:target=”_blank”}{:rel=”noopener”} (as of June 12)
 
@@ -47,19 +47,19 @@ There were **21 new Ebola cases** in DRC as of June 12th.
 
 <i>[Al Jazeera<i/>{:class=”icon-external-link”}](https://www.aljazeera.com/news/2019/06/uganda-bans-public-gatherings-kasese-district-ebola-fears-190613061114340.html){:target=”_blank”}{:rel=”noopener”}
 
-_Al Jazeera, 6/13/19_
+_6/13/19_
 
 A Ugandan Health Ministry spokesman confirmed the move on Thursday hours after officials declared that a **50-year-old Congolese woman had become the second patient to die of the disease in Uganda**; her grandson was the first confirmed Ebola death in Uganda, and the boy's 3-year-old brother is also infected and is currently undergoing treatment. Ugandan Health Minister Jane Ruth Aceng said as of Thursday afternoon there was **"no confirmed case" of the Ebola virus in the country after DRC officials successfully repatriated five infected people** earlier in the day. Three people suspected to have contracted the disease are being treated in isolation at the Kasese district's Bwera Ebola Treatment Unit, Aceng added, while health workers were establishing contact with 27 people believed to have come into contact with the two deceased.
 
-## CDC Activates Emergency Operations for Ebola Outbreak in Eastern DRC 
+## CDC Activates Emergency Operations for Ebola Outbreak in Eastern DRC
 
 <i>[CDC Newsroom<i/>{:class=”icon-external-link”}](https://www.cdc.gov/media/releases/2019/p0612-ebola-operations-center.html){:target=”_blank”}{:rel=”noopener”}
 
-_CDC Newsroom, 6/12/19_
+_6/12/19_
 
 In a press release, CDC confirms that the three travel-associated cases in Uganda this week further emphasizes the ongoing threat of this outbreak and are working with the USAID Disaster Assistance Response Team (DART) on the ground in the DRC and the American Embassy in Kinshasa to support the Congolese and international response. CDC’s activation of the EOC at Level 3, the lowest level of activation, **allows the agency to provide increased operational support for the response to meet the outbreak’s evolving challenges**. The risk of global spread of Ebola remains low. Activation of the CDC EOC does not mean that the threat of Ebola to the United States has increased or that changes are being made to CDC’s outbreak-related guidance.
 
-## Rwanda on alert as three Ebola cases are confirmed in Uganda 
+## Rwanda on alert as three Ebola cases are confirmed in Uganda
 
 <i>[New Times<i/>{:class=”icon-external-link”}](https://www.newtimes.co.rw/news/rwanda-alert-ebola-uganda){:target=”_blank”}{:rel=”noopener”}
 
@@ -67,7 +67,7 @@ _New Times, 6/12/19_
 
 Rwanda’s ministry of health has implored the public and concerned agencies to strengthen measures to prevent the spread of Ebola into Rwanda. In a public notice, the ministry of health announced its continuation to work in coordination with the Rwanda Biomedical Center, WHO, and other partners to strengthen national capacity for early detection and containment in the event a case spreads in Rwanda. No Ebola case has been reported in the country.
 
-## Ebola outbreak in Africa spreads fake news in America 
+## Ebola outbreak in Africa spreads fake news in America
 
 <i>[Hill<i/>{:class=”icon-external-link”}](https://thehill.com/policy/international/448197-ebola-outbreak-in-africa-spreads-fake-news-in-america){:target=”_blank”}{:rel=”noopener”}
 
@@ -77,25 +77,25 @@ _Hill, 6/12/19_
 
 ## **Twitter**
 
-### Tweet by Helen Branswell 
+### Tweet by Helen Branswell
 
 <i>[Helen Branswell Twitter<i/>{:class=”icon-external-link”}](https://twitter.com/HelenBranswell/status/1139172403140005888){:target=”_blank”}{:rel=”noopener”} -6/13/19
 
 Regardless of trimester, pregnant women, as well as those lactating, should be offered the experimental #Ebola vaccine if they've been exposed to the virus — whether they are contacts or contacts of contacts, 2 experts argue in a commentary on @statnews. https://bit.ly/31vG7pz <i>[Source<i/>{:class=”icon-external-link”}](https://bit.ly/31vG7pz "https://bit.ly/31vG7pz"){:target=”_blank”}{:rel=”noopener”}
 
-### Tweet by WHO 
+### Tweet by WHO
 
 <i>[WHO Twitter<i/>{:class=”icon-external-link”}](https://twitter.com/WHO/status/1139147280139857920){:target=”_blank”}{:rel=”noopener”} -6/13/19
 
 The rVSV-ZEBOV-GP #Ebola vaccine has shown high efficacy of protection against the disease. http://bit.ly/2X9pLA0 <i>[Source<i/>{:class=”icon-external-link”}](http://bit.ly/2X9pLA0 "http://bit.ly/2X9pLA0"){:target=”_blank”}{:rel=”noopener”}
 
-### Tweet by EU in Uganda 
+### Tweet by EU in Uganda
 
 <i>[EU Uganda<i/>{:class=”icon-external-link”}](https://twitter.com/EUinUG/status/1139139533184917505){:target=”_blank”}{:rel=”noopener”} -6/13/19
 
 \#Ebola: European Union releases additional €3.5 million to tackle epidemic, of which €2.5 million (UGX 10.5 billion) is dedicated to 🇺🇬and €1 million for 🇸🇸. The aid package will strengthen rapid detection and reaction to Ebola cases. More: [http://europa.eu/rapid/press-release_IP-19-2990_en.htm](http://europa.eu/rapid/press-release_IP-19-2990_en.htm "http://europa.eu/rapid/press-release_IP-19-2990_en.htm") #EUandUganda
 
-### Tweet by Jennifer Nuzzo 
+### Tweet by Jennifer Nuzzo
 
 <i>[Jennifer Nuzzo Twitter<i/>{:class=”icon-external-link”}](https://twitter.com/JenniferNuzzo/status/1138801194489516035){:target=”_blank”}{:rel=”noopener”}
 
