@@ -30,11 +30,14 @@ New analysis involving data from the West African Ebola outbreak concluded that 
 
 There were **12 new Ebola cases** in DRC as of June 13th.
 
-[WHO AFRO Dashboard/DRC MoH Stats](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c) (as of June 13)
+## WHO AFRO Dashboard/DRC MoH Stats 
 
-**Total cases in DRC: 2,117**  
- - Confirmed cases: 2,023  
- - Probable cases: 94
+<i>[WHO AFRO Dashboard<i/>{:class=”icon-external-link”}](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c){:target=”_blank”}{:rel=”noopener”} 
+
+**Total cases in DRC: 2,117**
+
+* Confirmed cases: 2,023
+* Probable cases: 94
 
 \- Suspected cases: 314
 
@@ -42,11 +45,13 @@ There were **12 new Ebola cases** in DRC as of June 13th.
 
 **Vaccinated in DRC: 132,679**
 
-**After Ebola spills into Uganda, WHO decides against emergency declaration**
+## After Ebola spills into Uganda, WHO decides against emergency declaration
 
-[_STAT_](https://www.statnews.com/2019/06/14/ebola-uganda-who-no-emergency-declaration/)_, By Helen Branswell, 6/14/19_
+<i>[STAT](https://www.statnews.com/2019/06/14/ebola-uganda-who-no-emergency-declaration/)<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
 
-Dr. Preben Aavitsland, acting chair of the WHO emergency committee, said that while the outbreak is a health emergency in DRC and the region, it does not yet meet the criteria of a public health emergency of international concern. “The fundamental dynamics of the outbreak haven’t changed,” said WHO Director-General Tedros Adhanom Ghebreyesus from Kinshasa in the DRC. Tedros said the outbreak response has the knowledge and tools to control the disease, but that work is being hampered by a crippling shortage of funding; he called on the international community to fill a $54 million funding gap. Some global health experts have been calling for months for this outbreak to be declared a PHEIC, that lack of such a declaration is potentially depriving the Ebola response of badly needed assistance and donor cash, they have argued. However other experts have warned a PHEIC can be a double-edged sword. Though the WHO can — and does — insist during a public health emergency that other countries refrain from imposing punitive measures like trade and travel restrictions, in past PHEICs those advices have sometimes been disregarded, complicating efforts to contain those epidemics.
+_By Helen Branswell, 6/14/19_
+
+Dr. Preben Aavitsland, acting chair of the WHO emergency committee, said that while the outbreak is a health emergency in DRC and the region, it does not yet meet the criteria of a public health emergency of international concern. “The fundamental dynamics of the outbreak haven’t changed,” said WHO Director-General Tedros Adhanom Ghebreyesus from Kinshasa in the DRC. Tedros said the outbreak response has the knowledge and tools to control the disease, but that work is being hampered by a crippling shortage of funding; he called on the international community to fill a $54 million funding gap. Some global health experts have been calling for months for this outbreak to be declared a PHEIC, that lack of such a declaration is potentially depriving the Ebola response of badly needed assistance and donor cash, they have argued. However other experts have warned a PHEIC can be a double-edged sword. Though the WHO can — and does — insist during a public health emergency that other countries refrain from imposing punitive measures like trade and travel restrictions, in past PHEICs those instructions have sometimes been disregarded, complicating efforts to contain those epidemics.
 
 **The Latest: More dead in family that brought Ebola to Uganda**
 
