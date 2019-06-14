@@ -47,13 +47,15 @@ There were **12 new Ebola cases** in DRC as of June 13th.
 
 ## After Ebola spills into Uganda, WHO decides against emergency declaration
 
-<i>[STAT](https://www.statnews.com/2019/06/14/ebola-uganda-who-no-emergency-declaration/)<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
+<i>[STAT<i/>{:class=”icon-external-link”}](https://www.statnews.com/2019/06/14/ebola-uganda-who-no-emergency-declaration/){:target=”_blank”}{:rel=”noopener”}
 
 _By Helen Branswell, 6/14/19_
 
 Dr. Preben Aavitsland, acting chair of the WHO emergency committee, said that while the outbreak is a health emergency in DRC and the region, it does not yet meet the criteria of a public health emergency of international concern. “The fundamental dynamics of the outbreak haven’t changed,” said WHO Director-General Tedros Adhanom Ghebreyesus from Kinshasa in the DRC. Tedros said the outbreak response has the knowledge and tools to control the disease, but that work is being hampered by a crippling shortage of funding; he called on the international community to fill a $54 million funding gap. Some global health experts have been calling for months for this outbreak to be declared a PHEIC, that lack of such a declaration is potentially depriving the Ebola response of badly needed assistance and donor cash, they have argued. However other experts have warned a PHEIC can be a double-edged sword. Though the WHO can — and does — insist during a public health emergency that other countries refrain from imposing punitive measures like trade and travel restrictions, in past PHEICs those instructions have sometimes been disregarded, complicating efforts to contain those epidemics.
 
-**The Latest: More dead in family that brought Ebola to Uganda**
+## The Latest: More dead in family that brought Ebola to Uganda
+
+<i>AP<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
 
 [_AP, 6/14/19_](https://www.apnews.com/b74c186ad0ff4e1d9d86c0fb86bfd4eb)
 
