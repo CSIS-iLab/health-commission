@@ -28,11 +28,13 @@ The greatest concern still lies in eastern DRC, and **money, vaccines, and peace
 
 **Informal crossings are common in many African borders,** which complicates the outbreak. The need for more strategic interventions from health authorities is explained by a global health scientist.
 
-[WHO AFRO Dashboard/DRC MoH Stats](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D8b99cd4519%26e%3D34c0620338) 
+## WHO AFRO Dashboard/DRC MoH Stats
+
+<i>[WHO AFRO Dashboard<i/>{:class=”icon-external-link”}](http://translate.google.com/translate?hl=auto&langpair=auto%7Cen&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D8b99cd4519%26e%3D34c0620338){:target=”_blank”}{:rel=”noopener”}
 
 **Total cases in DRC: 2,148**
 
-*  Confirmed cases: 2,054
+* Confirmed cases: 2,054
 * Probable cases: 94
 * Suspected cases: 319
 
@@ -40,25 +42,31 @@ The greatest concern still lies in eastern DRC, and **money, vaccines, and peace
 
 **Vaccinated in DRC: 135,395**
 
-[Kenya tests woman for Ebola, as Congo, Uganda fight outbreak](https://www.apnews.com/6719f2e1535f42a48441429fc254a3f9)
+## Kenya tests woman for Ebola, as Congo, Uganda fight outbreak
 
-_AP, 6/17/19_
+<i>[AP<i/>{:class=”icon-external-link”}](https://www.apnews.com/6719f2e1535f42a48441429fc254a3f9){:target=”_blank”}{:rel=”noopener”}
+
+_By Tom Odula, 6/17/19_
 
 “The rapid surveillance and response team, which has been sent to examine the patient who is in stable condition, has confirmed that she does not fit the case definition of Ebola. Allow me to repeat to Kenyans that the patient does not meet the case definition of Ebola,” said Sicily Kariuki, Kenya’s Health Minister, while touring the Nairobi international airport to assess passenger screenings. If the Kenyan patient is confirmed as having Ebola, it would be the East African country’s first ever case of the virus and represent a worrying spread of the disease from eastern Congo. Kenya has never experienced an Ebola outbreak, and some Kenyan doctors have expressed concern about the country’s preparedness to manage the deadly virus. Meanwhile, health officials in eastern Congo have begun offering vaccinations to all residents in the hotspot of Mabalako although previous efforts had only targeted known contacts or those considered to be at high risk.
 
-[Ebola outbreak demands more urgent attention](https://www.ft.com/content/cb31ea4e-8fb3-11e9-aea1-2b1d33ac3271#comments-anchor)
+## Ebola outbreak demands more urgent attention
 
-_Financial Times, 6/16/19_
+<i>[Financial Times<i/>{:class=”icon-external-link”}](https://www.ft.com/content/cb31ea4e-8fb3-11e9-aea1-2b1d33ac3271#comments-anchor){:target=”_blank”}{:rel=”noopener”}
+
+_6/16/19_
 
 WHO has asked for $98 million to fight the epidemic. However, only $44 million has been received. A scarcity of the Merck vaccine has led health authorities to halve the dose to prolong supplies. Fortunately, Merck has agreed to make more, and another vaccine made by Johnson & Johnson should also be rapidly employed. To ensure peace within the region, everything possible should be done to organize some sort of truce with militias, which continue to destabilize eastern DRC. The root cause of the violence is the poverty that stalks much of Congo. If something cannot be done to tackle the violence, then even if this epidemic is brought under control, sooner or later Ebola will be back.
 
-[Africa’s porous and informal borders make it difficult to contain Ebola](https://qz.com/africa/1645605/africas-porous-borders-make-it-difficult-to-contain-ebola/)
+## Africa’s porous and informal borders make it difficult to contain Ebola
 
-_Quartz, 6/17/19_
+<i>[Quartz<i/>{:class=”icon-external-link”}](https://qz.com/africa/1645605/africas-porous-borders-make-it-difficult-to-contain-ebola/){:target=”_blank”}{:rel=”noopener”}
+
+_Natasha Joseph, 6/17/19_
 
 In an interview, Mosoka Fallah, Deputy Director General at National Public Health Institute of Liberia and Visiting Scientist at Harvard Medical School explained the porosity of many African borders. “In the case of the family of 14 that travelled from the DR Congo to Uganda, most of them crossed at the formal border, but five evaded the main port of entry and instead they crossed over informally” he said. Those five eventually arrived with Ebola-like symptoms, which implies a period of illness in the DRC and that they were most likely symptomatic while travelling. The surveillance system for scanning people who are crossing into Uganda are at formal border crossings, which are not always foolproof. Fallah stated that “**people across geographical boundaries don’t have any physical boundaries in their minds**. When they are in the DRC and fall ill, they will do what anyone would: seek support from their relatives and friends, some of whom are in border towns” and went on to recommend some intervention strategies that were implemented during the west African Ebola outbreak between 2014 and 2016. “The surveillance team has to enter the mind of a typical villager from the DR Congo who knows they’re infected and is trying to escape to relatives in Uganda.”
 
-**Twitter**
+## Twitter
 
 [Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1140634120051200005)– 6/17/19
 
