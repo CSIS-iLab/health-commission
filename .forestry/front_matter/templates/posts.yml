@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/drc-ebole-news-6-17-19.md
 - _posts/2019-06-14-drc-ebola-news-6-14-19.md
 - _posts/2019-06-13-drc-ebola-news-6-13-19.md
 - _posts/2018-09-25-The-New-Realism,-An-Uncomfortable-Middle.md
