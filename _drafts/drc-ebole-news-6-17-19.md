@@ -68,7 +68,9 @@ In an interview, Mosoka Fallah, Deputy Director General at National Public Healt
 
 ## Twitter
 
-[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1140634120051200005)– 6/17/19
+### Tweet by Helen Branswell
+
+<i>[@HelenBranswell<i/>{:class=”icon-external-link”}](https://twitter.com/HelenBranswell/status/1140634120051200005){:target=”_blank”}{:rel=”noopener”}
 
 Yes, Uganda established an #Ebola treatment center at Bwera, near the CRC border. (Kudos for this.) But staff there say they don't have many supplies on hand, @AssociatedPress reports.
 
