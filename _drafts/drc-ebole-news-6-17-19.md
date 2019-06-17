@@ -74,14 +74,20 @@ In an interview, Mosoka Fallah, Deputy Director General at National Public Healt
 
 Yes, Uganda established an #Ebola treatment center at Bwera, near the CRC border. (Kudos for this.) But staff there say they don't have many supplies on hand, @AssociatedPress reports.
 
-[Tweet by Tedros Adhanom Ghebreyesus](https://twitter.com/DrTedros/status/1140364615752327169)—6/17/19
+### Tweet by Tedros Adhanom Ghebreyesus
+
+<i>[@DrTedros<i/>{:class=”icon-external-link”}](https://twitter.com/DrTedros/status/1140364615752327169){:target=”_blank”}{:rel=”noopener”}
 
 I met this brave pregnant woman who came to the #Ebola treatment centre in #Katwa in critical condition but thankfully her health has stabilized after receiving care. The CUBE care unit at the Treatment Centre allows patients to be visited by their loved ones & still protected
 
-[Tweet by Jeremy Farrar](https://twitter.com/JeremyFarrar/status/1139629748768968705)—6/14/19
+### Tweet by Jeremy Farrar
+
+<i>[@JeremyFarrar<i/>{:class=”icon-external-link”}](https://twitter.com/JeremyFarrar/status/1139629748768968705){:target=”_blank”}{:rel=”noopener”}
 
 I respect advice of Emergency Committee but do believe a PHEIC would have been justified. It would have raised the levels of international political support which has been lacking to date, enhanced diplomatic, public health, security & logistic efforts.
 
-[Tweet by Mark Eccleston-Turner](https://twitter.com/MarkRTurner/status/1139626495142445058)—6/14/19
+### Tweet by Mark Eccleston-Turner
+
+<i>@MarkRTurner<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
 
 Beyond this, and the fact that not declaring could actually hamper the outbreak response in the DRC, the way the WHO and EC are interpreting and using the IHR has long term implications for the authority and normative weight of the treaty, and WHO.
