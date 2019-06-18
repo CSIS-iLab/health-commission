@@ -62,30 +62,30 @@ _By Elias Biryabarema, 6/18/19_
 
 The treatments approved for shipment to Uganda were Mapp Biopharmaceutical’s ZMapp, Regeneron Pharmaceuticals Inc’s Regeneron, and Remdesivir, made by Gilead Sciences, said WHO spokesman Tarik Jasarevic. The U.N. health agency has said there have so far been no known cases of Ebola spreading between people in Uganda - all recorded patients had traveled in from DRC where four experimental therapeutic treatments are already being used. Health workers and people who came in contact with infected people began receiving a Merck experimental vaccine in Uganda on Saturday.
 
-[Tshisekedi’s EAC bid with suspicion](https://www.theafricareport.com/14114/east-african-neighbours-eye-tshisekedis-eac-bid-with-suspicion/)
+## Tshisekedi’s EAC bid with suspicion
 
-_Africa Report_
+<i>[Africa Report<i/>{:class=”icon-external-link”}](https://www.theafricareport.com/14114/east-african-neighbours-eye-tshisekedis-eac-bid-with-suspicion/){:target=”_blank”}{:rel=”noopener”}
 
 _By Romain Gras, 6/17/19_
 
 Tshisekedi expressed his wish for the DRC to become a member in a letter sent on 8 June to Rwandan president Paul Kagame, who chairs the regional bloc. The last country to join the EAC was South Sudan in 2016. This request is “a confirmation of President Tshisekedi’s stated priority to focus his regional policy on cooperation and integration,” says Olivier Nduhungirehe, secretary of state for the EAC at the Rwandan ministry of foreign affairs. The letter stated that Tshisekedi’s request “follows the ever-increasing trade between operators in the Democratic Republic of Congo and those in the States of the aforementioned Community”. Tshisekedi, who was invested as DRC president on 24 January, has already visited several EAC member countries, starting with Kenya on his first regional tour and travelling to Uganda and Rwanda in March, followed by Tanzania and Burundi on 13 and 14 June. Discussions between the Congolese president and his counterparts have, so far, focused largely on security issues. The regional organization that the DRC now wishes to join is mired in internal tensions. For several months Kigali and Kampala have been at each other’s throats; Burundi is under pressure from its neighbors ahead of next year’s presidential election as tensions in the country are high after mediation initiated by the EAC failed. The DRC’s request will be discussed at the next EAC summit, scheduled for November 2019.
 
-**Twitter**
+## Twitter
 
-[Tweet by Dr. Jane Ruth Aceng](https://twitter.com/JaneRuth_Aceng/status/1140973494148239360)—6/18/19
+### Tweet by Dr. Jane Ruth Aceng
 
-@JaneRuth_Aceng
+<i>[@JaneRuth_Aceng<i/>{:class=”icon-external-link”}](https://twitter.com/JaneRuth_Aceng/status/1140973494148239360){:target=”_blank”}{:rel=”noopener”}
 
 PRESS RELEASE: NO EBOLA IN MBARARA DISTRICT. Uganda has not registered any new confirmed #Ebola case in Kasese District or any other part of #Uganda since the last registered case 4 days ago. Please stop spreading rumors about the Ebola outbreak!
 
-[Tweet by CEPI](https://twitter.com/CEPIvaccines/status/1140546125541314560)– 6/17/19
+### Tweet by CEPI
 
-@CEPIvaccines
+<i>[@CEPIvaccines<i/>{:class=”icon-external-link”}](https://twitter.com/CEPIvaccines/status/1140546125541314560){:target=”_blank”}{:rel=”noopener”}
 
 Ebola survivors are protected from infection years after illness, new research shows. In fact, antibody patterns have been found to shift as people recover @nature 👉 [https://buff.ly/2WOce0a](https://buff.ly/2WOce0a "https://buff.ly/2WOce0a")
 
-[Tweet by WHO African Region](https://twitter.com/WHOAFRO/status/1140633290208153601)—6/17/19
+### Tweet by WHO African Region
 
-@WHOAFRO
+<i>[@WHOAFRO<i/>{:class=”icon-external-link”}](https://twitter.com/WHOAFRO/status/1140633290208153601){:target=”_blank”}{:rel=”noopener”}
 
 So far there hasn't been a single confirmed case of #Ebola in Goma, the largest city of North Kivu province in 🇨🇩. @WHO's Dr Ramses Kalumbi Ramazani explains why | via @OMSRDCONGO
