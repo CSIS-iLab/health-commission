@@ -26,15 +26,19 @@ Over **300,000** people have fled an explosion of ethnic violence in northeaster
 
 To effectively “reset” efforts to contain Ebola, responders need to **increase the transparency** of their operations, said USAID Administrator Mark Green.
 
-Recommended reading: [We Must Prepare for the Next Pandemic](https://www.nytimes.com/2019/06/17/opinion/pandemic-fake-news.html)
+### Recommended reading:  
 
-[WHO AFRO Dashboard/DRC MoH Stats](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D90d5d5ce4d%26e%3D34c0620338) 
+<i>[We Must Prepare for the Next Pandemic<i/>{:class=”icon-external-link”}](https://www.nytimes.com/2019/06/17/opinion/pandemic-fake-news.html){:target=”_blank”}{:rel=”noopener”}
 
-**Total cases in DRC: 2,181**  
- - Confirmed cases: 2,087  
- - Probable cases: 94
+## WHO AFRO Dashboard/DRC MoH Stats 
 
-\- Suspected cases: 322
+<i>[DRC MoH Statistics<i/>{:class=”icon-external-link”}](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D90d5d5ce4d%26e%3D34c0620338){:target=”_blank”}{:rel=”noopener”}
+
+**Total cases in DRC: 2,181**
+
+* Confirmed cases: 2,087
+* Probable cases: 94
+* Suspected cases: 322
 
 **Confirmed deaths in DRC: 1,459**
 
