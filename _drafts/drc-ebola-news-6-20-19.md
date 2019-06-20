@@ -52,26 +52,26 @@ Dr Tedros Adhanom Ghebreyesus, WHO’s Director-General, was speaking to Member 
 
 ## Twitter
 
-### [Tweet by WHO Uganda](https://twitter.com/WHOUganda/status/1141714841314451463)
+### Tweet by WHO Uganda
 
-[@WHOUganda<i/>{:class=”icon-external-link”}](https://twitter.com/WHOUganda/status/1141714841314451463){:target=”_blank”}{:rel=”noopener”
+[@WHOUganda<i/>{:class=”icon-external-link”}](https://twitter.com/WHOUganda/status/1141714841314451463){:target=”_blank”}{:rel=”noopener”}
 
 Community Sensitization on #Ebola Virus Disease by @MinofHealthUG and @WHO teams continues. Today, the prisoners in Mubuku Prison have also been given knowledge on #Ebola #Uganda
 
-[Tweet by Josh Michaud](https://twitter.com/joshmich/status/1141474777774751744)– 6/19/19
+### Tweet by Josh Michaud
 
-@joshmich
+[@joshmich<i/>{:class=”icon-external-link”}](https://twitter.com/joshmich/status/1141474777774751744){:target=”_blank”}{:rel=”noopener”}
 
 @TheLancet editorial disagrees with WHO Emergency Committee decision against declaring a PHEIC for Ebola in DRC. "The decision appears more political than technical and that is a mistake." [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736 "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736")(19)31406-0/fulltext …
 
 [Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1141380419822202881)—6/19/19
 
-@HelenBranswell
+[@HelenBranswell<i/>{:class=”icon-external-link”}](https://twitter.com/HelenBranswell/status/1141380419822202881){:target=”_blank”}{:rel=”noopener”}
 
 About travel: The African Nations (soccer) Cup starts Saturday in Cairo. There appears to be a possibility that some people from North Kivu-Ituri will travel to Cairo to support the Congolese team. That bears watching.
 
 [Tweet by Johns Hopkins Center for Health Security](https://twitter.com/JHSPH_CHS/status/1141351931014787073)—6/19/19
 
-@JHSPH_CHS
+@JHSPH_CHS<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
 
 Ebola: 'WHO between a rock and a hard place' explains @pbspiegel @Humanit_Health @JohnsHopkinsSPH #ebola [https://www.dw.com/en/ebola-who-between-a-rock-and-a-hard-place/a-49248493](https://www.dw.com/en/ebola-who-between-a-rock-and-a-hard-place/a-49248493 "https://www.dw.com/en/ebola-who-between-a-rock-and-a-hard-place/a-49248493") …
