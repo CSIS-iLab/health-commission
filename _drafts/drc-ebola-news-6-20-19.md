@@ -64,14 +64,14 @@ Community Sensitization on #Ebola Virus Disease by @MinofHealthUG and @WHO teams
 
 @TheLancet editorial disagrees with WHO Emergency Committee decision against declaring a PHEIC for Ebola in DRC. "The decision appears more political than technical and that is a mistake." [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736 "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736")(19)31406-0/fulltext …
 
-[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1141380419822202881)—6/19/19
+### Tweet by Helen Branswell
 
 [@HelenBranswell<i/>{:class=”icon-external-link”}](https://twitter.com/HelenBranswell/status/1141380419822202881){:target=”_blank”}{:rel=”noopener”}
 
 About travel: The African Nations (soccer) Cup starts Saturday in Cairo. There appears to be a possibility that some people from North Kivu-Ituri will travel to Cairo to support the Congolese team. That bears watching.
 
-[Tweet by Johns Hopkins Center for Health Security](https://twitter.com/JHSPH_CHS/status/1141351931014787073)—6/19/19
+### Tweet by Johns Hopkins Center for Health Security
 
-@JHSPH_CHS<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
+[@JHSPH_CHS<i/>{:class=”icon-external-link”}](https://twitter.com/JHSPH_CHS/status/1141351931014787073){:target=”_blank”}{:rel=”noopener”}
 
 Ebola: 'WHO between a rock and a hard place' explains @pbspiegel @Humanit_Health @JohnsHopkinsSPH #ebola [https://www.dw.com/en/ebola-who-between-a-rock-and-a-hard-place/a-49248493](https://www.dw.com/en/ebola-who-between-a-rock-and-a-hard-place/a-49248493 "https://www.dw.com/en/ebola-who-between-a-rock-and-a-hard-place/a-49248493") …
