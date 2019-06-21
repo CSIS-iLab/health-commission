@@ -54,6 +54,7 @@
     "imagemin-pngquant": "^6.0.0",
     "prettier": "^1.14.3",
     "require-dir": "^1.1.0",
+    "through2": "^3.0.1",
     "vinyl-named": "^1.1.0",
     "webpack": "^4.23.1",
     "webpack-stream": "^5.1.1",
