@@ -23,27 +23,25 @@ const server = browserSync.create()
 /*----------  SASS  ----------*/
 
 function sassTask() {
-  return (
-    src(config.assets + '/' + config.sass.src + '/**/*.scss')
-      .pipe(
-        sass({
-          outputStyle: config.sass.outputStyle
-        }).on('error', sass.logError)
-      )
-      .pipe(postcss([autoprefixer(config.sass.autoprefixer)]))
-      .pipe(
-        t2.obj((chunk, enc, cb) => {
-          // Execute through2
-          let date = new Date()
-          chunk.stat.atime = date
-          chunk.stat.mtime = date
-          cb(null, chunk)
-        })
-      )
-      .pipe(dest(config.assets + '/' + config.sass.dest))
-      // .pipe(server.stream({ match: '**/*.css' }))
-      .on('end', () => log('SASS updated'))
-  )
+  return src(config.assets + '/' + config.sass.src + '/**/*.scss')
+    .pipe(
+      sass({
+        outputStyle: config.sass.outputStyle
+      }).on('error', sass.logError)
+    )
+    .pipe(postcss([autoprefixer(config.sass.autoprefixer)]))
+    .pipe(
+      t2.obj((chunk, enc, cb) => {
+        // Execute through2
+        let date = new Date()
+        chunk.stat.atime = date
+        chunk.stat.mtime = date
+        cb(null, chunk)
+      })
+    )
+    .pipe(dest(config.assets + '/' + config.sass.dest))
+    .pipe(server.stream({ match: '**/*.css' }))
+    .on('end', () => log('SASS updated'))
 }
 
 exports.sass = sassTask
