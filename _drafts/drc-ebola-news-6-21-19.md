@@ -32,6 +32,8 @@ Dr. Anthony Fauci and Dr. Modet Camara provide some context on the clinical tria
 
 [WHO AFRO Dashboard/DRC MoH Stats](https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=c17df2b241&e=34c0620338) 
 
+Source<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
+
 **Total cases in DRC: 2,204**
 
 * Confirmed cases: 2,110
