@@ -30,9 +30,9 @@ Dr. Anthony Fauci and Dr. Modet Camara provide some context on the clinical tria
 
 [Meet the Ebola workers battling a virus in a war zone<i/>{:class=”icon-external-link”}](https://www.nature.com/articles/d41586-019-01957-2){:target=”_blank”}{:rel=”noopener”}
 
-[WHO AFRO Dashboard/DRC MoH Stats](https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=c17df2b241&e=34c0620338) 
+## WHO AFRO Dashboard/DRC MoH Stats
 
-Source<i/>{:class=”icon-external-link”}{:target=”_blank”}{:rel=”noopener”}
+[DRC MoH Statistics<i/>{:class=”icon-external-link”}](https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=c17df2b241&e=34c0620338){:target=”_blank”}{:rel=”noopener”}
 
 **Total cases in DRC: 2,204**
 
@@ -52,22 +52,24 @@ _By Nurith Aizenman, 6/21/19_
 
 Dr. Camara oversees a strict protocol at the Beni treatment center, one of three Ebola Treatment Centers where the clinical trial is taking place. He has seen firsthand how much the science around Ebola disease has advanced in recent years during his experience in the west African outbreak in his native Guinea. Camara explains that patients are eager to help. "**Since we started this work in November, not a single patient has refused. Everyone wants to do it**." Dr. Fauci is overseeing the study in conjunction with the WHO and DRC's government. One of the four treatments, a cocktail of antibodies called ZMapp, has already been subjected to an earlier clinical trial during the west African outbreak. Two of the other experimental medications, REGN-EB3 and MAb114, also consist of various antibodies. The latter is an antibody that was extracted from a person who had contracted Ebola during a 1995 outbreak in Congo and survived. The fourth therapy is an antiviral called Remdesivr. Fauci notes that to have statistically significant results investigators need to administer the treatments to at least 500 people – evenly divided between the four options. So far, about **340 people have been treated through the trial**. (Along with about 600 people have been given the treatments as part of a "compassionate use" provision).
 
-[How Misinformation Is Making It Almost Impossible to Contain the Ebola Outbreak in DRC](https://time.com/5609718/rumors-spread-ebola-drc/)
+## How Misinformation Is Making It Almost Impossible to Contain the Ebola Outbreak in DRC
 
-_Time, 6/20/19_
+[Time<i/>{:class=”icon-external-link”}](https://time.com/5609718/rumors-spread-ebola-drc/){:target=”_blank”}{:rel=”noopener”}
+
+_6/20/19_
 
 With an internet penetration of less than 7%, **word of mouth remains the most common way for rumors to spread in DRC**. These have included speculation that people who died from Ebola are deliberately being killed in treatment centers. Kate Learmonth, a health coordinator for the International Federation of Red Cross and Red Crescent Societies, said the humanitarian organization is sensitive to what’s being said among Congolese communities in relation to concerns about Ebola burials. To combat the spread of false information, burial and community outreach teams are logging what they hear in communities, and have gathered **over 85,000 messages of complaint, feedback and rumors** from 1,300 volunteers working on the Ebola response since last August. The spread of harmful rumors has had tragic consequences for Congolese frontline workers, many of whom have been accused of profiting from the crisis. There have been **more than 130 attacks on healthcare facilities, during which dozens of people have been killed**. “We really want to inform the population about Ebola so people know what it is and how to react, making sure they adopt the right attitudes when and if it reaches the city,” says Clarisse Amunazo, a health promoter for Médecins Sans Frontières. Traditional healers, who are more trusted and preferred by many Congolese from impoverished backgrounds, are also being brought into the Ebola response.
 
-**Twitter**
+## Twitter
 
-[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1142103939221008386)– 6/21/19
+### Tweet by Helen Branswell
 
-@HelenBranswell
+[@HelenBranswell<i/>{:class=”icon-external-link”}](https://twitter.com/HelenBranswell/status/1142103939221008386){:target=”_blank”}{:rel=”noopener”}
 
 A shocking 22% of #Ebola cases for whom an age is recorded have been kids under 5. The number, 435, is \~2 wks old; 2 of the cases from yesterday were <5. Context: There've been more cases among kids <5 in this outbreak than there were cases in the 3rd largest outbreak ever.
 
-[Tweet by WHO African Region](https://twitter.com/WHOAFRO/status/1142044964521676800)– 6/21/19
+### Tweet by WHO African Region
 
-@WHOAFRO
+[@WHOAFRO<i/>{:class=”icon-external-link”}](https://twitter.com/WHOAFRO/status/1142044964521676800){:target=”_blank”}{:rel=”noopener”}
 
 Dario is a Logistician in Butembo, DRC. He is one of the people who work quietly behind the scenes to make sure that the @WHO & @MinSanteRDC response to the #Ebola outbreak goes smoothly, safely, and meets the needs of doctors, patients, and communities. [http://ow.ly/VZhS50uJMuZ](http://ow.ly/VZhS50uJMuZ "http://ow.ly/VZhS50uJMuZ")
