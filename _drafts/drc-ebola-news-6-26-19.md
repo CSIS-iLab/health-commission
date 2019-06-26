@@ -30,7 +30,7 @@ Experts will gather in Kinshasa on 28 June to discuss a thorny issue: whether, a
 
 ## WHO AFRO Dashboard/DRC MoH Stats
 
-[DRC MoH Statistics<i/>{:class=”icon-external-link”}](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D06ba2d438c%26e%3D34c0620338){:target=”_blank”}{:rel=”noopener”}
+[DRC MoH Statistics<i/>{:class=”icon-external-link”}](http://translate.google.com/translate?hl=auto&langpair=auto%7Cen&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D06ba2d438c%26e%3D34c0620338){:target=”_blank”}{:rel=”noopener”}
 
 **Total cases in DRC: 2,265**
 
@@ -44,7 +44,7 @@ Experts will gather in Kinshasa on 28 June to discuss a thorny issue: whether, a
 
 ## Ebola hot spots shift as pattern of spread fluctuates
 
-[CIDRAP<i/>{:class=”icon-external-link”}](http://www.cidrap.umn.edu/news-perspective/2019/06/ebola-hot-spots-shift-pattern-spread-fluctuates){:target=”_blank”}{:rel=”noopener”} 
+[CIDRAP<i/>{:class=”icon-external-link”}](http://www.cidrap.umn.edu/news-perspective/2019/06/ebola-hot-spots-shift-pattern-spread-fluctuates){:target=”_blank”}{:rel=”noopener”}
 
 _By Stephanie Soucheray, 6/25/19_
 
