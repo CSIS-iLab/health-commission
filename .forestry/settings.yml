@@ -92,3 +92,5 @@ build:
   preview_output_directory: _site
   output_directory: _site
   instant_preview_command: npm run forestry:preview
+  preview_docker_image: forestryio/build:latest
+  mount_path: "/opt/buildhome/repo"
