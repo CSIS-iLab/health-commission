@@ -20,3 +20,52 @@ is_commission_related:
 references: ''
 
 ---
+There were **7 new cases** in the Democratic Republic of the Congo (DRC) as of June 27th, 2019.
+
+After months-long delay, pregnant women in DRC have finally started receiving the life-saving Ebola vaccine.
+
+### Recommended reading: 
+
+[U.S. Stopped Vital Foreign Aid Programs in the Name of Counter-Trafficking<i/>{:class=”icon-external-link”}](https://foreignpolicy.com/2019/06/26/us-stopped-vital-foreign-aid-programs-in-name-of-counter-trafficking-trafficking-in-persons-report-aid-development-programs-humanitarian-organizations/?utm_source=PostUp&utm_medium=email&utm_campaign=13886&utm_term=Editor#39;s%20Picks%20OC){:target=”_blank”}{:rel=”noopener”}
+
+## WHO AFRO Dashboard/DRC MoH Stats 
+
+[DRC MoH Statistics<i/>{:class=”icon-external-link”}](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D8f489419cc%26e%3D34c0620338){:target=”_blank”}{:rel=”noopener”}
+
+**Total cases in DRC: 2,284**
+
+* Confirmed cases: 2,190
+* Probable cases: 94
+* Suspected cases: 328
+
+**Deaths in DRC: 1,540**
+
+**Vaccinated in DRC: 143,647**
+
+## Pregnant women in DRC finally receive Ebola vaccine
+
+[Devex<i/>{:class=”icon-external-link”}](https://www.devex.com/news/pregnant-women-in-drc-finally-receive-ebola-vaccine-95204){:target=”_blank”}{:rel=”noopener”}
+
+_By Abigail Higgins, 6/28/19_
+
+The experimental vaccine produced by Merck was as not made available to pregnant and breastfeeding women due to a lack of evidence about its effects on mothers and infants — **despite pregnant women facing mortality rates of up to 93% from Ebola**, compared to an average of 50% in the general population. After advocates pushed the issue — pointing to the disease's exceptionally high fatality rate and the problem of leaving holes in ring vaccination efforts, which increases the risk of infection for whole communities — the ministry of health, supported by the World Health Organization, cleared the vaccine for use on pregnant women in February. But it still had to get past DRC's National Ethics Committee, which requested modifications such as that pregnant women in their first trimester be excluded from vaccination. Since the beginning of the outbreak, breastfeeding and pregnant women have repeatedly requested the vaccine. Research in DRC’s Beni, Butembo, and Tchomia found that some breastfeeding women were temporarily weaning their infants in order to receive it, despite the prohibitive cost of formula and social stigma attached to its use. In spite of the unknowns, for many women, the decision could not come soon enough.
+
+## Twitter
+
+### Tweet by WHO African Region– 6/27/19
+
+[@WHOAFRO<i/>{:class=”icon-external-link”}](https://twitter.com/WHOAFRO/status/1144191219083427841){:target=”_blank”}{:rel=”noopener”}
+
+When health workers or community members suspect that someone may have #Ebola, they call a hotline. Alliance is there to answer the call. In her own words 👉🏾[http://ow.ly/pDdB50uO3sx](http://ow.ly/pDdB50uO3sx "http://ow.ly/pDdB50uO3sx") | via @OMSRDCONGO
+
+### Tweet by Mark Green– 6/27/19
+
+[@USAIDMarkGreen<i/>{:class=”icon-external-link”}](https://twitter.com/USAIDMarkGreen/status/1144257612579516418){:target=”_blank”}{:rel=”noopener”}
+
+More than 1,500 people have died to date from the #DRCongo #Ebola outbreak. I briefed @HouseForeign Committee about how @USAID is working to help people and communities affected. @RepKarenBass @RepChrisSmith
+
+### Tweet by International Medical Corps UK– 6/28/19
+
+[@IMC_UK<i/>{:class=”icon-external-link”}](https://twitter.com/IMC_UK/status/1144591527907418112){:target=”_blank”}{:rel=”noopener”}
+
+Last week, things did not look good for 23-year-old Kambale and 50-year-old Sasita. They were suffering from #Ebola. But today, thanks to our incredible team in the #DRC, Kambale and Sasita are free from the deadly to disease! Take a look ↓
