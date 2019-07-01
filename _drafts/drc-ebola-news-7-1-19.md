@@ -20,27 +20,31 @@ is_commission_related:
 references: ''
 
 ---
-There were **13 new cases** in the Democratic Republic of the Congo (DRC) as of June 30th.
+There were **13 new cases** in the Democratic Republic of the Congo (DRC) as of June 30th, 2019.
 
 Japan has approved the importation of Ebola virus to a research facility located on the outskirts of Tokyo.
 
 President Félix Tshisekedi has ordered the DRC army to launch a “**large-scale” operation against armed groups in the Ituri province**, after the killings of scores of civilians.
 
-[WHO AFRO Dashboard/DRC MoH Stats](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D760c25f566%26e%3D34c0620338) (as of June 30)
+## WHO AFRO Dashboard/DRC MoH Stats
 
-**Total cases in DRC: 2,325**  
- - Confirmed cases: 2,231  
- - Probable cases: 94
+[DRC MoH Statistics<i/>{:class=”icon-external-link”}](http://translate.google.com/translate?hl=auto&langpair=auto%7Cen&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D760c25f566%26e%3D34c0620338){:target=”_blank”}{:rel=”noopener”}
 
-\- Suspected cases: 309
+**Total cases in DRC: 2,325**
+
+* Confirmed cases: 2,231
+* Probable cases: 94
+* Suspected cases: 309
 
 **Deaths in DRC: 1,563**
 
 **Vaccinated in DRC: 146,316**
 
-[City in Tokyo approves imports of Ebola virus by research facility](https://www.japantimes.co.jp/news/2019/07/01/national/city-tokyo-approves-imports-ebola-virus-research-facility/#.XRoHquhKjcs)
+## City in Tokyo approves imports of Ebola virus by research facility
 
-_Japan Times, 7/1/19_
+[Japan Times<i/>{:class=”icon-external-link”}](https://www.japantimes.co.jp/news/2019/07/01/national/city-tokyo-approves-imports-ebola-virus-research-facility/#.XRoHquhKjcs){:target=”_blank”}{:rel=”noopener”}
+
+7/1/19
 
 As part of a plan to keep deadly viruses at a research facility in Musashimurayama, Japan, the Ebola virus will be imported to the Murayama branch of the National Institute of Infectious Diseases (NIID), which can handle dangerous pathogens designated the highest biosafety level, or BSL, of 4 under the World Health Organization’s standards, as early as this summer. The move will help strengthen Japan’s inspection system for diseases that have never spread within the country, in preparation for an expected increase in visitors from abroad ahead of the 2020 Tokyo Olympic and Paralympic Games next summer.
 
