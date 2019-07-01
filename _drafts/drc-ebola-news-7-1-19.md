@@ -44,32 +44,34 @@ President Félix Tshisekedi has ordered the DRC army to launch a “**large-scal
 
 [Japan Times<i/>{:class=”icon-external-link”}](https://www.japantimes.co.jp/news/2019/07/01/national/city-tokyo-approves-imports-ebola-virus-research-facility/#.XRoHquhKjcs){:target=”_blank”}{:rel=”noopener”}
 
-7/1/19
+_7/1/19_
 
 As part of a plan to keep deadly viruses at a research facility in Musashimurayama, Japan, the Ebola virus will be imported to the Murayama branch of the National Institute of Infectious Diseases (NIID), which can handle dangerous pathogens designated the highest biosafety level, or BSL, of 4 under the World Health Organization’s standards, as early as this summer. The move will help strengthen Japan’s inspection system for diseases that have never spread within the country, in preparation for an expected increase in visitors from abroad ahead of the 2020 Tokyo Olympic and Paralympic Games next summer.
 
-[DRC targets militias in ‘large-scale’ army operation](https://www.businesslive.co.za/bd/world/africa/2019-06-30-drc-targets-militias-in-large-scale-army-operation/)
+## DRC targets militias in ‘large-scale’ army operation
 
-_Business Day, 6/30/19_
+[Business Day<i/>{:class=”icon-external-link”}](https://www.businesslive.co.za/bd/world/africa/2019-06-30-drc-targets-militias-in-large-scale-army-operation/){:target=”_blank”}{:rel=”noopener”}
+
+_6/30/19_
 
 According to President Tshisekedi, the large-scale operation ordered yesterday will be carried out in territories of Djugu and Mahagi and extend to South Kivu province to put a “definite end” to the dozens of militias roaming the lawless, mineral-rich region. At least 160 civilians have died in Ituri since June 10, according to local authorities, who blame the Ngudjolo militia for the violence. The army announced last week it had taken control of the group’s stronghold in an offensive backed by the UN peacekeeping mission Monusco. Tshisekedi’s announcement came as police firing tear gas blocked the planned march in Kinshasa, while security forces used tear gas to disperse small groups of protesters in Goma, the capital of North Kivu.
 
-**Twitter**
+## Twitter
 
-[Tweet by Crawford Kilian](https://twitter.com/Crof/status/1145688590430588928)– 7/1/19
+### Tweet by Crawford Kilian– 7/1/19
 
-@Crof
+[@Crof<i/>{:class=”icon-external-link”}](https://twitter.com/Crof/status/1145688590430588928){:target=”_blank”}{:rel=”noopener”}
 
 \#Ebola outbreak in the Democratic Republic of Congo: It’s more than a public health problem [https://brook.gs/2RNovBe](https://brook.gs/2RNovBe "https://brook.gs/2RNovBe") via @BrookingsInst
 
-[Tweet by Tedros Adhanom Ghebreyesus](https://twitter.com/DrTedros/status/1145202492533280769)– 6/29/19
+### Tweet by Tedros Adhanom Ghebreyesus– 6/29/19
 
-@DrTedros
+[@DrTedros<i/>{:class=”icon-external-link”}](https://twitter.com/DrTedros/status/1145202492533280769){:target=”_blank”}{:rel=”noopener”}
 
 Very pleased to meet Prime Minister @theresa_may at the #G20Summit. I thanked her for the UK's ourstanding support for @WHO, in particular to fight #AntimicrobialResistance and outbreaks such as #Ebola in #DRC. We agreed that investment in preparedness is essential.
 
-[Tweet by UNICEF](https://twitter.com/UNICEF/status/1145448190012997632)– 6/30/19
+### Tweet by UNICEF– 6/30/19
 
-@UNICEF
+[@UNICEF<i/>{:class=”icon-external-link”}](https://twitter.com/UNICEF/status/1145448190012997632){:target=”_blank”}{:rel=”noopener”}
 
 When it comes to spreading facts about Ebola prevention, everyone can help. These students are putting posters up in their local school in North Kivu, DR Congo. @UNICEFDRC
