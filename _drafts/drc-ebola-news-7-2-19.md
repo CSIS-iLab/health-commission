@@ -1,0 +1,72 @@
+---
+keywords: []
+title: DRC Ebola News (7/2/19)
+content_type: news
+excerpt: ''
+date: 
+authors: []
+series: ''
+themes: []
+image: ''
+image_caption: ''
+image_credit: ''
+pdf: ''
+is_commission_related:
+  description: ''
+  related_event: ''
+references: ''
+
+---
+DRC Ebola News 7/2/19
+
+There were **13 new cases** in the Democratic Republic of the Congo (DRC) as of July 1st.
+
+The continued spread of the outbreak in North Kivu and Ituri provinces has been marked in recent days by increased cases in Beni, Mabalako, and Masereka.
+
+WHO Regional Director for Africa commended health workers and Health Ministry officials for their sharpened preparedness to respond to the outbreak at her recent visit to Uganda.
+
+Recommended reading: [How Congo’s Ebola epidemic became the world’s second deadliest](https://www.thenewhumanitarian.org/news/2019/07/02/Ebola-outbreak-congo-epidemic-attacks-community)
+
+[WHO AFRO Dashboard/DRC MoH Stats](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3Dddc3bfc46f%26e%3D34c0620338) (as of July 1)
+
+**Total cases in DRC: 2,338**  
+ - Confirmed cases: 2,244  
+ - Probable cases: 94
+
+\- Suspected cases: 360
+
+**Deaths in DRC: 1,571**
+
+**Vaccinated in DRC: 147,120**
+
+[Ebola outbreak reaches 2,338 cases among violence in Ituri](http://www.cidrap.umn.edu/news-perspective/2019/07/ebola-outbreak-reaches-2338-cases-among-violence-ituri)
+
+_CIDRAP, 7/1/19_
+
+Over the weekend and through July 1, the DRC ministry of health recorded 41 more cases of the deadly disease, including another case detected in a vaccinated health worker. Late last week, the UN voiced concerns about ongoing massacres and ethnic violence in the DRC's Ituri province, and said the disease was moving into small, forest-based villages such as Alima, where access is "more challenging." Over the weekend the DRC health ministry described a cluster of five cases from Beni, including a mother who fled Ituri province with her children. The family was transferred back to Ituri province for care. Late last week, Oly Ilunga Kalenga, the minister of health in the DRC, held a meeting in Kinshasa to review experimental Ebola vaccine candidates from Merck, Johnson & Johnson, CanSino Biologics Inc, and Rospotrebnadzor. However, DRC officials did not opt to approve any other vaccine for use in the outbreak at this point.
+
+[WHO applauds Uganda's Ebola response](https://www.africanews.com/2019/07/01/who-applauds-uganda-s-ebola-response/)
+
+_Africa News, 7/1/19_
+
+“We appreciate the investment that has gone into making sure the system is up and ready, to deal with patients when they arise. And we can only commit to continuing to support until the risk from across border in DRC is over. Because we have keep up these arrangements, this team, ready in case somebody else needs treatment,” said Dr Matshidiso Moeti, WHO’s Regional Director for Africa. More than 100 people who had contacts with the confirmed cases are being monitored. Since the outbreak was declared, 1063 high-risk individuals have been vaccinated. A little over two weeks ago, Uganda cleared three experimental Ebola treatments, as it watches for its spread.
+
+**Twitter**
+
+[Tweet by Tedros Adhanom Ghebreyesus](https://twitter.com/DrTedros/status/1145774594755837952?ref_src=twsrc%5Egoogle%7Ctwcamp%5Enews%7Ctwgr%5Etweet)– 7/1/19
+
+@DrTedros
+
+Very happy to see my friend @AntipasMbusaN visiting communities in Butembo, #DRC, affected by #Ebola. Bipartisan political leadership, with community engagement and ownership, are vital to ending the outbreak.
+
+[Tweet by WHO African Region](https://twitter.com/WHOAFRO/status/1146017385704493057)– 7/2/19
+
+@WHOAFRO
+
+A health worker checks the 🌡️of a woman who had come in contact with the first confirmed #Ebola case in #Uganda. After 21 days of daily checkups showing no signs of the disease, she is now off the contacts list. There are 0 confirmed cases of Ebola in Uganda.
+
+[Tweet by International Medical Corps](https://twitter.com/IMC_Worldwide/status/1145741925946994688)– 7/1/19
+
+@IMC_Worldwide
+
+Late last week, 7 people (yes 7!) left our Ebola Treatment Center in the Democratic Republic of the Congo cured of the vicious disease!
