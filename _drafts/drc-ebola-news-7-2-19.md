@@ -1,12 +1,15 @@
 ---
-keywords: []
+keywords:
+- Ebola
 title: DRC Ebola News (7/2/19)
 content_type: news
-excerpt: ''
-date: 
+excerpt: Daily update for July 2nd, 2019 on the Ebola outbreak in eastern Democratic
+  Republic of the Congo
+date: 2019-07-01 14:15:00 +0000
 authors: []
 series: ''
-themes: []
+themes:
+- _themes/high-risk-disease-outbreaks.md
 image: ''
 image_caption: ''
 image_credit: ''
