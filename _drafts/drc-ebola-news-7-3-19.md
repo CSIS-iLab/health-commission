@@ -1,0 +1,69 @@
+---
+keywords:
+- Ebola
+title: DRC Ebola News (7/3/19)
+content_type: news
+excerpt: Daily update for July 3rd, 2019 on the Ebola outbreak in eastern Democratic
+  Republic of the Congo
+date: 2019-07-03 14:00:00 +0000
+authors: []
+series: ''
+themes:
+- _themes/high-risk-disease-outbreaks.md
+image: ''
+image_caption: ''
+image_credit: ''
+pdf: ''
+is_commission_related:
+  description: ''
+  related_event: ''
+references: ''
+
+---
+There were **16 new cases** in the Democratic Republic of the Congo (DRC) as of July 2nd, 2019.
+
+An Ebola case was confirmed at a town **not far from DRC’s border with South Sudan**.
+
+During the West African epidemic, it was the global outpouring of funds and personnel that allowed affected countries to squelch the outbreak. Yet, **the world seems unable to take the steps that worked the last time around**.
+
+[WHO AFRO Dashboard/DRC MoH Stats](https://mailchi.mp/sante.gouv.cd/ebola_kivu_02juil19?e=34c0620338) (as of July 2)
+
+**Total cases in DRC: 2,354**  
+ - Confirmed cases: 2,260  
+ - Probable cases: 94
+
+\- Suspected cases: 402
+
+**Deaths in DRC: 1,586**
+
+**Vaccinated in DRC: 148,183**
+
+[Ebola case reported not far from South Sudan border](https://apnews.com/fe10feddd5154ffcb86ff932e864db05)
+
+_AP, 7/2/19_
+
+_By Sam Mednick and Krista Larson_
+
+The case is a 40-year-old woman who had traveled nearly 500 kilometers (289 miles) from Beni, despite having been identified by health officials as having been exposed to Ebola and warned not to travel. She was confirmed in Ariwara, Congo, about 70 kilometers (43 miles) from the border with South Sudan’s Yei River State, according to a report from South Sudan’s health ministry. This is the closest confirmed case to South Sudan, a country with a weak health care system after years of civil war and remains vulnerable to the potential spread of the deadly disease.
+
+[As Ebola outbreak rages, the world just watches. Some call it 'malignant neglect'](https://www.latimes.com/science/la-sci-ebola-outbreak-congo-20190618-story.html)
+
+_Los Angeles Times, 7/2/19_
+
+_By Emily Baumgaertner_
+
+This time, the U.S. and other key global powers are mostly watching from the sidelines. WHO spent months begging for the $98 million to set up temporary health clinics and distribute vaccines that could stop the virus in its tracks. On Tuesday, the U.S. Agency for International Development said [it would contribute "more than $98 million"](https://www.usaid.gov/news-information/press-releases/jul-2-2019-us-providing-98-million-assistance-democratic-republic-congo-ebola) to the response in Congo, though the specifics have yet to be announced. And the State Department won't allow the CDC's medical workers to go to the region, citing concerns about their safety. A WHO committee has turned down three chances to declare the outbreak a global health emergency, taking pressure off of high-income countries to intervene before transmission seeps into South Sudan's refugee camps and explodes. "The complexity of the environment in North Kivu is unparalleled," said Juliet Bedford, an Oxford University anthropologist who studied the community dynamics of both outbreaks. Each violent uprising is followed by a surge of new infections as aid workers lose vital ground. Still, dozens of CDC officials have battled hemorrhagic fevers in violent regions before, and some are eager to get to work in Congo, according to Jennifer Kates, an expert on U.S. global health policy at the Kaiser Family Foundation. With a vaccine shortage looming, experts have debated whether to dilute the remaining doses, so they can be spread among more people as the outbreak grows. In 2014, the WHO's decision to declare the outbreak a public health emergency of international (PHEIC) came less than five months after the virus was detected. At that point, there had been fewer than 1,000 deaths.
+
+**Twitter**
+
+[Tweet by Secretary Alex Azar](https://twitter.com/SecAzar/status/1146112667662393344)– 7/2/19
+
+@SecAzar
+
+Thanks to @POTUS for highlighting the need to “support countries suffering from the current #Ebola outbreak in Africa, through both timely financial and technical assistance and in line with the central coordination responsibility that WHO has.” #G20 [https://g20.org/pdf/documents/en/FINAL_G20_Osaka_Leaders_Declaration.pdf](https://g20.org/pdf/documents/en/FINAL_G20_Osaka_Leaders_Declaration.pdf "https://g20.org/pdf/documents/en/FINAL_G20_Osaka_Leaders_Declaration.pdf") …
+
+[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1146377346653609984)– 7/3/19
+
+@HelenBranswell
+
+The #Ebola situation reports measures cases over a period of 21 days — an incubation period for the disease. It's worth noting that in the 3 weeks ending June 30 there were 276 cases. If that 3-week period had been a distinct outbreak, it would have been the 7th largest ever.
