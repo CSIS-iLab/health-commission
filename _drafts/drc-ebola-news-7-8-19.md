@@ -24,7 +24,7 @@ There were **10 new cases** in the Democratic Republic of the Congo (DRC) as of 
 
 The almost year-long Ebola outbreak is on the edge of spiraling out of control, and UK’s Rory Stewart calls on WHO to declare it an international emergency.
 
-In response to Lancet Editors, members of the WHO Strategic and Technical Advisory Group for Infectious Hazards (STAG-IH) clarified the role of the International Health Regulations (IHR) and the designation of a PHEIC.
+In response to Lancet Editors, members of the World Health Organization (WHO) Strategic and Technical Advisory Group for Infectious Hazards (STAG-IH) clarified the role of the International Health Regulations (IHR) and the designation of a Public Health Emergency of International Concern (PHEIC).
 
 Canadian scientists who helped design the Merck Ebola vaccine says there isn't enough of them.
 
@@ -68,7 +68,7 @@ The decision to declare a PHEIC lies with the WHO Director-General and requires 
 
 _By Katie Nicholson, 7/6/19_
 
-Merck entered into an agreement with the Vaccine Alliance in Geneva to maintain a stockpile of 300,000 doses in case of an outbreak. But "**300,000 doses is not enough anymore**," said microbiologist and researcher Gary Kobinger, who has been tracking the outbreak from the Centre for Research in Infectious Diseases at Laval University in Quebec City. "You would need to reach a million, if not two million \[people\].” Merck confirmed Friday that it met with the WHO and the Vaccine Alliance in June to discuss supply concerns, and spokesperson Skip Irvine said the company decided to nearly triple the stockpile within the next 18 months. Irvine said Merck has another 250,000 doses ready to ship. The good news, Kobinger said, is that the vaccine has proven to be 97.5 per cent effective during this outbreak. He said about 72 per cent of the population needs to be immunized to block the spread of the infectious disease. "**You can have a vaccine that is 100 per cent effective, but if you only vaccinate 10 per cent of the population that is susceptible to get the disease … you cannot expect the vaccine to have a strong impact.**"
+Merck entered into an agreement with the Vaccine Alliance in Geneva to maintain a stockpile of 300,000 doses in case of an outbreak. But "**300,000 doses is not enough anymore**," said microbiologist and researcher Gary Kobinger, who has been tracking the outbreak from the Centre for Research in Infectious Diseases at Laval University in Quebec City. "You would need to reach a million, if not two million \[people\].” Merck confirmed Friday that it met with the WHO and the Vaccine Alliance in June to discuss supply concerns, and spokesperson Skip Irvine said the company decided to nearly triple the stockpile within the next 18 months. Irvine said Merck has another 250,000 doses ready to ship. The good news, Kobinger said, is that the vaccine has proven to be 97.5 percent effective during this outbreak. He said about 72 percent of the population needs to be immunized to block the spread of the infectious disease. "**You can have a vaccine that is 100 per cent effective, but if you only vaccinate 10 per cent of the population that is susceptible to get the disease … you cannot expect the vaccine to have a strong impact.**"
 
 ## Twitter
 
