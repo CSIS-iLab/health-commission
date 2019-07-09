@@ -1,0 +1,84 @@
+---
+keywords: []
+title: DRC Ebola News (7/9/19)
+content_type: news
+excerpt: ''
+date: 
+authors: []
+series: ''
+themes: []
+image: ''
+image_caption: ''
+image_credit: ''
+pdf: ''
+is_commission_related:
+  description: ''
+  related_event: ''
+references: ''
+
+---
+There were **10 new cases** in the Democratic Republic of the Congo (DRC) as of July 8th, 2019.
+
+Fear and mistrust continue to hinder containment, and few believe that Ebola will be defeated entirely.
+
+Dr Tedros Adhanom Ghebreyesus warns that the virus could be controlled in the short term, but political instability creates a door for inevitable return.
+
+Renewed violence in North Kivu and Ituri provinces has led to a sharp increase in displaced persons. Humanitarian actors urgently need access to provide assistance and prevent further massive displacement.
+
+Recommended reading: [With DR Congo's army into forest stronghold of killers](https://www.thecitizen.co.tz/news/1840340-5188232-8t5lwx/index.html)
+
+[WHO AFRO Dashboard/DRC MoH Stats](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D34db3c3f96%26e%3D34c0620338) (as of July 8)
+
+**Total cases in DRC: 2,418**  
+ - Confirmed cases: 2,324  
+ - Probable cases: 94
+
+\- Suspected cases: 286
+
+**Deaths in DRC: 1,630**
+
+**Vaccinated in DRC: 154,878**
+
+[Fear and mistrust stalk battle to halt spread of Ebola](https://www.bbc.com/news/world-africa-48908993)
+
+_BBC, 7/9/19_
+
+_By James Landale_
+
+Current efforts by local and international medical staff and charities to combat the virus in Butembo is like a gruesome game of whack-a-mole that appears all but impossible to win. Vaccination centers funded in part by the British government make an impact, but only up to point, for there are challenges that the model struggles to overcome. Many Ebola deaths are never reported. Decades of conflict have led to widespread mistrust of the authorities and this has an impact on the disease spreading. Some deny Ebola exists, believing it to be a poison invented by the international community to traffic body parts. Others do not trust trained medical staff to look after the sick. There are also those who simply do not want their loved ones snatched from them, sealed up in a plastic body bag and buried anonymously by someone else. Some people, even if vaccinated, still contract the disease. It seems inevitable that there can never be enough quick response teams to match the number of Ebola deaths. The fundamental question now for the outside world is what lessons they can learn from this outbreak. For few believe that Ebola will be defeated entirely. Many reckon that viruses like this in future will have to be managed rather than eradicated.
+
+[Conflict and insecurity driving spread of diseases like Ebola, WHO chief warns](https://www.theguardian.com/global-development/2019/jul/09/ebola-outbreak-global-wake-up-call-says-who-head-tedros-adhanom-ghebreyesus-congo)
+
+_Guardian, 7/9/19_
+
+_By Peter Beaumont_
+
+“The problem is that \[donors\] refrain from paying until there is fear and panic. That has to change. We should not be funding by huge amounts when we panic but should be funding to avoid panic.” said Dr Tedros Adhanom Ghebreyesus, while speaking ahead of a new call for funding for the response to the Ebola outbreak. As an example of the political issues facing the response to the Ebola crisis, Dr. Tedros cited the DRC government’s decision to cancel voting in national elections in the Ebola-affected areas, as the outbreak moved to the city of Butembo last autumn. “The root cause of the problem is lack of peace, the lack of a political solution. The incidence of Ebola, malaria and cholera is the symptom. “**It’s not about Ebola only. What concerns me is the lacking of understanding about how to make our world safe**,” he said, citing the risk of an airborne pandemic. Dr. Tedros also reiterated his resistance to declaring the current outbreak a public health emergency of international concern (PHEIC). “There are some people who say we need to declare the outbreak as an \[emergency\] to mobilise resources. That’s really wrong. Resources should be available to prevent needing to declare a PHEIC. Preparedness is the solution, not firefighting.” The outbreak is designated a “category three emergency”, the WHO’s highest level before a declaration of PHEIC.
+
+[As Ebola rages on, DRC sees more displaced people](http://www.cidrap.umn.edu/news-perspective/2019/07/ebola-rages-drc-sees-more-displaced-people)
+
+_CIDRAP, 7/8/19_
+
+_By Stephanie Soucheray_
+
+“We are increasingly concerned that rising displacement creates fertile ground for the spread of disease, most worryingly Ebola, in Ituri province," said Fabien Sambussy, International Organization for Migration’s (IOM) chief of mission in the DRC. The displacement stems from political violence in the region, which the IOM said had been mostly controlled for the past 16 years. In recent weeks, an estimated 400,000 persons are currently displaced throughout Ituri province, and 160 people have been killed in conflicts.
+
+**Twitter**
+
+[Tweet by Ministère de la Santé RDC](https://twitter.com/MinSanteRDC/status/1148348133031567360)– 7/8/19
+
+@MinSanteRDC
+
+The PHEIC is not a fundraising tool. When tackling such a complex #Ebola outbreak, people should avoid looking at it from a narrow perspective and keep the bigger picture in mind. Calling for a PHEIC to raise funds while ignoring the negative consequences for #DRC is reckless.
+
+[Tweet by Jean-Pierre Lacroix](https://twitter.com/Lacroix_UN/status/1148323813278539777)– 7/8/19
+
+@Lacroix_UN
+
+The brave men and women of @who and other partner agencies and NGOs deserve our full support to their work against Ebola. @UNPeacekeeping fully committed to continuing with our strong support through @MONUSCO ‘s action on the ground
+
+[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1148287134866055170)– 7/8/19
+
+@HelenBranswell
+
+So many children have been infected with #Ebola in the North Kivu-Ituri outbreak. Around 700 at least. Fortunately this little one, Viviane, has survived the infection.
