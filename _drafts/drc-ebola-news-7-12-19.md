@@ -20,3 +20,58 @@ is_commission_related:
 references: ''
 
 ---
+There were **14 new cases** as of July 11th.
+
+In a press conference today, the DRC Ministry of Health (MoH) announced its decision against the introduction a second vaccine against the Ebola virus.
+
+The total number of healthcare workers infected in this outbreak is now up to 131 cases and 41 deaths, nurses bearing the brunt of the illness.
+
+### Recommended reading: 
+
+[Killings in Congo’s north-east spark fears of a return to war<i/>{:class=”icon-external-link”}](https://www.economist.com/middle-east-and-africa/2019/07/13/killings-in-congos-north-east-spark-fears-of-a-return-to-war?cid1=cust/ednew/n/bl/n/2019/07/11n/owned/n/n/nwl/n/n/NA/269943/n){:target=”_blank”}{:rel=”noopener”}
+
+## WHO AFRO Dashboard/DRC MoH Stats 
+
+[DRC MoH Statistics<i/>{:class=”icon-external-link”}](https://mailchi.mp/sante.gouv.cd/ebola_kivu_11juil19?e=34c0620338){:target=”_blank”}{:rel=”noopener”}
+
+**Total cases in DRC: 2,451**
+
+* Confirmed cases: 2,357
+* Probable cases: 94
+* Suspected cases: 364
+
+**Deaths in DRC: 1,647**
+
+**Vaccinated in DRC: 158,830**
+
+[DRC: The use of any other Ebola vaccine is banned in North Kivu and lturi provinces](https://crofsblogs.typepad.com/h5n1/2019/07/drc-the-use-of-any-other-ebola-vaccine-is-banned-in-north-kivu-and-lturi-provinces.html)
+
+_H5N1, 7/12/19_
+
+From June 28 to 29, an international consultation on vaccination against the Ebola virus was held in Kinshasa. Following these discussions, the DRC MoH decided that **the proposed new vaccines could possibly be integrated into the national preventive arsenal against Ebola virus disease** **only when their effectiveness is established**. The Ministry also reiterated their scientific openness to receiving potential proposals from experimental vaccine producers who would like to evaluate their vaccines in the DRC; "however, given the risks of confusion, the communication problems and the risk of amalgams between the rVSV-ZEBOV vaccine currently used and other vaccines that do not have the same level of evidence, I bring to the attention of all health actors, both national and international, that the use of any other vaccine against Ebola Virus Disease is prohibited in the provinces of North Kivu and lturi," warned the Minister of Health, Oly Ilunga.
+
+[Three more health workers infected in Ebola outbreak](http://www.cidrap.umn.edu/news-perspective/2019/07/three-more-health-workers-infected-ebola-outbreak)
+
+_CIDRAP, 7/11/19_
+
+In the latest Disease Outbreak News update, the WHO provided new epidemiologic details on infected health workers: of the 128 health workers with information available, the greatest proportion is among health workers at health posts (20%, n = 26), and private health facilities (35%, n = 45); the majority (68%, n = 87) of health worker infections were among nurses. Three health workers, two of them vaccinated, are among the latest Ebola cases, according to yesterday's DRC MoH update. The health workers are from Beni, Katwa, and Kalunguta.
+
+**Twitter**
+
+[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1149346620733104129)– 7/11/19
+
+@HelenBranswell
+
+This is how #Ebola spreads: An 8 yo boy whose mother died from Ebola in Beni was taken to his uncle in Mambasa. The boy developed Ebola & died from the infection. Mambasa hadn't previously had cases. Sigh (for the child & for the spread.)
+
+[Tweet by Laurie Garrett](https://twitter.com/Laurie_Garrett/status/1149363849054883840)– 7/11/19
+
+@Laurie_Garrett
+
+Is the Ituri/North Kivu region of #DRCongo heading into full-blown civil war? The @TheEconomist fears it may be. A lot of external players/countries have blood on their hands. And, oh yeah, there's that #Ebola epidemic to consider. Can this get worse?
+
+[Tweet by Tom Inglesby](https://twitter.com/T_Inglesby/status/1148579167497269248)– 7/9/19
+
+@T_Inglesby
+
+400,000 displaced persons from violence in Ituri province alone in DRC, with numbers of displaced going up - terrible humanitarian crisis with great needs, and which poses great risks for Ebola spread
