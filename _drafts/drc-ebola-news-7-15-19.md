@@ -20,3 +20,72 @@ is_commission_related:
 references: ''
 
 ---
+There were **12 new cases** as of July 14th.
+
+DRC’s Health Ministry has confirmed the **first case of the Ebola virus in the city of Goma**, home to more than 2 million people and located close to the Rwandan border.
+
+At today’s meeting convened in Geneva by WHO, Dr. Tedros Adhanom Ghebreyesus said the spread of Ebola to Goma was a potential "game-changer."
+
+**Two Ebola response agents in Beni were murdered in their homes,** including a Community Relay (RECO) and a street leader, on the night of 13-14 July in the Mukulia health area at the border of Butembo.
+
+Recommended reading: 
+
+[Q&A | Tackling Congo’s Ebola outbreak ‘more than a public health response’<i/>{:class=”icon-external-link”}](https://www.thenewhumanitarian.org/interview/2019/07/11/congo-ebola-outbreak-public-health-response?utm_source=twitter&utm_medium=social&utm_campaign=social){:target=”_blank”}{:rel=”noopener”}
+
+## WHO AFRO Dashboard/DRC MoH Stats 
+
+[DRC MoH Statistics<i/>{:class=”icon-external-link”}](http://translate.google.com/translate?hl=auto&langpair=auto|en&u=https%3A%2F%2Fus13.campaign-archive.com%2F%3Fu%3D89e5755d2cca4840b1af93176%26id%3D74a1a272b6%26e%3D34c0620338){:target=”_blank”}{:rel=”noopener”}
+
+**Total cases in DRC: 2,489**
+
+* Confirmed cases: 2,395
+* Probable cases: 94
+* Suspected cases: 335
+
+**Deaths in DRC: 1,665**
+
+**Vaccinated in DRC: 161,400**
+
+## First Ebola case confirmed in Congo city of Goma, right on Rwanda border
+
+[_Washington Post_<i/>{:class=”icon-external-link”}](https://www.washingtonpost.com/world/africa/first-ebola-case-confirmed-in-congo-city-of-goma-right-on-rwanda-border/2019/07/15/6f5c5c6e-a6c3-11e9-8733-48c87235f396_story.html?utm_term=.e9ae5d8c444b){:target=”_blank”}{:rel=”noopener”}
+
+_7/15/19_
+
+The new case in Goma is a pastor who traveled there from Butembo by bus; the other 18 passengers on the bus are set to be given an experimental vaccination that has proven largely successful. Then health workers will follow up with all contacts made by the confirmed case as well as all the passengers. “Because of the speed with which the patient was identified and isolated, and the identification of all the other bus passengers coming from Butembo, the risk of it spreading in the rest of the city of Goma is small,” the ministry said in a statement.
+
+## The Latest: US, EU promise support to tackle Ebola
+
+[_ABC News_<i/>{:class=”icon-external-link”}](https://abcnews.go.com/Health/wireStory/latest-assessing-ebola-outbreak-global-emergency-64337715){:target=”_blank”}{:rel=”noopener”}
+
+_7/15/19_
+
+Dr. Tedros Adhanom Ghebreyesus says he is reconvening the U.N. agency's expert committee to assess whether or not the continuing Ebola outbreak in Congo warrants being declared a global emergency. He also stated that WHO is "confident" in the response measures put in place and predicted there would be no further Ebola cases in Goma. Dr. Tedros did not say when the expert committee would be convened; the group has met three times previously and decided each time against declaring the epidemic to be an international emergency.
+
+## DRC Ebola: 12 new cases, 10 deaths, and 2 murdered healthcare workers
+
+[_H5N1_<i/>{:class=”icon-external-link”}](https://crofsblogs.typepad.com/h5n1/2019/07/drc-ebola-12-new-cases-10-deaths-and-2-murdered-healthcare-workers.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=60904982a0-EMAIL_CAMPAIGN_2019_07_12_12_25&utm_medium=email&utm_term=0_8d0d062dbd-60904982a0-2888645){:target=”_blank”}{:rel=”noopener”}
+
+_7/14/19_
+
+The two murdered providers had been threatened since December 2018. The RECO, a woman from the neighborhood, had already been attacked a few times a few weeks ago but she was saved because she had given money to the attackers. According to several sources, the attackers are people from the same neighborhood as the two victims who envied their neighbors because they had found a job in the response to Ebola.
+
+## Twitter
+
+### Tweet by Helen Branswell– 7/15/19
+
+[@HelenBranswell<i/>{:class=”icon-external-link”}](https://twitter.com/HelenBranswell/status/1150740346680283136){:target=”_blank”}{:rel=”noopener”}
+
+"The \[#Ebola\] epidemic will be with us well into 2020." — EU representative to the high level Ebola response meeting in Geneva. Code for: This is going to cost a lot more than it has already.
+
+### Tweet by WHO– 7/15/19
+
+[@WHO<i/>{:class=”icon-external-link”}](https://twitter.com/WHO/status/1150733098046382081){:target=”_blank”}{:rel=”noopener”}
+
+"The identification of a case of #Ebola in Goma, #DRC could potentially be a game-changer in the epidemic. I have therefore decided to reconvene the Emergency Committee as soon as possible to assess the threat of this development and advise me accordingly"- @DrTedros
+
+### Tweet by Laurie Garrett– 7/14/19
+
+[@Laurie_Garrett<i/>{:class=”icon-external-link”}](https://twitter.com/Laurie_Garrett/status/1150529771379527680){:target=”_blank”}{:rel=”noopener”}
+
+As @HelenBranswell notes, the arrival of #Ebola to the large, intl trading city of Goma is a dangerous turning point in the #DRC #Ebola epidemic. We can hope/pray it's an isolated case. But everybody in the Ebola fight has been dreading this moment. See: [https://en.wikipedia.org/wiki/Goma](https://en.wikipedia.org/wiki/Goma "https://en.wikipedia.org/wiki/Goma")
