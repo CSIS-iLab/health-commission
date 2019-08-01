@@ -78,6 +78,15 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/drc-ebola-news-8-1-19.md
+- _posts/2019-07-31-drc-ebola-news-7-31-19.md
+- _posts/2019-07-18-drc-ebola-news-7-18-19.md
+- _posts/2019-07-16-drc-ebola-news-7-16-19.md
+- _posts/2019-07-17-drc-ebola-news-7-17-19.md
+- _posts/2019-07-15-drc-ebola-news-7-15-19.md
+- _posts/2019-07-12-drc-ebola-news-7-12-19.md
+- _posts/2019-07-08-drc-ebola-news-7-8-19.md
+- _posts/2019-07-09-drc-ebola-news-7-9-19.md
 - _posts/2019-06-26-drc-ebola-news-6-26-19.md
 - _posts/2019-06-25-drc-ebola-news-6-25-19.md
 - _posts/2019-06-27-drc-ebola-news-6-27-19.md
@@ -99,7 +108,6 @@ pages:
 - _posts/2018-09-25-The-New-Realism,-An-Uncomfortable-Middle.md
 - _posts/2018-03-09-the-spanish-flu-a-century-later-2018-is-not-that-different-from-1918.md
 - _posts/2018-09-13-accelerating-medical-countermeasures.md
-- _posts/2019-07-31-drc-ebola-news-7-31-19.md
 - _posts/2019-07-30-drc-ebola-news-7-30-19.md
 - _posts/drc-ebola-news-7-29-19.md
 - _posts/2019-07-25-drc-ebola-news-7-25-19.md
@@ -107,13 +115,6 @@ pages:
 - _posts/2019-07-23-drc-ebola-news-7-23-19.md
 - _posts/drc-ebola-news-7-22-19.md
 - _posts/2019-07-19-drc-ebola-news-7-19-19.md
-- _posts/2019-07-12-drc-ebola-news-7-12-19.md
-- _posts/2019-07-15-drc-ebola-news-7-15-19.md
-- _posts/2019-07-16-drc-ebola-news-7-16-19.md
-- _posts/2019-07-17-drc-ebola-news-7-17-19.md
-- _posts/2019-07-18-drc-ebola-news-7-18-19.md
-- _posts/2019-07-08-drc-ebola-news-7-8-19.md
-- _posts/2019-07-09-drc-ebola-news-7-9-19.md
 - _posts/2019-07-10-drc-ebola-news-7-10-19.md
 - _posts/2019-07-11-drc-ebola-news-7-11-19.md
 - _posts/2019-07-02-drc-ebola-news-7-2-19.md
