@@ -2,7 +2,7 @@
 title: 'Video: The Gathering Health Storm Inside North Korea'
 keywords:
 - Video
-date: 2018-10-29 00:00:00 +0000
+date: 2018-10-29T00:00:00.000+00:00
 content_type: commentary
 excerpt: The Gathering Health Storm Inside North Korea examines the rapid decay of
   North Korea’s health systems and the dangers it poses to neighboring countries,
@@ -29,4 +29,4 @@ undefined: ''
 ---
 The bleak health realities of North Korea are an understudied part of the larger problem of potential instability on the Korean peninsula. North Korea has an exceptionally high rate of multidrug resistant tuberculosis (MDR-TB), an estimated 42% of its population is undernourished, and at least 3 in 10 North Korean citizens are stunted. From a health security standpoint, these are just a few of the health issues that can pose an immediate threat to the surrounding region, especially through the possibility that conflict in North Korea could ignite a mass exodus of North Korean refugees carrying infectious diseases such as MDR-TB into South Korea and China. “The Gathering Health Storm Inside North Korea” is a new film presented by the [CSIS Commission on Strengthening America’s Health Security](https://healthsecurity.csis.org/), directed by J. Stephen Morrison and Justin Kenny.
 
-<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/BDK3TIMmo3I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/y7pVwE03w7A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/2018-10-29-video-the-gathering-health-storm-inside-north-korea.md
 - _posts/2019-08-06-drc-ebola-news-8-6-19.md
 - _posts/2019-08-05-drc-ebola-news-8-5-19.md
 - _posts/drc-ebola-news-8-2-19.md
@@ -127,7 +128,6 @@ pages:
 - _posts/2019-06-01-drc-ebole-news-6-17-19.md
 - _posts/2019-06-18-drc-ebola-news-6-18-19.md
 - _posts/2019-04-02-human-genome-editing-s-brave-new-world.md
-- _posts/2018-10-29-video-the-gathering-health-storm-inside-north-korea.md
 - _posts/2018-09-13-protecting-health-security-in-a-disordered-world.md
 - _posts/2018-09-13-winning-the-fight-against-antimicrobial-drug-resistance.md
 - _posts/2018-09-13-preventing-and-responding-to-high-risk-disease-outbreaks.md
