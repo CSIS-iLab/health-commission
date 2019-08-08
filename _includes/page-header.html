@@ -1,4 +1,4 @@
-{% if page.image.size > 0 and page.collection != 'authors' %}
+{% if page.image.size > 0 and page.collection != 'authors' and page.collection != 'posts' %}
   {% include page-header-background-img.html image_url=page.image %}
 {% elsif page.image.size == 0 and page.collection == 'events' %}
   {% assign events = site.pages | where: "name",'events.md' | first %}
