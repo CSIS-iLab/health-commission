@@ -27,6 +27,7 @@ iframe{
 .video-wrapper {
   position: relative;
   margin-bottom: 2rem;
+  clear: both;
 
   &::before {
     content: '';
