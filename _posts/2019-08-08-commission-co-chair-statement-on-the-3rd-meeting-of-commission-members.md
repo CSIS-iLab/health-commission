@@ -7,7 +7,7 @@ excerpt: Following the third meeting of the CSIS Commission on Strengthening Ame
   Health Security, Commission co-chairs Kelly Ayotte and Julie Gerberding call for
   Congress and the administration to advance a U.S. doctrine of continuous prevention,
   protection, and resilience.
-date: 2019-08-08 04:00:00 +0000
+date: 2019-08-08T04:00:00.000+00:00
 authors:
 - _authors/kelly-ayotte.md
 - _authors/julie-louise-gerberding-m-d-mph.md
@@ -15,7 +15,7 @@ series: ''
 themes: []
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1565271996/health-commission/health-commission-meeting-june-2019_k5qdeg.jpg
 image_caption: Commissioners at the June 26, 2019 Commission meeting.
-image_credit: Photo courtesy of CSIS.
+image_credit: CSIS.
 pdf: https://res.cloudinary.com/csisideaslab/image/upload/c_limit,h_512,w_512/v1565271984/health-commission/GlobalHealth_Commission_CoChair_Statement_muukst.pdf
 is_commission_related:
   description: ''
