@@ -9,6 +9,7 @@ excerpt: Following the third meeting of the CSIS Commission on Strengthening Ame
   protection, and resilience.
 date: 2019-08-08 04:00:00 +0000
 authors:
+- _authors/kelly-ayotte.md
 - _authors/julie-louise-gerberding-m-d-mph.md
 series: ''
 themes: []
