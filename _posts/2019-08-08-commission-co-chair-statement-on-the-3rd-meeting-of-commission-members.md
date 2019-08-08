@@ -25,11 +25,11 @@ references: ''
 ---
 On June 26, 2019, the CSIS Commission on Strengthening America’s Health Security convened for the third time since its launch in April 2018. The Commission’s core aim is to chart a dynamic and concrete vision for the future of U.S. leadership in global health security—at home and abroad.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rtGYSV6CPiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/rtGYSV6CPiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Today we face an escalating, uncontrolled crisis in the Democratic Republic of the Congo (DRC). More than one year after the Ebola outbreak began, it has just recently been declared a global emergency. The virus continues to spread and threatens to spill into neighboring countries and beyond. Progress has been stymied by community resistance and mistrust, combined with opaque targeted violence against health providers. On June 25, the Commission convened a dinner discussion focused on this burgeoning crisis. One stark conclusion emerged: we will not see a turnaround in the DRC until there is a much higher-level and more determined effort by the United States, other major powers, and African states to overcome disorder and violence in the DRC. We will see in other places in the future what we are currently witnessing in the DRC, and we simply must be better prepared.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jDDPvLJ0Qek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/jDDPvLJ0Qek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 On June 26, Commission members—a diverse group of high-level opinion leaders who bridge security and health and the public and private sectors, including six members of Congress—met to discuss a proposed U.S. doctrine for global health security. Commission members deliberated and reached a broad consensus endorsing a doctrine of continuous prevention, protection, and resilience, which would protect the American people from the most pressing global health security threats we face today. The measures outlined in the paper are affordable, proven, and draw support from across the political spectrum. The time to act is now.
 
