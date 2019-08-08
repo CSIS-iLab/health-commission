@@ -1,0 +1,79 @@
+---
+keywords:
+- Ebola
+title: DRC Ebola News (8/8/19)
+content_type: news
+excerpt: Daily update for August 8th, 2019 on the Ebola outbreak in eastern Democratic
+  Republic of the Congo
+date: 2019-08-08 16:30:00 +0000
+authors: []
+series: ''
+themes:
+- _themes/high-risk-disease-outbreaks.md
+image: ''
+image_caption: ''
+image_credit: ''
+pdf: ''
+is_commission_related:
+  description: ''
+  related_event: ''
+references: ''
+
+---
+There were **6 new cases** as of August 7th.
+
+3 doctors from DRC have been arrested for allegedly planning an attack on a hospital that killed Cameroonian doctor Richard Mouzoko, while a fourth doctor also suspected is at large.
+
+Dr. Jean-Jacques Muyembe says he hopes to win back trust by relying more on locals and less on people from Kinshasa or abroad to staff the response.
+
+The Ugandan vaccine trial highlights how African scientists are strengthening the continent’s research capacity.
+
+Recommended reading: [DR Congo PM launches talks on forming government](https://www.theeastafrican.co.ke/news/africa/DR-Congo-PM-launches-talks-on-forming-government/4552902-5227214-naku85z/index.html)
+
+[DRC MoH Statistics/WHO AFRO Dashboard (as of August 7)](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c)
+
+**Total cases: 2,787**  
+ - Confirmed cases: 2,693  
+ - Probable cases: 94
+
+\- Suspected cases: 382
+
+**Deaths: 1,866**
+
+**Vaccinated** (as of August 5): **186,350**
+
+[Three Congolese doctors arrested in connection with WHO official's death](https://www.reuters.com/article/us-health-ebola-congo/three-congolese-doctors-arrested-in-connection-with-who-officials-death-idUSKCN1UX2II?utm_source=Global+Health+NOW+Main+List&utm_campaign=e2c609cdb0-EMAIL_CAMPAIGN_2019_08_07_01_16&utm_medium=email&utm_term=0_8d0d062dbd-e2c609cdb0-2888645)
+
+_Reuters, 8/7/19_
+
+Cameroonian doctor Richard Mouzoko was killed in an attack in April on a hospital in the city of Butembo, one of the epicenters of the year-long Ebola outbreak. Lieutenant Colonel Jean-Baptiste Kumbu, a senior military prosecutor, said militiamen involved in attacking treatment centers had, under interrogation, implicated four doctors in planning the raids, including against the Butembo hospital. In a statement, the Butembo branch of Congo’s national doctor’s council said it was “indignant” over the arrests, which it said were crippling vital medical services in the area. The council also said the doctors should be released on bail, and that medical personnel would launch a strike within 48 hours if they were not. Kumbu confirmed that a total of 54 people are currently under arrest in connection with attacks on Ebola treatment centers.
+
+[Ebola veteran promises an end to Congo’s epidemic](https://www.sciencemag.org/news/2019/08/ebola-veteran-promises-end-congo-s-epidemic)
+
+_Science Mag, 8/6/19_
+
+_By Kai Kupferschmidt_
+
+“There is this impression that \[people in North Kivu and Ituri provinces\] have been abandoned by the political authorities in Kinshasa,” Dr. Muyembe says. The government’s sudden rush to tackle Ebola has only deepened people’s suspicions about the health care workers and the vaccine. The distrust has led people to flee, hide, refuse the vaccine, and even attack health care workers, seven of whom have so far been killed. As a result, response workers are missing many chains of transmission. “We want to use the medical students and so on who speak the local language to go in the community for surveillance and even for vaccination,” Muyembe says. Gaining trust may also mean scaling back security precautions—a risky strategy. Early on, the government decided to use armed guards to enforce public health measures, hoping to contain the virus quickly, says Jeremy Konyndyk, a senior policy fellow at the Center for Global Development. “In some places, armed escorts were unavoidable at first, but then that also set the tone for the rest of the response.”
+
+[The Uganda vaccine trial: how African researchers are tackling Ebola](https://theconversation.com/the-uganda-vaccine-trial-how-african-researchers-are-tackling-ebola-121517)
+
+_Conversation, 8/7/19_
+
+_By Yap Boum_
+
+The outcome of the study will be watched with intense interest for several reasons. First, it is expected to provide evidence that will enable the vaccine to be registered, opening the door to having another tool with which to fight against Ebola in the DRC and elsewhere. Second, the Janssen (Johnson & Johnson) vaccine could produce stronger and longer-lasting immune responses against different strains of Ebola virus. The trial will also provide new evidence about Ebola virus disease and its transmission, as well as perceptions and attitudes about the vaccine. All of this will be useful in improving the use of the vaccine in the community during an outbreak. This trial is the product of a consortium of scientists from Uganda and beyond and led by two top African researchers – Professor Pontiano Kaleebu and Professor Juliet Mwanga-Amumpaire.
+
+**Twitter**
+
+[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1159269500140883970)– 8/7/19
+
+@HelenBranswell
+
+2\. The good news is that none of yesterday's new #Ebola cases were at Goma or at Nyiragongo, the section of Goma where 3 cases of Ebola were diagnosed at the end of July, beginning of August. It's been about a week since the 2 cases at Goma who are still living were isolated. 🤞
+
+[Tweet by L'OMS en RDC](https://twitter.com/OMSRDCONGO/status/1158783559773184003)– 8/6/19
+
+@OMSRDCONGO
+
+30 MPs of #NorthKivu met today with @OMSRDCONGO leadership in Kinshasa for a productive discussion about #Ebola in the eastern #DRC. @WHO country office is proud to partner with them through a deeper collaboration. "You can play a great role to enhance the trust in community."
