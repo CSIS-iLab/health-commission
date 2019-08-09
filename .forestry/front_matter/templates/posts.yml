@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/drc-ebola-news-8-9-19.md
 - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
 - _posts/2019-08-08-drc-ebola-news-8-8-19.md
 - _posts/2019-04-03-harnessing-multilateral-financing-for-health-security-preparedness.md

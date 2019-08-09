@@ -91,7 +91,7 @@ build:
   - JEKYLL_ENV=production
   preview_output_directory: _site
   output_directory: _site
-  instant_preview_command: npm run forestry:preview
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/build:latest
   mount_path: "/opt/buildhome/repo"
+  instant_preview_command: npm run forestry:preview
