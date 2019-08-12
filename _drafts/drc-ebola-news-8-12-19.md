@@ -1,12 +1,15 @@
 ---
-keywords: []
+keywords:
+- Ebola
 title: DRC Ebola News (8/12/19)
 content_type: news
-excerpt: ''
-date: 
+excerpt: Daily update for August 12th, 2019 on the Ebola outbreak in eastern Democratic
+  Republic of the Congo
+date: 2019-08-12 15:20:00 +0000
 authors: []
 series: ''
-themes: []
+themes:
+- _themes/high-risk-disease-outbreaks.md
 image: ''
 image_caption: ''
 image_credit: ''
