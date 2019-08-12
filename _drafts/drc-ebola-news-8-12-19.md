@@ -30,58 +30,68 @@ In a commentary published in the _Lancet Infectious Diseases_, Dr. Pierre Rollin
 
 A study from Boston Children's Hospital suggests that the anti-parasitic drug nitazoxanide, enhances the immune system's ability to detect Ebola.
 
-Recommended reading: [Tshisekedi has taken over the DRC’s Ebola response. How he can make a difference](https://theconversation.com/tshisekedi-has-taken-over-the-drcs-ebola-response-how-he-can-make-a-difference-121595)
+### Recommended reading:
 
-[DRC MoH Statistics/WHO AFRO Dashboard (as of August 11)](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c)
+[Tshisekedi has taken over the DRC’s Ebola response. How he can make a difference<i/>{:class=”icon-external-link”}](https://theconversation.com/tshisekedi-has-taken-over-the-drcs-ebola-response-how-he-can-make-a-difference-121595){:target=”_blank”}{:rel=”noopener”}
 
-**Total cases: 2,831**  
- - Confirmed cases: 2,737  
- - Probable cases: 94
+## DRC MoH Statistics/WHO AFRO Dashboard
 
-\- Suspected cases: 326
+[WHO AFRO Dashboard<i/>{:class=”icon-external-link”](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c)}{:target=”_blank”}{:rel=”noopener”}
+
+**Total cases: 2,831**
+
+* Confirmed cases: 2,737
+* Probable cases: 94
+* Suspected cases: 326
 
 **Deaths: 1,888**
 
 **Vaccinated**: **190,787**
 
-[For the first time, clinical trial results show Ebola drugs improve survival rates](https://www.statnews.com/2019/08/12/for-the-first-time-clinical-trial-results-show-ebola-drugs-improve-survival-rates/)
+## For the first time, clinical trial results show Ebola drugs improve survival rates
 
-_STAT_
+[_STAT_<i/>{:class=”icon-external-link”}](https://www.statnews.com/2019/08/12/for-the-first-time-clinical-trial-results-show-ebola-drugs-improve-survival-rates/){:target=”_blank”}{:rel=”noopener”}
 
 _By Helen Branswell, 8/12/19_
 
 The World Health Organization (WHO) and the National Institutes of Health ([NIH](https://www.nih.gov/news-events/news-releases/independent-monitoring-board-recommends-early-termination-ebola-therapeutics-trial-drc-because-favorable-results-two-four-candidates#.XVF-HKLKUuE.twitter)) announced today that two therapies made from antibodies harvested from Ebola survivors appear to be improving survival rates among people who receive them. The therapies are a cocktail of three monoclonal Ebola antibodies made by Regeneron Pharmaceuticals (REGN) and a single monoclonal antibody developed by the National Institute of Allergy and Infectious Diseases (NIAID). Regeneron’s cocktail is known as REGN-EB3; the single monoclonal antibody is known as mAb114. The NIH and WHO also announced that a data and safety monitoring board determined on August 9 that two other experimental Ebola drugs — ZMapp and Remdesivir — should be dropped from the trial. The decision was based on data collected from 499 patients. The announcement marks the first time a clinical trial has successfully shown that an Ebola therapy improves survival in people who have been infected. The new results are based on a trial that was started last November.
 
-[Mouzoko case: Doctors will not go on strike next Monday](https://crofsblogs.typepad.com/h5n1/2019/08/mouzoko-case-doctors-will-not-go-on-strike-next-monday.html)
+## Mouzoko case: Doctors will not go on strike next Monday
 
-_Topcongofm via H5N1_
+[_Topcongofm via H5N1_<i/>{:class=”icon-external-link”}](https://crofsblogs.typepad.com/h5n1/2019/08/mouzoko-case-doctors-will-not-go-on-strike-next-monday.html){:target=”_blank”}{:rel=”noopener”}
 
 _8/11/19_
 
 After a council meeting on August 10, the national council of the order of doctors say they want to give a chance to the negotiations carried out on reducing the detention conditions of their colleagues accused of being involved in the assassination of Dr. Richard Mouzoko. "We ask that \[our colleagues\] be under house arrest. We still have the weekend to continue the negotiations," Kalima Nzanu, president of the Butembo Cell of the National Council of the Medical Association told Top Congo. Only "if Monday, August 12, \[arrested doctors\] are not released on bail and the public hearing is not scheduled, we will start a strike excluding first all outpatient consultations. We will only take in-patients and those who come in emergency," he warned. About 52 people were arrested in connection with this case, including 24 suspected Mai-Mai fighters and 4 Congolese doctors. 3 of the arrested doctors are presumed sponsors and moral authors of this murder and the forth is currently on the run.
 
-[Ebola veteran warns virus could become entrenched in DRC if outbreak response does not improve](https://www.statnews.com/2019/08/09/ebola-veteran-warns-virus-could-become-entrenched-in-drc-if-outbreak-response-does-not-improve/)
+## Ebola veteran warns virus could become entrenched in DRC if outbreak response does not improve
 
-_STAT, 8/9/19_
+[_STAT_<i/>{:class=”icon-external-link”}](https://www.statnews.com/2019/08/09/ebola-veteran-warns-virus-could-become-entrenched-in-drc-if-outbreak-response-does-not-improve/){:target=”_blank”}{:rel=”noopener”}
+
+_By Helen Branswell, 8/9/19_
 
 Ebola expert Dr. Pierre Rollin, formerly of the Centers for Disease Control and Prevention (CDC), criticized the response for a lack of coordination and urged the DRC health ministry to accept more outside help to support laboratory services and generate real-time genetic sequencing of viruses. He also warned that the virus could become endemic in the region if the response is not improved. Rollin also expressed concern about how the response effort is not identifying what are known as probable cases — people who died of Ebola-like symptoms but were never tested. Another problem Rollin raised relates to nosocomial transmission of Ebola — people who are contracting the virus when they seek health care from a traditional healer, a local clinic, or a community hospital that is not set up to identify or safely treat Ebola patients.
 
-[Ebola outbreak grows by 6 in DRC](http://www.cidrap.umn.edu/news-perspective/2019/08/ebola-outbreak-grows-6-drc)
+## Ebola outbreak grows by 6 in DRC
 
-_CIDRAP, 8/9/19_
+[_CIDRAP_<i/>{:class=”icon-external-link”}](http://www.cidrap.umn.edu/news-perspective/2019/08/ebola-outbreak-grows-6-drc){:target=”_blank”}{:rel=”noopener”}
+
+_8/9/19_
 
 A [study](https://www.cell.com/iscience/fulltext/S2589-0042(19)30228-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004219302287%3Fshowall%3Dtrue#secsectitle0060) conducted in human cells and published in _iScience_ suggests that nitazoxanide enhances the immune system's ability to detect Ebola. Because nitazoxanide is already approved by the US Food and Drug Administration (FDA) for use in children and adults for other infections, it could prove to be a convenient and accessible Ebola treatment. "Currently, there is no easily deployable therapy for Ebola virus," Anne Goldfeld, MD, of the Program in Cellular and Molecular Medicine at Boston Children's said in a [press release](https://www.eurekalert.org/pub_releases/2019-08/bch-ead080819.php).
 
-**Twitter**
+## 
 
-[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1160723065891954693)– 8/11/19
+## Twitter
 
-@HelenBranswell
+### Tweet by Helen Branswell– 8/11/19
+
+[@HelenBranswell<i/>{:class=”icon-external-link”}](https://twitter.com/HelenBranswell/status/1160723065891954693){:target=”_blank”}{:rel=”noopener”}
 
 Veteran #Ebola fighter Pierre Rollin has grave concerns about the way the North Kivu-Ituri outbreak response is functioning. One concern: They aren't recording probable cases. Must be tons. Missing them obscures chains of transmission. Starkly clear here. [https://www.statnews.com/2019/08/09/ebola-veteran-warns-virus-could-become-entrenched-in-drc-if-outbreak-response-does-not-improve/](https://www.statnews.com/2019/08/09/ebola-veteran-warns-virus-could-become-entrenched-in-drc-if-outbreak-response-does-not-improve/ "https://www.statnews.com/2019/08/09/ebola-veteran-warns-virus-could-become-entrenched-in-drc-if-outbreak-response-does-not-improve/") …
 
-[Tweet by Amy Maxmen](https://twitter.com/amymaxmen/status/1159938317028216832)– 8/9/19
+### Tweet by Amy Maxmen– 8/9/19
 
-@amymaxmen
+[@amymaxmen<i/>{:class=”icon-external-link”}](){:target=”_blank”}{:rel=”noopener”}
 
 Ethical boundaries are often crossed in outbreaks with the excuse of urgency. It is always like this. There is never time. Rollins suggests that a reason why outbreak isn't under control is that DRC does sloppy lab work, w/out backing up his claims. That's a little unusual.
