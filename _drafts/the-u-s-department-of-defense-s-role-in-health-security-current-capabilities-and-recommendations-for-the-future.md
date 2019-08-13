@@ -1,5 +1,7 @@
 ---
-keywords: []
+keywords:
+- Military
+- Department of Defense
 title: 'The U.S. Department of Defense’s Role in Health Security: Current Capabilities
   and Recommendations for the Future'
 content_type: report
