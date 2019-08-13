@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/the-u-s-department-of-defense-s-role-in-health-security-current-capabilities-and-recommendations-for-the-future.md
 - _posts/2019-08-13-drc-ebola-news-8-13-19.md
 - _posts/federal-funding-for-biosafety-research-is-critically-needed.md
 - _posts/2019-08-12-drc-ebola-news-8-12-19.md
