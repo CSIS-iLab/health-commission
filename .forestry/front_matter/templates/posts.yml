@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/drc-ebola-news-8-15-19.md
 - _posts/2019-08-14-drc-ebola-news-8-14-19.md
 - _posts/the-u-s-department-of-defense-s-role-in-health-security-current-capabilities-and-recommendations-for-the-future.md
 - _posts/2019-08-13-drc-ebola-news-8-13-19.md
