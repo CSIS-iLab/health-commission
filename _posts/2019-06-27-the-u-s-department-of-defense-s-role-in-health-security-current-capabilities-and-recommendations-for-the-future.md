@@ -13,9 +13,9 @@ authors:
 - _authors/stephen-morrison.md
 series: ''
 themes: []
-image: ''
+image: 'https://res.cloudinary.com/csisideaslab/image/upload/v1537915123/health-commission/GettyImages-456932390.jpg'
 image_caption: ''
-image_credit: ''
+image_credit: 'John Moore/Getty'
 pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/190701_CullisonMorrison_DoDHealthSecurity_WEB_v2.pdf
 is_commission_related:
   description: ''
@@ -27,4 +27,4 @@ Protecting the homeland against biological threats begins with preventing those 
    
  A solid and consistent U.S. policy framework has steadily evolved over the past few decades that identifies health as a national security issue and calls for a broad-based, inclusive national response to addressing the issue of health security. Now is the time to more fully integrate DOD’s unique expertise and capabilities in a more cohesive and efficient manner. This paper provides a broad overview of DOD health security activities and capabilities and also offers select concrete recommendations for strengthening the coherence and integration of DOD activities, with a special emphasis on leadership, novel diseases and new dangerous forms of resistance, surveillance, building host country capacities, and expanded exercises.
 
-_Download full report above. This report is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
+<a href="https://csis-prod.s3.amazonaws.com/s3fs-public/publication/190701_CullisonMorrison_DoDHealthSecurity_WEB_v2.pdf" class="btn btn--gray">Read the Full Report</a>
