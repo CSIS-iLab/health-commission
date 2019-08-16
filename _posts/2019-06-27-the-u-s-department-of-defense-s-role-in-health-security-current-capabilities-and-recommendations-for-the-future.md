@@ -11,10 +11,11 @@ excerpt: The CSIS Commission on Strengthening America’s Health Security propos
 date: 2019-06-27 04:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
+- _authors/thomas-cullison.md
 series: ''
 themes: []
 image: 'https://res.cloudinary.com/csisideaslab/image/upload/v1537915123/health-commission/GettyImages-456932390.jpg'
-image_caption: ''
+image_caption: 'A health worker takes the temperature of U.S. Marines arriving to take part in Operation United Assistance on October 9, 2014 near Monrovia, Liberia.'
 image_credit: 'John Moore/Getty'
 pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/190701_CullisonMorrison_DoDHealthSecurity_WEB_v2.pdf
 is_commission_related:
