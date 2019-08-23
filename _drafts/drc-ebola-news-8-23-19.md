@@ -1,0 +1,85 @@
+---
+keywords:
+- Ebola
+title: DRC Ebola News (8/23/19)
+content_type: news
+excerpt: Daily update for August 23rd, 2019 on the Ebola outbreak in eastern Democratic
+  Republic of the Congo (DRC)
+date: 2019-08-23 16:00:00 +0000
+authors: []
+series: ''
+themes:
+- _themes/high-risk-disease-outbreaks.md
+image: ''
+image_caption: ''
+image_credit: ''
+pdf: ''
+is_commission_related:
+  description: ''
+  related_event: ''
+references: ''
+
+---
+There were **8 new cases** as of August 22nd.
+
+A fourth case has been identified in South Kivu province.
+
+Japan announced $5 million in support to assist the DRC with its Ebola response.
+
+Hundreds gathered in Goma’s march yesterday to support Ebola response teams.
+
+To combat Ebola, the International Committee of the Red Cross (ICRC) has upgraded the water distribution network in a prison in Beni.
+
+[DRC MoH Statistics/WHO AFRO Dashboard (as of August 22)](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c)
+
+**Total cases: 2,942**  
+ - Confirmed cases: 2,837  
+ - Probable cases: 105
+
+\- Suspected cases: 414
+
+**Deaths: 1,965**
+
+**Vaccinated**: **201,475**
+
+[Fourth Ebola case reported in DRC's South Kivu province](http://www.cidrap.umn.edu/news-perspective/2019/08/fourth-ebola-case-reported-drcs-south-kivu-province)
+
+_CIDRAP, 8/22/19_
+
+The WHO said the fourth South Kivu case involves the father of a child who was one of the first two cases identified recently in South Kivu province's Mwenga health zone. The first two patients were the child and mother who were exposed to the virus in Beni before they traveled about 435 miles south the South Kivu province. The third was a patient in a health facility where the first patient had initially sought care.
+
+Meanwhile, Japan’s foreign affairs ministry announced $5 million in support to assist the DRC yesterday. This comes right after the U.S. Department of Health and Human Services (HHS) announced that its Biomedical Advanced Research and Development Authority (BARDA) will provide $23 million to Merck to produce their experimental vaccine currently being used in DRC.
+
+[Hundreds gather in Goma, Congo for “Stop Ebola” march](https://www.washingtonpost.com/world/africa/hundreds-gather-in-goma-congo-for-stop-ebola-march/2019/08/22/f5cfc0e6-c4f6-11e9-8bf7-cde2d9e09055_story.html)
+
+_Washington Post, 8/22/19_
+
+_By Saleh Mwanamilongo and Al-Hadji Kudra Maliro_
+
+Yesterday’s march in Goma was successful; people rode bikes alongside police, soldiers and residents carrying banners and wearing T-shirts that said STOP. “The message is to say we must stop this disease in the province. In the same way that we are concerned about security in the province, we are also concerned about Ebola,” the governor of North Kivu said. He also promised more marches and initiatives to raise awareness in other parts of the province, including Beni and Butembo where Ebola also has spread.
+
+[Beni: ICRC puts Ebola prevention measures in Kangbwayi Central Prison](https://crofsblogs.typepad.com/h5n1/2019/08/beni-icrc-puts-ebola-prevention-measures-in-kangbwayi-central-prison.html)
+
+_Radio Okapi via H5N1, 8/23/19_
+
+ICRC has facilitated the connection of Kangbwayi Central Prison in Beni with REGIDESO's water distribution network to ensure good water supply. “In an environment where there are many people living together, it is necessary that measures of prevention be put in place to fight against Ebola and other diseases that could prevail”, a spokesperson said. Included in the redesign are devices for washing hands, temperature measurement, and an isolation room for potential Ebola cases. The prison has a capacity of 250 people, currently houses 1,100 inmates, including 40 women.
+
+**Twitter**
+
+[Tweet by Helen Branswell](https://twitter.com/HelenBranswell/status/1164915316385865732)– 8/23/19
+
+@HelenBranswell
+
+9\. @DrMikeRyan said the #Ebola response needs more help & more money. To date @WHO has received about $15.3M of a $120M ask; another $62M or so has been pledged but isn't in hand.
+
+[Tweet by WHO African Region](https://twitter.com/WHOAFRO/status/1164216597176901632)– 8/21/19
+
+@WHOAFRO
+
+Only a week since the launch of #Burundi’s targeted #Ebola vaccination programme, supported by @gavi & @WHO, almost 300 health care and frontline workers have been vaccinated. This is just 1 part of the extensive preparedness measures implemented in countries neighbouring #DRC.
+
+[Tweet by David Gressly](https://twitter.com/DavidGressly/status/1164417018226970624)– 8/21/19
+
+@DavidGressly
+
+From the early morning hours, @IOMinDRC @MinSanteRDC staff inform travelers at the Goma airport about preventive measures to avoid #Ebola. Washing our hands, getting our temperature checked and registering our name. Simple steps for better safety. #WeStandTogether #StopEbola
