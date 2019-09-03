@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/drc-ebola-news-9-3-19.md
 - _posts/drc-ebola-news-8-30-19.md
 - _posts/2019-08-29-drc-ebola-news-8-29-19.md
 - _posts/2019-08-27-drc-ebola-news-8-27-19.md
