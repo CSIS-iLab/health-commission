@@ -10,6 +10,7 @@ excerpt: The CSIS Commission on Strengthening America’s Health Security examin
 date: 2019-09-06 04:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
+- _authors/judyth-twigg.md
 series: _series/health-security-dimensions-of-geopolitical-crises.md
 themes:
 - _themes/global-disorder.md
