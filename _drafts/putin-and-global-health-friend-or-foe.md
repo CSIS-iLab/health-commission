@@ -21,7 +21,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1567710294/health-c
 image_caption: Russian President Vladimir Putin delivers a speech at the World Health
   Organisation (WHO) global ministerial conference on ending the tuberculosis epidemic,
   Moscow, November 16, 2017.
-image_credit: IVAN SEKRETAREV/AFP/Getty Images
+image_credit: Ivan Sekretarev/AFP/Getty Images
 pdf: ''
 is_commission_related:
   description: ''
