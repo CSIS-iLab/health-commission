@@ -1,6 +1,9 @@
 ---
 keywords:
+- Russia
 - Tuberculosis
+- HIV/AIDS
+- Drug Resistance
 title: 'Putin and Global Health: Friend or Foe?'
 content_type: commentary
 excerpt: The CSIS Commission on Strengthening America’s Health Security examines Russian
