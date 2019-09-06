@@ -58,13 +58,13 @@ The WHO European Office for the Prevention and Control of NCDs opened in Moscow 
 
 _Figure 2_\[^5\]
 
-![WHO, "UN Interagency Task Force on NCDs (UNIATF): Country Missions."](https://res.cloudinary.com/csisideaslab/image/upload/v1567799872/health-commission/HSC_Russia_Brief_Figure_2_npl2j6.png "Global Reach of Russian Supported UN Interagency Task Force on NCDs")
+![WHO](https://res.cloudinary.com/csisideaslab/image/upload/v1567799872/health-commission/HSC_Russia_Brief_Figure_2_npl2j6.png "Global Reach of Russian Supported UN Interagency Task Force on NCDs")
 
 Over the last 10 years, TB incidence within Russia has dropped by over 40 percent, and the mortality rate by over 60 percent.\[^6\] This success rests, in part, on concerted international support from the Global Fund to Fight AIDS, Tuberculosis and Malaria, World Bank, WHO, and key non-governmental players like Partners in Health. Even more so, it is attributable to skillful political leadership from the Russian Ministry of Health and the former Russia TB program head, now leading WHO’s Global TB Program, Tereza Kasaeva. At the Russia-hosted November 2017 Global Ministerial Conference for Ending TB, which concluded with the Moscow Declaration to End TB, Putin again lent his voice to global health by pledging $15 million through 2020 for Russia-WHO cooperation in the global TB fight. Russia is the only country on WHO’s list of top-20 high-burden countries that completely funds its own TB response, giving it a unique claim to global leadership. While Kasaeva’s 2017 WHO appointment generated questions over the transparency of the selection process and whether it validates Russia’s otherwise poor record on health, she has since gained considerable respect on the job, particularly in terms of advocacy, political mobilization, and work with civil society and the media.
 
 _Figure 3_\[^7\]
 
-![WHO, "Global Tuberculosis Database"](https://res.cloudinary.com/csisideaslab/image/upload/v1567799977/health-commission/HSC_Russia_Brief_Figure_3_uvokhq.png "Drug Susceptible TB Incidence and Mortality in Russia")
+![WHO](https://res.cloudinary.com/csisideaslab/image/upload/v1567799977/health-commission/HSC_Russia_Brief_Figure_3_uvokhq.png "Drug Susceptible TB Incidence and Mortality in Russia")
 
 Russia’s international activism on NCDs and TB sends a deliberate, unmistakable message: _Respect us. We are now a valued convening power for high-level dialogues on global health priorities. Stop sending experts and consultants to tell us what to do, as if we were a developing country. We have important, compelling experience and expertise at home that can be rightly showcased as a model for others. We are less hamstrung by the commercial interests in the pharmaceutical, food, beverage, and tobacco industries that stymie progress in the West on the NCD agenda. We are claiming our rightful place on the global health stage._
 
@@ -78,7 +78,7 @@ Despite its impressive recent progress on drug susceptible TB control, social, i
 
 _Figure 4\[^11\]_
 
-![Russian Federal Center for Tuberculosis Control, "Tuberculosis Indicators in the Russian Federation"](https://res.cloudinary.com/csisideaslab/image/upload/v1567800160/health-commission/HSC_Russia_Brief_Figure_4_jlv6vr.png "MDR-TB Prevalence in Russia")
+![Russian Federal Center for Tuberculosis Control](https://res.cloudinary.com/csisideaslab/image/upload/v1567800160/health-commission/HSC_Russia_Brief_Figure_4_jlv6vr.png "MDR-TB Prevalence in Russia")
 
 ### HIV/AIDS
 
@@ -86,7 +86,7 @@ For much of the last decade, Russia has been one of the few places in the world 
 
 _Figure 5\[^14\]_
 
-![Russian Federal AIDS Center, "Help HIV in the Russian Federation in 2017."](https://res.cloudinary.com/csisideaslab/image/upload/v1567800274/health-commission/HSC_Russia_Brief_Figure_5_gxtykb.png "Newly Diagnosed HIV Infections in Russia")
+![Russian Federal AIDS Center](https://res.cloudinary.com/csisideaslab/image/upload/v1567800274/health-commission/HSC_Russia_Brief_Figure_5_gxtykb.png "Newly Diagnosed HIV Infections in Russia")
 
 The potential internal consequences are severe: almost 80 percent of Russia’s HIV cases are in just 20 of its 85 regions, and those 20 are its most populous and industrially developed, representing about three-quarters of the country’s economy.\[^15\] Visibility into the true HIV situation is gravely limited. Screening covers only about 20 percent of the population each year, while key populations—people who inject drugs, sex workers, men who have sex with men (MSM)—are not reached at even that modest level.\[^16\] And testing frequently occurs far too late. In 2014, about 40 percent of people newly diagnosed had CD4 (white blood cell) counts below 350—a signal of severe, undertreated HIV illness.\[^17\]
 
@@ -136,15 +136,7 @@ Pursuit of this upgraded health security alliance is not risk-free. Russia may i
 
 The potential rewards—including improved health outcomes—are worth the effort. The time is ripe for the United States to align its global health security priorities with Eastern Europe and Central Asia. The United States, through USAID and other agencies, has already invested considerable taxpayer resources on health priorities in these regions. Ceding this space now to Russia or other players imperils those achievements. Countries in these regions are at risk of becoming a major new global front in the HIV and TB epidemics. They are under intense pressure from Russia and open to expanded partnership with the United States. These governments seek to upgrade their public health systems, embrace evidence-based WHO guidelines, and demonstrate their autonomy and independence. What they require now is a signal of serious U.S. intent: to support their efforts to win public health independence and increased capacity, acknowledging and absorbing the best of what Russia has to offer, but armed with the tools to rebuff the malign elements of Russian interference and deliberate destabilization.
 
-\[^1\]: Global Burden of Disease 2016 Russia Collaborators, “The Burden of Disease from 1980 to 2016: A Systematic Analysis for
-
-the Global Burden of Disease Study 2016,” The Lancet 392 (September 2018); A. Kontsevaya et al.,“How Has the Management
-
-of Acute Coronary Syndrome Changed in the Russian Federation during the Last Ten Years?” Health Policy 121, no. 12
-
-(2017): 1274-1279.
-
-  
+\[^1\]: Global Burden of Disease 2016 Russia Collaborators, “The Burden of Disease from 1980 to 2016: A Systematic Analysis for the Global Burden of Disease Study 2016,” The Lancet 392 (September 2018); A. Kontsevaya et al.,“How Has the Management of Acute Coronary Syndrome Changed in the Russian Federation during the Last Ten Years?” Health Policy 121, no. 12 (2017): 1274-1279.  
 \[^2\]: “UN Interagency Task Force on NCDs (UNIATF) : Meetings and Events,” World Health Organization, 2019,[https://www.who.int/ncds/un-task-force/en/.](https://www.who.int/ncds/un-task-force/en/. "https://www.who.int/ncds/un-task-force/en/.")  
 \[^3\]: “Global TB Programme,” World Health Organization, 2019, [https://www.who.int/tb/en/.](https://www.who.int/tb/en/. "https://www.who.int/tb/en/.")  
 \[^4\]: “WHO Independent High-level Commission on NCDs,” World Health Organization, 2019,[https://www.who.int/ncds/governance/high-level-commission/en/.](https://www.who.int/ncds/governance/high-level-commission/en/. "https://www.who.int/ncds/governance/high-level-commission/en/.")  
