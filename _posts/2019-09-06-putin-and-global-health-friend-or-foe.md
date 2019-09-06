@@ -136,28 +136,76 @@ Pursuit of this upgraded health security alliance is not risk-free. Russia may i
 
 The potential rewards—including improved health outcomes—are worth the effort. The time is ripe for the United States to align its global health security priorities with Eastern Europe and Central Asia. The United States, through USAID and other agencies, has already invested considerable taxpayer resources on health priorities in these regions. Ceding this space now to Russia or other players imperils those achievements. Countries in these regions are at risk of becoming a major new global front in the HIV and TB epidemics. They are under intense pressure from Russia and open to expanded partnership with the United States. These governments seek to upgrade their public health systems, embrace evidence-based WHO guidelines, and demonstrate their autonomy and independence. What they require now is a signal of serious U.S. intent: to support their efforts to win public health independence and increased capacity, acknowledging and absorbing the best of what Russia has to offer, but armed with the tools to rebuff the malign elements of Russian interference and deliberate destabilization.
 
-\[^1\]: Global Burden of Disease 2016 Russia Collaborators, “The Burden of Disease from 1980 to 2016: A Systematic Analysis for the Global Burden of Disease Study 2016,” The Lancet 392 (September 2018); A. Kontsevaya et al.,“How Has the Management of Acute Coronary Syndrome Changed in the Russian Federation during the Last Ten Years?” Health Policy 121, no. 12 (2017): 1274-1279.  
-\[^2\]: “UN Interagency Task Force on NCDs (UNIATF) : Meetings and Events,” World Health Organization, 2019,[https://www.who.int/ncds/un-task-force/en/.](https://www.who.int/ncds/un-task-force/en/. "https://www.who.int/ncds/un-task-force/en/.")  
-\[^3\]: “Global TB Programme,” World Health Organization, 2019, [https://www.who.int/tb/en/.](https://www.who.int/tb/en/. "https://www.who.int/tb/en/.")  
-\[^4\]: “WHO Independent High-level Commission on NCDs,” World Health Organization, 2019,[https://www.who.int/ncds/governance/high-level-commission/en/.](https://www.who.int/ncds/governance/high-level-commission/en/. "https://www.who.int/ncds/governance/high-level-commission/en/.")  
-\[^5\]: “UN Interagency Task Force on NCDs (UNIATF): Country Missions,” World Health Organization, 2019,[https://www.who.int/ncds/un-task-force/en/.](https://www.who.int/ncds/un-task-force/en/. "https://www.who.int/ncds/un-task-force/en/.")  
-\[^6\]: “Tuberculosis Surveillance and Monitoring in Europe: The Russian Federation,” World Health Organization, 2016,[http://www.euro.who.int/__data/assets/pdf_file/0018/310806/TB-surveillance-report-2016-The-Russian-Federation.pdf.](http://www.euro.who.int/__data/assets/pdf_file/0018/310806/TB-surveillance-report-2016-The-Russian-Federation.pdf. "http://www.euro.who.int/__data/assets/pdf_file/0018/310806/TB-surveillance-report-2016-The-Russian-Federation.pdf.")  
-\[^7\]: “Global Tuberculosis Database,” World Health Organization, 2019, [https://www.who.int/tb/data/en/.](https://www.who.int/tb/data/en/. "https://www.who.int/tb/data/en/.")  
-\[^8\]: Jon Cohen, “Drug-Resistant Tuberculosis Strains Gain Foothold in Russia,” Science Magazine, May 19, 2017,[http://www.sciencemag.org/news/2017/05/drug-resistant-tuberculosis-strains-gain-foothold-russia.](http://www.sciencemag.org/news/2017/05/drug-resistant-tuberculosis-strains-gain-foothold-russia. "http://www.sciencemag.org/news/2017/05/drug-resistant-tuberculosis-strains-gain-foothold-russia.")  
-\[^9\]: A. Odone et al., “People and Patient-Centered Care for Tuberculosis: Models of Care for Tuberculosis,” InternationalJournal of Tuberculosis and Lung Disease 22, no. 2 (February 2018): 133-138.  
-\[^10\]: Economist Intelligence Unit, It’s Time To End Drug-Resistant Tuberculosis: The Case for Action (London: 2019),[https://www.eiu.com/graphics/marketing/pdf/its-time-to-end-drug-resistant-tuberculosis-full-report.pdf.](https://www.eiu.com/graphics/marketing/pdf/its-time-to-end-drug-resistant-tuberculosis-full-report.pdf. "https://www.eiu.com/graphics/marketing/pdf/its-time-to-end-drug-resistant-tuberculosis-full-report.pdf.")  
-\[^11\]: “Tuberculosis Indicators in the Russian Federation,” 2019, Federal Center for Tuberculosis Control,[http://old.mednet.ru/ru/czentr-monitoringa-tuberkuleza.html](http://old.mednet.ru/ru/czentr-monitoringa-tuberkuleza.html "http://old.mednet.ru/ru/czentr-monitoringa-tuberkuleza.html")  
-\[^12\]: Robert Heimer, “The Policy-Driven HIV Epidemic among Opioid Users in the Russian Federation,” Current HIV/AIDS Reports15, no. 3 (June 2018): 259-265.  
-\[^13\]: UNAIDS, Communities at the Centre (Geneva: July 2016), 8,[https://www.unaids.org/en/resources/documents/2019/2019-global-AIDS-update.](https://www.unaids.org/en/resources/documents/2019/2019-global-AIDS-update. "https://www.unaids.org/en/resources/documents/2019/2019-global-AIDS-update.")  
-\[^14\]: “Справка ВИЧ-инфекция в Российской Федерации в 2017 г’” (“Help HIV in the Russian Federation in 2017”), 2017, RussianFederal AIDS Center, [http://aids-centr.perm.ru/images/4/hiv_in_russia/hiv_in_rf_31.12.2017.pdf.](http://aids-centr.perm.ru/images/4/hiv_in_russia/hiv_in_rf_31.12.2017.pdf. "http://aids-centr.perm.ru/images/4/hiv_in_russia/hiv_in_rf_31.12.2017.pdf.")  
-\[^15\]: Alex Gatenby and Roland Oliphant, “Viral Tide: How Russia Became the New Front Line in the War on HIV/AIDS,” The Telegraph, December 1, 2018,[https://www.telegraph.co.uk/global-health/science-and-disease/viral-tide-russia-became-new-frontline-war-hivaids/.](https://www.telegraph.co.uk/global-health/science-and-disease/viral-tide-russia-became-new-frontline-war-hivaids/. "https://www.telegraph.co.uk/global-health/science-and-disease/viral-tide-russia-became-new-frontline-war-hivaids/.")  
-\[^16\]: Judyth Twigg, “Russia’s Avoidable Epidemic of HIV/AIDS,” PONARS Eurasia, PONARS Policy Memo 581, March 2019, [http://www.ponarseurasia.org/memo/russias-avoidable-epidemic-hivaids.](http://www.ponarseurasia.org/memo/russias-avoidable-epidemic-hivaids. "http://www.ponarseurasia.org/memo/russias-avoidable-epidemic-hivaids.")  
-\[^17\]: “HIV/AIDS in Russia,” AVERT, [https://www.avert.org/professionals/hiv-around-world/eastern-europe-central-asia/russia.](https://www.avert.org/professionals/hiv-around-world/eastern-europe-central-asia/russia. "https://www.avert.org/professionals/hiv-around-world/eastern-europe-central-asia/russia.")  
-\[^18\]: “Russian Federation Commits To Reach 75% Antiretroviral Therapy Coverage in 2019,” UNAIDS, September 12, 2018, [https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90.](https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90. "https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90.")  
-\[^19\]: Jon Cohen, “Russia’s HIV/AIDS Epidemic is Getting Worse, Not Better,” Science Magazine, June 11, 2018, [https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better.](https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better. "https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better.")  
-\[^20\]: “Russian Federation Commits To Reach 75% Antiretroviral Therapy Coverage in 2019,” UNAIDS, September 12, 2018, [https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90.](https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90. "https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90.")  
-\[^21\]: Jon Cohen, “Russia’s HIV/AIDS Epidemic is Getting Worse, Not Better,” Science Magazine, June 11, 2018, [https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better.](https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better. "https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better.")  
-\[^22\]: “Why USAID is Leaving Russia,” Carnegie Endowment for International Peace, September 20, 2012, [https://carnegieendowment.org/2012/09/20/why-usaid-is-leaving-russia-pub-49444.](https://carnegieendowment.org/2012/09/20/why-usaid-is-leaving-russia-pub-49444. "https://carnegieendowment.org/2012/09/20/why-usaid-is-leaving-russia-pub-49444.")  
-\[^23\]: Madeline Roache, “Russia’s Methadone Ban Is Fueling An HIV Epidemic in Crimea,” Moscow Times, November 11, 2017, [https://www.themoscowtimes.com/2017/11/11/russias-methadone-ban-is-fueling-a-hiv-a59488.](https://www.themoscowtimes.com/2017/11/11/russias-methadone-ban-is-fueling-a-hiv-a59488. "https://www.themoscowtimes.com/2017/11/11/russias-methadone-ban-is-fueling-a-hiv-a59488.")  
-\[^24\]: Government of Russia, “National Security Concept of the Russian Federation,” Presidential Decree No. 1300, December 17, 1999, [https://fas.org/nuke/guide/russia/doctrine/gazeta012400.htm.](https://fas.org/nuke/guide/russia/doctrine/gazeta012400.htm. "https://fas.org/nuke/guide/russia/doctrine/gazeta012400.htm.")  
-\[^25\]: See the National Institutes of Health Fogarty International Center’s database of global biomedical researchcollaborations: [https://worldreport.nih.gov.](https://worldreport.nih.gov. "https://worldreport.nih.gov.")
+\[^1\]: Global Burden of Disease 2016 Russia Collaborators, “The Burden of Disease from 1980 to 2016: A Systematic Analysis for the Global Burden of Disease Study 2016,” The Lancet 392 (September 2018); A. Kontsevaya et al.,“How Has the Management of Acute Coronary Syndrome Changed in the Russian Federation during the Last Ten Years?” Health Policy 121, no. 12 (2017): 1274-1279.
+
+  
+\[^2\]: “UN Interagency Task Force on NCDs (UNIATF) : Meetings and Events,” World Health Organization, 2019, [https://www.who.int/ncds/un-task-force/en/](https://www.who.int/ncds/un-task-force/en/. "https://www.who.int/ncds/un-task-force/en/.")
+
+  
+\[^3\]: “Global TB Programme,” World Health Organization, 2019, [https://www.who.int/tb/en/](https://www.who.int/tb/en/. "https://www.who.int/tb/en/.")
+
+  
+\[^4\]: “WHO Independent High-level Commission on NCDs,” World Health Organization, 2019, [https://www.who.int/ncds/governance/high-level-commission/en/](https://www.who.int/ncds/governance/high-level-commission/en/. "https://www.who.int/ncds/governance/high-level-commission/en/.")
+
+  
+\[^5\]: “UN Interagency Task Force on NCDs (UNIATF): Country Missions,” World Health Organization, 2019, [https://www.who.int/ncds/un-task-force/en/](https://www.who.int/ncds/un-task-force/en/. "https://www.who.int/ncds/un-task-force/en/.")
+
+  
+\[^6\]: “Tuberculosis Surveillance and Monitoring in Europe: The Russian Federation,” World Health Organization, 2016, [http://www.euro.who.int/__data/assets/pdf_file/0018/310806/TB-surveillance-report-2016-The-Russian-Federation.pdf](http://www.euro.who.int/__data/assets/pdf_file/0018/310806/TB-surveillance-report-2016-The-Russian-Federation.pdf. "http://www.euro.who.int/__data/assets/pdf_file/0018/310806/TB-surveillance-report-2016-The-Russian-Federation.pdf.")
+
+  
+\[^7\]: “Global Tuberculosis Database,” World Health Organization, 2019, [https://www.who.int/tb/data/en/](https://www.who.int/tb/data/en/. "https://www.who.int/tb/data/en/.")
+
+  
+\[^8\]: Jon Cohen, “Drug-Resistant Tuberculosis Strains Gain Foothold in Russia,” Science Magazine, May 19, 2017, [http://www.sciencemag.org/news/2017/05/drug-resistant-tuberculosis-strains-gain-foothold-russia](http://www.sciencemag.org/news/2017/05/drug-resistant-tuberculosis-strains-gain-foothold-russia. "http://www.sciencemag.org/news/2017/05/drug-resistant-tuberculosis-strains-gain-foothold-russia.")
+
+  
+\[^9\]: A. Odone et al., “People and Patient-Centered Care for Tuberculosis: Models of Care for Tuberculosis,” InternationalJournal of Tuberculosis and Lung Disease 22, no. 2 (February 2018): 133-138.
+
+  
+\[^10\]: Economist Intelligence Unit, It’s Time To End Drug-Resistant Tuberculosis: The Case for Action (London: 2019), [https://www.eiu.com/graphics/marketing/pdf/its-time-to-end-drug-resistant-tuberculosis-full-report.pdf](https://www.eiu.com/graphics/marketing/pdf/its-time-to-end-drug-resistant-tuberculosis-full-report.pdf. "https://www.eiu.com/graphics/marketing/pdf/its-time-to-end-drug-resistant-tuberculosis-full-report.pdf.")
+
+  
+\[^11\]: “Tuberculosis Indicators in the Russian Federation,” 2019, Federal Center for Tuberculosis Control, [http://old.mednet.ru/ru/czentr-monitoringa-tuberkuleza.html](http://old.mednet.ru/ru/czentr-monitoringa-tuberkuleza.html "http://old.mednet.ru/ru/czentr-monitoringa-tuberkuleza.html")
+
+  
+\[^12\]: Robert Heimer, “The Policy-Driven HIV Epidemic among Opioid Users in the Russian Federation,” Current HIV/AIDS Reports15, no. 3 (June 2018): 259-265.
+
+  
+\[^13\]: UNAIDS, Communities at the Centre (Geneva: July 2016), 8, [https://www.unaids.org/en/resources/documents/2019/2019-global-AIDS-update](https://www.unaids.org/en/resources/documents/2019/2019-global-AIDS-update. "https://www.unaids.org/en/resources/documents/2019/2019-global-AIDS-update.")
+
+  
+\[^14\]: “Справка ВИЧ-инфекция в Российской Федерации в 2017 г’” (“Help HIV in the Russian Federation in 2017”), 2017, RussianFederal AIDS Center, [http://aids-centr.perm.ru/images/4/hiv_in_russia/hiv_in_rf_31.12.2017.pdf](http://aids-centr.perm.ru/images/4/hiv_in_russia/hiv_in_rf_31.12.2017.pdf. "http://aids-centr.perm.ru/images/4/hiv_in_russia/hiv_in_rf_31.12.2017.pdf.")
+
+  
+\[^15\]: Alex Gatenby and Roland Oliphant, “Viral Tide: How Russia Became the New Front Line in the War on HIV/AIDS,” The Telegraph, December 1, 2018, [https://www.telegraph.co.uk/global-health/science-and-disease/viral-tide-russia-became-new-frontline-war-hivaids/](https://www.telegraph.co.uk/global-health/science-and-disease/viral-tide-russia-became-new-frontline-war-hivaids/. "https://www.telegraph.co.uk/global-health/science-and-disease/viral-tide-russia-became-new-frontline-war-hivaids/.")
+
+  
+\[^16\]: Judyth Twigg, “Russia’s Avoidable Epidemic of HIV/AIDS,” PONARS Eurasia, PONARS Policy Memo 581, March 2019, [http://www.ponarseurasia.org/memo/russias-avoidable-epidemic-hivaids](http://www.ponarseurasia.org/memo/russias-avoidable-epidemic-hivaids. "http://www.ponarseurasia.org/memo/russias-avoidable-epidemic-hivaids.")
+
+  
+\[^17\]: “HIV/AIDS in Russia,” AVERT, [https://www.avert.org/professionals/hiv-around-world/eastern-europe-central-asia/russia](https://www.avert.org/professionals/hiv-around-world/eastern-europe-central-asia/russia. "https://www.avert.org/professionals/hiv-around-world/eastern-europe-central-asia/russia.")
+
+  
+\[^18\]: “Russian Federation Commits To Reach 75% Antiretroviral Therapy Coverage in 2019,” UNAIDS, September 12, 2018, [https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90](https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90. "https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90.")
+
+  
+\[^19\]: Jon Cohen, “Russia’s HIV/AIDS Epidemic is Getting Worse, Not Better,” Science Magazine, June 11, 2018, [https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better](https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better. "https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better.")
+
+  
+\[^20\]: “Russian Federation Commits To Reach 75% Antiretroviral Therapy Coverage in 2019,” UNAIDS, September 12, 2018, [https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90](https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90. "https://www.unaids.org/en/resources/presscentre/featurestories/2018/september/russian-minister-health-90-90-90.")
+
+  
+\[^21\]: Jon Cohen, “Russia’s HIV/AIDS Epidemic is Getting Worse, Not Better,” Science Magazine, June 11, 2018, [https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better](https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better. "https://www.sciencemag.org/news/2018/06/russia-s-hivaids-epidemic-getting-worse-not-better.")
+
+  
+\[^22\]: “Why USAID is Leaving Russia,” Carnegie Endowment for International Peace, September 20, 2012, [https://carnegieendowment.org/2012/09/20/why-usaid-is-leaving-russia-pub-49444](https://carnegieendowment.org/2012/09/20/why-usaid-is-leaving-russia-pub-49444. "https://carnegieendowment.org/2012/09/20/why-usaid-is-leaving-russia-pub-49444.")
+
+  
+\[^23\]: Madeline Roache, “Russia’s Methadone Ban Is Fueling An HIV Epidemic in Crimea,” Moscow Times, November 11, 2017, [https://www.themoscowtimes.com/2017/11/11/russias-methadone-ban-is-fueling-a-hiv-a59488](https://www.themoscowtimes.com/2017/11/11/russias-methadone-ban-is-fueling-a-hiv-a59488. "https://www.themoscowtimes.com/2017/11/11/russias-methadone-ban-is-fueling-a-hiv-a59488.")
+
+  
+\[^24\]: Government of Russia, “National Security Concept of the Russian Federation,” Presidential Decree No. 1300, December 17, 1999, [https://fas.org/nuke/guide/russia/doctrine/gazeta012400.htm](https://fas.org/nuke/guide/russia/doctrine/gazeta012400.htm. "https://fas.org/nuke/guide/russia/doctrine/gazeta012400.htm.")
+
+  
+\[^25\]: See the National Institutes of Health Fogarty International Center’s database of global biomedical researchcollaborations: [https://worldreport.nih.gov](https://worldreport.nih.gov. "https://worldreport.nih.gov.")
