@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/drc-ebola-news-9-10-19.md
 - _posts/drc-ebola-news-9-9-19.md
 - _posts/2019-09-06-putin-and-global-health-friend-or-foe.md
 - _posts/2019-09-06-drc-ebola-news-9-6-19.md
