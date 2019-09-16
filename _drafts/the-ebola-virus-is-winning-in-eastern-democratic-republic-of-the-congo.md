@@ -33,7 +33,7 @@ More than one year has now passed, and though the virus fortunately is not a run
 
 As the enterprise enlarges, it is becoming much pricier. The issuance of a new six-month [strategic response plan ](https://www.who.int/emergencies/diseases/ebola/drc-2019/funding)from the DRC Ministry of Public Health, in partnership with the WHO and other UN partners, has been seriously delayed and is [expected to call ](https://www.worldbank.org/en/news/press-release/2019/07/24/world-bank-mobilizes-us300-million-to-finance-the-ebola-response-in-democratic-republic-of-congo)for $600 million, more than double the cost of the previous six-month plan. Finding those resources will not be easy. For the first time since the discovery of the virus, there is the real possibility that Ebola in eastern DRC may become endemic, circulating indefinitely within the population. That raises the specter of multiple, concurrent Ebola outbreaks in the future.
 
-### **How to Explain This Ominous, Unprecedented Outcome?**
+## **How to Explain This Ominous, Unprecedented Outcome?**
 
 Failure up to now, paradoxically, comes against a backdrop of courage and achievements. More than 1,400 health and humanitarian workers have been mobilized, along with thousands of others who enlisted to provide support in various ways. The WHO for its part has brought to the fight much improved capacities and strong leadership under Director-General Dr. Tedros Adhanom Ghebreyesus joined by DRC experts with the longest history and experience of any government in battling Ebola. The World Bank stepped forward to finance 60 percent of the first year’s costs and has [pledged $300 million ](https://www.worldbank.org/en/news/press-release/2019/07/24/world-bank-mobilizes-us300-million-to-finance-the-ebola-response-in-democratic-republic-of-congo)towards the new strategic response plan, 50 percent of the estimated costs of the total plan—a fortuitous boost given the otherwise wan commitments of most major donors. Over 215,000 persons have been vaccinated, a major technological advance borne of the 2014-2016 West Africa Ebola crisis, which has helped keep a “slow burn” from becoming a full-blown, runaway catastrophe. Clinical field trials of four experimental therapies moved forward, remarkable considering the turbulent environment, leading to the announcement in August that preliminary data showed that participants receiving two of the therapeutics early after infection had a significant chance of survival (approximately 90 percent). Those two therapeutics will continue to be offered under a compassionate use basis.
 
@@ -47,7 +47,7 @@ Recurrent attacks stop the international response in its tracks and trigger [spi
 
 This systemic chaos has evolved hand-in-hand with deep-seated community resistance, built on a long history of violent abuse and marginality. These communities reside in an environment rife with paranoia, conspiracy theories, and disinformation, aided and abetted by social media and local political opportunists.
 
-### **The Price of Insecurity and Chaos**
+## **The Price of Insecurity and Chaos**
 
 Eastern DRC’s insecurity barriers—attacks on health workers, armed group violence, and ongoing community resistance—thwart those essential public health functions that need to happen early and quickly if there is to be any chance of containing and arresting an outbreak. They stand in the way of the quick identification of Ebola cases and subsequent, swift isolation and entry into treatment; rigorous contact tracing; the establishment of a unified data system that integrates response activities, including vaccination and laboratory results; the strengthening of basic infection control inside health facilities; and safe and dignified burials.
 
@@ -55,13 +55,13 @@ In the absence of full and effective implementation of these essential measures,
 
 Yet insecurity and chaos in eastern DRC are not the sole explanation of what has transpired. These barriers do not operate in a vacuum and are not immutable. Four forces in particular—DRC’s maladministration, the void in major power engagement, DRC’s saturated infectious disease environment and ongoing humanitarian crisis, and weak management of the response—impose barriers in their own rights that compound the impacts imposed by insecurity and chaos. Their deep impact has often not been anticipated or well understood. Each in its own way has fed delays and diverted attention from the central job at hand: how to confront head-on—and circumnavigate—the chaos and disorder in eastern DRC.
 
-### **DRC’s Long Broken Governance**
+## **DRC’s Long Broken Governance**
 
 The DRC’s perverse governance stands conspicuously apart. Under the DRC’s crisis-prone, fractured, repressive form of governance, what happens in the distant, remote east has been and remains a residual concern. Where and when Kinshasa has become engaged, it has made things worse, not better.
 
 Paradoxically, when a flawed democratic renewal of sorts accelerated in the DRC in 2018 after several years of protracted negotiations, it only worsened conditions for those public health officials clamoring for attention to the Ebola emergency unfolding in the east. Over the course of its first year, the Ebola outbreak took a back seat to the DRC’s bumpy and ultimately fraudulent electoral transition to a post-Joseph Kabila order. In this critical period, high-level Congolese leadership on Ebola was conspicuously absent, otherwise preoccupied with who was going to be next in power. (That uncertainty and danger reached far and wide. U.S. embassy personnel were under forced departure orders from December 17, 2018 to late January 2019.) In retrospect, the DRC government’s fateful decision to suspend elections in the Ebola hot zones—opposition strongholds—in early 2019 lit up community resistance, fueling preexisting suspicion that Ebola was nothing more than a new moment of external exploitation and abuse. It was only in July 2019, six months after being installed as the head of state and long after the ignition of the Ebola outbreak, that newly installed President Felix Tshisekedi confronted the deep divisions within his own government over control of the Ebola response and [placed his own team ](https://www.nytimes.com/2019/07/26/health/ebola-africa.html)at the helm.
 
-### **A Vacuum in Major Power Interest**
+## **A Vacuum in Major Power Interest**
 
 The absence of high-level international leadership also stands out starkly. For the leaders in Washington and London presiding over their own turbulent tenures, Ebola in the DRC has been a distant, low-priority threat to be managed largely by others at the public health and humanitarian levels.
 
@@ -71,7 +71,7 @@ To date, there has been no credible call to action by the world’s powers to ta
 
 The UN Security Council did pass a resolution in October 2018 following repeated ADF attacks on providers. An eloquent plea for action, it was nonetheless toothless, laid out no concrete path for action, and stirred little follow-up. Important behind-the-scenes steps to better deploy UN peacekeepers against the ADF and to secure health facilities achieved some modest but largely temporary gains. The first week of September 2019, UN Secretary-General Guterres [travelled to eastern DRC ](https://news.un.org/en/story/2019/08/1045362)with WHO Director-General Dr. Tedros and head of UN peacekeeping Jean-Pierre Lacroix. U.S. Secretary of Health and Human Services Alex Azar and other high-level U.S. government officials are [set to visit the DRC ](https://www.statnews.com/2019/09/10/azar-other-top-trump-officials-to-travel-to-drc-to-assess-ebola-crisis/)in mid-September. It remains to be seen whether these long overdue visits will change the thinking of the major powers about what is truly needed to tackle the security barriers and chaos of eastern DRC.
 
-### **DRC’s Curious, Saturated “Microbial Sky”**
+## **DRC’s Curious, Saturated “Microbial Sky”**
 
 The outbreak is occurring in an area where the risk of cross-border and international spread is extremely high. Eastern DRC borders Rwanda, the most densely populated country in Africa; Uganda, which has already experienced a handful of cross-border cases successfully contained; and South Sudan, another active warzone lacking a functioning health system.
 
@@ -79,11 +79,11 @@ Yet the steadily expanding Ebola outbreak has not been exported cross-border in 
 
 Ebola also competes with other pressing health security demands. Ebola arrived in 2018 as other outbreaks unfolded in the east and across the vast reach of the DRC—malaria, diphtheria, cholera, and diarrhea. At the same time, the DRC’s longstanding, chronic humanitarian emergency has left over 12 million in need of humanitarian assistance.
 
-### **Management Holes**
+## **Management Holes**
 
 A final critical barrier to success is weak management, implementation, and supervision of the response effort. There are poor lines of communication among the many players involved in the response. Public health data is housed in distinct databases, not shared with those who need it and not integrated to provide an overall picture. Standardization of and visibility into the response structure, protocols, and training are sorely lacking. International donors are increasingly frustrated with the lack of transparency. The coordination and communication fundamental to a unified and effective public health response are not yet in place.
 
-### **Where Does This Leave Things?**
+## **Where Does This Leave Things?**
 
 The answer: far behind and in danger of further regression. The virus is winning and may continue to win. In the judgment of CDC experts, eastern DRC remains a long distance from the critical milestones that would signal transmission is being stopped and the outbreak ended. That sobering sentiment hung over the WHO declaration of a global health emergency on July 17, 2019, which reversed three previous emergency committee determinations that there was no emergency. Previous hesitation reflected pressure from Kinshasa and neighboring capitals in Rwanda and Uganda, fearing disruptions of trade, transport, investment, and sovereign control. Awareness of mounting risks clearly informed the visits by several senior U.S. officials to the outbreak hot spots in the spring, their purpose to think through a “reset” in both U.S. approaches and broader multilateral strategies.
 
