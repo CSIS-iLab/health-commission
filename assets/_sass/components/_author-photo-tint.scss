@@ -5,6 +5,7 @@
   padding: none;
   position: relative;
   z-index: 5;
+  flex: 0 0 auto;
 
   .authors-block & {
     width: $size-author-image-block;
