@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/drc-ebola-news-9-19-19.md
 - _posts/2019-09-18-drc-ebola-news-9-18-19.md
 - _posts/drc-ebola-news-9-17-19.md
 - _posts/2019-09-12-the-ebola-virus-is-winning-in-eastern-democratic-republic-of-the-congo.md
