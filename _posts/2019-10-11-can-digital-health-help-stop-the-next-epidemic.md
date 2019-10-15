@@ -112,8 +112,6 @@ Harnessing the capabilities of digital technologies, big data, machine learning,
 
 More timely and accurate collection and sharing of high-quality data at all levels, through enhanced surveillance and laboratory tools, could help rapidly detect cases before outbreaks become epidemics. Interoperability, designed and implemented effectively, could increase the speed and accuracy of confirming suspected cases. Harnessing mobile technology to enable faster collection and sharing of data accelerates early detection even at the front line. Easier and more efficient data flow in times of crisis, such as using digital tools to track and manage commodity supply chains in real time, speed response and can spell the difference between an epidemic and a pandemic.
 
-<div style="border: solid black 1px">
-
 _Examples of Impact_
 
 * Artificial Intelligence in Medical Epidemiology (AIME) is an AI-enabled platform supported by USAID that uses a variety of physical and environmental factors to predict future outbreaks of diseases like Zika and dengue months in advance. This technology has been used in Rio de Janeiro, Singapore, and Malaysia, leading the countries to accurately predict dengue outbreaks within 400 meters and up to three months in advance, with 88.7 percent accuracy.\[^10\]
