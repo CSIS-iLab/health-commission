@@ -67,7 +67,6 @@ This example points to the impact that data and digitization—or the absence of
 
 Over the past decade, countries have increasingly transitioned from paper-based to digital information systems and have gained new capabilities and insights by engaging in the corresponding data. Various open-source and commercial software products have been developed to digitally capture and visualize improved data, including health service information management, health worker location, client medical records, and supply chain updates. However, not all efforts to digitize data have resulted in better information for decision-making. Many examples exist of technologies that overpromised and underdelivered in real world settings. Additionally, many data capture tools have been deployed in a fragmented and duplicative way, increasing the burden on public health officials and decreasing efficiencies in the health system. Efforts to enhance data quality and analysis alongside digitization efforts are essential for effective data use.
 
-  
 ![AMOS GUMULIRA/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571159744/health-commission/digital-health3_phun4c.jpg "Health Surveillance Assistant Noah Chipeta speaks to a mother in Kasungu on June 22, 2017, during a presentation for the UNICEF-funded Humanitarian Drone Corridor testing project for the hard-to-reach village. AMOS GUMULIRA/AFP/Getty Images")  
 The reduction of data errors can be simplified by investing in interoperability—defined as the ability of systems to share and exchange data using open standards and software connections. When accompanied by corresponding investments in country health systems and training of key users of this data across sectors, interoperability has proven to increase data exchange among various health systems and, as a result, strengthen health infrastructure and access to appropriate health interventions.[\[i\]](#_edn1)
 
@@ -113,13 +112,13 @@ Harnessing the capabilities of digital technologies, big data, machine learning,
 
 More timely and accurate collection and sharing of high-quality data at all levels, through enhanced surveillance and laboratory tools, could help rapidly detect cases before outbreaks become epidemics. Interoperability, designed and implemented effectively, could increase the speed and accuracy of confirming suspected cases. Harnessing mobile technology to enable faster collection and sharing of data accelerates early detection even at the front line. Easier and more efficient data flow in times of crisis, such as using digital tools to track and manage commodity supply chains in real time, speed response and can spell the difference between an epidemic and a pandemic.
 
-<div style="border:1px"> 
+<div style="border:1px">
 
 _Examples of Impact_
 
 * Artificial Intelligence in Medical Epidemiology (AIME) is an AI-enabled platform supported by USAID that uses a variety of physical and environmental factors to predict future outbreaks of diseases like Zika and dengue months in advance. This technology has been used in Rio de Janeiro, Singapore, and Malaysia, leading the countries to accurately predict dengue outbreaks within 400 meters and up to three months in advance, with 88.7 percent accuracy.[\[i\]](#_edn1)
 * The electronic Integrated Disease Surveillance and Response (eIDSR) system, supported by USAID and other donors, is used to improve and customize the flow of information within health programs, building on the existing DHIS2 platforms in many countries. In Sierra Leone and Tanzania, all districts electronically report their IDSR data to the national level, reducing the number of data entry errors by half and capturing and verifying data 60 percent faster than the paper-based IDSR system.[\[ii\]](#_edn2)
-* In Vietnam, a CDC electronic surveillance platform is now functional for 44 communicable diseases and syndromes in all 63 provinces and 711 districts, allowing real-time reporting and information sharing between the clinical and preventive medicine sectors.[\[iii\]](#_edn3) </div> 
+* In Vietnam, a CDC electronic surveillance platform is now functional for 44 communicable diseases and syndromes in all 63 provinces and 711 districts, allowing real-time reporting and information sharing between the clinical and preventive medicine sectors.[\[iii\]](#_edn3) </div>
 
 Some of these benefits are already being realized. In the last five years, investments in data and digitization have contributed substantially to increasing the capabilities of countries to improve epidemic preparedness and response. The U.S. government should maintain and build upon these recent successes to realize the full potential of digital health in preventing, detecting, and responding to outbreaks.
 
@@ -203,9 +202,9 @@ The U.S. government has an opportunity to use digital health tools to significan
 
 A more coordinated and focused U.S. effort will strengthen U.S. leadership in global health security and drive innovations in digital health through engaging public- and private-sector partners at home and abroad. Creating this enabling environment to fully capitalize on the promise of digital health innovation will help protect America’s health security while strengthening global capacities to address health security threats wherever they may occur.
 
-_This Brief was written by PATH as part of its collaboration with the CSIS Commission on Strengthening America’s Health Security. PATH is a global organization that works to accelerate health equity by bringing together public institutions, businesses, social enterprises, and investors to solve the world’s most pressing health challenges. With expertise in science, health, economics, technology, advocacy, and dozens of other specialties, PATH develops and scales solutions—including vaccines, drugs, devices, diagnostics, and innovative approaches to strengthening health systems worldwide.  
-   
- This brief is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
+_This Brief was written by PATH as part of its collaboration with the CSIS Commission on Strengthening America’s Health Security. PATH is a global organization that works to accelerate health equity by bringing together public institutions, businesses, social enterprises, and investors to solve the world’s most pressing health challenges. With expertise in science, health, economics, technology, advocacy, and dozens of other specialties, PATH develops and scales solutions—including vaccines, drugs, devices, diagnostics, and innovative approaches to strengthening health systems worldwide.
+
+This brief is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
 
 **_CSIS Briefs_ are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**
 
