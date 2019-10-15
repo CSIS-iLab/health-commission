@@ -5,7 +5,7 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
 featured_post_secondary:
-- _posts/can-digital-health-help-stop-the-next-epidemic.md
+- _posts/2019-10-11-can-digital-health-help-stop-the-next-epidemic.md
 - _posts/2019-09-12-the-ebola-virus-is-winning-in-eastern-democratic-republic-of-the-congo.md
 featured_events: _events/post-hong-kong-human-genome-editing-s-brave-new-world.md
 
