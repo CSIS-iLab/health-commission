@@ -149,12 +149,10 @@ Internationally, U.S. agencies have joined with other governments, foundations, 
 
 When effectively mobilized, the private sector catalyzes critical investments, as well as resources, expertise, and know-how, for digital health information systems. Private-sector engagement has enabled many recent innovations that are making a difference in preparedness and response.
 
-<div style="border: solid black 1px>
-
 _Private-Sector Contributions to Emergency Preparedness and Response_
 
 * In Guinea, a consortium of partners, including the Guinean Ministry of Health and USAID, developed the use of the CommCare contact tracing tool to gather and share critical case data. An online dashboard provided by Tableau, a Seattle-based technology company, was used to visualize contact tracing data in real time. The app collected nearly 30,000 contact tracing forms across five of the eight prefectures in Guinea, which led to a reduction of delays and human error and increased reliability, data verification, and contact tracer accountability.
-* Qlik, a data analytics company and member of the Global Health Security Agenda Private Sector Roundtable, created an online tool which draws from information contained in countries’ Joint External Evaluations, as well as its own data, to create dashboards that showcase countries’ health security capabilities.</div>
+* Qlik, a data analytics company and member of the Global Health Security Agenda Private Sector Roundtable, created an online tool which draws from information contained in countries’ Joint External Evaluations, as well as its own data, to create dashboards that showcase countries’ health security capabilities.
 
 Innovation in the private sector holds tremendous potential for the future of health security. Cutting-edge AI applications and machine learning can be applied to rapidly identify early outbreak signals and accelerate response time, and companies that specialize in data analytics and visualization are designing new tools so health authorities can better use data for decision-making. To ensure evidence-based health information reaches communities around the world, there is a tremendous opportunity—and urgent need—to partner with social media companies to combat harmful misinformation and promote health messages. Digital applications could also help address operational challenges in health delivery. For example, missed payments to health workers in both of the previous Ebola outbreak in West Africa and the current outbreak in the DRC have been hugely problematic.\[^18\] Fintech applications and mobile banking that enable direct payment of health workers prevent corruption and motivate those on the front lines of an epidemic.\[^19\]
 
