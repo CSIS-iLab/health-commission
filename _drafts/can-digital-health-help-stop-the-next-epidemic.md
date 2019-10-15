@@ -15,7 +15,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1571147360/health-c
 image_caption: An Ivorian doctor uses a tablet computer in Bouake hospital's trailblazer
   telemedicine department for heart diseases, in Bouake on June 20, 2019.
 image_credit: David Esnault / Contributor / Getty Images
-pdf: ''
+pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/191011_DigitalHealth_WEB_v2.pdf
 is_commission_related:
   description: ''
   related_event: ''
@@ -30,7 +30,7 @@ Timely and accurate information to assess disease burdens, track emerging outbre
 
 Timely and accurate information to assess disease burdens, track emerging outbreaks, and support disease prevention and control measures is essential in epidemic response. Over the past decade, low- and middle-income countries (LMICs) have increasingly transitioned from paper-based to digital information systems and are utilizing new technologies to collect data. This increasing uptake of digital technologies and data tools to support global health security allows countries to make more accurate and timely decisions for preventing, detecting, and responding to outbreaks. When optimized, the convergence of digital technologies and new data models with health systems, also known as “digital health,” can help ensure the necessary data and information are available in the right place, at the right time, and to the right people.\[^1\]
 
-<div style="border: 1px"> In the last decade, innovations in digital technologies have enabled rapid progress in the collection, analysis, presentation, and use of data to improve health outcomes. The field of knowledge and practice associated with any aspect of adopting digital technologies to improve health, from inception to operation, is known as “digital health.” Digital health approaches aim to strengthen available data and promote its use in decision-making. </div>
+<div style="border: solid black 1px"> In the last decade, innovations in digital technologies have enabled rapid progress in the collection, analysis, presentation, and use of data to improve health outcomes. The field of knowledge and practice associated with any aspect of adopting digital technologies to improve health, from inception to operation, is known as “digital health.” Digital health approaches aim to strengthen available data and promote its use in decision-making. </div>
 
 Over the last five years, the U.S. government has made a number of smart investments in a variety of digital tools and approaches and has worked to strengthen the capacity of local partners to utilize these tools.\[^2\] While clear successes have resulted from these initial investments, significant challenges remain:
 
@@ -45,7 +45,7 @@ There is understandable skepticism about the successful application and utilizat
 * Expand the use of interoperable data systems;
 * Strengthen governance and national plans to share data and scale up proven tools under the direction of country health authorities;
 * Build capacity and leadership to interpret data and act upon it; and
-* · Utilize new financing mechanisms to better leverage the potential of the U.S. technology sector.
+* Utilize new financing mechanisms to better leverage the potential of the U.S. technology sector.
 
 This initiative will require a strategic, focused effort across all U.S. agencies engaged in global epidemic preparedness and response, and a modest investment—we recommend $20 million each year—as a component of Global Health Security Agenda investments across the CDC, USAID, and Department of Defense. New financing mechanisms, such as the U.S. Development Finance Corporation (USDFC), offer an important opportunity to create new partnerships and unlock private capital to advance digital health and epidemic preparedness.
 
@@ -112,7 +112,7 @@ Harnessing the capabilities of digital technologies, big data, machine learning,
 
 More timely and accurate collection and sharing of high-quality data at all levels, through enhanced surveillance and laboratory tools, could help rapidly detect cases before outbreaks become epidemics. Interoperability, designed and implemented effectively, could increase the speed and accuracy of confirming suspected cases. Harnessing mobile technology to enable faster collection and sharing of data accelerates early detection even at the front line. Easier and more efficient data flow in times of crisis, such as using digital tools to track and manage commodity supply chains in real time, speed response and can spell the difference between an epidemic and a pandemic.
 
-<div style="border:1px">
+<div style="border: solid black 1px">
 
 _Examples of Impact_
 
@@ -151,7 +151,7 @@ Internationally, U.S. agencies have joined with other governments, foundations, 
 
 When effectively mobilized, the private sector catalyzes critical investments, as well as resources, expertise, and know-how, for digital health information systems. Private-sector engagement has enabled many recent innovations that are making a difference in preparedness and response.
 
-<div style="border: 1px>
+<div style="border: solid black 1px>
 
 _Private-Sector Contributions to Emergency Preparedness and Response_
 
@@ -202,9 +202,9 @@ The U.S. government has an opportunity to use digital health tools to significan
 
 A more coordinated and focused U.S. effort will strengthen U.S. leadership in global health security and drive innovations in digital health through engaging public- and private-sector partners at home and abroad. Creating this enabling environment to fully capitalize on the promise of digital health innovation will help protect America’s health security while strengthening global capacities to address health security threats wherever they may occur.
 
-_This Brief was written by PATH as part of its collaboration with the CSIS Commission on Strengthening America’s Health Security. PATH is a global organization that works to accelerate health equity by bringing together public institutions, businesses, social enterprises, and investors to solve the world’s most pressing health challenges. With expertise in science, health, economics, technology, advocacy, and dozens of other specialties, PATH develops and scales solutions—including vaccines, drugs, devices, diagnostics, and innovative approaches to strengthening health systems worldwide.
+_This Brief was written by PATH as part of its collaboration with the CSIS Commission on Strengthening America’s Health Security. PATH is a global organization that works to accelerate health equity by bringing together public institutions, businesses, social enterprises, and investors to solve the world’s most pressing health challenges. With expertise in science, health, economics, technology, advocacy, and dozens of other specialties, PATH develops and scales solutions—including vaccines, drugs, devices, diagnostics, and innovative approaches to strengthening health systems worldwide._
 
-This brief is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
+_This brief is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
 
 **_CSIS Briefs_ are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**
 
