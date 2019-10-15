@@ -210,7 +210,7 @@ _This brief is a product of the CSIS Commission on Strengthening America’s Hea
 
 \[1\] World Health Organization (WHO), _Global Strategy on Digital Health 2020-2024_ (Geneva: March 2019), [https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf](https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf "https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf").
 
-[\[2\]](#_ednref2) “Global Health News - Digital Health,” USAID, [https://www.usaid.gov/global-health/global-health-newsletter/digital-health](https://www.usaid.gov/global-health/global-health-newsletter/digital-health "https://www.usaid.gov/global-health/global-health-newsletter/digital-health").
+[\[2\]](#_edn2) “Global Health News - Digital Health,” USAID, [https://www.usaid.gov/global-health/global-health-newsletter/digital-health](https://www.usaid.gov/global-health/global-health-newsletter/digital-health "https://www.usaid.gov/global-health/global-health-newsletter/digital-health").
 
 \[3\] USAID, _Fighting Ebola with Information: Learning from the Use of Data, Information, and Digital Technologies in the West Africa Ebola Outbreak Response_ (Washington, DC: 2016), [https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf](https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf "https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf").
 
