@@ -14,9 +14,12 @@ authors:
 - _authors/janet-fleischman.md
 series: _series/access-to-critical-health-services-in-a-disordered-world.md
 themes: []
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1572361087/health-commission/Women_s_Health_Security_Report_vbjyf2.jpg
+image_caption: 'LALIYA, UGANDA - MAY 26: Gladys Aromo, age 12, carries a container
+  with drinking water while walking to her house on May 26, 2005 in Laliya, Uganda.
+  Gladys is a night commuter, one of about 20,000 children that sleep in Gulu town,
+  as they are afraid of being abducted by the Lord''s Resistance Army (LRA). '
+image_credit: " Per-Anders Pettersson / Contributor / Getty Images"
 pdf: ''
 is_commission_related:
   description: ''
