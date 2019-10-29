@@ -10,7 +10,8 @@ excerpt: A categorical shift is required for the U.S. to prioritize women’s an
   This report proposes an approach to harness USG capacities and catalyze action for
   women and girls.
 date: 2019-10-29 04:00:00 +0000
-authors: []
+authors:
+- _authors/janet-fleischman.md
 series: _series/access-to-critical-health-services-in-a-disordered-world.md
 themes: []
 image: ''
