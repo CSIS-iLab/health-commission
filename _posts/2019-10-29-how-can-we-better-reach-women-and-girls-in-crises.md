@@ -20,7 +20,7 @@ image_caption: 'LALIYA, UGANDA - MAY 26: Gladys Aromo, age 12, carries a contain
   Gladys is a night commuter, one of about 20,000 children that sleep in Gulu town,
   as they are afraid of being abducted by the Lord''s Resistance Army (LRA). '
 image_credit: " Per-Anders Pettersson / Contributor / Getty Images"
-pdf: ''
+pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/191029_WomenGirlsCrisis.pdf
 is_commission_related:
   description: ''
   related_event: ''
