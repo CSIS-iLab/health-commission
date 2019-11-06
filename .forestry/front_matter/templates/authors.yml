@@ -12,9 +12,9 @@ fields:
   name: image
   label: IMAGE
 pages:
+- _authors/anna-carroll.md
 - _authors/janet-fleischman.md
 - _authors/judyth-twigg.md
-- _authors/anna-carroll.md
 - _authors/dr-victor-dzau.md
 - _authors/carolyn-reynolds.md
 - _authors/Katherine-Bliss.md
