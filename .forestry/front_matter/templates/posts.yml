@@ -78,6 +78,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/drc-ebola-news-11-12-19.md
 - _posts/2019-10-24-an-ounce-of-prevention-is-worth-a-pound-of-cure.md
 - _posts/drc-ebola-news-11-8-19.md
 - _posts/2019-11-07-drc-ebola-news-11-7-19.md
