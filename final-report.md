@@ -14,6 +14,10 @@ show_page_highlights: true
 page_highlights_download: true
 page_highlights_cite: true
 page_highlights_share: true
+related_posts:
+  - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
+  - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
+  - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
 ---
 
 The CSIS Commission on Strengthening America’s Health Security is a two-year effort organized by the CSIS Global Health Policy Center. The Commission brings together a distinguished and diverse group of high-level opinion leaders who bridge security and health, comprising members of Congress, past administrations, industry, foundations, universities, and NGOs, and the Commission is advised by a group of preeminent subject experts. The Commission’s core aim is to chart a bold vision for the future of U.S. leadership in global health security – at home and abroad.

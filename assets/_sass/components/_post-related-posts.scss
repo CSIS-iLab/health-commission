@@ -1,5 +1,5 @@
 .post__related-posts {
-  grid-column: span 2;
+  grid-column: 1 / -1;
   display: flex;
   flex-wrap: wrap;
   position: relative;
@@ -19,9 +19,23 @@
       height: 100%;
     }
   }
+
+  .final-report & {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+  }
+
   &:before {
     right: 99.9%;
     background-color: $color-dust;
+
+    .final-report & {
+      background-color: $color-off-white;
+    }
   }
 
   &:after {
@@ -101,6 +115,10 @@
     @include breakpoint(large) {
       padding: 2rem $size-page-content-padding 2rem 4rem;
       flex-basis: 75%;
+
+      .final-report & {
+        flex-basis: 100%;
+      }
     }
 
     &__list {
@@ -112,45 +130,46 @@
       }
 
       .post-block {
+        position: relative;
+        flex-basis: 100%;
+        padding: 0 0 3rem;
+
         @include breakpoint(large) {
           flex-basis: 50%;
+          padding: 0 4rem 0 0;
+
+          .final-report & {
+            flex-basis: 33%;
+          }
+        }
+
+        &:not(:only-child)::before {
+          content: '';
+          position: absolute;
+          background-color: $color-dusty-lavender;
+          top: -1.5rem;
+          left: 0%;
+          height: 1px;
+          width: 100%;
+
+          @include breakpoint(large) {
+            top: 0;
+            left: -2rem;
+            width: 1px;
+            height: 100%;
+          }
+        }
+
+        &:first-of-type::before {
+          display: none;
+        }
+
+        &:last-of-type {
+          padding-bottom: 0;
         }
 
         .post-date {
           color: $color-warm-gray;
-        }
-
-        &:first-of-type {
-          padding: 0 0 3rem;
-
-          @include breakpoint(large) {
-            padding: 0 10% 0 0;
-          }
-        }
-
-        &:last-of-type:not(:only-child) {
-          position: relative;
-
-          @include breakpoint(large) {
-            padding: 0 0 0 2.5rem;
-          }
-
-          &:before {
-            content: '';
-            position: absolute;
-            background-color: $color-dusty-lavender;
-            left: 0%;
-            top: -1.5rem;
-            height: 1px;
-            width: calc(100vw - (#{$size-wrapper-padding-mobile} * 2));
-
-            @include breakpoint(large) {
-              left: -5%;
-              top: 0;
-              width: 1px;
-              height: 100%;
-            }
-          }
         }
       }
     }

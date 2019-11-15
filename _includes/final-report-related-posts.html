@@ -1,0 +1,13 @@
+<section class="post__related-posts">
+  <div class="related-by-tag">
+    <h3 class="section-title">
+      {{ site.data.language.related_articles }}
+    </h3>
+    <div class="related-by-tag__list">
+      {% for posts in page.related_posts limit: 3 %}
+      {% assign post = site.posts | where: 'relative_path', posts | first %}
+      {% include post-block.html num_themes=1 %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

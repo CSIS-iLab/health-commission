@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post h-entry" role="content" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry final-report" role="content" itemscope itemtype="http://schema.org/BlogPosting">
 
   {% include page-header.html %}
   <section class="post__header">
@@ -19,7 +19,7 @@ layout: default
     {% include tag-list.html %}
     {% include social-share-icons.html %}
     {% include final-report-members.html %}
-    Manually Chosen Related Posts -- use related posts layout for base
+    {% include final-report-related-posts.html %}
   </footer>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
