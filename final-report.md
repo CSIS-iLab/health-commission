@@ -16,8 +16,6 @@ page_highlights_cite: true
 page_highlights_share: true
 related_posts:
   - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
-  - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
-  - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
 ---
 
 When health crises strike—measles, Zika, Ebola, pandemic flu—and the American people grow alarmed, the U.S. government springs into action. But all too often, when the crisis fades and fear subsides, urgency morphs into complacency. Investments dry up, attention shifts, and a false sense of security takes hold.
