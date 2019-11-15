@@ -146,8 +146,8 @@ big {
 }
 
 .post__content {
-  ol,
-  ul {
+  ol:not([class]),
+  ul:not([class]) {
     li {
       margin-bottom: 0.6rem;
       line-height: 1.5;

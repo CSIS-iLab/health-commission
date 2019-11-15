@@ -1,4 +1,12 @@
 .final-report {
+  p + h2 {
+    margin-top: 4rem;
+  }
+
+  &__quoted {
+    @include box-shadow(0px, -2px, 0px, 0, $color-dust, true);
+  }
+
   &__members {
     position: relative;
     grid-column: 1 / -1;
@@ -55,6 +63,35 @@
 
       &-title {
         @extend %bio-title;
+      }
+    }
+  }
+
+  &__recommendations {
+    margin-top: 1.5rem;
+    padding: 0 0 0 2rem;
+    list-style: none;
+    counter-reset: recommendations;
+
+    li {
+      position: relative;
+      margin-bottom: 2rem;
+      counter-increment: recommendations;
+
+      &::before {
+        content: counter(recommendations);
+        position: absolute;
+        left: -2rem;
+        color: $color-slate;
+        font-family: $font-europa;
+        font-weight: bold;
+        @include font-size(24px);
+        line-height: 1.33;
+      }
+
+      h3 {
+        margin: 0 0 1rem;
+        font-weight: normal;
       }
     }
   }

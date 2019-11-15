@@ -20,10 +20,68 @@ related_posts:
   - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
 ---
 
-The CSIS Commission on Strengthening America’s Health Security is a two-year effort organized by the CSIS Global Health Policy Center. The Commission brings together a distinguished and diverse group of high-level opinion leaders who bridge security and health, comprising members of Congress, past administrations, industry, foundations, universities, and NGOs, and the Commission is advised by a group of preeminent subject experts. The Commission’s core aim is to chart a bold vision for the future of U.S. leadership in global health security – at home and abroad.
+When health crises strike—measles, Zika, Ebola, pandemic flu—and the American people grow alarmed, the U.S. government springs into action. But all too often, when the crisis fades and fear subsides, urgency morphs into complacency. Investments dry up, attention shifts, and a false sense of security takes hold.
 
-In recent years, U.S. senior policymakers have shown greater appreciation of the growing importance of health security to U.S. national interests and of the need for a stronger, more coherent, integrated, better resourced and more reliably sustained U.S. approach. Multiple threats fall under a health security umbrella: risk of emerging and re-emerging infectious disease epidemics; rapid spread of drug-resistant infections; and advances in biotechnology that may make organisms both more lethal and more accessible for use as weapons. There is recognition that increasing levels of global disorder and conflict across the world are resulting in destruction of public health infrastructure and capacity, reduced access to critical services for vulnerable populations, and heightened risk of sudden outbreaks. These health risks undermine the economic and political security of nations.
+In reality, the American people are far from safe. To the contrary, the United States remains woefully ill-prepared to respond to global health security threats.
+The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
 
-A shared recognition has now emerged within U.S. policy circles that indeed the world has changed. There is a growing consensus that the rapidity and ferocity of successive outbreaks – SARS, H1N1, MERS, Ebola, Zika, H7N9 – means these threats cannot be treated as single, episodic events but rather need to be understood as a continuous threat that requires ongoing capabilities to prevent, detect, and respond, both on the part of the United States and within the international community. Reemerging as well as novel pathogens should be expected, both naturally occurring and potentially manmade, aided by advances in synthetic biology and genetic engineering, as well as changes in climate and land use. With this new consensus comes an awareness that national and international approaches have to be carefully integrated and investments managed to achieve strategic effect. That includes taking steps to ensure that civilian and military agencies are aligned, that public health and security spheres understand and support one another, and that we plan for and respond to both emergency demands and the need for long-term engagement and investment to address continuing trends and challenges.
+**VIDEO HERE**
 
-While formidable obstacles remain – in high-level leadership, resources, basic capacities, interagency coordination, governance of WHO – we are convinced there is a ripeness to health security, an opportunity to press for strengthening America’s policy approaches in a way that can drive forward overall U.S. global health engagement, bring about new resources, and heighten the engagement of industry and security institutions, in partnership with other partner countries, multilateral institutions, and civil organizations.
+## A World of Peril
+
+The United States faces heightened danger in an increasingly interconnected world:
+
+* The global population is pressing toward towards 9.7 billion by 2050, and more and more people are expanding into wild frontiers.
+* Population growth, urbanization, and the mass movement of populations are forcing more people into overcrowded and unsanitary living conditions.
+* The rise in global temperatures allows disease vectors like mosquitoes and ticks to thrive over greater geographic areas.
+* There are higher levels of dangerous insecurity and conflict throughout the world, especially in those very places where outbreaks occur.
+
+These phenomena increase the risk of an outbreak that can spread swiftly across the globe and become a pandemic, disrupting supply chains, trade, transport, and ultimately entire societies and economies.
+
+## A Moment to Change Course
+
+> The business case to invest early in preparedness is crystal clear—and powerful.
+
+The <span class="final-report__quoted">business case</span> to invest early in preparedness is crystal clear—and powerful. The United States must either pay now and gain protection and security or wait for the next epidemic and pay a much greater price in human and economic costs.
+
+**GRAPHIC HERE**
+
+A landmark exercise conducted in the aftermath of the 2014-2016 West Africa Ebola crisis found that the inclusive costs of a severe influenza pandemic could come to $570 billion per year. In contrast, the cost of baseline preparedness is estimated at only about a dollar per person per year—and building and sustaining preparedness need not be an open-ended donor commitment. Leaders in the public and private sectors increasingly understand that we can afford to invest —and simply cannot afford not to invest.
+
+## A U.S. Doctrine of Continuous Prevention, Protection, and Resilience
+
+The Commission urges Congress and the administration to adopt the following integrated package of critical actions to replace the crisis-complacency cycle with a doctrine of continuous prevention, protection, and resilience.
+
+<ol class="final-report__recommendations">
+  <li>
+    <h3>Restore health security leadership at the White House National Security Council.</h3>
+    <p>Health security is national security. Strong, coherent, senior-level leadership at the National Security Council (NSC) is essential to guarantee effective oversight of global health security and biodefense policy and spending, speed and rigor in decisionmaking, and reliable White House engagement and coordination when dangerous pandemics inevitably strike. Leadership on the NSC can bring about key, targeted new investments while achieving much-needed reform of fragmented programs and higher efficiencies in the use of scarce resources.</p>
+  </li>
+  <li>
+    <h3>Commit to full and sustained multi-year funding for the Global Health Security Agenda to build partner capacity.</h3>
+    <p>U.S. direct investments remain essential to build health system capacity. The U.S. government can best protect the American people by stopping outbreaks at their source. The Global Health Security Agenda (GHSA) has a proven track record in building health security preparedness in low- and middle-income countries through new innovative partnerships with national governments, the private sector, and civil society groups. It is common sense for the United States to continue to support that successful agenda, not disrupt it.</p>
+  </li>
+  <li>
+    <h3>Establish a Pandemic Preparedness Challenge at the World Bank to incentivize countries to invest in their own preparedness.</h3>
+    <p>U.S. multilateral leadership is necessary to address the financing gap for preparedness, one of the starkest problems in health security. Congress should press for U.S. leadership to launch a challenge initiative at the World Bank that will incentivize long-term investment by fragile and conflict-affected countries in their own basic health security capacities. Such country ownership is the ultimate and only sustainable solution to the finance gap.</p>
+  </li>
+  <li>
+    <h3>Ensure rapid access to resources for health emergencies.</h3> 
+    <p>Stopping a global health security crisis requires swift and early action, backed by quick-disbursing resources. Congress should increase contingency fund levels for the U.S. Centers for Disease Control and Prevention’s (CDC) Infectious Diseases Rapid Response Reserve Fund and the U.S. Agency for International Development’s (USAID) Emergency Reserve Fund for infectious disease outbreaks. The U.S. government should also make annual contributions to the World Health Organization (WHO) Contingency Fund for Emergencies (CFE).</p>
+  </li>
+  <li>
+    <h3>Establish a U.S. Global Health Crises Response Corps.</h3>
+    <p>Small teams of select, highly experienced U.S. civilian public health and humanitarian experts, working alongside local partners and national leaders, form the “cerebral cortex” of outbreak response. Their combined presence can be a high-impact game changer. As seen in the Democratic Republic of the Congo (DRC), when U.S. and other critically important experts are barred from outbreak zones due to insecurity, the implications are grave. The world has grown more dangerous, and the danger zones are precisely where the greatest health security risks frequently reside. The United States simply cannot afford to remain on the sidelines of rapidly emerging health crises. A U.S. global health crises response corps answers today’s stark new realities.</p>
+  </li><li>
+    <h3>Strengthen the delivery of critical health services in disordered settings.</h3>
+    <p>The proliferation of chronic and emerging conflicts, humanitarian crises, and fragile and disordered states places an immense strain on already weak health systems, jeopardizing outbreak response. The U.S. government should strengthen and adapt programs and capacities to deliver health services in fragile and conflicted settings that meet the special needs of acutely vulnerable populations, especially women and children. The U.S. government should prioritize the continuity of immunization systems, strengthening the protection against—and response to—gender-based violence (GBV), and strengthening the delivery of maternal and reproductive health and family planning assistance.</p>
+  </li>
+  <li>
+    <h3>Systematically confront two urgent technology challenges: the need for new vaccines and therapeutics and the public health communications crisis.</h3>
+    <p>There is a race underway to develop new vaccines, therapeutics, and diagnostics in light of the mounting risks of emerging infectious diseases and growing resistance. It is essential to plan strategically, with strong private-sector partners, to support targeted investments that will accelerate the development of new technologies for epidemic preparedness and response. The U.S. government should invest directly in the Coalition for Epidemic Preparedness Innovations (CEPI) and should expand its efforts to develop a universal flu vaccine and new antibiotics.</p>
+  </li>
+</ol>
+
+<!-- end of the list -->
+
+We also face an unforeseen, historic communications crisis in public health, at home and abroad. Fueled by social media, ideology, societal discontent, and the rise of online networks of anti-vaccination activists, there has been a sharp decline in popular trust in science, public health authorities, and industry. Congress should press for the U.S. government to expand its efforts to better understand this complex phenomenon, effectively communicate accurate science, restore trust and confidence, and reclaim social media as a force for good in public and global health.
