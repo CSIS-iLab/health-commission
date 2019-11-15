@@ -1,0 +1,16 @@
+<section class="final-report__members">
+  <h2>Commission Signatory</h2>
+  {% assign groups = site.data.members | where: "signatory", "true" %}
+  {% for group in groups %}
+  <div class="group {{ group.type }}">
+    <h3 class="group__title" id="{{ group.type }}">{{ group.title }}</h3>
+
+    {% for member in site.data[group.type] %}
+    <div class="group__member">
+      <div class="group__member-name">{{ member['Display Name'] }}</div>
+      <div class="group__member-title">{{ member['Short Title'] }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</section>
