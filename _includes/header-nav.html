@@ -9,42 +9,46 @@
 
   <ul class="site-nav__menu">
     {% for parent_item in site.data.main_menus %}
-      {% assign section_title = parent_item.title | escape %}
-      {% if parent_item.url %}
-        {%- capture section_title -%}<a href="{{ parent_item.url }}">{{ section_title }}</a>{%- endcapture -%}
-      {% endif %}
-      <li>
-        {{ section_title }}
+    {% assign section_title = parent_item.title | escape %}
+    {% if parent_item.url %}
+    {%- capture section_title -%}<a href="{{ parent_item.url }}">{{ section_title }}</a>{%- endcapture -%}
+    {% assign itemClass = 'no-dropdown' %}
+    {% endif %}
+    <li class="{{ itemClass }}">
+      {{ section_title }}
 
-        {% assign items = parent_item.items %}
-        {% if items.size > 0 %}
-        <i class="icon-arrow-down"></i>
-        <div class="site-nav__dropdown">
-          {% if parent_item.identifier == 'work' %}
-            {%- for item in items -%}
-            <span class="site-nav__dropdown-heading {{ item.identifier }}">{{ item.section_title }}</span>
-            <ul class="site-nav__dropdown-menu {{ item.identifier }}">
-            {% if item.collection %}
-              {% for post in site[item.collection] %}
-                <li><a href="{{ post.url | relative_url }}" title="{{ post.title | escape }}">{{ post[item.item_title_field] | default: post.title | escape }}</a></li>
-              {% endfor %}
-            {% else %}
-              {% for sub_item in item.items %}
-              <li><a href="{{ sub_item.url | relative_url | escape }}" title="{{ sub_item.desc }}">{{ sub_item.title }}</a></li>
-              {% endfor %}
-            {% endif %}
-            </ul>
-            {% endfor %}
+      {% assign items = parent_item.items %}
+      {% if items.size > 0 %}
+      <i class="icon-arrow-down"></i>
+      <div class="site-nav__dropdown">
+        {% if parent_item.identifier == 'work' %}
+        {%- for item in items -%}
+        <span class="site-nav__dropdown-heading {{ item.identifier }}">{{ item.section_title }}</span>
+        <ul class="site-nav__dropdown-menu {{ item.identifier }}">
+          {% if item.collection %}
+          {% for post in site[item.collection] %}
+          <li><a href="{{ post.url | relative_url }}"
+              title="{{ post.title | escape }}">{{ post[item.item_title_field] | default: post.title | escape }}</a>
+          </li>
+          {% endfor %}
           {% else %}
-          <ul class="site-nav__dropdown-menu {{ item.identifier }}">
-            {%- for item in items -%}
-              <li><a href="{{ item.url | relative_url | escape }}" title="{{ item.desc }}">{{ item.title }}</a></li>
-            {%- endfor -%}
-          </ul>
+          {% for sub_item in item.items %}
+          <li><a href="{{ sub_item.url | relative_url | escape }}" title="{{ sub_item.desc }}">{{ sub_item.title }}</a>
+          </li>
+          {% endfor %}
           {% endif %}
-        </div>
+        </ul>
+        {% endfor %}
+        {% else %}
+        <ul class="site-nav__dropdown-menu {{ item.identifier }}">
+          {%- for item in items -%}
+          <li><a href="{{ item.url | relative_url | escape }}" title="{{ item.desc }}">{{ item.title }}</a></li>
+          {%- endfor -%}
+        </ul>
         {% endif %}
-      </li>
+      </div>
+      {% endif %}
+    </li>
     {% endfor %}
   </ul>
 </nav>
