@@ -5,7 +5,7 @@ permalink: '/final-report/'
 date: 2019-11-18 00:00:00 +0000
 authors:
   - _authors/the-commission.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1573767143/health-commission/washington-dc-emergency-workers_dg9rg5.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-commission/washington-dc-emergency-workers_eipc0u.jpg
 image_credit: Photo by Alex Wong/Getty Images
 image_caption: District of Columbia Fire Department emergency workers, dressed in hazardous materials suits, walk out of the main chamber of the Lincoln Memorial after suspicious liquids and an envelope were discovered November 27, 2006 in Washington, DC.
 excerpt: The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
