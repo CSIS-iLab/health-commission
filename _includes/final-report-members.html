@@ -7,6 +7,9 @@
 
     {% for member in site.data[group.type] %}
     <div class="group__member">
+      {% if member.signature.size > 0 %}
+      <img src="{{ member.signature }}" alt="" title="The signature of {{ member['Display Name'] }}" />
+      {% endif %}
       <div class="group__member-name">{{ member['Display Name'] }}</div>
       <div class="group__member-title">{{ member['Short Title'] }}</div>
     </div>
