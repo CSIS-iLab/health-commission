@@ -1,5 +1,5 @@
 <section class="final-report__members">
-  <h2>Commission Signatory</h2>
+  <h2>Commission Members</h2>
   {% assign groups = site.data.members | where: "signatory", "true" %}
   {% for group in groups %}
   <div class="group {{ group.type }}">

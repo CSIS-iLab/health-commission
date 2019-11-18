@@ -43,7 +43,7 @@
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
       grid-gap: 3rem;
-      align-items: end;
+      // align-items: end; // Uncomment this line once the signatures are added
 
       &:first-of-type {
         margin-bottom: 3rem;
@@ -97,6 +97,7 @@
       }
 
       img {
+        flex: 0 0 auto;
         width: 60px;
         height: auto;
         margin-left: 2rem;
@@ -129,7 +130,7 @@
     thead,
     tfoot {
       background: #e7ebee;
-      border: 1px solid #e7ebee;
+      border: 1px solid #d4d4d4;
     }
 
     th,
@@ -182,6 +183,10 @@
 
         &:not([class]) td {
           border-top: 1px solid #d4d4d4;
+
+          &:first-child {
+            border-left: 1px solid #d4d4d4;
+          }
         }
       }
 
@@ -222,6 +227,7 @@
         background: $color-white;
         border: 1px solid transparent;
         border-top: 0;
+        border-right-color: #d4d4d4;
       }
     }
   }

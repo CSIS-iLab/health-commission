@@ -7,7 +7,7 @@ authors:
   - _authors/the-commission.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-commission/washington-dc-emergency-workers_eipc0u.jpg
 image_credit: Photo by Alex Wong/Getty Images
-image_caption: District of Columbia Fire Department emergency workers, dressed in hazardous materials suits, walk out of the main chamber of the Lincoln Memorial after suspicious liquids and an envelope were discovered November 27, 2006 in Washington, DC.
+? image_caption
 excerpt: The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
 ? pdf
 show_page_highlights: true
@@ -16,6 +16,8 @@ page_highlights_cite: true
 page_highlights_share: true
 related_posts:
   - _posts/2019-08-08-commission-co-chair-statement-on-the-3rd-meeting-of-commission-members.md
+  - _posts/2019-10-29-how-can-we-better-reach-women-and-girls-in-crises.md
+  - _posts/2019-10-24-an-ounce-of-prevention-is-worth-a-pound-of-cure.md
 ---
 
 When health crises strike—measles, Zika, Ebola, pandemic flu—and the American people grow alarmed, the U.S. government springs into action. But all too often, when the crisis fades and fear subsides, urgency morphs into complacency. Investments dry up, attention shifts, and a false sense of security takes hold.
@@ -42,15 +44,14 @@ These phenomena increase the risk of an outbreak that can spread swiftly across 
 
 The <a href="https://www.csis.org/analysis/ounce-prevention-worth-pound-cure">business case</a> to invest early in preparedness is crystal clear—and powerful. The United States must either pay now and gain protection and security or wait for the next epidemic and pay a much greater price in human and economic costs.
 
-<!-- Graphic: Source tag contains mobile image, img contains desktop image -->
-<!-- <figure>
+<figure>
   <picture>
-    <source srcset="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec1_xz5fgn.jpg"
+    <source srcset="https://res.cloudinary.com/csisideaslab/image/upload/v1574105693/health-commission/cost-of-recent-outbreaks-mobile_hiqjg6.jpg"
       media="(max-width: 500px)">
-    <img src="https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-commission/washington-dc-emergency-workers_eipc0u.jpg" data-src="https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-commission/washington-dc-emergency-workers_eipc0u.jpg" />
+    <img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574105693/health-commission/cost-of-recent-outbreaks-desktop_coagmn.jpg" data-src="https://res.cloudinary.com/csisideaslab/image/upload/v1574105693/health-commission/cost-of-recent-outbreaks-desktop_coagmn.jpg" />
   </picture>
-  <figcaption class="img-caption">Caption information <span class="img-caption__source">Source Information</span></figcaption>
-</figure> -->
+  <figcaption class="img-caption"></figcaption>
+</figure>
 
 A landmark exercise conducted in the aftermath of the 2014-2016 West Africa Ebola crisis found that the inclusive costs of a severe influenza pandemic could come to $570 billion per year.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> In contrast, the cost of baseline preparedness is estimated at only about a dollar per person per year—and building and sustaining preparedness need not be an open-ended donor commitment.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> Leaders in the public and private sectors increasingly understand that we can afford to invest —and simply cannot afford not to invest.
 
@@ -86,10 +87,9 @@ The Commission urges Congress and the administration to adopt the following inte
   <li>
     <h3>Systematically confront two urgent technology challenges: the need for new vaccines and therapeutics and the public health communications crisis.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec7_gkt0dy.jpg" alt="" /></h3>
     <p>There is a race underway to develop new vaccines, therapeutics, and diagnostics in light of the mounting risks of emerging infectious diseases and growing resistance. It is essential to plan strategically, with strong private-sector partners, to support targeted investments that will accelerate the development of new technologies for epidemic preparedness and response. The U.S. government should invest directly in the Coalition for Epidemic Preparedness Innovations (CEPI) and should expand its efforts to develop a universal flu vaccine and new antibiotics.</p>
+    <p>We also face an unforeseen, historic communications crisis in public health, at home and abroad. Fueled by social media, ideology, societal discontent, and the rise of online networks of anti-vaccination activists, there has been a sharp decline in popular trust in science, public health authorities, and industry. Congress should press for the U.S. government to expand its efforts to better understand this complex phenomenon, effectively communicate accurate science, restore trust and confidence, and reclaim social media as a force for good in public and global health.</p>
   </li>
 </ol>
-
-We also face an unforeseen, historic communications crisis in public health, at home and abroad. Fueled by social media, ideology, societal discontent, and the rise of online networks of anti-vaccination activists, there has been a sharp decline in popular trust in science, public health authorities, and industry. Congress should press for the U.S. government to expand its efforts to better understand this complex phenomenon, effectively communicate accurate science, restore trust and confidence, and reclaim social media as a force for good in public and global health.
 
 <table class="final-report__table">
   <caption>Summary of Recommended Funding</caption>
@@ -191,7 +191,7 @@ We also face an unforeseen, historic communications crisis in public health, at 
     <tr>
       <td></td>
       <td>Total</td>
-      <td>$965</td>
+      <td>$905</td>
     </tr>
   </tfoot>
 </table>
