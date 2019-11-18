@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-c
 image_credit: Photo by Alex Wong/Getty Images
 image_caption: District of Columbia Fire Department emergency workers, dressed in hazardous materials suits, walk out of the main chamber of the Lincoln Memorial after suspicious liquids and an envelope were discovered November 27, 2006 in Washington, DC.
 excerpt: The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
-pdf: https://google.com
+pdf: 
 show_page_highlights: true
 page_highlights_download: true
 page_highlights_cite: true
@@ -23,7 +23,7 @@ When health crises strike—measles, Zika, Ebola, pandemic flu—and the America
 In reality, the American people are far from safe. To the contrary, the United States remains woefully ill-prepared to respond to global health security threats.
 The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
 
-**VIDEO HERE**
+<!-- Video Embed goes here. Use the embed from YouTube -->
 
 ## A World of Peril
 
@@ -52,30 +52,31 @@ The Commission urges Congress and the administration to adopt the following inte
 
 <ol class="final-report__recommendations">
   <li>
-    <h3>Restore health security leadership at the White House National Security Council.</h3>
+    <h3>Restore health security leadership at the White House National Security Council.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec1_xz5fgn.jpg" alt="" /></h3>
     <p>Health security is national security. Strong, coherent, senior-level leadership at the National Security Council (NSC) is essential to guarantee effective oversight of global health security and biodefense policy and spending, speed and rigor in decisionmaking, and reliable White House engagement and coordination when dangerous pandemics inevitably strike. Leadership on the NSC can bring about key, targeted new investments while achieving much-needed reform of fragmented programs and higher efficiencies in the use of scarce resources.</p>
   </li>
   <li>
-    <h3>Commit to full and sustained multi-year funding for the Global Health Security Agenda to build partner capacity.</h3>
+    <h3>Commit to full and sustained multi-year funding for the Global Health Security Agenda to build partner capacity.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec2_e7hnuf.jpg" alt="" /></h3>
     <p>U.S. direct investments remain essential to build health system capacity. The U.S. government can best protect the American people by stopping outbreaks at their source. The Global Health Security Agenda (GHSA) has a proven track record in building health security preparedness in low- and middle-income countries through new innovative partnerships with national governments, the private sector, and civil society groups. It is common sense for the United States to continue to support that successful agenda, not disrupt it.</p>
   </li>
   <li>
-    <h3>Establish a Pandemic Preparedness Challenge at the World Bank to incentivize countries to invest in their own preparedness.</h3>
+    <h3>Establish a Pandemic Preparedness Challenge at the World Bank to incentivize countries to invest in their own preparedness.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec3_ggya6q.jpg" alt="" /></h3>
     <p>U.S. multilateral leadership is necessary to address the financing gap for preparedness, one of the starkest problems in health security. Congress should press for U.S. leadership to launch a challenge initiative at the World Bank that will incentivize long-term investment by fragile and conflict-affected countries in their own basic health security capacities. Such country ownership is the ultimate and only sustainable solution to the finance gap.</p>
   </li>
   <li>
-    <h3>Ensure rapid access to resources for health emergencies.</h3> 
+    <h3>Ensure rapid access to resources for health emergencies.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec4_a9i0kk.jpg" alt="" /></h3> 
     <p>Stopping a global health security crisis requires swift and early action, backed by quick-disbursing resources. Congress should increase contingency fund levels for the U.S. Centers for Disease Control and Prevention’s (CDC) Infectious Diseases Rapid Response Reserve Fund and the U.S. Agency for International Development’s (USAID) Emergency Reserve Fund for infectious disease outbreaks. The U.S. government should also make annual contributions to the World Health Organization (WHO) Contingency Fund for Emergencies (CFE).</p>
   </li>
   <li>
-    <h3>Establish a U.S. Global Health Crises Response Corps.</h3>
+    <h3>Establish a U.S. Global Health Crises Response Corps.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec5_t69i8g.jpg" alt="" /></h3>
     <p>Small teams of select, highly experienced U.S. civilian public health and humanitarian experts, working alongside local partners and national leaders, form the “cerebral cortex” of outbreak response. Their combined presence can be a high-impact game changer. As seen in the Democratic Republic of the Congo (DRC), when U.S. and other critically important experts are barred from outbreak zones due to insecurity, the implications are grave. The world has grown more dangerous, and the danger zones are precisely where the greatest health security risks frequently reside. The United States simply cannot afford to remain on the sidelines of rapidly emerging health crises. A U.S. global health crises response corps answers today’s stark new realities.</p>
-  </li><li>
-    <h3>Strengthen the delivery of critical health services in disordered settings.</h3>
+  </li>
+  <li>
+    <h3>Strengthen the delivery of critical health services in disordered settings.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec6_tgygww.jpg" alt="" /></h3>
     <p>The proliferation of chronic and emerging conflicts, humanitarian crises, and fragile and <a href="https://www.csis.org/analysis/meeting-security-challenges-disordered-world">disordered states</a> places an immense strain on already weak health systems, jeopardizing outbreak response. The U.S. government should strengthen and adapt programs and capacities to deliver health services in fragile and conflicted settings that meet the special needs of acutely vulnerable populations, especially <a href="https://healthsecurity.csis.org/articles/how-can-we-better-reach-women-and-girls-in-crises/">women and children</a>. The U.S. government should prioritize the continuity of immunization systems, strengthening the protection against—and response to—gender-based violence (GBV), and strengthening the delivery of maternal and reproductive health and family planning assistance.</p>
   </li>
   <li>
-    <h3>Systematically confront two urgent technology challenges: the need for new vaccines and therapeutics and the public health communications crisis.</h3>
+    <h3>Systematically confront two urgent technology challenges: the need for new vaccines and therapeutics and the public health communications crisis.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec7_gkt0dy.jpg" alt="" /></h3>
     <p>There is a race underway to develop new vaccines, therapeutics, and diagnostics in light of the mounting risks of emerging infectious diseases and growing resistance. It is essential to plan strategically, with strong private-sector partners, to support targeted investments that will accelerate the development of new technologies for epidemic preparedness and response. The U.S. government should invest directly in the Coalition for Epidemic Preparedness Innovations (CEPI) and should expand its efforts to develop a universal flu vaccine and new antibiotics.</p>
   </li>
 </ol>

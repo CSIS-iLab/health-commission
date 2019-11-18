@@ -74,20 +74,39 @@
       margin-bottom: 2rem;
       counter-increment: recommendations;
 
-      &::before {
-        content: counter(recommendations);
-        position: absolute;
-        left: -2rem;
-        color: $color-slate;
-        font-family: $font-europa;
-        font-weight: bold;
-        @include font-size(24px);
-        line-height: 1.33;
-      }
-
       h3 {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
         margin: 0 0 1rem;
         font-weight: normal;
+
+        &::before {
+          content: counter(recommendations);
+          position: absolute;
+          top: 0;
+          left: -2rem;
+          color: $color-slate;
+          font-family: $font-europa;
+          font-weight: bold;
+          @include font-size(24px);
+          line-height: 1.33;
+        }
+      }
+
+      img {
+        width: 60px;
+        height: auto;
+        margin-left: 2rem;
+
+        @include breakpoint('medium') {
+          margin-left: 3rem;
+        }
+      }
+
+      p {
+        clear: both;
       }
     }
   }
