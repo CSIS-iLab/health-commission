@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-c
 image_credit: Photo by Alex Wong/Getty Images
 image_caption: District of Columbia Fire Department emergency workers, dressed in hazardous materials suits, walk out of the main chamber of the Lincoln Memorial after suspicious liquids and an envelope were discovered November 27, 2006 in Washington, DC.
 excerpt: The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
-pdf: 
+? pdf
 show_page_highlights: true
 page_highlights_download: true
 page_highlights_cite: true
@@ -42,7 +42,15 @@ These phenomena increase the risk of an outbreak that can spread swiftly across 
 
 The <a href="https://www.csis.org/analysis/ounce-prevention-worth-pound-cure">business case</a> to invest early in preparedness is crystal clear—and powerful. The United States must either pay now and gain protection and security or wait for the next epidemic and pay a much greater price in human and economic costs.
 
-**GRAPHIC HERE**
+<!-- Graphic: Source tag contains mobile image, img contains desktop image -->
+<!-- <figure>
+  <picture>
+    <source srcset="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec1_xz5fgn.jpg"
+      media="(max-width: 500px)">
+    <img src="https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-commission/washington-dc-emergency-workers_eipc0u.jpg" data-src="https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-commission/washington-dc-emergency-workers_eipc0u.jpg" />
+  </picture>
+  <figcaption class="img-caption">Caption information <span class="img-caption__source">Source Information</span></figcaption>
+</figure> -->
 
 A landmark exercise conducted in the aftermath of the 2014-2016 West Africa Ebola crisis found that the inclusive costs of a severe influenza pandemic could come to $570 billion per year.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> In contrast, the cost of baseline preparedness is estimated at only about a dollar per person per year—and building and sustaining preparedness need not be an open-ended donor commitment.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> Leaders in the public and private sectors increasingly understand that we can afford to invest —and simply cannot afford not to invest.
 
