@@ -46,9 +46,9 @@ The <a href="https://www.csis.org/analysis/ounce-prevention-worth-pound-cure">bu
 
 <figure>
   <picture>
-    <source srcset="https://res.cloudinary.com/csisideaslab/image/upload/v1574105693/health-commission/cost-of-recent-outbreaks-mobile_hiqjg6.jpg"
+    <source srcset="https://res.cloudinary.com/csisideaslab/image/upload/v1574198608/health-commission/cost_of_recent_outbreaks_MOBILE-03_n7yglo.jpg"
       media="(max-width: 500px)">
-    <img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574105693/health-commission/cost-of-recent-outbreaks-desktop_coagmn.jpg" data-src="https://res.cloudinary.com/csisideaslab/image/upload/v1574105693/health-commission/cost-of-recent-outbreaks-desktop_coagmn.jpg" />
+    <img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574198638/health-commission/cost_of_recent_outbreaks_WEB-02_fsdu7z.jpg" data-src="https://res.cloudinary.com/csisideaslab/image/upload/v1574198638/health-commission/cost_of_recent_outbreaks_WEB-02_fsdu7z.jpg" />
   </picture>
   <figcaption class="img-caption"></figcaption>
 </figure>
