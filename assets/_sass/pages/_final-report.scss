@@ -1,0 +1,238 @@
+.final-report {
+  p + h2 {
+    margin-top: 4rem;
+  }
+
+  &__members {
+    position: relative;
+    grid-column: 1 / -1;
+    padding: 2rem 0;
+    text-align: center;
+
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      margin-left: calc((100vw - 100%) / 2 * -1);
+      width: 100vw;
+      height: 1px;
+      background-color: $color-silver;
+
+      @include breakpoint('medium') {
+        margin-left: calc((100vw - #{$size-page-text-max-width}) / 2 * -1);
+      }
+    }
+
+    h2,
+    h3 {
+      grid-column: 1 / -1;
+      font-weight: normal;
+    }
+
+    h2 {
+      margin: 0 0 1.5rem;
+    }
+
+    h3 {
+      margin: 0;
+      text-transform: uppercase;
+    }
+
+    .group {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+      grid-gap: 3rem;
+      // align-items: end; // Uncomment this line once the signatures are added
+
+      &:first-of-type {
+        margin-bottom: 3rem;
+        padding-bottom: 3rem;
+        border-bottom: 1px solid $color-silver;
+      }
+    }
+
+    .group__member {
+      &-name {
+        @extend %bio-name;
+        text-transform: uppercase;
+      }
+
+      &-title {
+        @extend %bio-title;
+      }
+    }
+  }
+
+  &__recommendations {
+    margin-top: 1.5rem;
+    padding: 0 0 0 2rem;
+    list-style: none;
+    counter-reset: recommendations;
+
+    li {
+      position: relative;
+      margin-bottom: 2rem;
+      counter-increment: recommendations;
+
+      h3 {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 0 0 1rem;
+        font-weight: normal;
+
+        &::before {
+          content: counter(recommendations);
+          position: absolute;
+          top: 0;
+          left: -2rem;
+          color: $color-slate;
+          font-family: $font-europa;
+          font-weight: bold;
+          @include font-size(24px);
+          line-height: 1.33;
+        }
+      }
+
+      img {
+        flex: 0 0 auto;
+        width: 60px;
+        height: auto;
+        margin-left: 2rem;
+
+        @include breakpoint('medium') {
+          margin-left: 3rem;
+        }
+      }
+
+      p {
+        clear: both;
+      }
+    }
+  }
+
+  &__table {
+    max-width: unset !important;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    color: $color-black;
+    font-family: $font-europa;
+    border-spacing: 0;
+    border-collapse: collapse;
+
+    caption {
+      margin-bottom: 0.75rem;
+      @extend %table-title;
+    }
+
+    thead,
+    tfoot {
+      background: #e7ebee;
+      border: 1px solid #d4d4d4;
+    }
+
+    th,
+    td {
+      padding: 0.75rem;
+      vertical-align: top;
+    }
+
+    th {
+      font-weight: bold;
+      @include font-size(18px);
+      line-height: 1.2;
+      text-align: left;
+
+      @include breakpoint('medium') {
+        width: 30%;
+      }
+
+      &:first-child {
+        @include breakpoint('medium') {
+          width: 40%;
+        }
+      }
+
+      span {
+        display: block;
+        margin-top: 0.5rem;
+        font-weight: normal;
+        @include font-size(14px);
+        opacity: 0.57;
+      }
+    }
+
+    tbody,
+    tfoot {
+      td:last-child {
+        text-align: right;
+      }
+    }
+
+    tbody {
+      counter-reset: rowNum;
+      @include font-size(16px);
+      line-height: 1.38;
+      border-right: 1px solid #d4d4d4;
+      border-left: 1px solid #d4d4d4;
+
+      tr {
+        border-bottom: 1px solid #a8a8a8;
+
+        &:not([class]) td {
+          border-top: 1px solid #d4d4d4;
+
+          &:first-child {
+            border-left: 1px solid #d4d4d4;
+          }
+        }
+      }
+
+      .final-report__table-row--main {
+        counter-increment: rowNum;
+
+        td:first-child {
+          position: relative;
+          padding-left: 3rem;
+
+          &::before {
+            content: counter(rowNum);
+            position: absolute;
+            left: 0.75rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 22px;
+            height: 22px;
+            color: $color-white;
+            font-weight: bold;
+            @include font-size(12px);
+            background-color: $color-slate;
+            border-radius: 50%;
+          }
+        }
+      }
+
+      td + td {
+        border-left: 1px solid #d4d4d4;
+      }
+    }
+
+    tfoot {
+      font-weight: bold;
+
+      td:empty {
+        background: $color-white;
+        border: 1px solid transparent;
+        border-top: 0;
+        border-right-color: #d4d4d4;
+      }
+    }
+  }
+
+  .footnotes {
+    margin-top: 6rem;
+  }
+}

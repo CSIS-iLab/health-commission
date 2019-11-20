@@ -2,45 +2,45 @@
 <div class="page-highlights {{ page.collection }} {{ page.layout }}">
 
   {% if page.page_highlights_download %}
-    {% include download-pdf.html classes="page-highlights__col page-highlights__download" %}
+  {% include download-pdf.html classes="page-highlights__col page-highlights__download" %}
   {% endif %}
 
   {% if page.page_highlights_cite %}
-    {% include cite-page.html classes="page-highlights__col page-highlights__cite" %}
+  {% include cite-page.html classes="page-highlights__col page-highlights__cite" %}
   {% endif %}
 
-  {% if page.layout!='post'  and page.excerpt.size > 0 %}
+  {% if page.layout!='post' and page.layout != 'final-report' and page.excerpt.size > 0 %}
   <div class="page-highlights__col page-highlights__excerpt">
     <p class="page__excerpt">
       {{ page.excerpt }}
     </p>
     {% if page.header_image_caption.size > 0 or page.header_image_credit.size > 0 %}
-      {%- include img-caption.html tag='p' desc=page.header_image_caption source=page.header_image_credit -%}
+    {%- include img-caption.html tag='p' desc=page.header_image_caption source=page.header_image_credit -%}
     {% else %}
-      {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+    {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
     {% endif %}
 
     {% if page.name == 'members.md' %}
-      {% include about-table-contents.html %}
+    {% include about-table-contents.html %}
     {% endif %}
   </div>
   {% endif %}
 
   {% if page.page_highlights_share %}
   <div class="page-highlights__col page-highlights__col--last ">
-   {% include social-share-icons.html %}
- </div>
- {% endif %}
+    {% include social-share-icons.html %}
+  </div>
+  {% endif %}
 
- {% if page.featured_post and page.featured_post.size > 0 %}
- <div class="page-highlights__col page-highlights__col--last page-highlights__featured">
-  <h3 class="section-title">{{ site.data.language.single_post.featured_post | escape }}</h3>
-  {% assign featured_post = site.posts | where: 'relative_path', page.featured_post %}
-  {% for post in featured_post limit: 1 %}
+  {% if page.featured_post and page.featured_post.size > 0 %}
+  <div class="page-highlights__col page-highlights__col--last page-highlights__featured">
+    <h3 class="section-title">{{ site.data.language.single_post.featured_post | escape }}</h3>
+    {% assign featured_post = site.posts | where: 'relative_path', page.featured_post %}
+    {% for post in featured_post limit: 1 %}
     {% include post-block.html hide_excerpt=true num_themes='0' %}
-  {% endfor %}
-</div>
-{% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
 
 </div>
 {% endif %}

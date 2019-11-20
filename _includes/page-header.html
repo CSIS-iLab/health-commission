@@ -1,34 +1,46 @@
 {% if page.image.size > 0 and page.collection != 'authors' and page.collection != 'posts' %}
-  {% include page-header-background-img.html image_url=page.image %}
+{% include page-header-background-img.html image_url=page.image %}
 {% elsif page.image.size == 0 and page.collection == 'events' %}
-  {% assign events = site.pages | where: "name",'events.md' | first %}
-  {% include page-header-background-img.html image_url=events.image %}
+{% assign events = site.pages | where: "name",'events.md' | first %}
+{% include page-header-background-img.html image_url=events.image %}
 {% endif %}
 
 {% if page.collection == 'posts' and page.themes.size > 0 %}
-  {% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
-  {% if primary_theme.image.size > 0 %}
-      {% include page-header-background-img.html image_url=primary_theme.image %}
-  {% endif %}
+{% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
+{% if primary_theme.image.size > 0 %}
+{% include page-header-background-img.html image_url=primary_theme.image %}
+{% endif %}
 {% endif %}
 
 <header class="page-header" role="header" {{ background_img }}>
   <div class="page-header__wrapper">
-  {% if page.collection == 'authors' %}
+    {%- if page.layout == 'final-report' -%}
+    <div class="post-meta post-meta__content-series-wrapper">
+      Final Report
+    </div>
+    {%- endif -%}
+
+    {% if page.collection == 'authors' %}
     <div class="page-header__author-photo-mobile">
       {% include author-photo-tint.html image_url=page.image %}
     </div>
-  {% endif %}
-  {% if page.collection == 'posts' %}
+    {% endif %}
+    {% if page.collection == 'posts' %}
     {% include page-header-post.html %}
-  {% else %}
-  <h1 class="page-header__title" itemprop="name headline">{{ page.title | escape }}{%- if page.permalink == '/search/' -%}: <span></span>{%- endif -%}</h1>
-  {% endif %}
+    {% else %}
+    <h1 class="page-header__title" itemprop="name headline">
+      {{ page.title | escape }}{%- if page.permalink == '/search/' -%}: <span></span>{%- endif -%}</h1>
+    {% endif %}
+
+    {% if page.layout == 'final-report' %}
+    {% include post-meta-authors.html authors=page.authors %}
+    {% include post-meta-date.html %}
+    {% endif %}
   </div>
 </header>
 {% if page.collection == 'authors' %}
-  <div class="page-header__author-photo-desktop">
-    {% include author-photo-tint.html image_url=page.image %}
-  </div>
+<div class="page-header__author-photo-desktop">
+  {% include author-photo-tint.html image_url=page.image %}
+</div>
 {% endif %}
 {% include page-highlights.html %}

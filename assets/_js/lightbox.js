@@ -11,7 +11,7 @@ const Lightbox = () => {
     sourceAttribute: 'data-src',
     // Captions can be a literal string, or a function that receives the Luminous instance's trigger element as an argument and returns a string. Supports HTML, so use caution when dealing with user input.
     caption: e => {
-      let parentNode = e.parentNode
+      let parentNode = e.closest('figure')
 
       const caption = parentNode.querySelector('figcaption').innerHTML
 

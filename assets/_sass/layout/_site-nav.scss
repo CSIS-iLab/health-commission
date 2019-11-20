@@ -11,7 +11,7 @@
   margin: 0 0.5rem;
 
   @include breakpoint($breakpoint-desktop) {
-    flex: 1 1 30%;
+    flex: 1 1 auto;
     max-width: unset;
     margin-right: 1rem;
     transition: flex-basis 0.3s ease-in-out;
@@ -19,8 +19,8 @@
 
   #{$minimal} & {
     @include breakpoint($breakpoint-desktop) {
-     flex-basis: 88%;
-     margin-left: -1rem;
+      flex-basis: 88%;
+      margin-left: -1rem;
     }
   }
 
@@ -129,7 +129,7 @@
       right: unset;
       height: 100%;
       flex-direction: row;
-      justify-content: flex-start;
+      justify-content: flex-end;
       padding: 0;
       background-color: transparent;
       opacity: 1;
@@ -152,11 +152,19 @@
 
         a {
           color: $color-white;
+
+          &:hover {
+            color: $color-dark-sand;
+          }
         }
 
         #{$minimal} &,
         #{$minimal} & a {
           color: $color-black;
+
+          &:hover {
+            color: $color-dark-blue;
+          }
         }
       }
 
@@ -172,14 +180,14 @@
         }
       }
 
-      &::before {
+      &:not(.no-dropdown)::before {
         content: '';
         opacity: 0;
         transition: opacity 0.3s ease-in-out;
       }
 
-      &:active,
-      &:hover {
+      &:not(.no-dropdown):active,
+      &:not(.no-dropdown):hover {
         @include breakpoint($breakpoint-desktop) {
           padding-left: 1rem;
           padding-right: 1rem;
@@ -250,7 +258,6 @@
           transform: rotate(-180deg);
         }
       }
-
     }
 
     #{$s}__dropdown {
@@ -371,6 +378,5 @@
         }
       }
     }
-
   }
 }

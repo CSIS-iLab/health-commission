@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="post h-entry final-report" role="content" itemscope itemtype="http://schema.org/BlogPosting">
+
+  {% include page-header.html %}
+  <section class="post__header">
+    <div class="post__header-meta">
+      <p class="post__excerpt">{{ page.excerpt | remove: '
+        <p>' | remove: '</p>' }}</p>
+
+      {%- include img-caption.html tag='p' desc=page.image_caption source=page.image_credit -%}
+    </div>
+  </section>
+  <section class="post__content e-content" itemprop="articleBody">
+    {{ content }}
+  </section>
+  <footer class="post__footer" role="footer">
+    {% include tag-list.html %}
+    {% include social-share-icons.html %}
+    {% include final-report-members.html %}
+    {% include final-report-related-posts.html %}
+  </footer>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

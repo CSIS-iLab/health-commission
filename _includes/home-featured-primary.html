@@ -3,9 +3,10 @@
   <h3 class="section-title-lg">{{ site.data.language.home.articles_header | escape }}</h3>
 </section>
 {% for posts in page.featured_post_primary limit: 1 %}
-{% assign post = site.posts | where: 'relative_path', posts | first %}
+
+{% assign post = site.pages | where: 'path', posts | first %}
 {% if post.image.size > 0 %}
-  {% include page-header-background-img.html image_url=post.image %}
+{% include page-header-background-img.html image_url=post.image %}
 {% endif %}
 <section class="home__featured-primary">
   <div class="home__featured-primary-img" {{ background_img }}></div>

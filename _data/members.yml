@@ -1,9 +1,13 @@
 ---
 - type: co_chairs
   title: Co-Chairs
+  signatory: true
 - type: members_contributors
   title: Members
+  signatory: true
 - type: experts_advisors
   title: Experts and Advisors
+  signatory: false
 - type: secretariat
   title: Secretariat
+  signatory: false
