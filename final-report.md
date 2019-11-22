@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-c
 image_credit: Photo by Alex Wong/Getty Images
 ? image_caption
 excerpt: The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
-pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/191120_EndingTheCycle_GHSC_WEB_FINAL_v2.pdf
+pdf:  https://csis-prod.s3.amazonaws.com/s3fs-public/publication/191122_EndingTheCycle_GHSC_WEB_FULL_11.22.pdf
 show_page_highlights: true
 page_highlights_download: true
 page_highlights_cite: true
@@ -46,9 +46,9 @@ The <a href="https://www.csis.org/analysis/ounce-prevention-worth-pound-cure">bu
 
 <figure>
   <picture>
-    <source srcset="https://res.cloudinary.com/csisideaslab/image/upload/v1574272787/health-commission/cost_of_recent_outbreaks_Mobile_tcwp32.jpg"
+    <source srcset="https://res.cloudinary.com/csisideaslab/image/upload/v1574450469/health-commission/cost_of_recent_outbreaks_MOBILE_n4ec6d.jpg"
       media="(max-width: 500px)">
-    <img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574272787/health-commission/cost_of_recent_outbreaks_Horizontal_wkcqp3.jpg" data-src="https://res.cloudinary.com/csisideaslab/image/upload/v1574272787/health-commission/cost_of_recent_outbreaks_Horizontal_wkcqp3.jpg" />
+    <img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574450392/health-commission/cost_of_recent_outbreaks_DESKTOP_wvbgkd.jpg" data-src="https://res.cloudinary.com/csisideaslab/image/upload/v1574450392/health-commission/cost_of_recent_outbreaks_DESKTOP_wvbgkd.jpg" />
   </picture>
   <figcaption class="img-caption"></figcaption>
 </figure>
