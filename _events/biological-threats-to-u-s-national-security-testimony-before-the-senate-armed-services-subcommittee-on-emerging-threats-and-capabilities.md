@@ -13,10 +13,9 @@ series: ''
 themes: []
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1574804219/health-commission/Biological_Threats_to_U.S._National_Security_Testimony_Photo_ax0jv0.jpg
 image_caption: Biological Threats to U.S. National Security Testimony Photo
-image_credit: ''
+image_credit: CSIS iDeas Lab
 documents:
-- https://res.cloudinary.com/csisideaslab/image/upload/v1574804173/health-commission/191120_Julie_Gerberding_Testimony_lrm2ep.pdf
-published: false
+- https://res.cloudinary.com/csisideaslab/image/upload/v1574804401/health-commission/191120_Julie_Gerberding_Testimony_gstiei.pdf
 
 ---
 On November 20, Dr. Julie L. Gerberding, Co-Chair of the CSIS Commission on Strengthening America’s Health Security, testified before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities on “[Biological Threats to U.S. National Security](https://www.csis.org/analysis/biological-threats-us-national-security).” The Commission’s final report, “[Ending the Cycle of Crisis and Complacency in U.S. Global Health Security](https://healthsecurity.csis.org/final-report/),” was submitted to the record and featured prominently throughout the hearing, including in Chairwoman Ernst’s opening statement and in the Q&A period.
