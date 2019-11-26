@@ -38,6 +38,7 @@ fields:
   label: Documents
   description: Upload PDFs here with user-friendly titles.
 pages:
+- _events/biological-threats-to-u-s-national-security-testimony-before-the-senate-armed-services-subcommittee-on-emerging-threats-and-capabilities.md
 - _events/health-security-and-north-korea-film-screening-and-discussion.md
 - _events/clade-x-pandemic-simulation-exercise.md
 - _events/health-security-in-a-disordered-world.md
