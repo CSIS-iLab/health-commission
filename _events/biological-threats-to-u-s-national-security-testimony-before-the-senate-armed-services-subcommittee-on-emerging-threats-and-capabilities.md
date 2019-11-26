@@ -22,6 +22,6 @@ On November 20, Dr. Julie L. Gerberding, Co-Chair of the CSIS Commission on Stre
 
 Dr. Gerberding describes her testimony in this short CSIS _Testify_ video.
 
-<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="[https://www.youtube.com/embed/NhJUXma5XNM](https://www.youtube.com/embed/NhJUXma5XNM "https://www.youtube.com/embed/NhJUXma5XNM")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/NhJUXma5XNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 _Download Dr. Gerberding’s full written testimony above. Watch the full hearing_ [_here_](https://www.armed-services.senate.gov/hearings/19-11-20-biological-threats-to-us-national-security)_._
