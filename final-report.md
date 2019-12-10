@@ -26,6 +26,7 @@ In reality, the American people are far from safe. To the contrary, the United S
 The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
 
 <!-- Video Embed goes here. Use the embed from YouTube -->
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/iNxCL2heOEE" frameborder="0" allow="accelerometer;" allowfullscreen></iframe>
 
 ## A World of Peril
 
