@@ -1,0 +1,92 @@
+---
+keywords:
+- Ebola
+title: DRC Ebola News (12/10/19)
+content_type: news
+excerpt: Daily update for December 10th, 2019 on the Ebola outbreak in eastern Democratic
+  Republic of the Congo (DRC)
+date: 2019-12-10 16:00:00 +0000
+authors: []
+series: ''
+themes:
+- _themes/high-risk-disease-outbreaks.md
+image: ''
+image_caption: ''
+image_credit: ''
+pdf: ''
+is_commission_related:
+  description: ''
+  related_event: ''
+references: ''
+
+---
+There were **6** **new cases** reported on December 10th.
+
+Technical Secretary of the DRC Multisectoral Committee for Ebola Response (CMRE) Jean-Jacques Muyembe held a meeting on December 9 to discuss a plan for the country’s transition post-Ebola.
+
+### Recommended reading:
+
+[Deadly measles and Ebola outbreaks show why vaccinations are so essential<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://thehill.com/opinion/healthcare/473805-deadly-measles-and-ebola-outbreaks-show-why-vaccinations-are-so-essential){:rel=”noopener”}
+
+## DRC MoH Statistics/WHO AFRO Dashboard (as of December 10)
+
+[WHO AFRO Dashboard<i/>{:class=”icon-external-link”}](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c){:target=”_blank”}{:rel=”noopener”}
+
+**Total cases: 3,330**
+
+* Confirmed cases: 3,212
+* Probable cases: 118
+* Suspected cases: 351
+
+**Deaths: 2,209**
+
+**Vaccinated**:
+
+* **256,381** (Merck Vaccine)
+* **1,300** (J&J Vaccine)
+
+## Ebola responders face deadly attacks. We must step up security in DRC
+
+[_Dr. Tedros, The Guardian_<i/>{:class=”icon-external-link”}](https://www.theguardian.com/global-development/2019/dec/10/ebola-responders-face-deadly-attacks-we-must-step-up-security-in-drc?utm_source=Global+Health+NOW+Main+List&utm_campaign=50627b9317-EMAIL_CAMPAIGN_2019_12_09_01_27&utm_medium=email&utm_term=0_8d0d062dbd-50627b9317-3009629){:target=”_blank”}{:rel=”noopener”}
+
+_12/10/19_
+
+On 28 November, attackers stormed two Ebola facilities, killing four health workers and injuring seven. So far in 2019, WHO has documented about 390 attacks on health facilities in DRC. In response to these senseless tragedies, it is time we take up action on three fronts: 1) step up security; 2) ensure effective dialogue at the community level; and 3) clearly demonstrate political will to protect humanitarian operations. First, to secure health operations in eastern DRC, national security forces and the United Nations Organization Stabilization Mission need to more proactively protect Ebola responders so that they can be in a safe working environment. Second, we must intensify collaboration and work more closely with civil society organizations to improve security for health operations. Third, all levels of government and organizations must combine to address the problem.
+
+## RDC/Ebola: le comité de riposte réfléchit sur la transition post Ebola
+
+[_Congo Profond_<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://congoprofond.net/rdc-ebola-le-comite-de-riposte-reflechit-sur-la-transition-post-ebola/){:rel=”noopener”}
+
+_12/10/19_
+
+On Monday 9 December, a meeting was held in Goma to discuss the DRC’s transition plan post-Ebola. Technical Secretary of the DRC Multisectoral Committee for the Ebola Response (CMRE) Jean-Jacques Muyembe gave precise guidance on the opportunity, urgency, and need to have a transition plan in place. Muyembe has formed a working group led by Dr. Benoît Kebela which will guide the process of developing a plan. The plan has a two-sided mission, outlined by President Félix Antoine tshisekedi Tshilombo, which aims to end the epidemic while also reinforcing the health and sanitation systems in provinces affected by the outbreak. The working group remains open to national and international partnerships and will be joined by core partners once it is established.
+
+## Ebola briefing: New violence thwarts efforts to end Congo’s deadliest outbreak
+
+[_The New Humanitarian_<i/>{:class=”icon-external-link”}](https://www.thenewhumanitarian.org/news/2019/12/09/Ebola-Congo-attacks-WHO){:target=”_blank”}{:rel=”noopener”}
+
+_12/9/19_
+
+The Democratic Republic of Congo’s deadliest ever Ebola outbreak has shown signs of slowing in recent weeks, but militia attacks, anti-UN protests, and chronic community distrust are undermining the 16-month effort to end the epidemic. Some health workers are concerned that the recent decrease in cases may be misinterpreted as a signal that people can be less vigilant about prevention measures. Moreover, delay in getting patients into treatment centers and inaccurate contact tracing is causing problems, according to MSF, and access remains an important issue. “People are still deeply suspicious of the Ebola response in some places, and believe that responders are there for another reason,” said Margaret Ann Harris, WHO spokesperson in Congo. As cases dwindle, the government and aid groups are starting to think about post-Ebola programming, particularly for survivors who often face stigma and challenges when reintegrating into communities. Harris said WHO will look to support Congo’s wider healthcare system, using the resources and expertise built up over the course of the 16-month epidemic.
+
+## Twitter
+
+### Tweet by Helen Branswell – 12/10/19
+
+[@HelenBranswell<i/>{:class=”icon-external-link”}{:target=”_blank”}](https://twitter.com/HelenBranswell/status/1204419720042049543){:rel=”noopener”}
+
+3\. #Ebola containment work has resumed, but the situation on the ground remains tense & that is affecting how much can be done, according to @WHOAFRO. The affect of the violence in the last half of Nov. is already evident. The daily average of reported cases is on the rise.
+
+### Tweet by Dr. Tedros Adhanom Ghebreyesus – 12/9/19
+
+[@DrTedros<i/>{:class=”icon-external-link”}](https://twitter.com/DrTedros/status/1204142051551535106){:target=”_blank”}{:rel=”noopener”}
+
+I am so happy to see the #Ebola vaccine recognised as one of the decade's top scientific discoveries by@NatGeo Science. My deep gratitude & appreciation to everyone who took part in developing this life-saving tool. Together, for a healthier world!
+
+[https://www.nationalgeographic.com/science/2019/12/top-20-scientific-discoveries-of-decade-2010s/<i/>{:class=”icon-external-link”}](https://www.nationalgeographic.com/science/2019/12/top-20-scientific-discoveries-of-decade-2010s/){:target=”_blank”}{:rel=”noopener”}
+
+### Tweet by Barry Rodrigue – 12/9/19
+
+[@barryr33082845<i/>{:class=”icon-external-link”}](https://twitter.com/barryr33082845/status/1204104663127199745){:target=”_blank”}{:rel=”noopener”}
+
+Djugu Primary School. Children gathering for #Ebola question & answer session. Teachers, @MinSanteRDC @WHO #IPC #RCCE Teams & Partners in interesting interaction with Students. Opportunity to empower Youth & through them families, communities.
