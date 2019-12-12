@@ -56,8 +56,8 @@ fields:
     schema:
       format: markdown
 pages:
-- _themes/high-risk-disease-outbreaks.md
-- _themes/drug-resistance.md
 - _themes/developing-countermeasures.md
-- _themes/managing-biotechnology.md
+- _themes/drug-resistance.md
 - _themes/global-disorder.md
+- _themes/high-risk-disease-outbreaks.md
+- _themes/managing-biotechnology.md
