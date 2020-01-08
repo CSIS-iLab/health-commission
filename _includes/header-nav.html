@@ -10,6 +10,7 @@
   <ul class="site-nav__menu">
     {% for parent_item in site.data.main_menus %}
     {% assign section_title = parent_item.title | escape %}
+    {% assign itemClass = '' %}
     {% if parent_item.url %}
     {%- capture section_title -%}<a href="{{ parent_item.url }}">{{ section_title }}</a>{%- endcapture -%}
     {% assign itemClass = 'no-dropdown' %}
