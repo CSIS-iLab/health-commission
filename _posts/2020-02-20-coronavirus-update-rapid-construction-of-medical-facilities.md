@@ -42,11 +42,15 @@ There remain many unknowns—the source of the virus, its precise transmissibili
 
 _Leishenshan Hospital is located on what was an approximately 43.7-acre bus station. Construction plans were announced on January 25. Although construction was ongoing, the hospital was opened on February 8._
 
-![Satellite images of Leishenshan Hospital on December 13, 2019 and February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582304867/health-commission/cvirus1_lsffox.jpg "Leishenshan Hospital")
+![Satellite image of Leishenshan Hospital on December 13, 2019](https://res.cloudinary.com/csisideaslab/image/upload/v1582320003/health-commission/Coronavirus_Hospitals_Image_1_eikbgz.jpg "Leishenshan Hospital December 13, 2020")
+
+![Satellite image of Leishenshan Hospital on February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582320019/health-commission/Coronavirus_Hospitals_Image_2_ahtsgr.jpg "Leishenshan Hospital February 3, 2020")
 
 _Huoshenshan Hospital is located on a previously forested region by a lake that covers 24.2 acres. Construction began on January 23, and although construction was ongoing, the hospital admitted its first patient on February 3._
 
-![Satellite image of Huoshenshan Hospital on October 1, 2019 and February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582305054/health-commission/cvirus2_azpjl4.jpg "Huoshenshan Hospital")
+![Satellite image of Huoshenshan Hospital on October 1, 2019](https://res.cloudinary.com/csisideaslab/image/upload/v1582320202/health-commission/Coronavirus_Hospitals_Image_3_euish0.jpg "Huoshenshan Hospital October 1, 2019")
+
+![Satellite image of Huoshenshan Hospital on February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582320217/health-commission/Coronavirus_Hospitals_Image_4_kucaxu.jpg "Huoshenshan Hospital February 3, 2020")
 
 _For more on the coronavirus, watch “_[What's Happening with Coronavirus](https://www.youtube.com/watch?v=QW0Q8cSBpUA&feature=youtu.be)_,” and read the CSIS critical questions, “_[The Novel Coronavirus Outbreak](https://www.csis.org/analysis/novel-coronavirus-outbreak)_.”_
 
