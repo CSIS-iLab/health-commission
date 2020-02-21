@@ -11,10 +11,8 @@ themes: []
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1582307107/health-commission/csm_corona_7b76cdaa5e_mgmise.jpg
 image_caption: Impression of the "Townhall on the Coronavirus Outbreak" at the MSC
 image_credit: MSC / Hentschel - Pictures are licensed under the Creative Commons Attribution
-  3.0 Germany License. _https://securityconference.org/en/medialibrary/asset/impression-of-the-townhall-on-the-coronavirus-outbreak-20200215-1000/
-  _
+  3.0 Germany License.
 documents: []
-published: false
 
 ---
 The 2020 Munich Security Conference (MSC) was held from February 14 to February 16. Health security and the coronavirus outbreak were major topics at the conference, and **J. Stephen Morrison**, Senior Vice President and Director of the CSIS Global Health Policy Center, led a variety of health security activities including a private roundtable discussion, a private dinner discussion, and a public town hall event.
