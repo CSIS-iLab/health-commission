@@ -1,5 +1,7 @@
 ---
-keywords: []
+keywords:
+- Coronavirus
+- China
 title: 'Coronavirus Update: Rapid Construction of Medical Facilities'
 content_type: commentary
 excerpt: CSIS experts analyze new satellite imagery showing that the Chinese government
@@ -9,6 +11,7 @@ date: 2020-02-20 05:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
 - _authors/jude-blanchette.md
+- _authors/joseph-s-bermudez-jr.md
 series: ''
 themes: []
 image: ''
