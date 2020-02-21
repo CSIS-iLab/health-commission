@@ -43,3 +43,15 @@ There remain many unknowns—the source of the virus, its precise transmissibili
 _Leishenshan Hospital is located on what was an approximately 43.7-acre bus station. Construction plans were announced on January 25. Although construction was ongoing, the hospital was opened on February 8._
 
 ![Satellite images of Leishenshan Hospital on December 13, 2019 and February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582304867/health-commission/cvirus1_lsffox.jpg "Leishenshan Hospital")
+
+_Huoshenshan Hospital is located on a previously forested region by a lake that covers 24.2 acres. Construction began on January 23, and although construction was ongoing, the hospital admitted its first patient on February 3._
+
+![Satellite image of Huoshenshan Hospital on October 1, 2019 and February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582305054/health-commission/cvirus2_azpjl4.jpg "Huoshenshan Hospital")
+
+_For more on the coronavirus, watch “_[What's Happening with Coronavirus](https://www.youtube.com/watch?v=QW0Q8cSBpUA&feature=youtu.be)_,” and read the CSIS critical questions, “_[The Novel Coronavirus Outbreak](https://www.csis.org/analysis/novel-coronavirus-outbreak)_.”_
+
+_J. Stephen Morrison is senior vice president and director of the Global Health Policy Center at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Jude Blanchette holds the Freeman Chair in China Studies at CSIS. Joseph S. Bermudez Jr. is senior fellow for imagery analysis (non-resident) at CSIS._
+
+**_Commentary_ is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**
+
+**© 2020 by the Center for Strategic and International Studies. All rights reserved.**
