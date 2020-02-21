@@ -11,6 +11,7 @@ themes: []
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1582307107/health-commission/csm_corona_7b76cdaa5e_mgmise.jpg
 image_caption: Impression of the "Townhall on the Coronavirus Outbreak" at the MSC
 image_credit: MSC / Hentschel https://securityconference.org/en/medialibrary/asset/impression-of-the-townhall-on-the-coronavirus-outbreak-20200215-1000/
+  Pictures are licensed under the Creative Commons Attribution 3.0 Germany License
 documents: []
 published: false
 
