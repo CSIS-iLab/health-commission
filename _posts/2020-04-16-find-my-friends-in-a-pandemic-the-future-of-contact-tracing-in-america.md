@@ -1,7 +1,7 @@
 ---
 keywords:
-- COVID-19
 - Coronavirus
+- COVID-19
 title: 'Find My Friends in a Pandemic: The Future of Contact Tracing in America'
 content_type: commentary
 excerpt: Many countries that have slowed the spread of Covid-19 have used digital
@@ -35,7 +35,7 @@ Indeed, when we consider other countries that have succeeded in curbing their ep
 
 In each of these countries, the government is using digital technologies to monitor transmission and track and enforce compliance with social distancing requirements. However, the use of digital surveillance technologies in these countries involves an invasion of privacy that most Americans would resist. As U.S. officials begin to devise strategies for opening up society without reigniting outbreaks, is there anything that they can learn from these other countries? Or are the approaches taken in Asia simply not replicable in the United States?
 
-**South Korea**
+### **South Korea**
 
 The government of South Korea, [praised](https://www.foreignaffairs.com/articles/united-states/2020-04-10/south-korea-offers-lesson-best-practices) for its strong testing, contact tracing, isolation, and quarantine measures, has succeeded in containing the spread of Covid-19. Technology has been central to the government’s containment strategy.
 
@@ -49,7 +49,7 @@ In response to the increasing use of digital surveillance for Covid-19 tracking,
 
 Despite human rights concerns, recent public opinion of the South Korean government’s response to Covid-19 has been generally positive. South Korea’s Covid-19 response—which involved not only digital surveillance but also a massive testing effort, rapid dissemination of personal protective equipment, and close coordination across the government and the private sector—has been extremely successful, keeping the country’s [reported cases](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030) at about 10,000 and its reported deaths below 250.
 
-**Singapore**
+### **Singapore**
 
 Today, Singapore is facing a [dramatic surge in new cases](https://www.bbc.com/news/world-asia-52232147) linked to the return of Singaporeans from overseas after many countries urged citizens to return to their home countries in mid-March. In the early stages of its outbreak, Singapore had managed to avoid a lockdown and widespread restrictions on movement. But following the recent spike in imported cases, the government has closed schools and non-essential businesses and is recommending that people stay home as much as possible.
 
@@ -59,7 +59,7 @@ A key element to Singapore’s success in containing the outbreak has been the g
 
 TraceTogether data is encrypted and anonymized, and sharing data with the government is optional. Use of the app is technically voluntary but strongly encouraged by the government and entities such as schools and private companies. While government surveys show a majority of Singaporeans approve of how the government handles personal data, its surveillance and collection of data as part of the Covid-19 response has [stirred concern](https://www.latimes.com/world-nation/story/2020-03-24/coronavirus-singapore-trace-together) among both public health experts and civil liberty advocates.
 
-**Taiwan**
+### **Taiwan**
 
 The government of Taiwan has also prioritized technological innovations in its response to Covid-19. At the start of the outbreak, Taiwan established a mobile system to expedite airport screenings to prevent the importation of cases from other countries. The [Entry Quarantine System](https://www.cdc.gov.tw/En/Bulletin/Detail/j99d7-x-hlc8AhOvTySo6w?typeid=158) allows travelers with Taiwanese mobile phone numbers to scan a QR code (a unique bar code) upon arrival at Taiwanese airports. The QR code leads to an online health declaration form. Upon completion of the form, low-risk travelers are sent a health declaration pass by SMS to their phones, which expedites movement through immigration clearance. The Taiwan Centers for Disease Control [describes](https://www.cdc.gov.tw/En/Bulletin/Detail/j99d7-x-hlc8AhOvTySo6w?typeid=158) the system as “4 simple steps: scan the QR Code, fill out the form, get health declaration pass via SMS, and show the pass on your mobile phone.”
 
@@ -69,7 +69,7 @@ When individuals who are under quarantine orders [trigger the alert system](http
 
 While some have expressed concerns about the severity of this approach, public opinion has been [generally supportive](https://qz.com/1825997/taiwan-phone-tracking-system-monitors-55000-under-coronavirus-quarantine/) of the government’s Covid-19 response, including the use of digital surveillance. The government claims that they will end the current tracking system when the pandemic ends.
 
-**China**
+### **China**
 
 Throughout January and February 2020, the world looked on as China imposed a series of draconian measures to contain the novel coronavirus. China deployed the full power of its [surveillance state](https://www.theatlantic.com/international/archive/2018/02/china-surveillance/552203/) to both communicate and strictly enforce its social distancing, testing, contact tracing, and quarantine measures.
 
@@ -81,7 +81,7 @@ The Chinese government has also put to full use its ubiquitous—and controversi
 
 For months, public health experts and civil liberty advocates have expressed [alarm](https://www.hrw.org/news/2020/03/12/human-toll-chinas-coronavirus-control-efforts) at the severity of China’s response, including its invasive surveillance practices. However, the Chinese government does appear to have succeeded in reducing the Covid-19 case load from a peak of 3,500 daily cases in February to zero in mid-March (although experts are increasingly [questioning](https://www.nytimes.com/2020/04/02/us/politics/cia-coronavirus-china.html) the veracity and completeness of China’s official figures).
 
-**The Way Forward for the United States**
+### **The Way Forward for the United States**
 
 Contact tracing will be central to the next phase of the Covid-19 response in the United States, and digital technologies will be required to scale this effort across the country. This will likely involve a larger government role in monitoring and surveilling individuals’ health statuses than Americans have ever seen before. But U.S. officials do not need to replicate the invasive approaches used in Singapore, South Korea, Taiwan, and China in order to end the epidemic.
 
@@ -93,8 +93,8 @@ The federal government could help to finance the development of a mobile phone a
 
 A Bluetooth-based application is an important first step in establishing a digital contact tracing system that protects civil liberties and patient privacy. The [Center for American Progress](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/) has outlined several additional steps that could be taken to protect privacy as a digital contact tracing system is rolled out nationally, including housing the data with a trusted, nonprofit entity, prohibiting the sharing of data with third parties, and automatically deleting the data after 45 days.
 
-These privacy protection measures notwithstanding, a heightened degree of monitoring at the individual level will be needed to allow people to return to school and work safely. A Bluetooth-based application would need to be used widely—and perhaps even become compulsory—in order for it to be effective. Some [experts](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/) have recommended that downloading such an application should be a prerequisite for receiving a Covid-19 test. The application could ultimately incorporate an [immunity certification](https://www.theguardian.com/world/2020/apr/03/immunity-passports-can-they-end-uk-coronavirus-lockdown) system, which at the extreme could require showing proof of immunity before using public transport or returning to work.   
-   
+These privacy protection measures notwithstanding, a heightened degree of monitoring at the individual level will be needed to allow people to return to school and work safely. A Bluetooth-based application would need to be used widely—and perhaps even become compulsory—in order for it to be effective. Some [experts](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/) have recommended that downloading such an application should be a prerequisite for receiving a Covid-19 test. The application could ultimately incorporate an [immunity certification](https://www.theguardian.com/world/2020/apr/03/immunity-passports-can-they-end-uk-coronavirus-lockdown) system, which at the extreme could require showing proof of immunity before using public transport or returning to work.
+
 This may be a bitter pill to swallow in the United States. Americans are [wary](https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/) of mass data collection after experiencing repeated data breaches and gross violations of digital privacy in recent years. A national, multisectoral effort involving leaders from government, academia, the faith community, and the tech sector will be required to convince Americans of the need for robust contact tracing in order to reopen society incrementally—and safely. Americans will need to believe that these digital tools will guarantee their health and safety, their privacy, and their return to normalcy. Ultimately, tradeoffs will be necessary in order to stop the spread, prevent resurgent outbreaks, protect the vulnerable, and unfreeze the economy.
 
 _Anna Carroll is an associate fellow for Global Health Security with the Global Health Policy Center at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Samantha Stroman is a program manager with the Global Health Policy Center at CSIS._
