@@ -1,7 +1,7 @@
 ---
 keywords:
-- COVID-19
 - Coronavirus
+- COVID-19
 title: 'Covid-19 in the D.C. Area: Should We Be Concerned or Optimistic?'
 content_type: commentary
 excerpt: How bad is Covid-19 likely to be for the District of Columbia and the broader
@@ -13,9 +13,11 @@ authors:
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1587672903/health-commission/GettyImages-1209563236_o6i4th.jpg
+image_caption: 'A woman wearing a mask to prevent the spread of COVID-19, known as
+  coronavirus, rides a bike in front of the US Capitol in Washington, DC, April 9,
+  2020. '
+image_credit: Saul Loeb/AFP via Getty Images
 pdf: ''
 is_commission_related:
   description: ''
@@ -25,7 +27,7 @@ references: ''
 ---
 On March 7, the District of Columbia [confirmed its first case](https://www.wsj.com/articles/washington-d-c-confirms-first-case-of-coronavirus-11583635572) of the novel coronavirus (Covid-19). Across the city and neighboring states, cases continue to rise steadily, now exceeding 26,000 in total. As of April 22, D.C. has [reported](https://coronavirus.dc.gov/page/coronavirus-data) 3,206 cases and 127 deaths, equivalent to [19 deaths](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/) per 100,000 (compared to [97 deaths](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/) per 100,000 in New York state and toward the high end of deaths per capita nationally). In the broader region, Maryland has [reported](https://coronavirus.maryland.gov/) 14,775 cases and 631 deaths ([12 deaths](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/) per 100,000), and Virginia has [reported](http://www.vdh.virginia.gov/coronavirus/) 10,266 cases and 349 deaths ([4 deaths](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/) per 100,000).
 
-**Q1:** **How bad is Covid-19 likely to be for the District of Columbia, and what can be said for the broader National Capital Region?**
+### **Q1:** **How bad is Covid-19 likely to be for the District of Columbia, and what can be said for the broader National Capital Region?**
 
 **A1:** The picture remains mixed and murky.
 
@@ -45,7 +47,7 @@ The city’s community has thinned, as Congress has recessed for an extended per
 
 D.C. Mayor Muriel Bowser has in recent weeks operated in very close sync with Maryland Governor Larry Hogan and Virginia Governor Ralph Northam. Governors Hogan and Northam, the former in particular, have both been proactive and aggressive in securing necessary resources and implementing stringent public health measures. All three jurisdictions [implemented stay-at-home orders](https://www.nbcwashington.com/news/local/whats-allowed-banned-prohibited-in-dc-maryland-virginia-under-stay-at-home-orders-coronavirus/2259216/) within a day of each other, and the three leaders have indicated they will relax containment measures in close coordination with each other when the time is right. Both Governor Hogan and Governor Northam [have been vocal](https://www.nytimes.com/2020/04/21/opinion/coronavirus-test.html?referringSource=articleShare) in their calls for increased testing and their criticisms of the administration’s claims on testing. Governor Hogan [recently procured](https://www.washingtonpost.com/local/maryland-coronavirus-testing-kits-south-korea/2020/04/20/d5d449a4-8311-11ea-a3eb-e9fc93160703_story.html) a whopping 500,000 Covid-19 testing kits from South Korea. Closely intertwined with its neighbors, the District benefits greatly from Virginia and Maryland’s increasingly strong responses to Covid-19.
 
-**Q2: When do experts expect the outbreak to peak in D.C., and how many cases and deaths are projected?**
+### **Q2: When do experts expect the outbreak to peak in D.C., and how many cases and deaths are projected?**
 
 **A2:** Projections vary on what is to be expected in D.C., which remains on the upward slope of its epidemic. The widely cited model, referenced by the White House, from the Institute for Health Metrics and Evaluation (IHME) at the University of Washington [projects](https://covid19.healthdata.org/united-states-of-america/district-of-columbia) that D.C. has already passed peak hospital resource use and peak daily deaths, on April 15 and April 14, respectively. The IHME model projects an ultimate death toll of 170 in D.C. by early August.
 
@@ -55,11 +57,11 @@ However, Mayor Bowser has since [indicated a revised projection](https://thehill
 
 Still in an acceleration phase, case and death numbers [continue to rise](https://www.wsj.com/articles/washington-d-c-girds-for-its-coronavirus-peak-11587035516) in D.C., with notable jumps in deaths on April 21 and April 22. Recent news coverage of confirmed cases among [Whole Foods workers](https://www.nytimes.com/2020/04/15/us/politics/coronavirus-grocery-workers-washington.html) in D.C. underscores the continued vulnerability of essential workers in the city. As in other parts of the country, the pandemic is having a disproportionate impact on minority populations. Black residents make up [about 46 percent](https://www.census.gov/quickfacts/DC) of the total population of D.C., but as of April 22, [80 percent](https://coronavirus.dc.gov/page/coronavirus-data) of Covid-19 fatalities in D.C. have been black residents. Pressures are mounting on the city leadership to take active measures to address these disparities.
 
-**Q3: What is the status of testing in D.C.?**
+### **Q3: What is the status of testing in D.C.?**
 
 **A3:** As of April 22, 15,502 people have been tested in DC, about 2 percent of the city’s population. The city has pushed in recent weeks to raise its testing numbers and now [ranks](https://www.vox.com/2020/3/26/21193848/coronavirus-us-cases-deaths-tests-by-state) seventh in the nation in terms of per capita testing by states and territories, a sad commentary on the overall continued woeful state of testing across the United States. D.C.’s [testing effort](https://coronavirus.dc.gov/testing) includes drive-through and walk-up testing sites throughout the city. [Testing criteria](https://coronavirus.dc.gov/testing) emphasize those with symptoms and in priority groups such as healthcare workers, critical infrastructure workers, and individuals at higher risk of serious illness. As in other parts of the country, shortages of personal protective equipment (PPE) and testing reagents persist. When people do finally get tested, the reality of the virus circulating within the population is revealed: 20 percent of those tested are positive for Covid-19.
 
-**Q4: How are D.C. hospitals and healthcare providers increasing their capacity to handle a potential surge?**
+### **Q4: How are D.C. hospitals and healthcare providers increasing their capacity to handle a potential surge?**
 
 **A4:** While comprehensive data on hospital capacity can be difficult to find, a [_Washington Post_ analysis](https://www.washingtonpost.com/graphics/2020/investigations/coronavirus-hospitals-data/) of hospital capacity across the country estimated that the D.C. hospital referral region had about 181 hospital beds per 100,000 people, about 29 ICU beds per 100,000 people, and about 18 mechanical ventilators used per 100,000 people. The analysis projected that if 2 in 10 adults were infected, the city’s ICU capacity would be overwhelmed and its hospital bed and ventilator capacities might also be overwhelmed.
 
@@ -69,7 +71,7 @@ The Army Corps of Engineers, having concluded that the risk of Covid-19 in D.C. 
 
 At present, D.C. is far from equipped to begin relaxing social distancing requirements. Far more capacity will be needed to test, isolate and quarantine, and conduct contact tracing before it will be safe for the city to begin the first phase of reopening, as laid out in the President’s guidelines for reopening.
 
-**Q5: How is Covid-19 affecting D.C. economically?**
+### **Q5: How is Covid-19 affecting D.C. economically?**
 
 **A5:** Through early-mid March, Mayor Bowser was [aligned](https://thehill.com/homenews/news/486223-we-are-open-for-business-dc-national-cherry-blossom-festival-still-on-as) with the business community in resisting cancellations and closures that could hurt the city’s tourism industry. However, all non-essential businesses in D.C. [have been closed](https://coronavirus.dc.gov/release/mayor-bowser-orders-closure-non-essential-businesses) since the evening of March 25, and Mayor Bowser [has extended](https://coronavirus.dc.gov/release/mayor-bowser-extends-public-health-emergency-stay-home-order-and-closure-non-essential) closures through at least May 15. The D.C. public school year will end [three weeks early](https://www.nbcwashington.com/news/local/dc-mayor-gives-schools-update-amid-coronavirus-crisis/2276944/), on May 29. Criteria for reopening [are likely to include](https://www.washingtonpost.com/dc-md-va/2020/04/21/reopening-dmv-when-officials-may-ease-coronavirus-restrictions-maryland-virginia-dc/) sustained declines in new cases, deaths, and hospitalizations, increased testing and contact tracing, and expanded hospital capacity to absorb any patient surges.
 
