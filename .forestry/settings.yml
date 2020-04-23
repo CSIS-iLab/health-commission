@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: document
+  path: NETLIFY.md
+  label: Build Status
+  read_only: true
 - type: heading
   label: MANAGE
 - type: jekyll-posts
@@ -90,8 +94,4 @@ build:
   preview_docker_image: forestryio/build:latest
   mount_path: "/opt/buildhome/repo"
   instant_preview_command: npm run forestry:preview
-  publish_command: bundle exec jekyll build -d _site
-  publish_env:
-  - JEKYLL_ENV=production
-  output_directory: _site
   preview_command: npm run forestry:preview
