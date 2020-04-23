@@ -5,8 +5,8 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: final-report.md
 featured_post_secondary:
-- _posts/2020-04-01-which-covid-19-future-will-we-choose.md
-- _posts/2020-02-20-coronavirus-update-rapid-construction-of-medical-facilities.md
+- _posts/2020-04-23-covid-19-in-the-d-c-area-should-we-be-concerned-or-optimistic.md
+- _posts/2020-04-16-find-my-friends-in-a-pandemic-the-future-of-contact-tracing-in-america.md
 featured_events: _events/munich-security-conference-coronavirus-town-hall.md
 
 ---
