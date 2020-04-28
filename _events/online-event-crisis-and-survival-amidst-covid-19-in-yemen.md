@@ -18,6 +18,7 @@ image_caption: A Yemeni volunteer disinfects the hands of a man driving a motorc
   March 28, 2020.
 image_credit: Mohammed Huwais/AFP via Getty Images
 documents: []
+published: false
 
 ---
 Cases of COVID-19 have been confirmed in Yemen. The spread of the pandemic in the war-torn country threatens to be the most catastrophic in the world. Yemen’s healthcare system has collapsed, over 3.6 million Yemenis are internally displaced, and 24 million Yemenis—85 percent of the population—are in need of humanitarian aid.
