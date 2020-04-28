@@ -1,9 +1,9 @@
 ---
 content_type: event
 keywords:
-- COVID-19
-- Coronavirus
 - Public Event
+- Coronavirus
+- COVID-19
 title: 'Online Event: Crisis and Survival Amidst COVID-19 in Yemen'
 date: 2020-04-27 04:00:00 +0000
 excerpt: On April 27, 2020, CSIS hosted a virtual discussion of the implications of
@@ -18,7 +18,6 @@ image_caption: A Yemeni volunteer disinfects the hands of a man driving a motorc
   March 28, 2020.
 image_credit: Mohammed Huwais/AFP via Getty Images
 documents: []
-published: false
 
 ---
 Cases of COVID-19 have been confirmed in Yemen. The spread of the pandemic in the war-torn country threatens to be the most catastrophic in the world. Yemen’s healthcare system has collapsed, over 3.6 million Yemenis are internally displaced, and 24 million Yemenis—85 percent of the population—are in need of humanitarian aid.
