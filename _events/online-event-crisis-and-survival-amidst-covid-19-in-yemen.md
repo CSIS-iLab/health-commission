@@ -12,8 +12,10 @@ excerpt: On April 27, 2020, CSIS hosted a virtual discussion of the implications
 series: _series/health-security-dimensions-of-geopolitical-crises.md
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: ''
-image_caption: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1588087155/health-commission/GettyImages-1208466651_mcx0st.jpg
+image_caption: A Yemeni volunteer disinfects the hands of a man driving a motorcycle
+  in the capital Sanaa, amid concerns over the spread of the novel coronavirus, on
+  March 28, 2020.
 image_credit: Mohammed Huwais/AFP via Getty Images
 documents: []
 published: false
