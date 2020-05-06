@@ -19,7 +19,6 @@ image_caption: A sign is seen near the entrance of the chamber of the US House o
   2020
 image_credit: " NICHOLAS KAMM / AFP via Getty Images"
 documents: []
-published: false
 
 ---
 On May 1, 2020, CSIS’s International Security Program and Global Health Policy Center hosted a bipartisan event with Representatives Stephanie Murphy (D-FL) and John Katko (R-NY) highlighting their efforts to establish a bipartisan commission to examine the Covid-19 crisis. Dr. Kathleen Hicks, Senior Vice President, Henry A. Kissinger Chair, and Director of the International Security Program at CSIS hosted a discussion with Representatives Murphy and Katko from 11:00 a.m. to 11:30 a.m.
