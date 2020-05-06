@@ -30,7 +30,7 @@ Cases of COVID-19 have been confirmed in Yemen. The spread of the pandemic in th
 
 On April 27, 2020, CSIS held a virtual discussion of the implications of COVID-19 in Yemen with **Lise Grande**, UN Resident Coordinator and Humanitarian Coordinator in Yemen. The event was co-hosted by the CSIS Middle East Program, Global Health Policy Center, and Humanitarian Agenda. The event featured CSIS experts **Jon B. Alterman**, Senior Vice President, Zbigniew Brzezinski Chair in Global Security and Geostrategy, and Director of the Middle East Program, and **J. Stephen Morrison**, Senior Vice President and Director of the Global Health Policy Center.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ItMMk5uqFZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/ItMMk5uqFZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Full video of the event is available here: [https://www.csis.org/events/online-event-crisis-and-survival-amidst-covid-19-yemen](https://www.csis.org/events/online-event-crisis-and-survival-amidst-covid-19-yemen "https://www.csis.org/events/online-event-crisis-and-survival-amidst-covid-19-yemen").
 
