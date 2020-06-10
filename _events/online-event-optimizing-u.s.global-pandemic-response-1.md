@@ -28,7 +28,7 @@ We have entered an uncertain, high-risk moment of transition in America. A gradu
 
 How to achieve success in each of these two areas, and what are the true risks, are subjects of intense, often divisive political debates. We heard from Senator Van Hollen's on how he views the way forward.
 
-<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="[https://www.youtube.com/embed/1x4_DY-XwIQ](https://www.youtube.com/embed/1x4_DY-XwIQ "https://www.youtube.com/embed/1x4_DY-XwIQ")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/1x4_DY-XwIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Full video of the event is available here:
 
