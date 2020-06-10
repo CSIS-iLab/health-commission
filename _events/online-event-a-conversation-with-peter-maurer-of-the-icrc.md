@@ -21,7 +21,6 @@ image_caption: A Syrian medical volunteer affiliated with a Turkish-registered S
   March 16, 2020.
 image_credit: Photo by AAREF WATAD/AFP via Getty Images
 documents: []
-published: false
 
 ---
 The spread of Covid-19 continues to dominate global attention. Governments are primarily focusing efforts on the domestic response to the virus. With 168 million people in need of humanitarian assistance globally, including 70 million forcibly displaced, understanding how the pandemic will impact the most vulnerable is vital to implementing an effective response. In this series, the CSIS Humanitarian Agenda speaks with leadership across humanitarian institutions about the challenges their organizations face during Covid-19.
