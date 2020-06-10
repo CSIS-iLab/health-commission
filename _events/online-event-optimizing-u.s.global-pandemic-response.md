@@ -13,9 +13,10 @@ excerpt: COVID-19 has revealed stark deficiencies and weaknesses in pandemic pre
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1591801964/health-commission/GettyImages-1212876253_fnfoav.jpg
+image_caption: 'A sign urging social distancing due to COVID-19, known as coronavirus,
+  is seen outside of the US Capitol in Washington, DC, May 13, 2020. '
+image_credit: Photo by SAUL LOEB/AFP via Getty Images
 documents: []
 published: false
 
@@ -30,7 +31,7 @@ On June 2, CSIS hosted a virtual conversation on this important legislative init
 
 Daniel F. Runde, Senior Vice President, William A. Schreyer Chair, and Director, CSIS Project on Prosperity and Development, provided opening remarks to this event and J. Stephen Morrison, Senior Vice President and Director of the CSIS Global Health Policy Center, will moderated the exchange.
 
-\[EMBED VIDEO HERE IF POSSIBLE\]
+<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="[https://www.youtube.com/embed/8lS9tI0sMuA](https://www.youtube.com/embed/8lS9tI0sMuA "https://www.youtube.com/embed/8lS9tI0sMuA")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Full video of the event is available here: [https://www.youtube.com/watch?v=8lS9tI0sMuA&feature=emb_logo](https://www.youtube.com/watch?v=8lS9tI0sMuA&feature=emb_logo "https://www.youtube.com/watch?v=8lS9tI0sMuA&feature=emb_logo")
 
