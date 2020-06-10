@@ -13,7 +13,7 @@ excerpt: COVID-19 has revealed stark deficiencies and weaknesses in pandemic pre
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1591801964/health-commission/GettyImages-1212876253_fnfoav.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1591813736/health-commission/GettyImages-1212876253_2_ejke5i.jpg
 image_caption: 'A sign urging social distancing due to COVID-19, known as coronavirus,
   is seen outside of the US Capitol in Washington, DC, May 13, 2020. '
 image_credit: SAUL LOEB/AFP via Getty Images
