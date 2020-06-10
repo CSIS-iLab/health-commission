@@ -18,7 +18,6 @@ image_caption: 'A sign urging social distancing due to COVID-19, known as corona
   is seen outside of the US Capitol in Washington, DC, May 13, 2020. '
 image_credit: SAUL LOEB/AFP via Getty Images
 documents: []
-published: false
 
 ---
 COVID-19 has revealed stark deficiencies and weaknesses in pandemic preparedness and triggered a new debate over how the United States is to better organize itself against threats that have profound health and economic consequences, at home and abroad.
