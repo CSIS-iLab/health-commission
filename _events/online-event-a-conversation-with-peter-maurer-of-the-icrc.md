@@ -1,9 +1,9 @@
 ---
 content_type: event
 keywords:
-- COVID-19
-- Coronavirus
 - Public Event
+- Coronavirus
+- COVID-19
 title: 'Online Event: A Conversation with Peter Maurer of the ICRC'
 date: 2020-05-18 04:00:00 +0000
 excerpt: On May 18, 2020, the CSIS Humanitarian Agenda hosted Peter Maurer, President
@@ -19,7 +19,7 @@ image_caption: A Syrian medical volunteer affiliated with a Turkish-registered S
   displaced Syrians, as part of measures of COVID-19 coronavirus disease prevention,
   near the Syrian town of Atme close to the border with Turkey in Idlib province on
   March 16, 2020.
-image_credit: Photo by AAREF WATAD/AFP via Getty Images
+image_credit: AAREF WATAD/AFP via Getty Images
 documents: []
 published: false
 
