@@ -4,7 +4,7 @@ keywords:
 - COVID-19
 - Coronavirus
 - Public Event
-title: 'Online Event: A Conversation with Sen. Van Hollen'
+title: 'Online Event: A Conversation with Senator Chris Van Hollen (D-MD)'
 date: 2020-05-28 04:00:00 +0000
 excerpt: On May 28, 2020, J. Stephen Morrison, Senior Vice President and Director
   of the CSIS Global Health Policy Center, hosted and moderated a timely conversation
