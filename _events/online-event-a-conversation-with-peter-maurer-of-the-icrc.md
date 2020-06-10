@@ -28,6 +28,6 @@ The spread of Covid-19 continues to dominate global attention. Governments are p
 
 Jacob Kurtzer, Interim Director and Senior Fellow, CSIS Humanitarian Agenda, and J. Stephen Morrison, Senior Vice President and Director, CSIS Global Health Policy Center, hosted host Peter Maurer, President of the International Committee of the Red Cross (ICRC), to discuss how the ICRC is adapting and responding to the pandemic. The discussion focused on the ICRC’s efforts to promote adherence to international humanitarian law and humanitarian principles, and explore the adaptations necessary to respond to humanitarian needs during a global pandemic.
 
-<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="[https://www.youtube.com/embed/seokBOoi4sY](https://www.youtube.com/embed/seokBOoi4sY "https://www.youtube.com/embed/seokBOoi4sY")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/seokBOoi4sY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Full video of the event is available here: [https://www.youtube.com/watch?v=seokBOoi4sY&feature=emb_logo](https://www.youtube.com/watch?v=seokBOoi4sY&feature=emb_logo "https://www.youtube.com/watch?v=seokBOoi4sY&feature=emb_logo")
