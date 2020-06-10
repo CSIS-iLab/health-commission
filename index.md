@@ -5,9 +5,9 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: final-report.md
 featured_post_secondary:
-- _posts/2020-04-28-who-and-president-trump-on-the-ledge.md
+- _posts/2020-06-09-the-u.s.government-and-antimicrobial-resistance.md
 - _posts/2020-04-23-covid-19-in-the-d-c-area-should-we-be-concerned-or-optimistic.md
-featured_events: _events/online-event-establishing-a-bipartisan-covid-19-commission.md
+featured_events: _events/online-event-optimizing-u.s.global-pandemic-response-1.md
 
 ---
 The CSIS Commission on Strengthening America’s Health Security aims to chart a bold vision for the future of U.S. leadership in global health security, at home and abroad. Recent events demonstrate the growing linkages between global health challenges and U.S. national security interests. We see an emerging recognition of the need for a stronger, more coherent, better integrated, and more reliably sustained U.S. approach to health security. The Commission offers the opportunity to build a pragmatic, actionable consensus.
