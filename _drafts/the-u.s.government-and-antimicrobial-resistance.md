@@ -11,9 +11,11 @@ authors: []
 series: ''
 themes:
 - _themes/drug-resistance.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1591813526/health-commission/GettyImages-1026582854_2_q3yr67.jpg
+image_caption: Jean Lee, a PhD student at Melbourne's Doherty Institute, displays
+  the superbug Staphylcocus epidermidis on an agar plate in Melbourne on September
+  4, 2018.
+image_credit: WILLIAM WEST/AFP via Getty Images
 pdf: https://res.cloudinary.com/csisideaslab/image/upload/v1591803462/health-commission/200518_Bristol_AMRBrief_v5_wrbowx.pdf
 is_commission_related:
   description: ''
