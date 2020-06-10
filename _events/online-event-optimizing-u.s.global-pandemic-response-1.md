@@ -13,7 +13,7 @@ excerpt: On May 28, 2020, J. Stephen Morrison, Senior Vice President and Directo
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1591802313/health-commission/GettyImages-1195533761_e2qjzw.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1591813676/health-commission/GettyImages-1195533761_2_jqdv8r.jpg
 image_caption: US Senator Chris Van Hollen (D-MD) returns from a dinner a break in
   the Senate impeachment trial of US President Donald Trump at the US Capitol on January
   23, 2020 in Washington, DC.
