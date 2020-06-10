@@ -22,4 +22,16 @@ documents: []
 published: false
 
 ---
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/1x4_DY-XwIQ](https://www.youtube.com/embed/1x4_DY-XwIQ "https://www.youtube.com/embed/1x4_DY-XwIQ")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+On May 28, 2020, J. Stephen Morrison, Senior Vice President and Director of the CSIS Global Health Policy Center, hosted and moderated a timely conversation with Senator Chris Van Hollen (D-MD) about both the public health and economic dimensions to addressing the coronavirus pandemic.
+
+We have entered an uncertain, high-risk moment of transition in America. A gradual reopening across the nation, it is hoped, can be accomplished in an orderly and safe way without inviting the reignition of major outbreaks. At the same time, we are weighing what additional economic measures - at what level, and when - will be most effective in preserving the vitality and integrity of the American economy.
+
+How to achieve success in each of these two areas, and what are the true risks, are subjects of intense, often divisive political debates. We heard from Senator Van Hollen's on how he views the way forward.
+
+<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="[https://www.youtube.com/embed/1x4_DY-XwIQ](https://www.youtube.com/embed/1x4_DY-XwIQ "https://www.youtube.com/embed/1x4_DY-XwIQ")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Full video of the event is available here:
+
+[https://www.youtube.com/watch?v=1x4_DY-XwIQ&feature=emb_logo](https://www.youtube.com/watch?v=1x4_DY-XwIQ&feature=emb_logo "https://www.youtube.com/watch?v=1x4_DY-XwIQ&feature=emb_logo")
+
+_This event was made possible by the generous support of the Bill & Melinda Gates Foundation._
