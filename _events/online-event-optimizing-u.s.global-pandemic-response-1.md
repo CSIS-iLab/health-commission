@@ -1,9 +1,9 @@
 ---
 content_type: event
 keywords:
-- COVID-19
-- Coronavirus
 - Public Event
+- Coronavirus
+- COVID-19
 title: 'Online Event: A Conversation with Senator Chris Van Hollen (D-MD)'
 date: 2020-05-28 04:00:00 +0000
 excerpt: On May 28, 2020, J. Stephen Morrison, Senior Vice President and Director
@@ -17,7 +17,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1591802313/health-c
 image_caption: US Senator Chris Van Hollen (D-MD) returns from a dinner a break in
   the Senate impeachment trial of US President Donald Trump at the US Capitol on January
   23, 2020 in Washington, DC.
-image_credit: Photo by MANDEL NGAN/AFP via Getty Images
+image_credit: MANDEL NGAN/AFP via Getty Images
 documents: []
 published: false
 
