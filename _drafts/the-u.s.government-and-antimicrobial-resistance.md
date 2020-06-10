@@ -14,7 +14,7 @@ themes:
 image: ''
 image_caption: ''
 image_credit: ''
-pdf: ''
+pdf: https://res.cloudinary.com/csisideaslab/image/upload/v1591803462/health-commission/200518_Bristol_AMRBrief_v5_wrbowx.pdf
 is_commission_related:
   description: ''
   related_event: ''
