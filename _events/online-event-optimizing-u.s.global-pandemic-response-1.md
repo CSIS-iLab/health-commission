@@ -19,7 +19,6 @@ image_caption: US Senator Chris Van Hollen (D-MD) returns from a dinner a break 
   23, 2020 in Washington, DC.
 image_credit: MANDEL NGAN/AFP via Getty Images
 documents: []
-published: false
 
 ---
 On May 28, 2020, J. Stephen Morrison, Senior Vice President and Director of the CSIS Global Health Policy Center, hosted and moderated a timely conversation with Senator Chris Van Hollen (D-MD) about both the public health and economic dimensions to addressing the coronavirus pandemic.
