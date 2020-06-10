@@ -13,7 +13,7 @@ excerpt: On May 18, 2020, the CSIS Humanitarian Agenda hosted Peter Maurer, Pres
 series: _series/health-security-dimensions-of-geopolitical-crises.md
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1591802572/health-commission/GettyImages-1207357232_u2avju.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1591813708/health-commission/GettyImages-1207357232_2_gsotie.jpg
 image_caption: A Syrian medical volunteer affiliated with a Turkish-registered Syrian
   relief organisation sterilises the inside of a make-shift classroom at a camp for
   displaced Syrians, as part of measures of COVID-19 coronavirus disease prevention,
