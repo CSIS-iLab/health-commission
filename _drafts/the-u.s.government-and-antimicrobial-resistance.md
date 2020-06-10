@@ -76,20 +76,15 @@ To move further on the issue, Obama also issued an executive order creating the 
 
 Instituting the national action plan involves a variety of federal agencies and departments overseeing health facility policies and payments; laboratory standards and operation; drug, vaccine, and diagnostic development; and agricultural practices. A Year 3 report on the plan shows considerable progress. Among highlights are increased antibiotic stewardship at long-term care facilities and hospitals; development of new point-of-care diagnostics; continuous monitoring of resistance in the U.S. public and military populations; federal support for increased laboratory capacity in all 50 states, five large cities, and Puerto Rico, including regional labs; increased funding for prevention programs nationwide; and wider access to critical data and resources to spur innovations in diagnostics and drug development.11
 
-![A 1954 photograph captures a petri-dish of penicillin showing its inhibitory effect on some bacteria but not on others. Starting with the discovery of penicillin in 1928, medical researchers developed the capacity to treat the dangerous infections that have plagued humankind for millennia.](https://res.cloudinary.com/csisideaslab/image/upload/v1591802980/health-commission/img1_boldsd.jpg)
+![A 1954 photograph captures a petri-dish of penicillin showing its inhibitory effect on some bacteria but not on others. Starting with the discovery of penicillin in 1928, medical researchers developed the capacity to treat the dangerous infections that have plagued humankind for millennia.](https://res.cloudinary.com/csisideaslab/image/upload/v1591802980/health-commission/img1_boldsd.jpg "Photo by Keystone Features/Getty Images")
 
-_Caption:A 1954 photograph captures a petri-dish of penicillin showing its inhibitory effect on some bacteria but not on others. Starting with the discovery of penicillin in 1928, medical researchers developed the capacity to treat the dangerous infections that have plagued humankind for millennia.  
- Photo by Keystone Features/Getty Images_
-
-_PHOTO LINK:_ [_https://www.gettyimages.com/detail/news-photo/petri-dish-of-penicillin-showing-its-inhibitory-effect-on-news-photo/3305352_](https://www.gettyimages.com/detail/news-photo/petri-dish-of-penicillin-showing-its-inhibitory-effect-on-news-photo/3305352 "https://www.gettyimages.com/detail/news-photo/petri-dish-of-penicillin-showing-its-inhibitory-effect-on-news-photo/3305352")
-
-**ENSURING EFFECTIVE INFECTION CONTROL**
+### **ENSURING EFFECTIVE INFECTION CONTROL**
 
 Despite substantial progress, more work is ahead. A recent report from the CDC concluded that while AMR-related deaths have decreased since its first report in 2013, the number and scope of AMR threats in the United States is greater than initially understood. “This suggests that U.S. efforts—preventing infections, stopping the spread of bacteria and fungi, and improving use of antibiotics in humans, animals, and the environment—are working, especially in hospitals,” the report said.12 But with more than 2.8 million resistant infections and 35,000 deaths a year, the number of people afflicted is still unacceptably high.13 The CDC lists 18 specific AMR threats in three categories—urgent, serious, and concerning—and also added a “watch list” of potentially problematic pathogens.14
 
 The CDC urged greater resources and attention to enhance AMR prevention and control, including creating better detection and monitoring tools and data, an expanded detection and response workforce, and increased collaboration between public health and health care providers. It also called for new antibiotics and diagnostics, better strategies for enhancing antibiotic stewardship, and better understanding of AMR in the environment and its impact on public health.
 
-**ENCOURAGING SUSTAINABLE ANTIMICROBIAL DEVELOPMENT**
+### **ENCOURAGING SUSTAINABLE ANTIMICROBIAL DEVELOPMENT**
 
 In addition to preventing infections, stemming AMR also requires development of new drugs and alternative treatments. Especially since bacteria and other pathogens begin to develop resistance to new drugs as soon as they are introduced, there will always be a need for new remedies. But fostering and sustaining a pipeline of new antimicrobials has proven to be a daunting challenge given the difficulty and expense of developing new drugs and the lack of a clear return on investment.
 
@@ -107,24 +102,19 @@ Legislators are looking at other options as well. A bipartisan proposal introduc
 
 There are other payment options being developed as well. One proposal is a subscription model that would provide access to antibiotics for a flat and predictable recurring payment. The model would guarantee a revenue stream for a product regardless of volume of use and would reflect health value beyond those provided to the patient actually using the drug. Further, since it de-links payments from drug use volume, it would eliminate the need for companies to drive uptake in order to make a profit, thus comporting to principles of antibiotic stewardship.,22 The United Kingdom’s National Health Service is piloting a subscription model whereby it will pay pharmaceutical companies in advance for access to antibiotics rather than paying based on volume.23 Another bulk purchase pilot is being launched in Sweden.24 Other options to explore include advance commitment mechanisms such as that outlined by the Center for Global Development for Tuberculosis.25
 
-**RESISTANT INFECTIONS KNOW NO BORDERS**
+### **RESISTANT INFECTIONS KNOW NO BORDERS**
 
 While AMR is a pressing issue in the United States, its implications are even more dire globally. In fact, the World Health Organization (WHO) lists AMR among its top threats to global health.26 While monitoring of AMR- related morbidity and mortality is sorely lacking in all but the most advanced economies, estimates attribute 700,000 deaths globally per year to resistant infections. By 2050, 10 million lives a year and $100 trillion of economic output could be at risk.27 The international community has held high-level meetings on the issue and developed recommendations and reports. Consensus has evolved that top actions include ensuring appropriate use of antibiotics both in humans and agriculture; eliminating untreated effluent in both animal and human health; bolstering infection prevention and control; and ensuring access to appropriate antibiotics to all who need them.28 Efforts have been made toward those goals over the last decade, including the creation of the Transatlantic Taskforce on Antimicrobial Resistance in 2009; the Global AMR Research and Development Hub launched out of the G20 in May 2018; and the Interagency Coordination Group on Antimicrobial Resistance report of April 2019.29
 
 Despite increased efforts, even determining the scope of the problem globally remains a challenge. The WHO’s new Global Antimicrobial Surveillance System (GLASS) documented antibiotic resistance in more than 500,000 people in 22 countries, although only one quarter of the United Nations’ 194 member states have agreed to participate in the network.30 Greater attention is urgently needed to strengthen national and global AMR monitoring and mitigation capabilities, increase global efforts toward antibiotic development, and create a global governance mechanism, such as the proposed High- Level AMR Commission and Global Steering Board outlined by the United Kingdom’s Dame Sally Davies and others.31 Greater global effort on AMR mitigation is a top priority for the CDC, which urges better infection control worldwide; broader use of vaccines that can decrease antibiotic use; improved use and access to antibiotics in all countries; universal access to clean water and effective sanitation; and expanded global laboratory capacity to detect AMR threats.32 As part of its effort to increase attention to the issue, the CDC launched a global AMR Challenge at the United Nations in September 2018 to encourage governments, businesses, and non- governmental organizations worldwide to make formal commitments to AMR reduction.33
 
-**AMR REQUIRES IMMEDIATE SUSTAINED U.S. LEADERSHIP AT HOME AND ABROAD**
+### **AMR REQUIRES IMMEDIATE SUSTAINED U.S. LEADERSHIP AT HOME AND ABROAD**
 
 In community clinics, doctor’s offices, and hospitals the world over, AMR threatens health and health care provision. In the United States alone, it is responsible for more than 35,000 preventable deaths every year. The United States has made significant strides in addressing the issue, but more attention and funding are needed. Increased antibiotic use and deaths from secondary infections related to coronavirus need to be highlighted to spur more action on AMR. Secondary bacterial infections killed as many as half of patients in study populations during the 2009 H1N1 influenza pandemic and are a significant concern with Covid-19 as well.34 “The challenge of antibiotic resistance could become an enormous force of additional sickness and death across our health systems as the tool of coronavirus pneumonia stretches critical care units beyond their capacity,” according to former CDC Director Julie Gerberding.35 Recognizing the threat, some lawmakers initially considered funding for antibiotic research and Medicare payment enhancements for inclusion in recent coronavirus stimulus bills, but none of the provisions were enacted.
 
-![](file:///C:/Users/marie/AppData/Local/Packages/oice_16_974fa576_32c1d314_784/AC/Temp/msohtmlclip1/01/clip_image006.jpg =624x699)
-
 Particularly in light of the coronavirus crisis and the resulting likelihood of increased and devastating secondary infections over the next months, rapid and intense attention is needed to help stem AMR. For the longer term, global AMR surveillance and monitoring need to ramp up immediately to give a more complete understanding of the threat. At the global level, high- level action and leadership is paramount. The U.S. government, in addition to improving infection control and antibiotic stewardship at home, should play a lead role in developing mechanisms to sustain antibiotic development and spur creation of innovative alternatives. Further, as a public health leader globally, the United States should actively formulate, support, and advance global efforts to reduce AMR to help protect Americans at home and abroad.
 
-_![](file:///C:/Users/marie/AppData/Local/Packages/oice_16_974fa576_32c1d314_784/AC/Temp/msohtmlclip1/01/clip_image008.jpg =624x455)Caption: Maniha, 9, holds her tuberculosis medication that a local public health counselor brought to her home. Tuberculosis programs around the world take pains to ensure that patients take their medicine, as lower default rates decrease the risk of drug-resistant tuberculosis.  
- Photo by Andrew Caballero-Reynolds/Getty Images_
-
-_Photo Link:_ [https://www.gettyimages.com/detail/news-photo/maniha-a-tuberculosis-patient-for-four-months-holds-her-news-photo/116006567](https://www.gettyimages.com/detail/news-photo/maniha-a-tuberculosis-patient-for-four-months-holds-her-news-photo/116006567 "https://www.gettyimages.com/detail/news-photo/maniha-a-tuberculosis-patient-for-four-months-holds-her-news-photo/116006567")
+![Maniha, 9, holds her tuberculosis medication that a local public health counselor brought to her home. Tuberculosis programs around the world take pains to ensure that patients take their medicine, as lower default rates decrease the risk of drug-resistant tuberculosis.](https://res.cloudinary.com/csisideaslab/image/upload/v1591803333/health-commission/img2_exkuj8.jpg "Photo by Andrew Caballero-Reynolds/Getty Images")
 
 _Nellie Bristol is a senior associate with the Global Health Policy Center at the Center for Strategic and International Studies in Washington, D.C._
 
@@ -133,25 +123,25 @@ _This brief is a product of the CSIS Commission on Strengthening America’s Hea
 _The author would like to thank the following individuals for their contributions to this report:_
 
 **_Mark Albrecht_**_, Chief, Antibacterial Program, Division of CBRN Medical Countermeasures, U.S. Biomedical Advanced Research and Development Authority_  
- **_Luciana Borio_**_, Vice President, In-Q-Tel_  
- **_Michael Craig_**_, Antibiotic Resistance Coordination and Strategy Unit, U.S. Centers for Disease Control and Prevention_  
- **_Sarah Despres_**_, Director, Government Relations, The Pew Charitable Trust_  
- **_Philip Ferro_**_, Director for Countering Biological Threats, White House National Security Council_  
- **_Lauren Fabina_**_, White House National Security Council_  
- **_Keiji Fukuda_**_, Professor, University of Hong Kong_  
- **_Andi Fristedt_**_, Deputy Health Policy Director, Senator Patty Murray_  
- **_Christopher Houchens_**_, Acting Director, Division of CBRN Medical Countermeasures, U.S. Biomedical Advanced Research and Development Authority_  
- **_Sarah Jones_**_, Partnerships, Antibiotic Resistance Coordination and Strategy Unit, U.S. Centers for Disease Control and Prevention_  
- **_Mary Lancaster_**_, International Policy Officer, Defense Threat Reduction Agency, U.S. Department of Defense_  
- **_Nicole Lurie_**_, Distinguished Health Policy Fellow, Leonard Davis Institute of Health Economics, University of Pennsylvania_  
- **_Christine Sizemore_**_, Director of International Relations, Fogarty International Center, National Institutes of Health_  
- **_Padmini Srikantiah_**_, Senior Program Officer, the Bill &Melinda Gates Foundation_  
- **_Kathy Talkington_**_, Director, Antibiotic Resistance Project, the Pew Charitable Trust_  
- **_Paige Waterman_**_, Assistant Director for Biological Threat Defense, White House Office of Science and Technology Policy_  
- **_Anne Yu_**_, AMR Division, World Health Organization_
+**_Luciana Borio_**_, Vice President, In-Q-Tel_  
+**_Michael Craig_**_, Antibiotic Resistance Coordination and Strategy Unit, U.S. Centers for Disease Control and Prevention_  
+**_Sarah Despres_**_, Director, Government Relations, The Pew Charitable Trust_  
+**_Philip Ferro_**_, Director for Countering Biological Threats, White House National Security Council_  
+**_Lauren Fabina_**_, White House National Security Council_  
+**_Keiji Fukuda_**_, Professor, University of Hong Kong_  
+**_Andi Fristedt_**_, Deputy Health Policy Director, Senator Patty Murray_  
+**_Christopher Houchens_**_, Acting Director, Division of CBRN Medical Countermeasures, U.S. Biomedical Advanced Research and Development Authority_  
+**_Sarah Jones_**_, Partnerships, Antibiotic Resistance Coordination and Strategy Unit, U.S. Centers for Disease Control and Prevention_  
+**_Mary Lancaster_**_, International Policy Officer, Defense Threat Reduction Agency, U.S. Department of Defense_  
+**_Nicole Lurie_**_, Distinguished Health Policy Fellow, Leonard Davis Institute of Health Economics, University of Pennsylvania_  
+**_Christine Sizemore_**_, Director of International Relations, Fogarty International Center, National Institutes of Health_  
+**_Padmini Srikantiah_**_, Senior Program Officer, the Bill &Melinda Gates Foundation_  
+**_Kathy Talkington_**_, Director, Antibiotic Resistance Project, the Pew Charitable Trust_  
+**_Paige Waterman_**_, Assistant Director for Biological Threat Defense, White House Office of Science and Technology Policy_  
+**_Anne Yu_**_, AMR Division, World Health Organization_
 
-**_CSIS Briefs_** **are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**   
-   
- **_© 2020 by the Center for Strategic and International Studies. All rights reserved._**
+**_CSIS Briefs_** **are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**
+
+**_© 2020 by the Center for Strategic and International Studies. All rights reserved._**
 
 **_Please consult the PDF for references._**
