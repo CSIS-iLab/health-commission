@@ -26,6 +26,6 @@ published: false
 ---
 On June 15, Steve Morrison, senior vice president and director, Global Health Policy Center and Judd Devermont, director of the Africa Program testified before the House Permanent Select Committee on Intelligence on the topic of ‘Impact of COVID-19 in Sub-Saharan Africa.’.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/sCtSute_frI](https://www.youtube.com/embed/sCtSute_frI "https://www.youtube.com/embed/sCtSute_frI")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="[https://www.youtube.com/embed/sCtSute_frI](https://www.youtube.com/embed/sCtSute_frI "https://www.youtube.com/embed/sCtSute_frI")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></div>
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/IpSvvpDbnpU](https://www.youtube.com/embed/IpSvvpDbnpU "https://www.youtube.com/embed/IpSvvpDbnpU")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="[https://www.youtube.com/embed/IpSvvpDbnpU](https://www.youtube.com/embed/IpSvvpDbnpU "https://www.youtube.com/embed/IpSvvpDbnpU")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
