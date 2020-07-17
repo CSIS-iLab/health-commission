@@ -9,7 +9,8 @@ excerpt: On June 15, Steve Morrison, senior vice president and director, Global 
   the House Permanent Select Committee on Intelligence on the topic of ‘Impact of
   COVID-19 in Sub-Saharan Africa.’.
 series: ''
-themes: []
+themes:
+- _themes/high-risk-disease-outbreaks.md
 image: ''
 image_caption: ''
 image_credit: ''
