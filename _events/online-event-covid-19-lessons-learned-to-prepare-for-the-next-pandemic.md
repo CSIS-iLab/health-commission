@@ -25,4 +25,6 @@ published: false
 ---
 On June 23, Julie L. Gerberding, Co-Chair, CSIS Commission on Strengthening America’s Health Security, testified before the United States Senate Committee on Health, Education, Labor and Pensions on ‘Covid-19: Lessons Learned to Prepare for the Next Pandemic’.
 
+<div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="[https://www.help.senate.gov/hearings/covid-19-lessons-learned-to-prepare-for-the-next-pandemic](https://www.help.senate.gov/hearings/covid-19-lessons-learned-to-prepare-for-the-next-pandemic "https://www.help.senate.gov/hearings/covid-19-lessons-learned-to-prepare-for-the-next-pandemic")" frameborder="0" allowfullscreen></iframe></div>
+
 Full video of the event is available here: [https://www.help.senate.gov/hearings/covid-19-lessons-learned-to-prepare-for-the-next-pandemic](https://www.help.senate.gov/hearings/covid-19-lessons-learned-to-prepare-for-the-next-pandemic "https://www.help.senate.gov/hearings/covid-19-lessons-learned-to-prepare-for-the-next-pandemic")
