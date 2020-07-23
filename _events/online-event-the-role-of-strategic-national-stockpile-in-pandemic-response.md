@@ -25,4 +25,6 @@ documents:
 ---
 On June 24, Julie L. Gerberding, Co-Chair, CSIS Commission on Strengthening America’s Health Security, testified before the Senate Committee on Homeland Security and Governmental Affairs on ‘The Role of the Strategic National Stockpile in Pandemic Response’.
 
+![](https://res.cloudinary.com/csisideaslab/image/upload/v1595527655/health-commission/GY5A1767_qc575h.jpg)
+
 Full video of the event is available [here](https://www.hsgac.senate.gov/the-role-of-the-strategic-national-stockpile-in-pandemic-response "https://www.hsgac.senate.gov/the-role-of-the-strategic-national-stockpile-in-pandemic-response").
