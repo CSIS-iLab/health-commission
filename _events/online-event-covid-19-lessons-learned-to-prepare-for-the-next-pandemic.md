@@ -17,7 +17,7 @@ themes:
 - _themes/high-risk-disease-outbreaks.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1595527655/health-commission/GY5A1767_qc575h.jpg
 image_caption: ''
-image_credit: ''
+image_credit: CSIS iDeas Lab
 documents:
 - https://res.cloudinary.com/csisideaslab/image/upload/v1595018807/health-commission/062320_JLG_HELP_testimony_zp688s.pdf
 published: false
