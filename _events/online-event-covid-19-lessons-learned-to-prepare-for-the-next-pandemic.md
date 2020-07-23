@@ -22,7 +22,7 @@ documents:
 - https://res.cloudinary.com/csisideaslab/image/upload/v1595018807/health-commission/062320_JLG_HELP_testimony_zp688s.pdf
 
 ---
-![Julie L. Gerberding](https://res.cloudinary.com/csisideaslab/image/upload/v1595538405/health-commission/GY5A1767_ljojnt.jpg "Julie L. Gerberding")
+![CSIS iDeas Lab](https://res.cloudinary.com/csisideaslab/image/upload/v1595538405/health-commission/GY5A1767_ljojnt.jpg "Julie L. Gerberding")
 
 On June 23, Julie L. Gerberding, Co-Chair, CSIS Commission on Strengthening America’s Health Security, testified before the United States Senate Committee on Health, Education, Labor and Pensions on ‘Covid-19: Lessons Learned to Prepare for the Next Pandemic’.
 
