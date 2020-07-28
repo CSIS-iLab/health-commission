@@ -1,6 +1,7 @@
 ---
 content_type: event
 keywords:
+- North America
 - Infectious Diseases
 - COVID-19
 - Global Health Policy Center
