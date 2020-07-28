@@ -1,6 +1,8 @@
 ---
 content_type: event
 keywords:
+- Humanitarian Aid
+- Global Disorder
 - Global Health Policy Center
 - Global Health
 title: 'Online Event: Covid-19’s Next Cascade of Crises'
