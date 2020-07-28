@@ -10,7 +10,8 @@ title: 'Online Event: Covid-19’s Next Cascade of Crises'
 date: 2020-07-22 04:00:00 +0000
 excerpt: ''
 series: ''
-themes: []
+themes:
+- _themes/global-disorder.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1595972217/health-commission/OCHA_Event_Banner_Image_pwon8s.jpg
 image_caption: ''
 image_credit: Mohammed Hamoud/Getty Images
