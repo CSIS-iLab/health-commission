@@ -11,7 +11,7 @@ date: 2020-07-22 04:00:00 +0000
 excerpt: ''
 series: ''
 themes: []
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1595972217/health-commission/OCHA_Event_Banner_Image_pwon8s.jpg
 image_caption: ''
 image_credit: Mohammed Hamoud/Getty Images
 documents: []
