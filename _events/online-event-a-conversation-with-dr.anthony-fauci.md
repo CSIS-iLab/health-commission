@@ -22,4 +22,10 @@ On July 24, **_J. Stephen Morrison_** interviewed **_Dr. Anthony Fauci_**, Direc
 
 **_J. Stephen Morrison_**, Senior Vice President and Director of the CSIS Global Health Policy Center, discussed these difficult questions with **_Dr. Anthony Fauci_**. They also discussed the development of a safe and effective Covid-19 vaccine, including the status and promise of Operation Warp Speed.
 
+<div class="video-wrapper post-feature-video"><iframe width="560" height="315" src="[https://www.youtube.com/embed/SPr7yFFY4cc](https://www.youtube.com/embed/SPr7yFFY4cc "https://www.youtube.com/embed/SPr7yFFY4cc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Full video of the event is available here:
+
+[https://www.youtube.com/watch?v=SPr7yFFY4cc&feature=youtu.be](https://www.youtube.com/watch?v=SPr7yFFY4cc&feature=youtu.be "https://www.youtube.com/watch?v=SPr7yFFY4cc&feature=youtu.be")
+
 _This event was made possible by the generous support of the Bill & Melinda Gates Foundation._
