@@ -11,7 +11,7 @@ excerpt: ''
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1595972478/health-commission/Fauci_Banner_Image_g0xcgp.jpg
 image_caption: ''
 image_credit: Kevin Dietsch-Pool/Getty Images
 documents: []
