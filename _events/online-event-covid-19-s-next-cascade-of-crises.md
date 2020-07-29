@@ -13,7 +13,7 @@ series: ''
 themes:
 - _themes/global-disorder.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1595972217/health-commission/OCHA_Event_Banner_Image_pwon8s.jpg
-image_caption: Image
+image_caption: ''
 image_credit: Mohammed Hamoud/Getty Images
 documents: []
 
