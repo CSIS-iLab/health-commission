@@ -1,10 +1,10 @@
 ---
 content_type: event
 keywords:
-- North America
-- Infectious Diseases
-- COVID-19
 - Global Health Policy Center
+- COVID-19
+- Infectious Diseases
+- North America
 title: 'Online Event: A Conversation with Dr. Anthony Fauci'
 date: 2020-07-24 04:00:00 +0000
 excerpt: ''
@@ -12,10 +12,9 @@ series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1595972478/health-commission/Fauci_Banner_Image_g0xcgp.jpg
-image_caption: ''
+image_caption: Dr. Anthony Fauci
 image_credit: Kevin Dietsch-Pool/Getty Images
 documents: []
-published: false
 
 ---
 On July 24, **_J. Stephen Morrison_** interviewed **_Dr. Anthony Fauci_**, Director of the National Institute for Allergy and Infectious Diseases at the National Institutes of Health and member of the White House Coronavirus Task Force on Covid-19 in the United States. The United States is in the midst of a worsening crisis, with Covid-19 cases and deaths increasing in the Sun Belt, the West, and many other parts of the United States. This begs the question: what is the strategy for ensuring that the outbreak does not spiral out of control in the United States? How can the United States strengthen the basic public health capacities – test, trace, and isolate – needed to slow the spread? What federal, state, and local actions may be necessary to protect the American people and safely reopen businesses, schools, and sporting events?
