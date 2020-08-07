@@ -17,9 +17,13 @@ authors:
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1596815296/health-commission/GettyImages-1213154746_1_xrjtip.jpg
+image_caption: 'Flanked by White House coronavirus response coordinator Dr. Deborah
+  Birx (L) and Dr. Anthony Fauci (R), director of the National Institute of Allergy
+  and Infectious Diseases, U.S. President Donald Trump delivers remarks about coronavirus
+  vaccine development in the Rose Garden of the White House on May 15, 2020 in Washington,
+  DC. '
+image_credit: Drew Angerer/Getty Images
 pdf: ''
 is_commission_related:
   description: ''
