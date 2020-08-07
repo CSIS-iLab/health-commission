@@ -1,8 +1,8 @@
 ---
 keywords:
-- Geopolitics
-- COVID-19
 - Coronavirus
+- COVID-19
+- Geopolitics
 title: Is It Possible to Avert Chaos in the Vaccine Scramble?
 content_type: commentary
 excerpt: In the global scramble for a Covid-19 vaccine, the United States has pursued
@@ -11,9 +11,9 @@ excerpt: In the global scramble for a Covid-19 vaccine, the United States has pu
   and internationalism.
 date: 2020-08-06 04:00:00 +0000
 authors:
-- _authors/Katherine-Bliss.md
-- _authors/anna-carroll.md
 - _authors/stephen-morrison.md
+- _authors/anna-carroll.md
+- _authors/Katherine-Bliss.md
 series: ''
 themes:
 - _themes/high-risk-disease-outbreaks.md
@@ -181,6 +181,6 @@ _This brief is a product of the CSIS Commission on Strengthening America’s Hea
 
 _The authors wish to give special thanks to Luciana Borio, Beth Cameron, Scott Dowell, Peggy Hamburg, Kendall Hoyt, and Nicole Lurie for their many insights and constructive feedback on this paper, and to Michaela Simoneau, Noelle Huhn, and Michael Rendelman for their research assistance in the development of this paper._
 
-**_CSIS Briefs_ are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).  
-   
- _© 2020 by the Center for Strategic and International Studies. All rights reserved._**
+**_CSIS Briefs_ are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**
+
+**_© 2020 by the Center for Strategic and International Studies. All rights reserved._**
