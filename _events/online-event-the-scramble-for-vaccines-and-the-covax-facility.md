@@ -13,7 +13,7 @@ themes:
 - _themes/global-disorder.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1597347223/health-commission/GettyImages-1222402252_ylnnh5.jpg
 image_caption: ''
-image_credit: ''
+image_credit: SIPHIWE SIBEKO/POOL/AFP/Getty Images
 documents: []
 published: false
 
