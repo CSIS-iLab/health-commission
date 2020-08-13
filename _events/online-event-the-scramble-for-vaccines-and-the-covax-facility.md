@@ -15,7 +15,6 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1597347223/health-c
 image_caption: ''
 image_credit: SIPHIWE SIBEKO/POOL/AFP/Getty Images
 documents: []
-published: false
 
 ---
 On August 11, the CSIS Commission on Strengthening America’s Health Security hosted a discussion on the ACT Accelerator’s COVAX Facility. The event featured **_Nikolaj Gilbert_**, President and CEO at PATH; **_Kendall Hoyt_**, Assistant Professor of Medicine at Dartmouth University's Geisel School of Medicine; and **_Nicole Lurie_**_,_ Strategic Advisor to the CEO at the Coalition for Epidemic Preparedness Innovations (CEPI). **_J. Stephen Morrison_**, Senior Vice President and Director of the CSIS Global Health Policy Center, introduced the event with an overview of the COVAX Facility and its prospects for success. **_Margaret "Peggy" Hamburg_**_,_ Commissioner on the CSIS Commission on Strengthening America's Health Security, moderated the discussion.
