@@ -1,30 +1,32 @@
 ---
 keywords:
-- Biosafety
-- Biotechnology
+  - Biosafety
+  - Biotechnology
 title: Federal Funding for Biosafety Research Is Critically Needed
 content_type: commentary
-excerpt: Our rapidly expanding ability to understand and manipulate life is outpacing
+excerpt:
+  Our rapidly expanding ability to understand and manipulate life is outpacing
   biosafety, the practice of preventing accidental exposure of people, animals or
   the environment to dangerous microbes. This brief proposes targeted research to
   address this health security threat.
 date: 2019-08-06T04:00:00.000+00:00
 authors:
-- _authors/rocco-casagrande.md
+  - _authors/rocco-casagrande.md
 series: ''
 themes:
-- _themes/managing-biotechnology.md
+  - _themes/managing-biotechnology.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1554312659/health-commission/doctor_bqaagp.jpg
-image_caption: This photo taken on April 16, 2013 shows a doctor at the Beijing Center
+image_caption:
+  This photo taken on April 16, 2013 shows a doctor at the Beijing Center
   of Disease Control, working in their laboratory in Beijing.
 image_credit: STR/AFP/Getty Images
-pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/190802_Casagrande_Biosafety_WEB.pdf
+pdf: https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/190802_Casagrande_Biosafety_WEB.pdf
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 ## The Issue
 
 The advent of powerful new tools in biotechnology promises to open a new era in the battle against infectious disease. This research will undoubtedly lead to better capability to predict and prevent global outbreaks, and will support the development of new vaccines and treatments to reduce the burden of outbreaks we cannot prevent. The benefits afforded by these powerful tools are not without attendant risks.
@@ -63,7 +65,7 @@ For example, several mishaps have occurred because researchers shared microbes t
 
 In clinical settings, accidental infections often occur when protective gear (gloves, masks, coats, etc.) is removed. It is suspected—but unproven—that similar mishaps are a main driver of laboratory accidents. Studies that determine how frequently laboratory workers contaminate their hands when taking off gloves (or breach their gloves during experiments) can help to determine if wearing two overlapping pairs of gloves would meaningfully reduce infections. Similar studies could determine when respiratory protection should be worn and what type of protection is needed under what conditions. If the protective gear works well but is compromised when careless or ignorant workers remove the gear, additional investments in training workers on how to wear and remove the gear would be warranted.
 
-![Source: Dan Kitwood/Getty Images/Cancer Research UK](https://res.cloudinary.com/csisideaslab/image/upload/v1554317500/health-commission/scientist_rbad7f.jpg "A scientist examining cells in a 96-well plate.")
+![Source: Dan Kitwood/Getty Images/Cancer Research UK](https://res.cloudinary.com/csisideaslab/image/upload/v1554317500/health-commission/scientist_rbad7f.jpg 'A scientist examining cells in a 96-well plate.')
 
 We lack the basic data on how workers in a biology laboratory are exposed to infectious material through spills, splashes, and contamination. A lab simulator in which workers are observed manipulating small volumes of fluid and running mock assays could be used to compile data on how often spills and splashes occur, how contamination gets onto the body of a worker, and how it may leave a laboratory. These data would also help inform estimates of how often accidents could be expected to occur, which informs other key studies.
 

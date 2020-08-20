@@ -1,9 +1,10 @@
 ---
 keywords:
-- Digital Health
+  - Digital Health
 title: Can Digital Health Help Stop the Next Epidemic?
 content_type: commentary
-excerpt: The convergence of digital technologies with health systems, or “digital
+excerpt:
+  The convergence of digital technologies with health systems, or “digital
   health,” has major health security implications. This brief outline recommendations
   for policymakers to ensure the necessary data are available in the right place,
   at the right time, and to the right people.
@@ -12,16 +13,17 @@ authors: []
 series: ''
 themes: []
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1571147360/health-commission/digital-health_y7wotg.jpg
-image_caption: An Ivorian doctor uses a tablet computer in Bouake hospital's trailblazer
+image_caption:
+  An Ivorian doctor uses a tablet computer in Bouake hospital's trailblazer
   telemedicine department for heart diseases, in Bouake on June 20, 2019.
 image_credit: David Esnault / Contributor / Getty Images
-pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/191011_DigitalHealth_WEB_v2.pdf
+pdf: https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/191011_DigitalHealth_WEB_v2.pdf
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 ## The Issue
 
 Timely and accurate information to assess disease burdens, track emerging outbreaks, and support disease prevention and control measures is essential in epidemic response. When optimized, the convergence of digital technologies and new data models with health systems, also known as “digital health,” can help ensure the necessary data and information are available in the right place, at the right time, and to the right people. This paper recommends a focused five-year U.S. initiative to pilot replicable U.S. models for scaling digital health within U.S. epidemic preparedness and response efforts in two to three partner countries.
@@ -34,24 +36,24 @@ Timely and accurate information to assess disease burdens, track emerging outbre
 
 Over the last five years, the U.S. government has made a number of smart investments in a variety of digital tools and approaches and has worked to strengthen the capacity of local partners to utilize these tools.\[^2\] While clear successes have resulted from these initial investments, significant challenges remain:
 
-* Many health information systems are siloed and capture duplicate data, putting significant strain on health workers who collect, manage, and use this information.
-* Health information systems are not always interoperable—they cannot always “talk” to one another—which hinders evidence-based decision-making.
-* The capacity of stakeholders to design, manage, and support digital health systems, as well as effectively use data, is critically needed in many LMICs.
-* Many countries lack the necessary governance structures, policies, and coherent national plans to support the utilization of data to inform decisions and actions in epidemic response.
-* The U.S. government has not sufficiently leveraged the potential of the U.S. technology sector to advance digital health and global health security goals.
+- Many health information systems are siloed and capture duplicate data, putting significant strain on health workers who collect, manage, and use this information.
+- Health information systems are not always interoperable—they cannot always “talk” to one another—which hinders evidence-based decision-making.
+- The capacity of stakeholders to design, manage, and support digital health systems, as well as effectively use data, is critically needed in many LMICs.
+- Many countries lack the necessary governance structures, policies, and coherent national plans to support the utilization of data to inform decisions and actions in epidemic response.
+- The U.S. government has not sufficiently leveraged the potential of the U.S. technology sector to advance digital health and global health security goals.
 
 There is understandable skepticism about the successful application and utilization of digital technologies in fragile and disordered settings. This proposed initiative would be designed to prove that, with targeted strategic investments, it is possible to rectify these persistent challenges and realize the full potential of digital technologies in LMICs. We recommend that the U.S. government launch an initiative that will:
 
-* Expand the use of interoperable data systems;
-* Strengthen governance and national plans to share data and scale up proven tools under the direction of country health authorities;
-* Build capacity and leadership to interpret data and act upon it; and
-* Utilize new financing mechanisms to better leverage the potential of the U.S. technology sector.
+- Expand the use of interoperable data systems;
+- Strengthen governance and national plans to share data and scale up proven tools under the direction of country health authorities;
+- Build capacity and leadership to interpret data and act upon it; and
+- Utilize new financing mechanisms to better leverage the potential of the U.S. technology sector.
 
 This initiative will require a strategic, focused effort across all U.S. agencies engaged in global epidemic preparedness and response, and a modest investment—we recommend $20 million each year—as a component of Global Health Security Agenda investments across the CDC, USAID, and Department of Defense. New financing mechanisms, such as the U.S. Development Finance Corporation (USDFC), offer an important opportunity to create new partnerships and unlock private capital to advance digital health and epidemic preparedness.
 
 Such an initiative will demonstrate proof-of-concept for a higher standard of U.S. coordination and engagement to strengthen digital health and generate learnings that will benefit other global health security efforts in the next decade and beyond.
 
-![FRANCISCO LEONG/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571159020/health-commission/digital-health2_wlasws.jpg "A UN World Food Program’s staff wearing a t-shirt reading “Ebola response” uses a cellphone during a supplies’ delivery operation in Lester Road in Freetown, on November 7, 2014.  FRANCISCO LEONG/AFP/Getty Images")
+![FRANCISCO LEONG/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571159020/health-commission/digital-health2_wlasws.jpg 'A UN World Food Program’s staff wearing a t-shirt reading “Ebola response” uses a cellphone during a supplies’ delivery operation in Lester Road in Freetown, on November 7, 2014.  FRANCISCO LEONG/AFP/Getty Images')
 
 ## Case Study: West Africa Ebola Outbreak
 
@@ -67,7 +69,7 @@ This example points to the impact that data and digitization—or the absence of
 
 Over the past decade, countries have increasingly transitioned from paper-based to digital information systems and have gained new capabilities and insights by engaging in the corresponding data. Various open-source and commercial software products have been developed to digitally capture and visualize improved data, including health service information management, health worker location, client medical records, and supply chain updates. However, not all efforts to digitize data have resulted in better information for decision-making. Many examples exist of technologies that overpromised and underdelivered in real world settings. Additionally, many data capture tools have been deployed in a fragmented and duplicative way, increasing the burden on public health officials and decreasing efficiencies in the health system. Efforts to enhance data quality and analysis alongside digitization efforts are essential for effective data use.
 
-![AMOS GUMULIRA/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571159744/health-commission/digital-health3_phun4c.jpg "Health Surveillance Assistant Noah Chipeta speaks to a mother in Kasungu on June 22, 2017, during a presentation for the UNICEF-funded Humanitarian Drone Corridor testing project for the hard-to-reach village. AMOS GUMULIRA/AFP/Getty Images")  
+![AMOS GUMULIRA/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571159744/health-commission/digital-health3_phun4c.jpg 'Health Surveillance Assistant Noah Chipeta speaks to a mother in Kasungu on June 22, 2017, during a presentation for the UNICEF-funded Humanitarian Drone Corridor testing project for the hard-to-reach village. AMOS GUMULIRA/AFP/Getty Images')  
 The reduction of data errors can be simplified by investing in interoperability—defined as the ability of systems to share and exchange data using open standards and software connections. When accompanied by corresponding investments in country health systems and training of key users of this data across sectors, interoperability has proven to increase data exchange among various health systems and, as a result, strengthen health infrastructure and access to appropriate health interventions.\[^5\]
 
 Additionally, while there has been great advancement in new digital tools and approaches, it has not been matched by adequate capacity building of local and regional stakeholders. Without significantly increased investment in training, uptake of digital tools will be slow, and they may be used incorrectly.
@@ -114,9 +116,9 @@ More timely and accurate collection and sharing of high-quality data at all leve
 
 _Examples of Impact_
 
-* Artificial Intelligence in Medical Epidemiology (AIME) is an AI-enabled platform supported by USAID that uses a variety of physical and environmental factors to predict future outbreaks of diseases like Zika and dengue months in advance. This technology has been used in Rio de Janeiro, Singapore, and Malaysia, leading the countries to accurately predict dengue outbreaks within 400 meters and up to three months in advance, with 88.7 percent accuracy.\[^10\]
-* The electronic Integrated Disease Surveillance and Response (eIDSR) system, supported by USAID and other donors, is used to improve and customize the flow of information within health programs, building on the existing DHIS2 platforms in many countries. In Sierra Leone and Tanzania, all districts electronically report their IDSR data to the national level, reducing the number of data entry errors by half and capturing and verifying data 60 percent faster than the paper-based IDSR system.\[^11\]
-* In Vietnam, a CDC electronic surveillance platform is now functional for 44 communicable diseases and syndromes in all 63 provinces and 711 districts, allowing real-time reporting and information sharing between the clinical and preventive medicine sectors.\[^12\]
+- Artificial Intelligence in Medical Epidemiology (AIME) is an AI-enabled platform supported by USAID that uses a variety of physical and environmental factors to predict future outbreaks of diseases like Zika and dengue months in advance. This technology has been used in Rio de Janeiro, Singapore, and Malaysia, leading the countries to accurately predict dengue outbreaks within 400 meters and up to three months in advance, with 88.7 percent accuracy.\[^10\]
+- The electronic Integrated Disease Surveillance and Response (eIDSR) system, supported by USAID and other donors, is used to improve and customize the flow of information within health programs, building on the existing DHIS2 platforms in many countries. In Sierra Leone and Tanzania, all districts electronically report their IDSR data to the national level, reducing the number of data entry errors by half and capturing and verifying data 60 percent faster than the paper-based IDSR system.\[^11\]
+- In Vietnam, a CDC electronic surveillance platform is now functional for 44 communicable diseases and syndromes in all 63 provinces and 711 districts, allowing real-time reporting and information sharing between the clinical and preventive medicine sectors.\[^12\]
 
 Some of these benefits are already being realized. In the last five years, investments in data and digitization have contributed substantially to increasing the capabilities of countries to improve epidemic preparedness and response. The U.S. government should maintain and build upon these recent successes to realize the full potential of digital health in preventing, detecting, and responding to outbreaks.
 
@@ -132,7 +134,7 @@ Having strong digital and data governance policies and practices in place in adv
 
 Building on the recent Ebola outbreaks and the efforts of its emergency operations center (EOC), the Democratic Republic of the Congo’s (DRC) Ministry of Health recently launched the Agence Nationale d’Ingénierie Clinique d’Information et d’Informatique de Santé (ANICiiS)—a new national agency for clinical information and health informatics. With a mission to improve management of the health care system, quality of care, and accessibility of services, the ANICiiS is the country’s first dedicated digital health agency.
 
-![VANDERLEI ALMEIDA/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571160436/health-commission/digital-health4_ufxvbk.jpg "“Sangue Bom” (Good Blood) clinic head doctor Italian Marco Collovati shows a lab procedure in Rio de Janeiro, Brazil, on January 25, 2016. Sangue Bom carries out clinic analyses, among them searches for Dengue, Zika and Chicungunya viruses in blood. VANDERLEI ALMEIDA/AFP/Getty Images")  
+![VANDERLEI ALMEIDA/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571160436/health-commission/digital-health4_ufxvbk.jpg '“Sangue Bom” (Good Blood) clinic head doctor Italian Marco Collovati shows a lab procedure in Rio de Janeiro, Brazil, on January 25, 2016. Sangue Bom carries out clinic analyses, among them searches for Dengue, Zika and Chicungunya viruses in blood. VANDERLEI ALMEIDA/AFP/Getty Images')  
 Sustaining and increasing U.S. government support for similar interventions, such as the Africa CDC’s program to design and implement a continental data-sharing platform for African Union member states and providing informatics training through its Regional Coordination Centers (RCCs), is important to the integration of digital and data governance and fostering coordination between governments, regional bodies, and key private-sector partners.
 
 Digital and data governance is essential for supporting emergency response coordination, as well as accelerating progress of routine health programs. We are just now beginning to unlock the capabilities of digitally- and analogically-produced data to support health workers, donors, policymakers, and other partners in informing health programming and improving health outcomes. The next decade will not only see accelerated innovation in emerging technologies but is also expected be an era of improvement in more traditional forms of data collection, management, and utilization. As these advances progress, connecting enhanced data systems and tools with strong digital and data governance decision-making structures and effective policies will be a critical element to the success of all health programs.
@@ -151,8 +153,8 @@ When effectively mobilized, the private sector catalyzes critical investments, a
 
 _Private-Sector Contributions to Emergency Preparedness and Response_
 
-* In Guinea, a consortium of partners, including the Guinean Ministry of Health and USAID, developed the use of the CommCare contact tracing tool to gather and share critical case data. An online dashboard provided by Tableau, a Seattle-based technology company, was used to visualize contact tracing data in real time. The app collected nearly 30,000 contact tracing forms across five of the eight prefectures in Guinea, which led to a reduction of delays and human error and increased reliability, data verification, and contact tracer accountability.
-* Qlik, a data analytics company and member of the Global Health Security Agenda Private Sector Roundtable, created an online tool which draws from information contained in countries’ Joint External Evaluations, as well as its own data, to create dashboards that showcase countries’ health security capabilities.
+- In Guinea, a consortium of partners, including the Guinean Ministry of Health and USAID, developed the use of the CommCare contact tracing tool to gather and share critical case data. An online dashboard provided by Tableau, a Seattle-based technology company, was used to visualize contact tracing data in real time. The app collected nearly 30,000 contact tracing forms across five of the eight prefectures in Guinea, which led to a reduction of delays and human error and increased reliability, data verification, and contact tracer accountability.
+- Qlik, a data analytics company and member of the Global Health Security Agenda Private Sector Roundtable, created an online tool which draws from information contained in countries’ Joint External Evaluations, as well as its own data, to create dashboards that showcase countries’ health security capabilities.
 
 Innovation in the private sector holds tremendous potential for the future of health security. Cutting-edge AI applications and machine learning can be applied to rapidly identify early outbreak signals and accelerate response time, and companies that specialize in data analytics and visualization are designing new tools so health authorities can better use data for decision-making. To ensure evidence-based health information reaches communities around the world, there is a tremendous opportunity—and urgent need—to partner with social media companies to combat harmful misinformation and promote health messages. Digital applications could also help address operational challenges in health delivery. For example, missed payments to health workers in both of the previous Ebola outbreak in West Africa and the current outbreak in the DRC have been hugely problematic.\[^18\] Fintech applications and mobile banking that enable direct payment of health workers prevent corruption and motivate those on the front lines of an epidemic.\[^19\]
 
@@ -160,7 +162,7 @@ During the Ebola outbreak, private-sector companies contributed financing and sc
 
 Sustained government investment and incentives to secure ongoing commitment are key to engaging the private sector. U.S. technology companies have led in the digital and data revolution and could be a tremendous asset to U.S. efforts to enhance epidemic preparedness through data and digital innovation. Partnership mechanisms to draw in their skills and capacities could be a game-changer.
 
-![AMOS GUMULIRA/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571160825/health-commission/digital-health5_knhbw9.jpg "People look at an aerial map made using a drone camera during a drone mapping exercise for cholera hotspots organised and funded by UNICEF outside Lilongwe, Malawi on January 27, 2018. AMOS GUMULIRA/AFP/Getty Images")  
+![AMOS GUMULIRA/AFP/Getty Images](https://res.cloudinary.com/csisideaslab/image/upload/v1571160825/health-commission/digital-health5_knhbw9.jpg 'People look at an aerial map made using a drone camera during a drone mapping exercise for cholera hotspots organised and funded by UNICEF outside Lilongwe, Malawi on January 27, 2018. AMOS GUMULIRA/AFP/Getty Images')  
 Authorized in 2018, the U.S. International Development Finance Corporation (USDFC) will soon open its doors.\[^22\] This new entity, designed to draw in new private-sector partners, is authorized to participate in equity investments; issue direct loans and guaranties; provide political risk insurance and fund first loss guarantees; and provide limited grant and technical assistance to unlock larger investments. By creating new models of partnership and financing, the USDFC could bring a range of new industry partners to the table to advance health innovations, from biomedical products to digital health technologies. This new mechanism should be strongly considered for strategically and purposefully deploying incentives that bring industry to the table.
 
 ## Addressing the Gap
@@ -169,10 +171,10 @@ Despite recent successes, skepticism persists regarding the application and util
 
 We propose a focused five-year U.S. initiative to pilot replicable U.S. models for scaling digital health within U.S. epidemic preparedness and response efforts in two to three partner countries. This effort should focus on:
 
-* Designing and scaling interoperable digital health information systems;
-* Building capacity in LMICs to collect data digitally and use it for decision-making;
-* Strengthening digital and data governance; and
-* Leveraging the potential of the private technology sector in the United States;
+- Designing and scaling interoperable digital health information systems;
+- Building capacity in LMICs to collect data digitally and use it for decision-making;
+- Strengthening digital and data governance; and
+- Leveraging the potential of the private technology sector in the United States;
 
 Several countries in West and East Africa, where regional efforts to strengthen digital health infrastructure have driven rapid progress, could be good candidates for such an initiative. Senegal and Tanzania, for example, have shown strong leadership within their respective regions in adopting and scaling up digital health approaches.\[^23\],\[^24\] Countries in Southeast Asia—like Vietnam, where a plethora of U.S. projects are rapidly transforming the digital health landscape—should also be considered.
 
@@ -206,52 +208,52 @@ _This brief is a product of the CSIS Commission on Strengthening America’s Hea
 
 **© 2019 by the Center for Strategic and International Studies. All rights reserved.**
 
-***
+---
 
-\[1\] World Health Organization (WHO), _Global Strategy on Digital Health 2020-2024_ (Geneva: March 2019), [https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf](https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf "https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf").
+\[1\] World Health Organization (WHO), _Global Strategy on Digital Health 2020-2024_ (Geneva: March 2019), [https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf](https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf 'https://extranet.who.int/dataform/upload/surveys/183439/files/Draft%20Global%20Strategy%20on%20Digital%20Health.pdf').
 
-\[2\] “Global Health News - Digital Health,” USAID, [https://www.usaid.gov/global-health/global-health-newsletter/digital-health](https://www.usaid.gov/global-health/global-health-newsletter/digital-health "https://www.usaid.gov/global-health/global-health-newsletter/digital-health").
+\[2\] “Global Health News - Digital Health,” USAID, [https://www.usaid.gov/global-health/global-health-newsletter/digital-health](https://www.usaid.gov/global-health/global-health-newsletter/digital-health 'https://www.usaid.gov/global-health/global-health-newsletter/digital-health').
 
-\[3\] USAID, _Fighting Ebola with Information: Learning from the Use of Data, Information, and Digital Technologies in the West Africa Ebola Outbreak Response_ (Washington, DC: 2016), [https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf](https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf "https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf").
+\[3\] USAID, _Fighting Ebola with Information: Learning from the Use of Data, Information, and Digital Technologies in the West Africa Ebola Outbreak Response_ (Washington, DC: 2016), [https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf](https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf 'https://www.usaid.gov/sites/default/files/documents/15396/FightingEbolaWithInformation.pdf').
 
 \[4\] Ibid.
 
-\[5\] WHO and International Telecommunication Union, _National eHealth Strategy Toolkit_ (Geneva: WHO, 2012), [https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-E_HEALTH.05-2012-PDF-E.pdf](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-E_HEALTH.05-2012-PDF-E.pdf "https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-E_HEALTH.05-2012-PDF-E.pdf").
+\[5\] WHO and International Telecommunication Union, _National eHealth Strategy Toolkit_ (Geneva: WHO, 2012), [https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-E_HEALTH.05-2012-PDF-E.pdf](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-E_HEALTH.05-2012-PDF-E.pdf 'https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-E_HEALTH.05-2012-PDF-E.pdf').
 
-\[6\] Broadband Commission for Sustainable Development Working Group on Digital Health, _The Promise of Digital Health: Addressing Non-communicable Diseases to Accelerate Universal Health Coverage in LMICs_ (Geneva: September 2018), [https://broadbandcommission.org/Documents/publications/DigitalHealthReport2018.pdf](https://broadbandcommission.org/Documents/publications/DigitalHealthReport2018.pdf "https://broadbandcommission.org/Documents/publications/DigitalHealthReport2018.pdf").
+\[6\] Broadband Commission for Sustainable Development Working Group on Digital Health, _The Promise of Digital Health: Addressing Non-communicable Diseases to Accelerate Universal Health Coverage in LMICs_ (Geneva: September 2018), [https://broadbandcommission.org/Documents/publications/DigitalHealthReport2018.pdf](https://broadbandcommission.org/Documents/publications/DigitalHealthReport2018.pdf 'https://broadbandcommission.org/Documents/publications/DigitalHealthReport2018.pdf').
 
-\[7\] Sophie Edwards, “Tanzania’s new digital health road map has the government ‘in the driver’s seat’,” Devex, December 16, 2016, [https://www.devex.com/news/tanzania-s-new-digital-health-road-map-has-the-government-in-the-driver-s-seat-89324](https://www.devex.com/news/tanzania-s-new-digital-health-road-map-has-the-government-in-the-driver-s-seat-89324 "https://www.devex.com/news/tanzania-s-new-digital-health-road-map-has-the-government-in-the-driver-s-seat-89324").
+\[7\] Sophie Edwards, “Tanzania’s new digital health road map has the government ‘in the driver’s seat’,” Devex, December 16, 2016, [https://www.devex.com/news/tanzania-s-new-digital-health-road-map-has-the-government-in-the-driver-s-seat-89324](https://www.devex.com/news/tanzania-s-new-digital-health-road-map-has-the-government-in-the-driver-s-seat-89324 'https://www.devex.com/news/tanzania-s-new-digital-health-road-map-has-the-government-in-the-driver-s-seat-89324').
 
-\[8\] “Innovations,” USAID, [http://www.ebolagrandchallenge.net/innovations-3](http://www.ebolagrandchallenge.net/innovations-3 "http://www.ebolagrandchallenge.net/innovations-3").
+\[8\] “Innovations,” USAID, [http://www.ebolagrandchallenge.net/innovations-3](http://www.ebolagrandchallenge.net/innovations-3 'http://www.ebolagrandchallenge.net/innovations-3').
 
-\[9\] White House, _United States Government Global Health Security Strategy_ (Washington, DC: 2019), [https://www.whitehouse.gov/wp-content/uploads/2019/05/GHSS.pdf](https://www.whitehouse.gov/wp-content/uploads/2019/05/GHSS.pdf "https://www.whitehouse.gov/wp-content/uploads/2019/05/GHSS.pdf").
+\[9\] White House, _United States Government Global Health Security Strategy_ (Washington, DC: 2019), [https://www.whitehouse.gov/wp-content/uploads/2019/05/GHSS.pdf](https://www.whitehouse.gov/wp-content/uploads/2019/05/GHSS.pdf 'https://www.whitehouse.gov/wp-content/uploads/2019/05/GHSS.pdf').
 
-\[10\] USAID, Rockefeller Foundation, Bill & Melinda Gates Foundation, _Artificial Intelligence in Global Health: Defining a Collective Path Forward_ (Washington, DC: April 2019), [https://www.usaid.gov/sites/default/files/documents/1864/AI-in-Global-Health_webFinal_508.pdf](https://www.usaid.gov/sites/default/files/documents/1864/AI-in-Global-Health_webFinal_508.pdf "https://www.usaid.gov/sites/default/files/documents/1864/AI-in-Global-Health_webFinal_508.pdf"); “Artificial Intelligence in Medical Epidemiology (AIME),” One Young World, [https://www.oneyoungworld.com/ambassador-projects/artificial-intelligence-medical-epidemiology-aime-1](https://www.oneyoungworld.com/ambassador-projects/artificial-intelligence-medical-epidemiology-aime-1 "https://www.oneyoungworld.com/ambassador-projects/artificial-intelligence-medical-epidemiology-aime-1").
+\[10\] USAID, Rockefeller Foundation, Bill & Melinda Gates Foundation, _Artificial Intelligence in Global Health: Defining a Collective Path Forward_ (Washington, DC: April 2019), [https://www.usaid.gov/sites/default/files/documents/1864/AI-in-Global-Health_webFinal_508.pdf](https://www.usaid.gov/sites/default/files/documents/1864/AI-in-Global-Health_webFinal_508.pdf 'https://www.usaid.gov/sites/default/files/documents/1864/AI-in-Global-Health_webFinal_508.pdf'); “Artificial Intelligence in Medical Epidemiology (AIME),” One Young World, [https://www.oneyoungworld.com/ambassador-projects/artificial-intelligence-medical-epidemiology-aime-1](https://www.oneyoungworld.com/ambassador-projects/artificial-intelligence-medical-epidemiology-aime-1 'https://www.oneyoungworld.com/ambassador-projects/artificial-intelligence-medical-epidemiology-aime-1').
 
-\[11\] “Sierra Leone In Action,” Global Health Security Agenda, [https://www.ghsagenda.org/successes/sierra-leone-idsr-ghsa-in-action](https://www.ghsagenda.org/successes/sierra-leone-idsr-ghsa-in-action "https://www.ghsagenda.org/successes/sierra-leone-idsr-ghsa-in-action").
+\[11\] “Sierra Leone In Action,” Global Health Security Agenda, [https://www.ghsagenda.org/successes/sierra-leone-idsr-ghsa-in-action](https://www.ghsagenda.org/successes/sierra-leone-idsr-ghsa-in-action 'https://www.ghsagenda.org/successes/sierra-leone-idsr-ghsa-in-action').
 
-\[12\] Global Health Security Agenda, _Implementing the Global Health Security Agenda: Progress and Impact from U.S. Government Investments_ (February 2018), [https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf](https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf "https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf").
+\[12\] Global Health Security Agenda, _Implementing the Global Health Security Agenda: Progress and Impact from U.S. Government Investments_ (February 2018), [https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf](https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf 'https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf').
 
 \[13\] “Assessment of Integrated Health Services for Key, Vulnerable and Migrant Populations at Cross-Border Sites in the East African Region, CB-HIPP/FHI 360” Source: FHI360. This assessment was presented at the Cross Border Health Integrated Partnership Project Baseline Evaluation and Lessons Learnt Validation Meeting but was not published separately.
 
 \[14\] “Cross Border Health Integrated Partnership Project Baseline Evaluation and Lessons Learnt Validation Meeting Report (CB-HIPP unpublished, 2017).”Source: FHI360. This report was compiled based on the proceedings of the referenced meeting and made available to meeting participants, but has not been published separately.
 
-\[15\] Broadband Commission for Sustainable Development, _Digital Health: A Call for Government Leadership and Cooperation between ICT and Health_ (Geneva: February 2017), [https://www.broadbandcommission.org/Documents/publications/WorkingGroupHealthReport-2017.pdf](https://www.broadbandcommission.org/Documents/publications/WorkingGroupHealthReport-2017.pdf "https://www.broadbandcommission.org/Documents/publications/WorkingGroupHealthReport-2017.pdf").
+\[15\] Broadband Commission for Sustainable Development, _Digital Health: A Call for Government Leadership and Cooperation between ICT and Health_ (Geneva: February 2017), [https://www.broadbandcommission.org/Documents/publications/WorkingGroupHealthReport-2017.pdf](https://www.broadbandcommission.org/Documents/publications/WorkingGroupHealthReport-2017.pdf 'https://www.broadbandcommission.org/Documents/publications/WorkingGroupHealthReport-2017.pdf').
 
-\[16\] “ICF Selected for $120 Million USAID Infectious Disease Detection and Surveillance Project,” CISION PR Newswire, July 30, 2018, [https://www.prnewswire.com/news-releases/icf-selected-for-120-million-usaid-infectious-disease-detection-and-surveillance-project-300688549.html](https://www.prnewswire.com/news-releases/icf-selected-for-120-million-usaid-infectious-disease-detection-and-surveillance-project-300688549.html "https://www.prnewswire.com/news-releases/icf-selected-for-120-million-usaid-infectious-disease-detection-and-surveillance-project-300688549.html").
+\[16\] “ICF Selected for $120 Million USAID Infectious Disease Detection and Surveillance Project,” CISION PR Newswire, July 30, 2018, [https://www.prnewswire.com/news-releases/icf-selected-for-120-million-usaid-infectious-disease-detection-and-surveillance-project-300688549.html](https://www.prnewswire.com/news-releases/icf-selected-for-120-million-usaid-infectious-disease-detection-and-surveillance-project-300688549.html 'https://www.prnewswire.com/news-releases/icf-selected-for-120-million-usaid-infectious-disease-detection-and-surveillance-project-300688549.html').
 
-\[17\] “The Principles of Donor Alignment for Digital Health,” Digital Investment Principles, [https://digitalinvestmentprinciples.org/](https://digitalinvestmentprinciples.org/ "https://digitalinvestmentprinciples.org/").
+\[17\] “The Principles of Donor Alignment for Digital Health,” Digital Investment Principles, [https://digitalinvestmentprinciples.org/](https://digitalinvestmentprinciples.org/ 'https://digitalinvestmentprinciples.org/').
 
-\[18\] Jonathan Kourgialis, “Learning from Ebola: How Mobile Money can Prevent Health Crises,” Center for Financial Inclusion, August 15, 2018, [https://www.centerforfinancialinclusion.org/learning-from-ebola-how-mobile-money-can-prevent-health-crises](https://www.centerforfinancialinclusion.org/learning-from-ebola-how-mobile-money-can-prevent-health-crises "https://www.centerforfinancialinclusion.org/learning-from-ebola-how-mobile-money-can-prevent-health-crises").
+\[18\] Jonathan Kourgialis, “Learning from Ebola: How Mobile Money can Prevent Health Crises,” Center for Financial Inclusion, August 15, 2018, [https://www.centerforfinancialinclusion.org/learning-from-ebola-how-mobile-money-can-prevent-health-crises](https://www.centerforfinancialinclusion.org/learning-from-ebola-how-mobile-money-can-prevent-health-crises 'https://www.centerforfinancialinclusion.org/learning-from-ebola-how-mobile-money-can-prevent-health-crises').
 
-\[19\] Sherri Haas et al., _Mobile Money for Health_ (Bethesda, MD: November 2013), [https://www.hfgproject.org/wp-content/uploads/2013/12/Mobile-Money-for-Health-Case-Study.pdf](https://www.hfgproject.org/wp-content/uploads/2013/12/Mobile-Money-for-Health-Case-Study.pdf "https://www.hfgproject.org/wp-content/uploads/2013/12/Mobile-Money-for-Health-Case-Study.pdf").
+\[19\] Sherri Haas et al., _Mobile Money for Health_ (Bethesda, MD: November 2013), [https://www.hfgproject.org/wp-content/uploads/2013/12/Mobile-Money-for-Health-Case-Study.pdf](https://www.hfgproject.org/wp-content/uploads/2013/12/Mobile-Money-for-Health-Case-Study.pdf 'https://www.hfgproject.org/wp-content/uploads/2013/12/Mobile-Money-for-Health-Case-Study.pdf').
 
-\[20\] USAID, NetHope, and GBI, _Information and Communications Technology Response to the Liberia Ebola Crisis: Desk Review and Recommendations for Private Sector Engagement_ (Fairfax, VA: October 24, 2014), [https://solutionscenter.nethope.org/assets/collaterals/USAID_LiberiaICTDeskReview_Final_Nov414.pdf](https://solutionscenter.nethope.org/assets/collaterals/USAID_LiberiaICTDeskReview_Final_Nov414.pdf "https://solutionscenter.nethope.org/assets/collaterals/USAID_LiberiaICTDeskReview_Final_Nov414.pdf").
+\[20\] USAID, NetHope, and GBI, _Information and Communications Technology Response to the Liberia Ebola Crisis: Desk Review and Recommendations for Private Sector Engagement_ (Fairfax, VA: October 24, 2014), [https://solutionscenter.nethope.org/assets/collaterals/USAID_LiberiaICTDeskReview_Final_Nov414.pdf](https://solutionscenter.nethope.org/assets/collaterals/USAID_LiberiaICTDeskReview_Final_Nov414.pdf 'https://solutionscenter.nethope.org/assets/collaterals/USAID_LiberiaICTDeskReview_Final_Nov414.pdf').
 
-\[21\] Jeffrey Sturchio, “The Private Sector: A Partner in Global Health Security and Universal Health Coverage,” Rabin Martin, February 14, 2018, [https://rabinmartin.com/insight/private-sector-partner-global-health-security-universal-health-coverage/](https://rabinmartin.com/insight/private-sector-partner-global-health-security-universal-health-coverage/ "https://rabinmartin.com/insight/private-sector-partner-global-health-security-universal-health-coverage/").
+\[21\] Jeffrey Sturchio, “The Private Sector: A Partner in Global Health Security and Universal Health Coverage,” Rabin Martin, February 14, 2018, [https://rabinmartin.com/insight/private-sector-partner-global-health-security-universal-health-coverage/](https://rabinmartin.com/insight/private-sector-partner-global-health-security-universal-health-coverage/ 'https://rabinmartin.com/insight/private-sector-partner-global-health-security-universal-health-coverage/').
 
-\[22\] “A new Era in U.S. Development Finance,” OPIC, October 5, 2018, [https://www.opic.gov/build-act/overview](https://www.opic.gov/build-act/overview "https://www.opic.gov/build-act/overview").
+\[22\] “A new Era in U.S. Development Finance,” OPIC, October 5, 2018, [https://www.opic.gov/build-act/overview](https://www.opic.gov/build-act/overview 'https://www.opic.gov/build-act/overview').
 
-\[23\] “mDiabetes, an innovative programme to improve the health of people with diabetes in Senegal,” WHO, [https://www.afro.who.int/news/mdiabetes-innovative-programme-improve-health-people-diabetes-senegal](https://www.afro.who.int/news/mdiabetes-innovative-programme-improve-health-people-diabetes-senegal "https://www.afro.who.int/news/mdiabetes-innovative-programme-improve-health-people-diabetes-senegal").
+\[23\] “mDiabetes, an innovative programme to improve the health of people with diabetes in Senegal,” WHO, [https://www.afro.who.int/news/mdiabetes-innovative-programme-improve-health-people-diabetes-senegal](https://www.afro.who.int/news/mdiabetes-innovative-programme-improve-health-people-diabetes-senegal 'https://www.afro.who.int/news/mdiabetes-innovative-programme-improve-health-people-diabetes-senegal').
 
-\[24\] “Coordinating Digital Transformation: Tanzania,” PATH/Digital Square, 2019, [https://static1.squarespace.com/static/59bc3457ccc5c5890fe7cacd/t/5d07a3770c722300015fcbe7/1560781692272/Donor-Coord-Case-Studies_TANZ.pdf](https://static1.squarespace.com/static/59bc3457ccc5c5890fe7cacd/t/5d07a3770c722300015fcbe7/1560781692272/Donor-Coord-Case-Studies_TANZ.pdf "https://static1.squarespace.com/static/59bc3457ccc5c5890fe7cacd/t/5d07a3770c722300015fcbe7/1560781692272/Donor-Coord-Case-Studies_TANZ.pdf").
+\[24\] “Coordinating Digital Transformation: Tanzania,” PATH/Digital Square, 2019, [https://static1.squarespace.com/static/59bc3457ccc5c5890fe7cacd/t/5d07a3770c722300015fcbe7/1560781692272/Donor-Coord-Case-Studies_TANZ.pdf](https://static1.squarespace.com/static/59bc3457ccc5c5890fe7cacd/t/5d07a3770c722300015fcbe7/1560781692272/Donor-Coord-Case-Studies_TANZ.pdf 'https://static1.squarespace.com/static/59bc3457ccc5c5890fe7cacd/t/5d07a3770c722300015fcbe7/1560781692272/Donor-Coord-Case-Studies_TANZ.pdf').

@@ -1,36 +1,38 @@
 ---
 title: 'North Kivu’s Ebola Outbreak at Day 90: What Is to Be Done?'
 keywords:
-- Ebola
+  - Ebola
 date: 2018-11-02 00:00:00 +0000
 content_type: commentary
-excerpt: The Ebola outbreak unfolding in Eastern DRC is the most recent, powerful
+excerpt:
+  The Ebola outbreak unfolding in Eastern DRC is the most recent, powerful
   showcase of what it means to battle dangerous health security threats in a disordered
   world. While categoric judgments are elusive, the high risk of losing the game in
   the DRC is becoming apparent.
 authors:
-- _authors/stephen-morrison.md
-- _authors/judd-devermont.md
+  - _authors/stephen-morrison.md
+  - _authors/judd-devermont.md
 series: _series/health-security-dimensions-of-geopolitical-crises.md
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/high-risk-disease-outbreaks.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1541161569/health-commission/ebola-header-cropped.jpg
-image_caption: A team of medical workers don protective equipment before entering
+image_caption:
+  A team of medical workers don protective equipment before entering
   an Ebola Treatment Center in Beni, the epicenter of the outbreak in the Democratic
   Republic of the Congo.
 image_credit: JOHN WESSELS/AFP/Getty Images
-pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/181105_DRCebola_v4.pdf?U_LQZL8G5JT9x5uNffCJ5YnXw2Y5panl
+pdf: https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/181105_DRCebola_v4.pdf?U_LQZL8G5JT9x5uNffCJ5YnXw2Y5panl
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 ### The Issue
 
 _There is a high risk that the international response to the Ebola outbreak in eastern Democratic Republic of the Congo (DRC), the first in a war zone, is falling far short of what is required. Indeed, we may be at the edge of a swiftly expanding epidemic that spreads regionally and perhaps beyond. Armed attacks, wary communities, and insufficient on-the-ground capacity are major barriers to arresting the outbreak. There is an urgent need for high-level political attention focused on generating an updated game plan to improve security, train and deploy community health workers and Congolese public health experts, and win community trust and cooperation. The United States—vitally important to the international response in West Africa 2014-2016—has chosen thus far, out of security concerns, to limit its engagement to the periphery of the outbreak. Quick action is needed to affirm U.S. leadership in eastern Congo, better understand the specific security threats at play, and come up with practical solutions that permit the safe deployment of a small U.S. expert contingent into the center of the outbreak, where seasoned U.S. talent is most needed._
 
-***
+---
 
 ## Introduction
 
@@ -52,7 +54,7 @@ The Congolese and international mobilization into the outbreak zone has been qui
 
 The WHO, the DRC Ministry of Health, Doctors without Borders (MSF), the International Federation of the Red Cross/Red Crescent, and key international NGOs such as the International Medical Corps have deployed, in aggregate, over 500 personnel. It is important to recall that the DRC, by contrast with Liberia, Sierra Leone, and Guinea, has successfully contained [nine Ebola outbreaks](https://www.cdc.gov/vhf/ebola/outbreaks/drc/2018-august.html), including one that surfaced in May 2018 in Equateur province.
 
-![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1543522526/health-commission/DRC_Ebola_outbreak_map_UPDATE-01.jpg "Historical Outbreaks of Ebola in the Democratic Republic of the Congo")
+![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1543522526/health-commission/DRC_Ebola_outbreak_map_UPDATE-01.jpg 'Historical Outbreaks of Ebola in the Democratic Republic of the Congo')
 
 Facilities supported by International Medical Corps’ (IMC) emergency response team have screened more than 70,000 people, and IMC has trained over 200 healthcare workers. The International Rescue Committee is operating in and around Beni on infection prevention and control. The Rwandan and Ugandan governments are screening thousands of people crossing their borders with DRC.
 
@@ -68,7 +70,7 @@ Yet to the increased dismay of those many committed individuals leading the Ebol
 
 Armed attacks persist, with impunity. The Allied Democratic Forces (ADF) is responsible for repeated attacks on DRC military forces in and around Beni. Each has had a concussive impact, intensifying the environment of fear and seriously disrupting the response effort. There have also been local attacks by eastern Congo’s armed, community-based Mai-Mai militias. As long as ADF and other attacks continue, the response effort will remain vulnerable to debilitating setbacks.
 
-![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1543522526/health-commission/DRC_Ebola_current_map_UPDATE-01.jpg "Current Ebola Outbreak in the Democratic Republic of the Congo")
+![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1543522526/health-commission/DRC_Ebola_current_map_UPDATE-01.jpg 'Current Ebola Outbreak in the Democratic Republic of the Congo')
 
 These attacks emerge within what WHO has described as North Kivu and Ituri’s “[perfect storm](https://www.bing.com/videos/search?q=perfect+storm+ebola&view=detail&mid=CD05321672906795906BCD05321672906795906B&FORM=VIRE)”— over 40 armed groups, potentially destabilizing elections, and a large, highly mobile population in close proximity to porous, international borders. Its population for years has lived through recurrent humanitarian emergencies. The DRC national government, located a thousand miles away in Kinshasa, has never truly gained effective control or legitimacy in the east. While criminal groups, Mai-Mai militias, and the rebel ADF are credited with the majority of the violence, the DRC’s security forces have an equally infamous reputation; since 2017 they have killed over 100 civilians in North Kivu.
 
@@ -80,9 +82,9 @@ Presidential, regional, and legislative elections stand on the horizon, schedule
 
 The region’s demographics are daunting, both for getting control over the outbreak and containing its spread beyond. There are 6 million people living in North Kivu, making it nearly 1.5 times denser than Guinea, Liberia, and Sierra Leone combined. Of North Kivu's population, 1.1 million are internally displaced. Tens of thousands of traders, refugees, internally displaced persons, and militants [circulate](https://reliefweb.int/report/democratic-republic-congo/iom-dr-congo-migration-health-division-ebola-response-north-kivu) through the region and into neighboring states daily, increasing the likelihood of a widening transmission. The urban epicenter, Beni, is just 300 miles away from Uganda’s capital, Kampala, an international transit hub.
 
-![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1543522526/health-commission/DRC_Ebola_migration_map_FINAL_UPDATE.jpg "Migration Flows, DRC - Uganda")The lack of trust and engagement with communities is a critical barrier, as well as insufficient local capacity to manage the outbreak. As seen in West Africa in 2014-2015, there is active community resistance to responders: hostility and mistrust, refusal to cooperate in identifying cases and persons who have been exposed, including deliberate misreporting, and obstruction of safe and dignified burials. These same communities face a critical shortage of skilled case investigators with adequate supervision and guidance.
+![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1543522526/health-commission/DRC_Ebola_migration_map_FINAL_UPDATE.jpg 'Migration Flows, DRC - Uganda')The lack of trust and engagement with communities is a critical barrier, as well as insufficient local capacity to manage the outbreak. As seen in West Africa in 2014-2015, there is active community resistance to responders: hostility and mistrust, refusal to cooperate in identifying cases and persons who have been exposed, including deliberate misreporting, and obstruction of safe and dignified burials. These same communities face a critical shortage of skilled case investigators with adequate supervision and guidance.
 
-After decades of government repression and ineffective international responses, civilians, not surprisingly, often regard response efforts with considerable suspicion. Anthropologists deployed with the Congolese Ministry of Health [report](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32512-1/fulltext "report") that the government is “not doing enough to make it safe. The United Nations is judged to be complicit in the massacres here, and for not protecting the population except for a few battalions. And NGOs, people think they are here just to make money.” Rumors circulate that Ebola is “witchcraft,” a government tactic to stall elections or even a ploy introduced by the international community.
+After decades of government repression and ineffective international responses, civilians, not surprisingly, often regard response efforts with considerable suspicion. Anthropologists deployed with the Congolese Ministry of Health [report](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32512-1/fulltext> 'report') that the government is “not doing enough to make it safe. The United Nations is judged to be complicit in the massacres here, and for not protecting the population except for a few battalions. And NGOs, people think they are here just to make money.” Rumors circulate that Ebola is “witchcraft,” a government tactic to stall elections or even a ploy introduced by the international community.
 
 There are limits to the security protection MONUSCO can offer. Local Congolese view the United Nations as compromised by its association with the DRC national government and its security forces. To preserve their neutrality, groups like MSF and the International Committee of the Red Cross will not travel with MONUSCO motorcades.
 
@@ -90,7 +92,7 @@ There are limits to the security protection MONUSCO can offer. Local Congolese v
 
 The daily rate of new Ebola cases has more than doubled in early October, and an October 18 WHO bulletin [indicates](http://www.who.int/csr/don/18-october-2018-ebola-drc/en/) even this large spike may be an underestimation, indicating that “the rising trends are likely underestimated given expected delays in case reporting, the ongoing detection of sporadic cases, and security concerns which limit contact tracing and investigation of alerts.” Most experts attribute this spike in part to the temporary suspension of Ebola response programming in late September. On September 22, an [attack](https://www.who.int/csr/don/04-october-2018-ebola-drc/en/) in Beni, one of the epicenters of the outbreak, killed 21 civilians and prompted a five-day period of mourning that interrupted contact-tracing and led the rate of Ebola cases to [almost double](https://www.aljazeera.com/news/2018/10/ebola-spread-uganda-rwanda-warns-181011141950957.html?utm_source=Media+Review+for+October+12%2C+2018&utm_campaign=Media+Review+for+October+12%2C+2018&utm_medium=email).
 
-![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1541164007/health-commission/DRC-brief-4.jpg "New Cases by Week of Onset")
+![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1541164007/health-commission/DRC-brief-4.jpg 'New Cases by Week of Onset')
 
 Even with the resumption of activities after the forced halt, responders remain skeptical as to whether the current effort will be sufficient to control the outbreak: they lack sufficient visibility into the origins of new cases or adequate ability to trace contacts and identify cases effectively. Emerging signs suggest there are dangerous gaps emerging that invite the expansion—not the arrest—of the outbreak. Cases are on the rise, including secondary transmission within communities, while the knowledge of where they originate, and with whom these ill individuals have come in contact, is deteriorating. The time lapse between identifying symptomatic cases and isolating and treating them remains dangerously large.
 
@@ -98,7 +100,7 @@ Prevention and control of infection have been highly problematic. Numerous cases
 
 The proportion of new confirmed cases, which do not appear on any contact list and have no known epidemiological link to prior cases, has risen in recent weeks to roughly 60 percent to 80 percent. That means, in effect, that contact tracing is only covering 20 percent to 40 percent of actual contacts. Responders are operating in the dark on the balance of contacts.
 
-![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1541164009/health-commission/DRC-brief-5.jpg "% of Cases From Unknown Chains of Transmission")
+![Center for Strategic and International Studies](https://res.cloudinary.com/csisideaslab/image/upload/v1541164009/health-commission/DRC-brief-5.jpg '% of Cases From Unknown Chains of Transmission')
 
 The monitoring of known contacts—intended to be twice daily communication for 21 days—has also proven problematic, as follow-up has faltered and cases have been lost. The WHO reported on October 17 that contact tracing performance in the previous week ranged from 52 percent to 87 percent, attributing this poor performance to the challenges of contact tracing in restive Beni. There is no cumulative record at present of the numbers and identities of those contacts who have gone missing.
 
@@ -150,4 +152,4 @@ For the United States, a few discrete steps would go a long way to buoying the i
 
 Progress along all of these far-flung fronts will be difficult, but practical solutions still lie within reach.
 
-_This article was first published as a_ [_CSIS Brief_](https://www.csis.org/analysis/north-kivus-ebola-outbreak-day-90-what-be-done) _on November 1, 2018._
+_This article was first published as a_ [_CSIS Brief_](https://www.csis.org/analysis/north-kivus-ebola-outbreak-day-90-what-be-done) *on November 1, 2018.*
