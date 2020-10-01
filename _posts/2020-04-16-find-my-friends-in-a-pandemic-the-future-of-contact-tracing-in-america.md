@@ -8,7 +8,7 @@ excerpt: Many countries that have slowed the spread of Covid-19 have used digita
   tools to monitor transmission and movement. This poses a challenge for the United
   States as it seeks to expand contact tracing and roll back social distancing measures
   while protecting privacy rights.
-date: 2020-04-16 04:00:00 +0000
+date: 2020-04-16T04:00:00.000+00:00
 authors:
 - _authors/anna-carroll.md
 - _authors/samantha-stroman.md
@@ -98,6 +98,8 @@ These privacy protection measures notwithstanding, a heightened degree of monito
 This may be a bitter pill to swallow in the United States. Americans are [wary](https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/) of mass data collection after experiencing repeated data breaches and gross violations of digital privacy in recent years. A national, multisectoral effort involving leaders from government, academia, the faith community, and the tech sector will be required to convince Americans of the need for robust contact tracing in order to reopen society incrementally—and safely. Americans will need to believe that these digital tools will guarantee their health and safety, their privacy, and their return to normalcy. Ultimately, tradeoffs will be necessary in order to stop the spread, prevent resurgent outbreaks, protect the vulnerable, and unfreeze the economy.
 
 _Anna Carroll is an associate fellow for Global Health Security with the Global Health Policy Center at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Samantha Stroman is a program manager with the Global Health Policy Center at CSIS._
+
+_This commentary is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
 
 **_Commentary_** **is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**
 
