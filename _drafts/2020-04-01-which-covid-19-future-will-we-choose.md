@@ -8,7 +8,7 @@ excerpt: The Covid-19 pandemic will change history, but its path is not yet clea
   This commentary summarizes the major drivers behind the pandemic—both natural and
   political—and sketches three possible scenarios for how the Covid-19 pandemic may
   play out.
-date: 2020-04-01 04:00:00 +0000
+date: 2020-04-01T04:00:00.000+00:00
 authors:
 - _authors/stephen-morrison.md
 - _authors/anna-carroll.md
@@ -130,6 +130,8 @@ As death rates rise and the economic crisis deepens, widespread, violent disorde
 Pandemics change history by transforming populations, states, societies, economies, norms, and governing structures. Political choices matter profoundly in determining outcomes. We know what is needed: Early, fast, aggressive action. A shutdown that is as universal as possible for four to eight weeks. A centralized command structure that rationalizes the marketplace and supports states in securing critical medical supplies. A national Covid-19 surveillance system that coordinates expansive testing and contact tracing at the local level. Investment in new therapeutics and vaccines. Economic measures that provide a social safety net. The time to act is now.
 
 _J. Stephen Morrison is senior vice president and director of the Global Health Policy Center at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Anna Carroll is an associate fellow with the Global Health Policy Center._
+
+_This commentary is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
 
 **_Commentary is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s)._**
 
