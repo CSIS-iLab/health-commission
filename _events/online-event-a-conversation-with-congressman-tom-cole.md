@@ -15,7 +15,6 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1601565669/health-c
 image_caption: U.S. Congressman Tom Cole (R-OK-04)
 image_credit: CSIS
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/ckgJWZsOtW0"></iframe></div>
