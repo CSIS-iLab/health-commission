@@ -17,7 +17,7 @@ image_credit: CSIS
 documents: []
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="**_https://www.youtube.com/watch?v=ckgJWZsOtW0&feature=youtu.be_**"></iframe></div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/watch?v=ckgJWZsOtW0&feature=youtu.be"></iframe></div>
 
 Please join the _CSIS Commission on Strengthening America’s Health Security_ on Thursday, October 1 from 9:00 a.m. - 10:00 a.m. EDT for a conversation with U.S. Congressman Tom Cole (R-OK-4). The United States continues to struggle to contain the Covid-19 pandemic, in the face of persistent outbreaks and significant death tolls impeding a return to normalcy.
 
