@@ -20,6 +20,7 @@ documents: []
 published: false
 
 ---
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/Xn75awjjIms](https://www.youtube.com/embed/Xn75awjjIms "https://www.youtube.com/embed/Xn75awjjIms")"></iframe></div>
 
 On September 2, 2020, the CSIS [Commission on Strengthening America’s Health Security](https://healthsecurity.csis.org/) hosted a discussion on Vladimir Putin's _Sputnik V_ vaccine, examining its implications for Russian health security and the global scramble for a vaccine. The Commission was joined by **_Heather A. Conley_**, Senior Vice President and Director of the CSIS Europe Program; **_Judyth Twigg_**_,_ Senior Associate with the CSIS Global Health Policy Center and Professor at Virginia Commonwealth University; and **_Vasily Vlassov,_** Professor and Senior Research Fellow at the National Research University Higher School of Economics. **_J. Stephen Morrison_**, Senior Vice President and Director of the CSIS Global Health Policy Center, moderated the event discussion.
 
