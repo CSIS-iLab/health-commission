@@ -8,7 +8,7 @@ excerpt: President Trump's suspension of funding to WHO could gravely compromise
   global response to Covid-19. If common sense and diplomacy prevail, the administration
   and WHO can walk back from the ledge, with a bipartisan nudge from Congress and
   gentle pressure from the G-7.
-date: 2020-04-28 04:00:00 +0000
+date: 2020-04-28T04:00:00.000+00:00
 authors:
 - _authors/stephen-morrison.md
 - _authors/anna-carroll.md
@@ -84,7 +84,7 @@ A prolonged funding freeze will compromise many other longstanding global health
 
 Yemen is the first dramatic case study of how dangerous and damaging a halt of U.S. support to WHO—amid the coronavirus pandemic—can be in practice.
 
-Yemen is the world’s worst human and health catastrophe. Nearly [half](https://www.reuters.com/article/us-health-coronavirus-yemen-idUSKBN2152Y9) of its medical facilities are inoperable, and [85 percent](https://www.reuters.com/article/us-health-coronavirus-yemen-idUSKBN2152Y9) of the population is dependent on emergency assistance for survival. The first Covid-19 case has been [confirmed](https://www.npr.org/2020/04/11/832360504/yemen-reports-its-1st-covid-19-case), and the race is on to avert a runaway outbreak. WHO remains the central, most vital international institution responding to Yemen’s deep and enduring health and humanitarian crises, now including the advent of Covid-19. WHO is actively [equipping](https://reliefweb.int/report/yemen/humanitarians-are-racing-against-time-help-yemen-address-covid-19-odds-are-stacked) 32 hospitals with Covid-19 isolation units and organizing the purchase and delivery of protective gear, test kits, reagents, and ventilators. It is [funding and organizing](file:///Users/phillipmeylan/Downloads/and%20organizing%20the%20purchase%20and%20delivery%20of%20protective%20gear,%20test%20kits,%20reagents%20and%20ventilators) over 300 five-person Yemeni investigative teams to support Covid-19 detection and [reactivating](https://reliefweb.int/report/yemen/humanitarians-are-racing-against-time-help-yemen-address-covid-19-odds-are-stacked) 26 Emergency Operation Centers (created two years ago to battle the cholera outbreak).
+Yemen is the world’s worst human and health catastrophe. Nearly [half](https://www.reuters.com/article/us-health-coronavirus-yemen-idUSKBN2152Y9) of its medical facilities are inoperable, and [85 percent](https://www.reuters.com/article/us-health-coronavirus-yemen-idUSKBN2152Y9) of the population is dependent on emergency assistance for survival. The first Covid-19 case has been [confirmed](https://www.npr.org/2020/04/11/832360504/yemen-reports-its-1st-covid-19-case), and the race is on to avert a runaway outbreak. WHO remains the central, most vital international institution responding to Yemen’s deep and enduring health and humanitarian crises, now including the advent of Covid-19. WHO is actively [equipping](https://reliefweb.int/report/yemen/humanitarians-are-racing-against-time-help-yemen-address-covid-19-odds-are-stacked) 32 hospitals with Covid-19 isolation units and organizing the purchase and delivery of protective gear, test kits, reagents, and ventilators. It is \[funding and organizing\](file:///Users/phillipmeylan/Downloads/and%20organizing%20the%20purchase%20and%20delivery%20of%20protective%20gear,%20test%20kits,%20reagents%20and%20ventilators) over 300 five-person Yemeni investigative teams to support Covid-19 detection and [reactivating](https://reliefweb.int/report/yemen/humanitarians-are-racing-against-time-help-yemen-address-covid-19-odds-are-stacked) 26 Emergency Operation Centers (created two years ago to battle the cholera outbreak).
 
 Since Yemen’s devastating internal war began in 2015, the United States has been the most generous and consistent source of health and humanitarian assistance, much of it delivered through WHO. For the United States to cease supporting WHO in Yemen at this moment in time seems unthinkable.
 
@@ -112,6 +112,8 @@ Such a review will inevitably raise the question of whether member states are tr
 The threat posed by the Trump administration to WHO is serious, real, and urgent. Little time remains to avoid bad outcomes with major consequences. A turn to common sense solutions can create the opportunity for the United States to reclaim global leadership and advance the common good of humanity amid this dangerous global crisis that threatens us all.
 
 _J. Stephen Morrison is senior vice president and director of the Global Health Policy Center at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Anna Carroll is an associate fellow with the Global Health Policy Center._
+
+_This commentary is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
 
 **_Commentary_ is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**
 
