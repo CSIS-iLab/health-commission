@@ -1,5 +1,41 @@
 [
   {
+    "Last Name": "Fred",
+    "First Name": "Khosravi",
+    "Display Name": "Fred Khosravi",
+    "Role in Commission": "",
+    "Short Title": "",
+    "Title": "",
+    "Has Photo": "TRUE",
+    "Short Bio": "",
+    "Long Bio": "",
+    "signature": ""
+  },
+  {
+    "Last Name": "Inglesby",
+    "First Name": "Tom",
+    "Display Name": "Tom Inglesby",
+    "Role in Commission": "",
+    "Short Title": "Johns Hopkins Bloomberg School of Public Health",
+    "Title": " Director, Center for Health Security, Johns Hopkins Bloomberg School of Public Health",
+    "Has Photo": "TRUE",
+    "Short Bio": "Tom Inglesby is the Director of the Center for Health Security of the Johns Hopkins Bloomberg School of Public Health. Dr. Inglesby is also Professor in the Department of Environmental Health and Engineering in the Johns Hopkins Bloomberg School of Public Health with a Joint Appointment in the Johns Hopkins School of Medicine. ",
+    "Long Bio": "Tom Inglesby is the Director of the Center for Health Security of the Johns Hopkins Bloomberg School of Public Health. Dr. Inglesby is also Professor in the Department of Environmental Health and Engineering in the Johns Hopkins Bloomberg School of Public Health with a Joint Appointment in the Johns Hopkins School of Medicine. \n\nDr. Inglesby's work is internationally recognized in the fields of public health preparedness, pandemic and emerging infectious disease, and prevention of and response to biological threats. He is Chair of the Board of Scientific Counselors, Office of Public Health Preparedness and Response, U.S. Centers for Disease Control and Prevention (CDC). He is also Chair of the National Advisory Council of the Robert Wood Johnson Foundation’s National Health Security Preparedness Index. He was on the 2016 Working Group assessing US biosecurity on behalf of the President’s Council of Advisors on Science and Technology (PCAST). \n\nDr. Inglesby has authored or co-authored more than 115 publications on issues related to health security. He is Editor-in-Chief of the peer-reviewed journal Health Security, which he helped establish in 2003. He was a principal editor of the JAMA book Bioterrorism: Guidelines for Medical and Public Health Management. He has been invited to brief White House officials from the past 4 presidential administrations on national biosecurity, and he has delivered Congressional testimony on a number of public health and biosecurity issues.\n\nDr. Inglesby completed his internal medicine and infectious diseases training at Johns Hopkins University School of Medicine, where he also served as Assistant Chief of Service in 1996-97. Dr. Inglesby received his MD from Columbia University College of Physicians and Surgeons and his BA from Georgetown University.\n",
+    "signature": ""
+  },
+  {
+    "Last Name": "Hicks",
+    "First Name": "Kathleen",
+    "Display Name": "Kathleen Hicks",
+    "Role in Commission": "",
+    "Short Title": "",
+    "Title": "Senior Vice President and Director, CSIS International Security Program",
+    "Has Photo": "TRUE",
+    "Short Bio": "Kathleen Hicks is senior vice president, Henry A. Kissinger Chair, and director of the International Security Program at the Center for Strategic and International Studies. She leads a bipartisan team of over 50 resident staff and an extensive network of non-resident affiliates dedicated to providing independent strategic insights and policy solutions that shape national security.",
+    "Long Bio": "Kathleen Hicks is senior vice president, Henry A. Kissinger Chair, and director of the International Security Program at the Center for Strategic and International Studies. She leads a bipartisan team of over 50 resident staff and an extensive network of non-resident affiliates dedicated to providing independent strategic insights and policy solutions that shape national security. Dr. Hicks is concurrently the Donald Marron Scholar at the Kissinger Center for Global Affairs, Johns Hopkins School of Advanced International Studies. She is also a member of the board of trustees for the Aerospace Corporation and the board of directors for the U.S. Naval Institute, in addition to serving on several advisory boards. Dr. Hicks has an extensive national security background, including as a Senate-confirmed leader on policy matters in the Pentagon and an appointed member of two national commissions on defense and security matters. She has received distinguished service awards from three Secretaries of Defense and a Chairman of the Joint Chiefs of Staff, the DOD Senior Professional Women’s Association Excellence in Leadership Award, and the 2018 Walter Beach Award from the National Capital Area Political Science Association. She holds a Ph.D. in political science from the Massachusetts Institute of Technology, a master’s degree from the University of Maryland, and an A.B. magna cum laude from Mount Holyoke College.",
+    "signature": ""
+  },
+  {
     "Last Name": "Gilbert",
     "First Name": "Nikolaj",
     "Display Name": "Nikolaj Gilbert",
