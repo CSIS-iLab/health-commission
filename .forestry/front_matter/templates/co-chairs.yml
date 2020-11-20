@@ -41,3 +41,5 @@ fields:
   - type: file
     name: signature
     label: signature
+pages:
+- _data/co_chairs.json
