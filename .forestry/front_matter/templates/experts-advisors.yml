@@ -35,3 +35,5 @@ fields:
   - type: textarea
     name: Long Bio
     label: Long Bio
+pages:
+- _data/experts_advisors.json
