@@ -1,18 +1,20 @@
 ---
 keywords:
-- Commission Meeting
+  - Commission Meeting
 title: Commission Co-Chair Statement on the 3rd Meeting of Commission Members
 content_type: commentary
-excerpt: Following the third meeting of the CSIS Commission on Strengthening America’s
+excerpt:
+  Following the third meeting of the CSIS Commission on Strengthening America’s
   Health Security, Commission co-chairs Kelly Ayotte and Julie Gerberding call for
   Congress and the administration to advance a U.S. doctrine of continuous prevention,
   protection, and resilience.
 date: 2019-08-08T04:00:00.000+00:00
 authors:
-- _authors/kelly-ayotte.md
-- _authors/julie-louise-gerberding-m-d-mph.md
+  - _authors/kelly-ayotte.md
+  - _authors/julie-louise-gerberding-m-d-mph.md
 series: ''
-themes: []
+themes:
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1565271996/health-commission/health-commission-meeting-june-2019_k5qdeg.jpg
 image_caption: Commissioners at the June 26, 2019 Commission meeting.
 image_credit: CSIS.
@@ -21,8 +23,8 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 On June 26, 2019, the CSIS Commission on Strengthening America’s Health Security convened for the third time since its launch in April 2018. The Commission’s core aim is to chart a dynamic and concrete vision for the future of U.S. leadership in global health security—at home and abroad.
 
 Today we face an escalating, uncontrolled crisis in the Democratic Republic of the Congo (DRC). More than one year after the Ebola outbreak began, it has just recently been declared a global emergency. The virus continues to spread and threatens to spill into neighboring countries and beyond. Progress has been stymied by community resistance and mistrust, combined with opaque targeted violence against health providers. On June 25, the Commission convened a dinner discussion focused on this burgeoning crisis. One stark conclusion emerged: we will not see a turnaround in the DRC until there is a much higher-level and more determined effort by the United States, other major powers, and African states to overcome disorder and violence in the DRC. We will see in other places in the future what we are currently witnessing in the DRC, and we simply must be better prepared.

@@ -15,11 +15,13 @@
     <div class="group__member">
       <a class="group__member-anchor" name="{{ member['Last Name'] | append: member['First Name'] | slugify }}"></a>
 
-      {% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
-      {% assign path = site.cloudinary_url | append: "r_max/v3/health-commission/" %}
-      {% assign placeholder = "Anon.jpg"  %}
+      {% assign placeholder = site.cloudinary_url | append: "r_max/v3/health-commission/Anon.jpg" %}
 
-      <img class="group__member__photo" onerror="this.src='{{ path }}{{ placeholder }}'" src="{{ path }}{{ file }}" />
+      {% if member.image_field %}
+      {% assign file = member.image_field %}
+      {% endif %}
+
+      <img class="group__member__photo" onerror="this.src='{{ placeholder }}'" src="{{ file }}" />
 
       <div class="group__member__text">
         <div class="bio-name">{{ member['Display Name'] }}</div>

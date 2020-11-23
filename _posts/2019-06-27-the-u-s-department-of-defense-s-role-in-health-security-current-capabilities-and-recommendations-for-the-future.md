@@ -15,7 +15,8 @@ authors:
   - _authors/stephen-morrison.md
   - _authors/thomas-cullison.md
 series: ''
-themes: []
+themes:
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: 'https://res.cloudinary.com/csisideaslab/image/upload/v1537915123/health-commission/GettyImages-456932390.jpg'
 image_caption: 'A health worker takes the temperature of U.S. Marines arriving to take part in Operation United Assistance on October 9, 2014 near Monrovia, Liberia.'
 image_credit: 'John Moore/Getty'

@@ -33,7 +33,7 @@ authors:
   - _authors/juan-zarate.md
 series: ''
 themes:
-  - _themes/high-risk-disease-outbreaks.md
+  - _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1554312659/health-commission/GettyImages-470059074.jpg
 image_caption:
   'WASHINGTON, DC - APRIL 17: World Bank Group President Jim Kim (C)

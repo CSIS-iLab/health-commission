@@ -1,20 +1,22 @@
 ---
 keywords:
-- Coronavirus
-- COVID-19
+  - Coronavirus
+  - COVID-19
 title: 'Covid-19 in the D.C. Area: Should We Be Concerned or Optimistic?'
 content_type: commentary
-excerpt: How bad is Covid-19 likely to be for the District of Columbia and the broader
+excerpt:
+  How bad is Covid-19 likely to be for the District of Columbia and the broader
   region? CSIS’s J. Stephen Morrison analyzes the key factors affecting the outlook
   for the U.S. capital.
 date: 2020-04-23 04:00:00 +0000
 authors:
-- _authors/stephen-morrison.md
+  - _authors/stephen-morrison.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1587672903/health-commission/GettyImages-1209563236_o6i4th.jpg
-image_caption: 'A woman wearing a mask to prevent the spread of COVID-19, known as
+image_caption:
+  'A woman wearing a mask to prevent the spread of COVID-19, known as
   coronavirus, rides a bike in front of the US Capitol in Washington, DC, April 9,
   2020. '
 image_credit: Saul Loeb/AFP via Getty Images
@@ -23,8 +25,8 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 On March 7, the District of Columbia [confirmed its first case](https://www.wsj.com/articles/washington-d-c-confirms-first-case-of-coronavirus-11583635572) of the novel coronavirus (Covid-19). Across the city and neighboring states, cases continue to rise steadily, now exceeding 26,000 in total. As of April 22, D.C. has [reported](https://coronavirus.dc.gov/page/coronavirus-data) 3,206 cases and 127 deaths, equivalent to [19 deaths](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/) per 100,000 (compared to [97 deaths](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/) per 100,000 in New York state and toward the high end of deaths per capita nationally). In the broader region, Maryland has [reported](https://coronavirus.maryland.gov/) 14,775 cases and 631 deaths ([12 deaths](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/) per 100,000), and Virginia has [reported](http://www.vdh.virginia.gov/coronavirus/) 10,266 cases and 349 deaths ([4 deaths](https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/) per 100,000).
 
 ### **Q1:** **How bad is Covid-19 likely to be for the District of Columbia, and what can be said for the broader National Capital Region?**

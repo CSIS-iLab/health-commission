@@ -1,14 +1,13 @@
 ---
 layout: final-report
 title: Ending the Cycle of Crisis and Complacency in U.S. Global Health Security
-permalink: '/final-report/'
+permalink: '/2019 Commission Report/'
 date: 2019-11-18 00:00:00 +0000
 authors:
   - _authors/the-commission.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1573834283/health-commission/washington-dc-emergency-workers_eipc0u.jpg
 image_credit: Photo by Alex Wong/Getty Images
-? image_caption
-excerpt: The CSIS Commission on Strengthening America’s Health Security urges the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience.
+excerpt: In 2019, the Commission released a major report urging the U.S. government to replace the cycle of crisis and complacency that has long plagued health security preparedness with a doctrine of continuous prevention, protection, and resilience. The Commission continues to advance these strategic actions and track progress in their adoption and implementation.
 pdf: https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/191122_EndingTheCycle_GHSC_WEB_FULL_11.22.pdf
 show_page_highlights: true
 page_highlights_download: true

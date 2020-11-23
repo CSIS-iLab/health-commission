@@ -1,19 +1,20 @@
 ---
 keywords:
-- Ebola
+  - Ebola
 title: The Ebola Virus Is Winning in Eastern Democratic Republic of the Congo
 content_type: commentary
-excerpt: Over a year into the Ebola outbreak in the Democratic Republic of the Congo
+excerpt:
+  Over a year into the Ebola outbreak in the Democratic Republic of the Congo
   (DRC), insecurity and chaos are impeding access and crippling the response. CSIS’s
   J. Stephen Morrison lays out what it will take to end the outbreak.
 date: 2019-09-12 04:00:00 +0000
 authors:
-- _authors/stephen-morrison.md
-series: _series/health-security-dimensions-of-geopolitical-crises.md
+  - _authors/stephen-morrison.md
 themes:
-- _themes/global-disorder.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1568661036/health-commission/DRCONGO-HEALTH-EBOLA_m5gkn4.jpg
-image_caption: A soldier from the United Nations Organisation Stabilisation Mission
+image_caption:
+  A soldier from the United Nations Organisation Stabilisation Mission
   in the Democratic Republic of the Congo (MONUSCO), patrols outside an Ebola Treatment
   Centre (ETC) in Butembo, the epicentre of DR Congo's latest Ebola outbreak, after
   it was attacked on March 9, 2019.
@@ -23,8 +24,8 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 Hard barriers to access lie at the very heart of the agonizing struggle by international and Congolese responders to contain and ultimately arrest the Ebola outbreak in eastern Democratic Republic of the Congo (DRC). As of early September 2019, there have been over [3,000 cases and 2,000 deaths](https://www.who.int/csr/don/06-september-2019-ebola-drc/en/). Foremost among the barriers to access are insecurity and chaos, which gravely and consistently thwart access to the hot zone, in effect providing shelter for the virus. Four other forces contribute profoundly to creating an environment in which it has not been possible to confront and circumnavigate DRC’s insecurity and chaos in order to carry out the public health actions essential to end the Ebola outbreak. These compounding factors include DRC’s dysfunctional governance, the absence of high-level major power engagement, the overload created by DRC’s high number of infectious disease outbreaks amid a roiling humanitarian crisis, and the flawed implementation and management of an underfinanced international response.
 
 The current Ebola outbreak—the tenth and most dangerous of the disease in the country since it was first discovered there in 1976—was first declared on August 1, 2018 though it is believed to have ignited months earlier in April 2018. As of late May 2019, UN Secretary-General António Guterres appointed David Gressly, a highly-respected, senior U.S. United Nations official, to oversee an integrated approach with greater accountability and greater focus on security and community trust. On July 17, 2019, the World Health Organization (WHO) declared the outbreak a global emergency. It remains uncontrolled, a steady “slow burn” that continues to expand its geographic footprint while hotspots flare and skip across a dangerous, complex terrain populated by over 8.5 million people, including a million displaced.

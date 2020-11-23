@@ -1,20 +1,22 @@
 ---
 keywords:
-- Public Event
-- Gene Editing
+  - Public Event
+  - Gene Editing
 title: 'Post-Hong Kong: Human Genome Editing’s Brave New World'
 content_type: event
-excerpt: On March 27, 2019, the CSIS Commission on Strengthening America’s Health
+excerpt:
+  On March 27, 2019, the CSIS Commission on Strengthening America’s Health
   Security and the National Academy of Medicine co-hosted a panel discussion on the
   unfolding debate over human germline genome editing.
 date: 2019-03-27 04:00:00 +0000
 series: ''
 themes:
-- _themes/managing-biotechnology.md
+  - _themes/science-and-anti-science.md
 image: ''
 image_caption: ''
 image_credit: ''
 ---
+
 <div class="video-wrapper post-feature-video"><iframe width="700" height="394" src="https://www.youtube.com/embed/zAXcPkjN2RE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 A firestorm followed Professor He Jiankui’s disturbing announcement last fall in Hong Kong that he had made heritable genetic changes in human embryos that resulted in the birth of twin girls. Critics pointed to the lack of oversight and transparency, the inadequacy of the informed consent process, the lack of a compelling medical rationale, potential unknown future harms to the edited babies, and the lack of a clear consensus about the actual use of new, powerful gene editing technologies. This historic incident has stirred an intense debate over both the promise of these technologies to cure devastating diseases, such as Huntington’s Disease, and alarm over the idea that these same technologies might be used to create “designer babies.” The U.S. National Academy of Sciences and National Academy of Medicine, together with other international academies, have led vital international discussions over next steps.

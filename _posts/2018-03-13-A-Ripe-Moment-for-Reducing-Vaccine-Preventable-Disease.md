@@ -14,7 +14,7 @@ authors:
   - _authors/Nellie-Bristol.md
 series: ''
 themes:
-  - _themes/developing-countermeasures.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537915314/health-commission/GettyImages-91991288.jpg
 image_caption:
   A picture shows vials of Humenza and Panenza, H1N1 flu vaccines by

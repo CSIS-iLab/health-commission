@@ -1,19 +1,21 @@
 ---
 title: Health Security Downgraded at the White House
 keywords:
-- Ebola
+  - Ebola
 date: 2018-06-28 22:15:41 +0000
 content_type: commentary
-excerpt: On May 9, the day after the Democratic Republic of the Congo confirmed an
+excerpt:
+  On May 9, the day after the Democratic Republic of the Congo confirmed an
   Ebola outbreak, the Trump administration dismissed Rear Admiral Tim Ziemer and dissolved
   his post as senior director for global health security and biothreats.
 authors:
-- _authors/stephen-morrison.md
+  - _authors/stephen-morrison.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537913938/health-commission/GettyImages-456932390.jpg
-image_caption: 'A health worker takes the temperature of U.S. Marines arriving to
+image_caption:
+  'A health worker takes the temperature of U.S. Marines arriving to
   take part in Operation United Assistance on October 9, 2014 near Monrovia, Liberia.'
 image_credit: John Moore/Getty Images
 pdf: ''
@@ -21,13 +23,13 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 On May 9, the day after the Democratic Republic of the Congo confirmed an Ebola outbreak, the Trump administration dismissed Rear Admiral Tim Ziemer and dissolved his post as senior director for global health security and biothreats. Ironically, the creation of that directorate in the fall of 2016 stemmed directly from the costly mishandling of the response to the prior Ebola crisis in West Africa. We are now at risk of repeating the mistakes of 2014.
 
-In 2014, the United States was ill-prepared to manage a fast-moving, complicated, dangerous Ebola epidemic that was unfolding in an unexpected, remote place. The Obama administration was sluggish in understanding that no international response structure existed to manage both the epidemiological and humanitarian dimensions of the crisis posed by Ebola. Indeed it took months to recognize just how much the World Health Organization and related international UN and regional bodies were failing, prior to the much-delayed declaration by the UN of a full-blown runaway public health emergency in August. 
+In 2014, the United States was ill-prepared to manage a fast-moving, complicated, dangerous Ebola epidemic that was unfolding in an unexpected, remote place. The Obama administration was sluggish in understanding that no international response structure existed to manage both the epidemiological and humanitarian dimensions of the crisis posed by Ebola. Indeed it took months to recognize just how much the World Health Organization and related international UN and regional bodies were failing, prior to the much-delayed declaration by the UN of a full-blown runaway public health emergency in August.
 
-In a late move to break the dread that West Africa would implode and Ebola spread beyond Liberia, Sierra Leone, and Guinea, the president announced on September 16 that up to 3,000 U.S. forces would go to Liberia, the first such deployment of U.S. military forces to battle an infectious disease threat. In this same period, when just a few individuals sick with Ebola entered the United States in the summer and fall (one, Thomas Eric Duncan, infected two nurses in Dallas), an epidemic of fear spread across the United States, exacerbated by 24/7 cable news, confused White House messaging, misinformation, and the partisan sniping borne of the 2014 electoral season. In another late move, the president, amidst the worsening domestic mayhem, appointed an Ebola czar, Ron Klain, in the third week of October. 
+In a late move to break the dread that West Africa would implode and Ebola spread beyond Liberia, Sierra Leone, and Guinea, the president announced on September 16 that up to 3,000 U.S. forces would go to Liberia, the first such deployment of U.S. military forces to battle an infectious disease threat. In this same period, when just a few individuals sick with Ebola entered the United States in the summer and fall (one, Thomas Eric Duncan, infected two nurses in Dallas), an epidemic of fear spread across the United States, exacerbated by 24/7 cable news, confused White House messaging, misinformation, and the partisan sniping borne of the 2014 electoral season. In another late move, the president, amidst the worsening domestic mayhem, appointed an Ebola czar, Ron Klain, in the third week of October.
 
 The costs of the ad hoc, chaotic response to Ebola, by the United States, WHO, and others, were enormous: over 27,000 Ebola cases, including 11,000 fatalities.
 
@@ -45,6 +47,6 @@ How big will the price be for eliminating the White House global health security
 
 Certainly, all is not lost. U.S. Health and Human Services Secretary Alex Azar recently led the U.S. delegation to the World Health Assembly where he pledged $8 million towards the international response to Ebola in the Congo. Admiral Ziemer’s talented team members remain inside the White House, while many very able senior officials are in place in the multiple U.S. agencies that contribute to U.S. health security. Bipartisan interest in Congress in strengthening health security at home and abroad remains solid. The Trump administration in its FY2019 budget added $51 million to support the Global Health Security Agenda, aware of the need for bridge funding as the $1 billion in emergency Ebola money was spent down.
 
-But we should have no illusions. The price to U.S. national interests will be big, unless corrective action is taken soon. It is not clear who at a senior level will be in charge of the U.S. response to dangerous outbreaks. Fragmentation will worsen if there is no strong, dedicated coordinating oversight from within the White House.  Whatever previous insulation health security had from internal White House chaos is now gone. The future of U.S. funding and support to the Global Health Security Agenda is uncertain. There is a high risk of continued drift in policy development and of continued assault upon budgets. The congressionally mandated revision and updating of the U.S. national biodefense strategy, already nine months late, hangs uncertainly in the balance. The FY 2018 omnibus spending bill signed by President Trump on March 23, 2018, mandates that the administration in six months lay out a future strategic approach to health security writ large. As far as anyone knows, that process is not very far along.  
+But we should have no illusions. The price to U.S. national interests will be big, unless corrective action is taken soon. It is not clear who at a senior level will be in charge of the U.S. response to dangerous outbreaks. Fragmentation will worsen if there is no strong, dedicated coordinating oversight from within the White House.  Whatever previous insulation health security had from internal White House chaos is now gone. The future of U.S. funding and support to the Global Health Security Agenda is uncertain. There is a high risk of continued drift in policy development and of continued assault upon budgets. The congressionally mandated revision and updating of the U.S. national biodefense strategy, already nine months late, hangs uncertainly in the balance. The FY 2018 omnibus spending bill signed by President Trump on March 23, 2018, mandates that the administration in six months lay out a future strategic approach to health security writ large. As far as anyone knows, that process is not very far along.
 
 It is not too late for the Trump administration to reverse course. Perhaps the renewed threat of Ebola will refocus its imagination and return a sense of strategic purpose to guaranteeing America’s health security.

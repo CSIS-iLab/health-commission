@@ -1,21 +1,20 @@
 ---
 title: 'The Impossible State Podcast: The Gathering Health Storm Inside North Korea'
 keywords:
-- North Korea
-- Tuberculosis
-- Podcast
+  - North Korea
+  - Tuberculosis
+  - Podcast
 date: 2018-11-02 18:40:21 +0000
 content_type: commentary
-excerpt: J. Stephen Morrison and Victor Cha discuss the bleak health realities in
+excerpt:
+  J. Stephen Morrison and Victor Cha discuss the bleak health realities in
   North Korea, an understudied part of the larger problem of potential instability
   on the Korean peninsula and a potential health security threat.
 authors:
-- _authors/stephen-morrison.md
-- _authors/Victor-Cha.md
-series: _series/health-security-dimensions-of-geopolitical-crises.md
+  - _authors/stephen-morrison.md
+  - _authors/Victor-Cha.md
 themes:
-- _themes/global-disorder.md
-- _themes/drug-resistance.md
+  - _themes/building-a-new-order.md
 image: ''
 image_caption: ''
 image_credit: ''
@@ -24,8 +23,8 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/523869825&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 _This podcast with J. Stephen Morrison and Victor Cha, recorded for the CSIS podcast The Impossible State, a podcast on North Korea, illuminates the challenges of the disordered world for health security through the case of North Korea._

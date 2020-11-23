@@ -1,31 +1,33 @@
 ---
 keywords:
-- Coronavirus
-- COVID-19
+  - Coronavirus
+  - COVID-19
 title: WHO and President Trump on the Ledge
 content_type: commentary
-excerpt: President Trump's suspension of funding to WHO could gravely compromise the
+excerpt:
+  President Trump's suspension of funding to WHO could gravely compromise the
   global response to Covid-19. If common sense and diplomacy prevail, the administration
   and WHO can walk back from the ledge, with a bipartisan nudge from Congress and
   gentle pressure from the G-7.
 date: 2020-04-28T04:00:00.000+00:00
 authors:
-- _authors/stephen-morrison.md
-- _authors/anna-carroll.md
+  - _authors/stephen-morrison.md
+  - _authors/anna-carroll.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1588783115/health-commission/GettyImages-959790390_alra4e.jpg
-image_caption: A sign of the World Health Organization (WHO) is seen at the entrance
+image_caption:
+  A sign of the World Health Organization (WHO) is seen at the entrance
   of the UN specialised agency's headquarters on May 18, 2018 in Geneva.
-image_credit: " FABRICE COFFRINI / AFP via Getty Images"
+image_credit: ' FABRICE COFFRINI / AFP via Getty Images'
 pdf: ''
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 ### **Throwing Down the Gauntlet**
 
 On April 14, President Trump abruptly [announced](https://www.npr.org/sections/coronavirus-live-updates/2020/04/14/834588506/trump-says-he-will-halt-who-funding-pending-review) that the United States would suspend its funding for the World Health Organization (WHO) for 60 to 90 days to conduct a review of the global public health authority’s handling of the Covid-19 response. The White House provided little detail on the review’s scope and process. In his announcement, President Trump [accused](https://www.npr.org/sections/coronavirus-live-updates/2020/04/14/834588506/trump-says-he-will-halt-who-funding-pending-review) WHO of “severely mismanaging and covering up the spread of the coronavirus” and" of being a de facto accomplice to a Chinese campaign of misinformation.
@@ -36,7 +38,7 @@ The White House alleges that WHO failed to act on evidence of human-to-human tra
 
 President Trump claims that WHO “[fought](https://www.statnews.com/2020/04/14/trump-announces-a-formal-freeze-on-who-funding-pending-an-investigation/)” his January 31 [decision](https://www.nytimes.com/2020/01/31/business/china-travel-coronavirus.html) to ban travel from China, a step the president regularly hails as proof of early and aggressive action to combat the spread of Covid-19. In early 2020, WHO did voice opposition to restrictions on travel and trade to China, a policy position in line with International Health Regulations (IHR). In fact, WHO reiterated its position in response to travel bans imposed by several dozen states _before_ the United States took this action. At no time did WHO single out the United States or any other specific country for implementing travel bans.
 
-According to the White House, WHO delayed publicizing the severity of the outbreak under Chinese pressure. The administration points to the WHO Emergency Committee’s first convening on [January 22](https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))—when the committee declined to declare a Public Health Emergency of International Concern ([PHEIC](https://www.statnews.com/2020/01/30/who-declares-coronavirus-outbreak-a-global-health-emergency/))—as proof. Shortly thereafter, on January 30, the committee met for a second time and declared the novel coronavirus outbreak a PHEIC. Six weeks later, on March 11, WHO declared the outbreak a [pandemic](https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/). Beginning in mid-January and throughout this period, WHO [repeatedly](https://www.npr.org/sections/goatsandsoda/2020/04/15/835179442/we-alerted-the-world-to-coronavirus-on-jan-5-who-says-in-response-to-u-s) urged countries to take the novel coronavirus seriously and strengthen disease detection capacities, often during its frequent, detailed [press briefings](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/press-briefings) with WHO senior staff.
+According to the White House, WHO delayed publicizing the severity of the outbreak under Chinese pressure. The administration points to the WHO Emergency Committee’s first convening on [January 22](<https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)>)—when the committee declined to declare a Public Health Emergency of International Concern ([PHEIC](https://www.statnews.com/2020/01/30/who-declares-coronavirus-outbreak-a-global-health-emergency/))—as proof. Shortly thereafter, on January 30, the committee met for a second time and declared the novel coronavirus outbreak a PHEIC. Six weeks later, on March 11, WHO declared the outbreak a [pandemic](https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/). Beginning in mid-January and throughout this period, WHO [repeatedly](https://www.npr.org/sections/goatsandsoda/2020/04/15/835179442/we-alerted-the-world-to-coronavirus-on-jan-5-who-says-in-response-to-u-s) urged countries to take the novel coronavirus seriously and strengthen disease detection capacities, often during its frequent, detailed [press briefings](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/press-briefings) with WHO senior staff.
 
 President Trump’s decision to freeze funding has stirred loud calls within congressional Republican circles and pro-Trump media for investigations into the organization and the [replacement](https://www.reuters.com/article/us-health-coronavirus-who-congress/backing-trump-u-s-republicans-call-for-who-chief-to-resign-idUSKBN21Y39W) of WHO Director-General Dr. Tedros Adhanom Ghebreyesus (known as Dr. Tedros). The State Department has subsequently [removed](https://www.washingtonpost.com/national-security/trump-expands-battle-with-world-health-organization-far-beyond-aid-suspension/2020/04/25/72c754e6-856e-11ea-9728-c74380d9d410_story.html) references to WHO from fact sheets on the pandemic and accelerated the exploration of options to [divert U.S. funds](https://www.washingtonpost.com/national-security/trump-expands-battle-with-world-health-organization-far-beyond-aid-suspension/2020/04/25/72c754e6-856e-11ea-9728-c74380d9d410_story.html) for Covid-19 and other public health initiatives to other non-governmental groups. Secretary of State Mike Pompeo has [announced](https://www.reuters.com/article/us-health-coronavirus-who-pompeo/pompeo-says-us-may-never-restore-who-funds-after-cutoff-over-pandemic-idUSKCN2252GR) the administration is considering the possibility of creating an alternative agency to WHO. Diplomatically, the United States has [opposed](https://www.washingtonpost.com/national-security/trump-expands-battle-with-world-health-organization-far-beyond-aid-suspension/2020/04/25/72c754e6-856e-11ea-9728-c74380d9d410_story.html) positive reference to WHO in a draft UN Security Council resolution calling for a global ceasefire to facilitate action against the pandemic.
 
@@ -100,10 +102,10 @@ The third is to lay the groundwork for an interim review of the performance of b
 
 An interim review of WHO’s response to Covid-19 would need to:
 
-* Investigate the critical events of early January 2020, which remain a source of great dispute;
-* Consider how to accelerate the decisionmaking process of the WHO Emergency Committee, including possibly establishing interim levels or categories of emergency;
-* Examine the formal policy set by WHO member states regarding the treatment of Taiwan. The Chinese government is currently blocking Taiwan from WHO membership status, although Taiwan participates extensively in the WHO Secretariat’s technical work;
-* Propose revisions to the IHR, most importantly their current lack of enforcement mechanisms, which result in WHO lacking any inspection powers. This is in contrast to the International Atomic Energy Agency (IAEA), for example, which can conduct inspections of member states’ nuclear energy programs without providing advance notice.
+- Investigate the critical events of early January 2020, which remain a source of great dispute;
+- Consider how to accelerate the decisionmaking process of the WHO Emergency Committee, including possibly establishing interim levels or categories of emergency;
+- Examine the formal policy set by WHO member states regarding the treatment of Taiwan. The Chinese government is currently blocking Taiwan from WHO membership status, although Taiwan participates extensively in the WHO Secretariat’s technical work;
+- Propose revisions to the IHR, most importantly their current lack of enforcement mechanisms, which result in WHO lacking any inspection powers. This is in contrast to the International Atomic Energy Agency (IAEA), for example, which can conduct inspections of member states’ nuclear energy programs without providing advance notice.
 
 The review might also return to a fundamental question that surfaced during the West Africa Ebola crisis: whether the time has come for the WHO Emergency Program to become independent, like the World Food Programme and UNICEF. An independent Emergency Program with its own budget and governing structure might be able to operate with greater authority and speed. But such an institution would also need to be integrated with all of WHO’s health programs, ensuring the close alignment of both public health preparedness and response efforts.
 

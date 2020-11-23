@@ -2,19 +2,21 @@
 keywords: []
 title: 'Fentanyl Opens a Grave New Health Security Threat: Synthetic Opioids'
 content_type: commentary
-excerpt: China’s commitment to ban fentanyl as a drug class, a welcome announcement
+excerpt:
+  China’s commitment to ban fentanyl as a drug class, a welcome announcement
   at the December 2018 G20 summit in Buenos Aires, was just the most recent, powerful
   signal of the growing understanding that fentanyl, the front edge of a new era of
   synthetic opioids, poses a grave, direct health security threat.
 date: 2019-01-18 05:00:00 +0000
 authors:
-- _authors/stephen-morrison.md
-- _authors/emily-munden.md
+  - _authors/stephen-morrison.md
+  - _authors/emily-munden.md
 series: ''
 themes:
-- _themes/global-disorder.md
+  - _themes/science-and-anti-science.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1550093697/health-commission/GettyImages-862406682.jpg
-image_caption: Deputy U.S. Attorney General Rod Rosenstein (L) speaks during a news
+image_caption:
+  Deputy U.S. Attorney General Rod Rosenstein (L) speaks during a news
   conference October 17, 2017 at the Justice Department in Washington, DC. Rosenstein
   held a news conference to announce that federal grand juries in the Southern District
   of Mississippi and the District of North Dakota have indicted two Chinese nationals
@@ -27,8 +29,8 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 China’s commitment to ban fentanyl as a drug class, a welcome announcement at the December 2018 G20 summit in Buenos Aires, was just the most recent, powerful signal of the growing understanding that fentanyl, the front edge of a new era of synthetic opioids, poses a grave, direct health security threat. Fentanyl is extraordinarily lethal and is cheap and simple to produce, minuscule in size, easily transported, and highly addictive. The danger of fentanyl is felt most immediately by Americans and Canadians, but as the Chinese announcement suggests, it is felt by the Chinese and the citizens of other nations as well. In the short space of a few years, fentanyl has swiftly become a forbidding new global threat requiring the diplomatic attention of the world’s most powerful statesmen and women. In North America, fentanyl’s direct causal linkage to startling rises in opioid overdose deaths has stirred urgent U.S. and Canadian policy action, centered on what measures might effectively arrest this threat. There has been much progress at home and abroad despite the complex difficulties in disrupting both fentanyl’s production—principally in China—and its international delivery pathways, the inadequacy of tools to ascertain when fentanyl-laced heroin is lethal, and the very protean nature of synthetic opioids, which has opened the door to the development of successive new molecular analogs that outrace regulatory authorities.
 
 U.S.-China diplomatic cooperation over fentanyl has advanced even as trade, security, and other critical dimensions of the bilateral relationship have become deeply frayed. In this new health security arena, U.S. and Chinese national interests align: each is motivated to take higher-level collaborative action to protect their perceived national sovereign interests. In the face of mounting deaths in the United States, we saw in 2018 accelerated, bipartisan legislative action by Congress, signed into law by President Trump. (We see a parallel mobilization in Canada.)
@@ -39,7 +41,7 @@ But it is still early days in understanding and battling this new phase of synth
 
 Fentanyl, a synthetic opioid that is 50 times stronger than heroin and 100 times stronger than morphine, is now widely understood to be an exceptionally lethal new threat to the health security of Americans. Average life expectancy in the United States declined in 2016 and 2017 for the first time in decades, partly due to the rise in opioid overdose deaths, which totaled 72,000 in 2017—a new record. Almost 30,000 of these deaths in 2017 were directly attributable to fentanyl, the drug category with the steepest increase in lethal overdoses over the last several years.
 
-![Source: National Institute on Drug Abuse](https://res.cloudinary.com/csisideaslab/image/upload/v1550094159/health-commission/graph_health.jpg "Drugs Involved in U.S. Overdose Deaths, 1999 to 2017  ")
+![Source: National Institute on Drug Abuse](https://res.cloudinary.com/csisideaslab/image/upload/v1550094159/health-commission/graph_health.jpg 'Drugs Involved in U.S. Overdose Deaths, 1999 to 2017  ')
 
 While fentanyl is legal with a prescription, it is commonly trafficked and consumed illicitly. Drug cartels now commonly cut heroin with fentanyl to increase both potency and profitability. The cartels increasingly rely on fentanyl cheaply sourced from China but can produce their own fentanyl as needed. Most heroin enters the United States via Mexican drug cartels, which means, in practice, a large proportion of fentanyl enters the U.S. black market through Mexican smuggling channels, such as the Tijuana/San Diego corridor controlled by the Sinaloa Cartel.
 

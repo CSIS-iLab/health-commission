@@ -1,33 +1,35 @@
 ---
 keywords:
-- Coronavirus
-- COVID-19
+  - Coronavirus
+  - COVID-19
 title: Which Covid-19 Future Will We Choose?
 content_type: commentary
-excerpt: The Covid-19 pandemic will change history, but its path is not yet clear.
+excerpt:
+  The Covid-19 pandemic will change history, but its path is not yet clear.
   This commentary summarizes the major drivers behind the pandemic—both natural and
   political—and sketches three possible scenarios for how the Covid-19 pandemic may
   play out.
 date: 2020-04-01T04:00:00.000+00:00
 authors:
-- _authors/stephen-morrison.md
-- _authors/anna-carroll.md
+  - _authors/stephen-morrison.md
+  - _authors/anna-carroll.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1586189801/health-commission/GettyImages-1212061888_enjcma.jpg
-image_caption: 'WASHINGTON, DC - MARCH 12: The Rotunda at the U.S. Capitol is empty
+image_caption:
+  'WASHINGTON, DC - MARCH 12: The Rotunda at the U.S. Capitol is empty
   after the last tour group has passed through March 12, 2020 on Capitol Hill in Washington,
   DC.'
-image_credit: " Alex Wong / Staff / Getty Images"
+image_credit: ' Alex Wong / Staff / Getty Images'
 pdf: ''
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
-Today, the entire world is consumed by the rapid spread of [SARS-CoV-2](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it), the virus that causes Covid-19. Several Asian countries, including China, Singapore, Taiwan, Hong Kong, and South Korea, are grappling with containment and mitigation on the tail end of their epidemiologic curves. In much of Europe and North America, countries are contending with accelerated outbreaks with rapid spikes in cases and deaths. Many countries, including the United States, remain several painful weeks away from their apex.
+
+Today, the entire world is consumed by the rapid spread of [SARS-CoV-2](<https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it>), the virus that causes Covid-19. Several Asian countries, including China, Singapore, Taiwan, Hong Kong, and South Korea, are grappling with containment and mitigation on the tail end of their epidemiologic curves. In much of Europe and North America, countries are contending with accelerated outbreaks with rapid spikes in cases and deaths. Many countries, including the United States, remain several painful weeks away from their apex.
 
 Amid this global health crisis, it is important to consider what a post-Covid-19 world might look like and what destructive paths the pandemic might take. This commentary is an initial effort to succinctly capture the major drivers behind the pandemic—both natural and political—and to sketch three possible, broad scenarios for how the pandemic may play out in the United States. Similar trajectories may unfold throughout North America and Europe.
 

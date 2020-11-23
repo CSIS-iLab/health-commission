@@ -1,32 +1,31 @@
 ---
 title: Opportunities for Health Diplomacy in North Korea
 keywords:
-- North Korea
-- Tuberculosis
-- Podcast
+  - North Korea
+  - Tuberculosis
+  - Podcast
 is_commission_related:
   description: ''
   related_event: ''
 date: 2018-05-23 00:00:00 +0000
 authors:
-- _authors/Kee-Park.md
-- _authors/stephen-morrison.md
-excerpt: Kee B. Park, Harvard Medical School Paul Farmer Global Surgery Scholar and
+  - _authors/Kee-Park.md
+  - _authors/stephen-morrison.md
+excerpt:
+  Kee B. Park, Harvard Medical School Paul Farmer Global Surgery Scholar and
   Korean American Medical Association Director of North Korea Programs, discusses
   opportunities for diplomatic progress with North Korea through health.
 content_type: commentary
-series: _series/health-security-dimensions-of-geopolitical-crises.md
 themes:
-- _themes/global-disorder.md
-- _themes/drug-resistance.md
+  - _themes/building-a-new-order.md
 image: ''
 image_caption: ''
 image_credit: ''
 pdf: ''
 references: ''
 undefined: ''
-
 ---
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/447545352&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 _This podcast with Kee B. Park, recorded for the CSIS Global Health Policy Center podcast series "Take as Directed", illuminates the challenges of the disordered world for health security through the case of North Korea._

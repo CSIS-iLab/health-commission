@@ -1,20 +1,21 @@
 ---
 title: 'Ebola in America: Epidemic of Fear'
 keywords:
-- Ebola
-- Video
+  - Ebola
+  - Video
 date: 2016-04-22 22:55:00 +0000
 content_type: commentary
-excerpt: 'Ebola in America: Epidemic of Fear” is a groundbreaking feature-length documentary
+excerpt:
+  'Ebola in America: Epidemic of Fear” is a groundbreaking feature-length documentary
   that tells the story of the 2014 Ebola outbreak’s effect on America as well as the
   public health and government response.'
 authors:
-- _authors/stephen-morrison.md
-- _authors/Jacki-Lyden.md
-- _authors/Cathryn-Streifel.md
+  - _authors/stephen-morrison.md
+  - _authors/Jacki-Lyden.md
+  - _authors/Cathryn-Streifel.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: ''
 image_caption: ''
 image_credit: ''
@@ -24,8 +25,8 @@ is_commission_related:
   related_event: ''
 references: ''
 undefined: ''
-
 ---
+
 <div class="video-wrapper post-feature-video">
 <iframe width="700" height="394" src="https://www.youtube.com/embed/cQvgYxn3Neo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
@@ -40,19 +41,19 @@ The documentary features those at the heart of the response, some speaking publi
 
 The documentary includes interviews with the following key personalities:
 
-* Kent Brantly, Ebola survivor, doctor, served in Liberia with Samaritan’s Purse
-* John Carlo, Dallas County Medical Society
-* Helene Cooper, New York Times
-* Anthony Fauci, National Institutes of Allergies and Infectious Diseases
-* Thomas Frieden, Centers for Disease Control and Prevention
-* Gregg Gonsalves, Yale University Law School
-* Kaci Hickox, Nurse, served with Doctors Without Borders in Sierra Leone
-* Ken Isaacs, Samaritan’s Purse
-* Clay Jenkins, Dallas County Judge
-* Ron Klain, White House Ebola Response Coordinator (2014-2015)
-* Allison Liddell, Texas Health Presbyterian Dallas
-* Suerie Moon, Harvard University
-* Amy Pope, National Security Council
-* J. Stephen Morrison, CSIS Global Health Policy Center
+- Kent Brantly, Ebola survivor, doctor, served in Liberia with Samaritan’s Purse
+- John Carlo, Dallas County Medical Society
+- Helene Cooper, New York Times
+- Anthony Fauci, National Institutes of Allergies and Infectious Diseases
+- Thomas Frieden, Centers for Disease Control and Prevention
+- Gregg Gonsalves, Yale University Law School
+- Kaci Hickox, Nurse, served with Doctors Without Borders in Sierra Leone
+- Ken Isaacs, Samaritan’s Purse
+- Clay Jenkins, Dallas County Judge
+- Ron Klain, White House Ebola Response Coordinator (2014-2015)
+- Allison Liddell, Texas Health Presbyterian Dallas
+- Suerie Moon, Harvard University
+- Amy Pope, National Security Council
+- J. Stephen Morrison, CSIS Global Health Policy Center
 
 _Video by Sam Ellis at the Center for Strategic and International Studies._

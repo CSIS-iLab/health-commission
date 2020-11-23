@@ -1,26 +1,20 @@
----
 footer:
   follow_csis: Follow CSIS’s
   follow_program: Global Health Program
   about_heading: About the Commission
-  about_description: "<em>The CSIS Commission on Strengthening America’s Health Security</em>
-    aims to chart a bold vision for the future of U.S. leadership in global health
-    security, at home and abroad. The Commission brings together a distinguished and
-    diverse group of senior leaders who bridge the health and security fields, comprising
-    members of Congress, past administrations, industry, foundations, universities,
-    and NGOs, and the Commission is advised by a group of preeminent subject experts.
-    This is a two-year effort organized by the CSIS Global Health Policy Center."
-  phone_number: "(202) 887-0200"
+  about_description: 'The Covid-19 pandemic has exposed deep and diverse weaknesses in U.S. global health security policy and infrastructure and has triggered massive health, economic, and social crises. The <em>CSIS Commission on Strengthening America’s Health Security</em> will drive discourse and develop concrete, pragmatic action agendas for U.S. health security policy in the Covid-19 era. The Commission brings together a distinguished and diverse group of senior leaders and is advised by a group of preeminent subject experts. Initiated in April 2018, the Commission will continue its efforts through the fall of 2022. '
+  phone_number: '(202) 887-0200'
   email_address: GHPC@csis.org
   twitter: https://twitter.com/CSISHealth
-  address: '1616 Rhode Island Avenue, NW<br>     Washington, DC 20036'
+  address: '1616 Rhode Island Avenue, NW<br>    Washington, DC 20036'
   copyright: by the Center for Strategic and International Studies. All rights reserved.
 menu:
   commission: The Commission
   mission: Our Work—Themes
   resources: Resources
 single_post:
-  From the Commission: The topics discussed on this page were informed by conversations
+  From the Commission:
+    The topics discussed on this page were informed by conversations
     held by the CSIS Commission with experts and opinion leaders.
   references: References
   further_reading: Further Reading
@@ -30,7 +24,8 @@ single_post:
   more_posts: More Related Posts
   featured_post: Featured Post
 events:
-  blurb: The CSIS Commission on Strengthening America’s Health Security aims to chart
+  blurb:
+    The CSIS Commission on Strengthening America’s Health Security aims to chart
     a bold vision for the future of U.S. leadership in global health security, at
     home and abroad.
 about_the_commission:
@@ -42,7 +37,8 @@ about_the_commission:
   back_to_top: Back to top
   bio_button: Read Full Bio
 commission_members_and_contributors:
-  Blurb: The CSIS Commission on Strengthening America’s Health Security brings together
+  Blurb:
+    The CSIS Commission on Strengthening America’s Health Security brings together
     a distinguished and diverse group of high-level opinion leaders who bridge security
     and health.
 home:
@@ -56,7 +52,7 @@ home:
   articles_btn: List All Articles
   articles_btn_aria_label: View list of all Articles
   recent_header: Latest Articles
-  themes_header: Guiding Themes
+  themes_header: Thematic Pillars
   themes_desc: Click on a theme in the list below to view details and related content.
 photo_credit: 'Photo Credit:'
 search_placeholder: What are you searching for?
@@ -76,7 +72,8 @@ next_article: Next Article
 previous_article: Previous Article
 related_articles: Related Articles
 about_csis: About CSIS
-about_csis_desc: Established in Washington, D.C. nearly 60 years ago, the Center for
+about_csis_desc:
+  Established in Washington, D.C. nearly 60 years ago, the Center for
   Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research
   organization dedicated to advancing practical ideas that address the world’s greatest
   challenges. CSIS is ranked the number one think tank in the United States by the

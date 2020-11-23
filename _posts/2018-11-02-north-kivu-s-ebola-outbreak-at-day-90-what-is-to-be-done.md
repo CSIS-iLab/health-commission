@@ -12,9 +12,8 @@ excerpt:
 authors:
   - _authors/stephen-morrison.md
   - _authors/judd-devermont.md
-series: _series/health-security-dimensions-of-geopolitical-crises.md
 themes:
-  - _themes/high-risk-disease-outbreaks.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1541161569/health-commission/ebola-header-cropped.jpg
 image_caption:
   A team of medical workers don protective equipment before entering

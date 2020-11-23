@@ -1,25 +1,27 @@
 ---
 keywords:
-- China
-- Coronavirus
-- 2019-nCoV
+  - China
+  - Coronavirus
+  - 2019-nCoV
 title: 'Critical Questions: The Novel Coronavirus Outbreak'
 content_type: commentary
-excerpt: A new coronavirus rattles China and threatens to become a global pandemic.
+excerpt:
+  A new coronavirus rattles China and threatens to become a global pandemic.
   CSIS’s J. Stephen Morrison, Jude Blanchette, Scott Kennedy, and Stephanie Segal
   weigh in on the global health security, economic, and geopolitical implications
   of the cascading outbreak of 2019-nCoV.
 date: 2020-01-28 05:00:00 +0000
 authors:
-- _authors/stephen-morrison.md
-- _authors/jude-blanchette.md
-- _authors/scott-kennedy.md
-- _authors/stephanie-segal.md
+  - _authors/stephen-morrison.md
+  - _authors/jude-blanchette.md
+  - _authors/scott-kennedy.md
+  - _authors/stephanie-segal.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1580324989/health-commission/GettyImages-1196482445_xqwbmm.jpg
-image_caption: 'BEIJING, CHINA - JANUARY 26: A Chinese woman wears a protective mask
+image_caption:
+  'BEIJING, CHINA - JANUARY 26: A Chinese woman wears a protective mask
   as she walks by a display marking the "Year of the Rat"'
 image_credit: Kevin Frayer/Getty Images
 pdf: ''
@@ -27,8 +29,8 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 ## **China on the Edge**
 
 The explosive outbreak of a novel coronavirus (now known as 2019-nCoV) in China’s Hubei province is advancing at a breakneck pace. The case count stands, as of early Tuesday, January 28, at [4,474, with 107 fatalities](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6). Cases have spread across China and to [more than a dozen other countries](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).
