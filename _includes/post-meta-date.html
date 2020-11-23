@@ -1,5 +1,5 @@
 {% assign date = post.date %}
-{% if page.date %}
+{% if page.date and include.use_post_date != true %}
 {% assign date = page.date %}
 {% endif %}
 

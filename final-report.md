@@ -1,7 +1,7 @@
 ---
 layout: final-report
 title: Ending the Cycle of Crisis and Complacency in U.S. Global Health Security
-permalink: '/2019 Commission Report/'
+permalink: '/final-report/'
 date: 2019-11-18 00:00:00 +0000
 authors:
   - _authors/the-commission.md
