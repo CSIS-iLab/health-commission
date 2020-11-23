@@ -8,7 +8,7 @@
       {{ post.title | escape }}
     </a></h2>
       {% include post-meta-authors.html %}
-      {% include post-meta-date.html %}
+      {% include post-meta-date.html use_post_date=true %}
   </header>
   {% if include.hide_excerpt != true %}
     <main class="post-block__content" role="main">
