@@ -1,24 +1,26 @@
 ---
 keywords:
-- Coronavirus
-- COVID-19
-- Geopolitics
+  - Coronavirus
+  - COVID-19
+  - Geopolitics
 title: Is It Possible to Avert Chaos in the Vaccine Scramble?
 content_type: commentary
-excerpt: In the global scramble for a Covid-19 vaccine, the United States has pursued
+excerpt:
+  In the global scramble for a Covid-19 vaccine, the United States has pursued
   a nationalist approach. This paper argues that it is in the core national security
   interests of the United States to adopt a hybrid strategy, one that blends nationalism
   and internationalism.
 date: 2020-08-06 04:00:00 +0000
 authors:
-- _authors/stephen-morrison.md
-- _authors/anna-carroll.md
-- _authors/Katherine-Bliss.md
+  - _authors/stephen-morrison.md
+  - _authors/anna-carroll.md
+  - _authors/Katherine-Bliss.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1596815296/health-commission/GettyImages-1213154746_1_xrjtip.jpg
-image_caption: 'Flanked by White House coronavirus response coordinator Dr. Deborah
+image_caption:
+  'Flanked by White House coronavirus response coordinator Dr. Deborah
   Birx (L) and Dr. Anthony Fauci (R), director of the National Institute of Allergy
   and Infectious Diseases, U.S. President Donald Trump delivers remarks about coronavirus
   vaccine development in the Rose Garden of the White House on May 15, 2020 in Washington,
@@ -29,13 +31,13 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 ### **The Issue**
 
 _The race for a Covid-19 vaccine is unprecedented in its scope, speed, scale, and urgency. The stakes could not be higher for the United States, which leads the world with over_ [_4.8 million_](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) _confirmed cases and over 155,000 deaths, as uncontrolled outbreaks proliferate across the country, triggering a worsening economic crisis and social strife. The stakes are no less profound for other countries. Together with improved diagnostics and therapeutics, a safe and effective Covid-19 vaccine will be fundamental to ending the pandemic, restarting the world’s economy, and mitigating the_ [_cascade of crises_](https://www.csis.org/events/online-event-covid-19s-next-cascade-crises)_, including extreme poverty, famine, civil unrest, and instability, that most acutely affect lower-income countries._
 
-***
+---
 
 ### **Introduction**
 
@@ -131,7 +133,7 @@ Even if a safe and effective Covid-19 vaccine were to be developed on an acceler
 
 This has played out against the backdrop of a growing [crisis of confidence](https://www.csis.org/podcasts/take-directed/vaccine-confidence-crisis) in vaccines in the United States and globally that might intensify if safety or efficacy issues emerged after a rushed rollout. There is a widespread perception in the United States that the vaccine development is being rushed. Recent [polls](https://www.nytimes.com/2020/07/09/opinion/sunday/coronavirus-vaccine-skepticism.html) suggest that only 50 to 75 percent of Americans would get the vaccine when it became available, which may not be [sufficient](https://www.americanprogress.org/issues/healthcare/reports/2020/07/28/488196/comprehensive-covid-19-vaccine-plan/) to protect the entire population. Only [one-third](https://projects.fivethirtyeight.com/coronavirus-polls/) of Americans trust the administration’s Covid-19 response.
 
-Geopolitical dynamics compound these scientific and public health risks, most importantly, the toxic strategic confrontation between the United States and China. The United States recently [accused](https://www.washingtonpost.com/national-security/us-china-covid-19-vaccine-research/2020/07/21/8b6ca0c0-cb58-11ea-91f1-28aca4d833a0_story.html) China of sponsoring hackers who are targeting firms working to develop Covid-19 vaccines and treatments, ordering China to close its consulate in [Houston](https://www.nytimes.com/2020/07/22/world/asia/us-china-houston-consulate.html), with China [retaliating](https://www.bbc.com/news/world-asia-china-53549155#:\~:text=China%20ordered%20the%20closure%20in,deadline%20and%20%22took%20over%22.) by ordering the closure of the U.S. consulate in the city of Chengdu. As the United States and China exchange escalating recriminations and allegations, the clash [paralyzes](https://foreignpolicy.com/2020/03/27/un-security-council-unsc-coronavirus-pandemic/) the UN Security Council and contributes to the stark diplomatic void. With the exception of pledging conferences, there has been minimal high-level summitry that might promote coordination and collaboration to ease the world’s health and economic crises. There is a risk that the United States and China could use the vaccine as a tool to win economic or political concessions.
+Geopolitical dynamics compound these scientific and public health risks, most importantly, the toxic strategic confrontation between the United States and China. The United States recently [accused](https://www.washingtonpost.com/national-security/us-china-covid-19-vaccine-research/2020/07/21/8b6ca0c0-cb58-11ea-91f1-28aca4d833a0_story.html) China of sponsoring hackers who are targeting firms working to develop Covid-19 vaccines and treatments, ordering China to close its consulate in [Houston](https://www.nytimes.com/2020/07/22/world/asia/us-china-houston-consulate.html), with China [retaliating](https://www.bbc.com/news/world-asia-china-53549155#:~:text=China%20ordered%20the%20closure%20in,deadline%20and%20%22took%20over%22.) by ordering the closure of the U.S. consulate in the city of Chengdu. As the United States and China exchange escalating recriminations and allegations, the clash [paralyzes](https://foreignpolicy.com/2020/03/27/un-security-council-unsc-coronavirus-pandemic/) the UN Security Council and contributes to the stark diplomatic void. With the exception of pledging conferences, there has been minimal high-level summitry that might promote coordination and collaboration to ease the world’s health and economic crises. There is a risk that the United States and China could use the vaccine as a tool to win economic or political concessions.
 
 Despite COVAX’s compelling investment case, leaders of wealthy countries face enormous pressure to meet their sovereign vaccine requirements and to address intensifying economic dislocation at home. Ursula van der Leyen, the president of the European Commission, while committed in principle to COVAX, has to [balance](https://www.politico.eu/article/ursula-von-der-leyen-coronavirus-recovery-plan-summit/) that against the acute pressures to ensure access to a vaccine for European Union member states and forge consensus around an economic rescue package. Many powerful European countries are pursuing bilateral purchasing agreements while still deliberating over what level of support to provide to COVAX. It remains to be seen whether COVAX will attract sufficient funding to be a credible force and an effective competitor in a field dominated by powerful states pursuing nationalist agendas.
 

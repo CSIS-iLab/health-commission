@@ -1,19 +1,20 @@
 ---
 title: The Role of the IFRC in Humanitarian Response and Preparedness
 keywords:
-- Ebola
-- Podcast
+  - Ebola
+  - Podcast
 date: 2018-06-28 23:01:49 +0000
 content_type: commentary
-excerpt: Elhadj As Sy, Secretary General of the International Federation of Red Cross
+excerpt:
+  Elhadj As Sy, Secretary General of the International Federation of Red Cross
   and Red Crescent Societies (IFRC), discusses the role of the IFRC in humanitarian
   and outbreak response and preparedness.
 authors:
-- _authors/Elhadj-Sy.md
-- _authors/stephen-morrison.md
+  - _authors/Elhadj-Sy.md
+  - _authors/stephen-morrison.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/building-a-new-order.md
 image: ''
 image_caption: ''
 image_credit: ''
@@ -23,8 +24,8 @@ is_commission_related:
   related_event: ''
 references: ''
 undefined: ''
-
 ---
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/464633901&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 _This podcast with IFRC Secretary General Elhadj As Sy, recorded for the CSIS Global Health Policy Center podcast series "Take as Directed", examines global outbreak preparedness and response efforts, a fundamental component of global health security and an integral focus of the work of the CSIS Commission. Following the recording of this podcast, the CSIS Commission on Strengthening America’s Health Security hosted a private lunch discussion with Mr. Sy._

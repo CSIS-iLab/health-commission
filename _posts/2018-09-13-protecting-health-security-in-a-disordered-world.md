@@ -2,14 +2,15 @@
 title: Protecting Health Security in a Disordered World
 date: 2018-09-13 00:00:00 +0000
 authors: []
-excerpt: The reality of the disordered world demands U.S. leadership and action to
+excerpt:
+  The reality of the disordered world demands U.S. leadership and action to
   ensure health security.
 content_type: commentary
-themes:
-- _themes/global-disorder.md
+themes: ''
 series: ''
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886677/health-commission/Global-Disorder.jpg
-image_caption: A Iraqi family who fled recent fighting near the city of Mosul prepares
+image_caption:
+  A Iraqi family who fled recent fighting near the city of Mosul prepares
   to sleep on the ground as they try to enter a temporary displacement camp but are
   blocked by Kurdish soldiers on July 3, 2014 in Khazair, Iraq.
 image_credit: Spencer Platt/Getty Images
@@ -21,8 +22,8 @@ references: ''
 links: []
 keywords: []
 undefined: ''
-
 ---
+
 ## Key Challenges
 
 ### Increasing Conflict and Displacement
@@ -55,23 +56,39 @@ U.S. leadership and commitment are essential. The United States accounts for rou
 
 Maintaining the centrality of U.S. leadership on health security requires the prioritization of the disordered world in stated U.S. policy goals and strategy. Congress will play a critical role in shaping the concrete agenda for innovation and higher levels of U.S. engagement. Winning health battles in the disordered world will also require a high degree of diplomacy and sustained commitment to an alliance-based model to reinforce and sustain international norms as laid out in international humanitarian law. The United States must engage partners not only bilaterally but multilaterally to support and strengthen international capacity to track, grasp, and anticipate health security crises, shape outcomes early and preempt worst outcomes, and better manage these burgeoning challenges.
 
+[^1]:
 
-[^1]: Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/](http://ucdp.uu.se/ "http://ucdp.uu.se/")
+  Uppsala Conflict Data Program, 2017, [http://ucdp.uu.se/](http://ucdp.uu.se/ 'http://ucdp.uu.se/')
 
-[^2]: James D. Fearon, “Civil War & the Current International System,” Daedalus 146, no. 4 (2017): 18-32, [https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456](https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456 "https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456")
+[^2]:
 
-[^3]: UNHCR, “Figures at a Glance,” updated June 19, 2018, [http://www.unhcr.org/en-us/figures-at-a-glance.html](http://www.unhcr.org/en-us/figures-at-a-glance.html "http://www.unhcr.org/en-us/figures-at-a-glance.html")
+  James D. Fearon, “Civil War & the Current International System,” Daedalus 146, no. 4 (2017): 18-32, [https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456](https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456 'https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00456')
+
+[^3]:
+
+  UNHCR, “Figures at a Glance,” updated June 19, 2018, [http://www.unhcr.org/en-us/figures-at-a-glance.html](http://www.unhcr.org/en-us/figures-at-a-glance.html 'http://www.unhcr.org/en-us/figures-at-a-glance.html')
 
 [^4]: Ibid.
+[^5]:
 
-[^5]: UNHCR, “Women,” accessed August 2018, [http://www.unhcr.org/en-us/women.html](http://www.unhcr.org/en-us/women.html "http://www.unhcr.org/en-us/women.html")
+  UNHCR, “Women,” accessed August 2018, [http://www.unhcr.org/en-us/women.html](http://www.unhcr.org/en-us/women.html 'http://www.unhcr.org/en-us/women.html')
 
-[^6]: UN OCHA, “Global Humanitarian Overview 2017,” 2016, [https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf](https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf "https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf")
+[^6]:
 
-[^7]: UN Women, “Facts and figures: Peace and security,” accessed August 2018, [http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes](http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes "http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes")
+  UN OCHA, “Global Humanitarian Overview 2017,” 2016, [https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf](https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf 'https://www.unocha.org/sites/dms/Documents/GHO_2017.pdf')
 
-[^8]: United Nations Security Council, “Security Council Adopts Resolution 2286 (2016), Strongly Condemning Attacks against Medical Facilities, Personnel in Conflict Situations,” May 3, 2016, [https://www.un.org/press/en/2016/sc12347.doc.htm](https://www.un.org/press/en/2016/sc12347.doc.htm "https://www.un.org/press/en/2016/sc12347.doc.htm")
+[^7]:
 
-[^9]: Agenda for Humanity, “World Humanitarian Summit 2016,” 2016, [https://www.agendaforhumanity.org/summit](https://www.agendaforhumanity.org/summit "https://www.agendaforhumanity.org/summit")
+  UN Women, “Facts and figures: Peace and security,” accessed August 2018, [http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes](http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes 'http://www.unwomen.org/en/what-we-do/peace-and-security/facts-and-figures#notes')
 
-[^10]: USIP, “Task Force on Extremism in Fragile States,” 2018, [https://www.usip.org/programs/task-force-extremism-fragile-states](https://www.usip.org/programs/task-force-extremism-fragile-states "https://www.usip.org/programs/task-force-extremism-fragile-states")
+[^8]:
+
+  United Nations Security Council, “Security Council Adopts Resolution 2286 (2016), Strongly Condemning Attacks against Medical Facilities, Personnel in Conflict Situations,” May 3, 2016, [https://www.un.org/press/en/2016/sc12347.doc.htm](https://www.un.org/press/en/2016/sc12347.doc.htm 'https://www.un.org/press/en/2016/sc12347.doc.htm')
+
+[^9]:
+
+  Agenda for Humanity, “World Humanitarian Summit 2016,” 2016, [https://www.agendaforhumanity.org/summit](https://www.agendaforhumanity.org/summit 'https://www.agendaforhumanity.org/summit')
+
+[^10]:
+
+  USIP, “Task Force on Extremism in Fragile States,” 2018, [https://www.usip.org/programs/task-force-extremism-fragile-states](https://www.usip.org/programs/task-force-extremism-fragile-states 'https://www.usip.org/programs/task-force-extremism-fragile-states')

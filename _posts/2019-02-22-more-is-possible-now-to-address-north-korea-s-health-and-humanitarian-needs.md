@@ -1,35 +1,35 @@
 ---
 keywords:
-- North Korea
-- Tuberculosis
+  - North Korea
+  - Tuberculosis
 title: More Is Possible Now to Address North Korea’s Health and Humanitarian Needs
 content_type: report
-excerpt: Ahead of the Trump-Kim Vietnam summit, Commission Secretariat Director J.
+excerpt:
+  Ahead of the Trump-Kim Vietnam summit, Commission Secretariat Director J.
   Stephen Morrison argues that the Trump administration should take concrete steps
   to address urgent health and humanitarian needs in North Korea.
 date: 2019-02-22 05:00:00 +0000
 authors:
-- _authors/stephen-morrison.md
-series: _series/health-security-dimensions-of-geopolitical-crises.md
+  - _authors/stephen-morrison.md
 themes:
-- _themes/global-disorder.md
-- _themes/drug-resistance.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1550852722/health-commission/GettyImages-971885364.jpg
-image_caption: 'US President Donald Trump (2nd R) and North Korea''s leader Kim Jong
+image_caption:
+  "US President Donald Trump (2nd R) and North Korea's leader Kim Jong
   Un (2nd L) sign documents as US Secretary of State Mike Pompeo (R) and the North
-  Korean leader''s sister Kim Yo Jong (L) look on at a signing ceremony during their
+  Korean leader's sister Kim Yo Jong (L) look on at a signing ceremony during their
   historic US-North Korea summit, at the Capella Hotel on Sentosa island in Singapore
   on June 12, 2018. - Donald Trump and Kim Jong Un became on June 12 the first sitting
   US and North Korean leaders to meet, shake hands and negotiate to end a decades-old
-  nuclear stand-off. '
+  nuclear stand-off. "
 image_credit: Saul Loeb/AFP/Getty Images
 pdf: ''
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 As President Trump and Kim Jong-un meet for their second summit in Hanoi, will there be serious consideration given to what concrete actions can be taken to protect and advance a health and humanitarian agenda that can directly benefit North Korea’s impoverished majority and reduce the threat of a runaway tuberculosis (TB) outbreak? Perhaps. Certainly, let’s hope so. There is much that can be done.
 
 Over the course of 2018, critically important health and humanitarian programs, though legally exempted under international and U.S. sanctions, nonetheless suffered significant collateral damage in the face of the “maximum pressure” campaign led by the United States. The Global Fund, reportedly due to U.S. and Japanese pressure, ended its malaria and TB programs in June 2018, putting at risk 120,000 persons on TB treatment, and stymying plans for dealing with an ever-increasing TB caseload, including investing in surveillance and laboratory capacities essential to arresting the epidemic. For five months beginning in late summer 2018, UN agencies and international non-governmental organizations, including both European and U.S. humanitarian organizations, with decades of combined experience operating successfully in North Korea, were driven to the breaking point as their operations were severely disrupted. In line with U.S. preferences, the UN Security Council sanctions committee slowed its deliberations to a crawl as the Trump administration held up travel approvals and the issuance of licenses from the Office of Foreign Assets Control (OFAC) and other organizations. Non-governmental organizations (NGOs), as a consequence, became consumed with the administrative burden of mounting red tape. At the same time, their donors began to question the viability of NGO operations under such stark circumstances, and their commercial vendors became increasingly reluctant to sell goods destined for North Korea in the interest of avoiding any serious legal risk. Banking facilities ceased. UN agencies cut staff and scrambled to assemble medicine and other stockpiles. Donor support to the UN annual appeal for North Korea remained stuck at less than 30 percent. The future looked bleak.

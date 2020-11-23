@@ -1,33 +1,34 @@
 ---
 title: The New Barbarianism
 keywords:
-- Geneva Conventions
-- Syria
-- Yemen
-- Afghanistan
-- Humanitarian
-- Video
+  - Geneva Conventions
+  - Syria
+  - Yemen
+  - Afghanistan
+  - Humanitarian
+  - Video
 is_commission_related:
   description: ''
   related_event: ''
 date: 2017-09-06 17:09:48 +0000
 authors:
-- _authors/stephen-morrison.md
-- _authors/Justin-Kenny.md
-excerpt: Healthcare and humanitarian workers are increasingly in the crosshairs as
+  - _authors/stephen-morrison.md
+  - _authors/Justin-Kenny.md
+excerpt:
+  Healthcare and humanitarian workers are increasingly in the crosshairs as
   hospitals and aid centers have become part of the battlefield in today’s wars.
 content_type: commentary
 series: ''
 themes:
-- _themes/global-disorder.md
+  - _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537915555/health-commission/the-new-barbarianism_0.jpg
 image_caption: ''
 image_credit: 'CSIS'
 pdf: ''
 references: ''
 undefined: ''
-
 ---
+
 Healthcare and humanitarian workers are increasingly in the crosshairs as hospitals and aid centers have become part of the battlefield in today’s wars. So far, there has been little to stop the profound surge of violence seen across several open-ended conflicts which has claimed thousands of lives, destroyed health systems, triggered mass displacement and state collapse, and exposed the crisis facing the norms of international humanitarian law contained in the Geneva Conventions.
 
 <div class="video-wrapper post-feature-video">
@@ -46,7 +47,7 @@ The brief opening chapter of “The New Barbarianism” examines the April 27, 2
 
 Featuring Interviews With:
 
-* **Dr. Rami Kalazi**, Aleppo Neurosurgeon
+- **Dr. Rami Kalazi**, Aleppo Neurosurgeon
 
 ## Chapter 2 - The Syria Vortex
 
@@ -60,17 +61,17 @@ Although Syria represents an obscene “new low,” many experts argue that what
 
 Featuring Interviews With:
 
-* **Sen. John McCain**, Chairman, Senate Armed Services Committee (R-AZ)
-* **J. Stephen Morrison**, Senior Vice President & Director, Global Health Policy Center, CSIS
-* **David Miliband**, President and CEO, International Rescue Committee (IRC), Former British Foreign Secretary
-* **Susannah Sirkin**, Director of International Policy, Physicians for Human Rights (PHR)
-* **David Harden**, Former Assistant Administrator, Bureau of Democracy, Conflict and Humanitarian Assistance, USAID
-* **Dr. Rami Kalazi**, Aleppo Neurosurgeon
-* **Nancy Lindborg**, President, United States Institute of Peace (USIP)
-* **Jason Cone**, U.S. Executive Director, Doctors Without Borders
-* **Rabih Torbay**, President, Project Hope
-* **Robert Mardini**, Regional Director, Near and Middle East, International Committee of the Red Cross (ICRC)
-* **Ken Isaacs**, Vice President, Programs and Government Relations, Samaritan’s Purse
+- **Sen. John McCain**, Chairman, Senate Armed Services Committee (R-AZ)
+- **J. Stephen Morrison**, Senior Vice President & Director, Global Health Policy Center, CSIS
+- **David Miliband**, President and CEO, International Rescue Committee (IRC), Former British Foreign Secretary
+- **Susannah Sirkin**, Director of International Policy, Physicians for Human Rights (PHR)
+- **David Harden**, Former Assistant Administrator, Bureau of Democracy, Conflict and Humanitarian Assistance, USAID
+- **Dr. Rami Kalazi**, Aleppo Neurosurgeon
+- **Nancy Lindborg**, President, United States Institute of Peace (USIP)
+- **Jason Cone**, U.S. Executive Director, Doctors Without Borders
+- **Rabih Torbay**, President, Project Hope
+- **Robert Mardini**, Regional Director, Near and Middle East, International Committee of the Red Cross (ICRC)
+- **Ken Isaacs**, Vice President, Programs and Government Relations, Samaritan’s Purse
 
 ## Chapter 3 - Geneva Under Siege
 
@@ -84,10 +85,10 @@ Out of the ashes of World War II, the Geneva Conventions were updated in 1949 to
 
 Featuring Interviews With:
 
-* **J. Stephen Morrison**, Senior Vice President & Director, Global Health Policy Center, CSIS
-* **Leonard S. Rubenstein**, Johns Hopkins University, Bloomberg School of Public Health
-* **David Miliband**, President and CEO, International Rescue Committee (IRC), Former British Foreign Secretary
-* **Dr. Joanne Liu**, International President, Doctors Without Borders
+- **J. Stephen Morrison**, Senior Vice President & Director, Global Health Policy Center, CSIS
+- **Leonard S. Rubenstein**, Johns Hopkins University, Bloomberg School of Public Health
+- **David Miliband**, President and CEO, International Rescue Committee (IRC), Former British Foreign Secretary
+- **Dr. Joanne Liu**, International President, Doctors Without Borders
 
 ## Chapter 4 – Yemen's Cage
 
@@ -101,11 +102,11 @@ Despite large-scale destruction and ever-worsening humanitarian and healthcare c
 
 Featuring Interviews With:
 
-* **Mohammed Abdulla Ghalib Ali**, Hospitalized Child
-* **Anthony Cordesman**, Arleigh A. Burke Chair in Strategy, CSIS
-* **Rabih Torbay**, President, Project Hope
-* **Giorigio Trombatore**, Yemen Country Director, International Medical Corps 2015-2017
-* **Sarah Margon**, Washington Director, Human Rights Watch
+- **Mohammed Abdulla Ghalib Ali**, Hospitalized Child
+- **Anthony Cordesman**, Arleigh A. Burke Chair in Strategy, CSIS
+- **Rabih Torbay**, President, Project Hope
+- **Giorigio Trombatore**, Yemen Country Director, International Medical Corps 2015-2017
+- **Sarah Margon**, Washington Director, Human Rights Watch
 
 ## Chapter 5 – The Kunduz Tragedy
 
@@ -119,11 +120,11 @@ In the early hours of October 3rd, 2015, Doctors Without Borders surgeon Dr. Esm
 
 Featuring Interviews With:
 
-* **Dr. Esmatullah Esmat**, Surgeon, Doctors Without Borders
-* **Dr. Joanne Liu**, International President, Doctors Without Borders
-* **Jason Cone**, U.S. Executive Director, Doctors Without Borders
-* **Theresa Whalen**, Principal Deputy Assistant Secretary of Defense for Homeland Defense and Global Security, U.S. Department of Defense
-* **Rabih Torbay**, President, Project Hope
+- **Dr. Esmatullah Esmat**, Surgeon, Doctors Without Borders
+- **Dr. Joanne Liu**, International President, Doctors Without Borders
+- **Jason Cone**, U.S. Executive Director, Doctors Without Borders
+- **Theresa Whalen**, Principal Deputy Assistant Secretary of Defense for Homeland Defense and Global Security, U.S. Department of Defense
+- **Rabih Torbay**, President, Project Hope
 
 ## Chapter 6 – What Can Be Done?
 

@@ -1,32 +1,35 @@
 ---
 keywords:
-- Investment
+  - Investment
 title: An Ounce of Prevention is Worth a Pound of Cure
 content_type: commentary
-excerpt: Despite recent progress in health security policy formulation, there are
+excerpt:
+  Despite recent progress in health security policy formulation, there are
   still critical gaps in global health security preparedness, and the threat of a
   deadly pandemic is growing. The United States cannot afford not to invest in global
   health security.
 date: 2019-10-24 04:00:00 +0000
 authors:
-- _authors/anna-carroll.md
-- _authors/samantha-stroman.md
+  - _authors/anna-carroll.md
+  - _authors/samantha-stroman.md
 series: ''
-themes: []
+themes:
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1573054354/health-commission/TOPSHOT-SSUDAN-HEALTH-EBOLA-DRILL-1163047133_t5c6hk.jpg
-image_caption: TOPSHOT - Staff from South Sudan's Health Ministry pose with protective
+image_caption:
+  TOPSHOT - Staff from South Sudan's Health Ministry pose with protective
   suits during a drill for Ebola preparedness conducted by the World Health Organization
   (WHO) with ALIMA (The Alliance for International Medical Action) and International
   Medical Corps in Juba, on August 14, 2019, to contain a potential Ebola outbreak
   in the country.
-image_credit: " PATRICK MEINHARDT / Contributor / Getty Images"
+image_credit: ' PATRICK MEINHARDT / Contributor / Getty Images'
 pdf: ''
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 As Congress aims to finalize FY 2020 appropriations and as the FY 2021 budget process begins, it should consider new and strengthened investments in global health security to protect the U.S. public from the most pressing health security threats. A global pandemic could have vast human and economic costs. Yet with small, strategic investments in critical areas, we can prepare ourselves for the inevitable.
 
 Today, a series of social and environmental forces are converging to increase the likelihood of a deadly global health security emergency. Population growth, urbanization, and the mass movement of populations are forcing more people into overcrowded and unsanitary living conditions, creating ideal conditions for the emergence and spread of infectious diseases. Deforestation is fueling an increase in animal-human interaction, exposing more people to new pathogens. The rise in global temperatures allows disease vectors like mosquitoes and ticks to thrive over greater geographic areas. It is also driving increased rainfall and surface runoff, which facilitate the spread of water-borne diseases like diarrhea and cholera. These environmental changes can displace human populations, and the resulting migration can contribute to disease spread.

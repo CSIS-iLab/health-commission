@@ -2,14 +2,15 @@
 title: Winning the Fight Against Antimicrobial Drug Resistance
 date: 2018-09-13 00:00:00 +0000
 authors: []
-excerpt: 'Antimicrobial drug resistance is a complex, long-range global crisis threatening
+excerpt:
+  'Antimicrobial drug resistance is a complex, long-range global crisis threatening
   the foundations on which modern medicine is built. '
 content_type: commentary
-themes:
-- _themes/drug-resistance.md
+themes: ''
 series: ''
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886677/health-commission/Drug-Resistance.jpg
-image_caption: A Kashmiri Tuberculosis patient shows his anti-TB medicines which he
+image_caption:
+  A Kashmiri Tuberculosis patient shows his anti-TB medicines which he
   takes daily at Kashmir's lone chest diseases hospital.
 image_credit: Yawar Nazir/Getty Images
 pdf: ''
@@ -20,8 +21,8 @@ references: ''
 links: []
 keywords: []
 undefined: ''
-
 ---
+
 ## Key Challenges
 
 ### Increasing Problems of Drug Resistance
@@ -52,32 +53,53 @@ Following on the global action plan, the G7 health ministers issued a joint decl
 
 The United States has made progress in responding to AMR. At least 2 million people are infected with resistant bacteria in the United States annually, costing an estimated $20-35 billion and resulting in 23,000 deaths.[^13] Domestically, the United States has devoted significant attention and resources to AMR/ABR through a national strategy and the U.S. National Action Plan for Combating Antibiotic Resistant-Bacteria (CARB), released in March 2015.[^14] The Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (PACCARB) provides advice, information, and recommendations to HHS on U.S. government activities to combat antibiotic resistance.[^15] Other U.S. government agencies including DoD and CDC are also actively involved in combatting AMR. The United States has also addressed AMR internationally as part of the Global Health Security Agenda (GHSA) and through USAID efforts to combat MDR-TB through prevention, control, and surveillance. Further, U.S. collaborations with European Union member states on AMR have advanced significantly.
 
-[^1]: CDC, “Antibiotic/Antimicrobial Resistance,” last updated March 29, 2018, [https://www.cdc.gov/drugresistance/index.html](https://www.cdc.gov/drugresistance/index.html "https://www.cdc.gov/drugresistance/index.html")
+[^1]:
 
-[^2]: Thomas P. Van Boeckel et al, “Global trends in antimicrobial use in food animals,” PNAS 112, no. 18 (2015): 5649-5654, [https://doi.org/10.1073/pnas.1503141112](https://doi.org/10.1073/pnas.1503141112 "https://doi.org/10.1073/pnas.1503141112")
+  CDC, “Antibiotic/Antimicrobial Resistance,” last updated March 29, 2018, [https://www.cdc.gov/drugresistance/index.html](https://www.cdc.gov/drugresistance/index.html 'https://www.cdc.gov/drugresistance/index.html')
 
-[^3]: CDC, “International Activities to Combat AR,” last updated January 25, 2017, [https://www.cdc.gov/drugresistance/intl-actvities.html](https://www.cdc.gov/drugresistance/intl-actvities.html "https://www.cdc.gov/drugresistance/intl-actvities.html")
+[^2]:
+
+  Thomas P. Van Boeckel et al, “Global trends in antimicrobial use in food animals,” PNAS 112, no. 18 (2015): 5649-5654, [https://doi.org/10.1073/pnas.1503141112](https://doi.org/10.1073/pnas.1503141112 'https://doi.org/10.1073/pnas.1503141112')
+
+[^3]:
+
+  CDC, “International Activities to Combat AR,” last updated January 25, 2017, [https://www.cdc.gov/drugresistance/intl-actvities.html](https://www.cdc.gov/drugresistance/intl-actvities.html 'https://www.cdc.gov/drugresistance/intl-actvities.html')
 
 [^4]: Ibid.
+[^5]:
 
-[^5]: The Pew Charitable Trusts Antibiotic Resistance Project, “Antibiotics Currently in Global Clinical Development,” February 17, 2014, [https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development](https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development "https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development")
+  The Pew Charitable Trusts Antibiotic Resistance Project, “Antibiotics Currently in Global Clinical Development,” February 17, 2014, [https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development](https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development 'https://www.pewtrusts.org/es/research-and-analysis/data-visualizations/2014/antibiotics-currently-in-clinical-development')
 
-[^6]: C. Lee Ventola, “The Antibiotic Resistance Crisis, Part 1: Causes and Threats,” Pharmacy & Therapeutics 40, no. 4 (2015): 277-283, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/")
+[^6]:
+
+  C. Lee Ventola, “The Antibiotic Resistance Crisis, Part 1: Causes and Threats,” Pharmacy & Therapeutics 40, no. 4 (2015): 277-283, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/ 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/')
 
 [^7]: Ibid.
+[^8]:
 
-[^8]: Alan Coukell and Tim Jinks, “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project, October 26, 2016, [http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics](http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics "http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics")
+  Alan Coukell and Tim Jinks, “Why Can’t We Find New Antibiotics?” The Pew Charitable Trusts Antibiotic Resistance Project, October 26, 2016, [http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics](http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics 'http://www.pewtrusts.org/en/research-and-analysis/articles/2016/10/26/why-cant-we-find-new-antibiotics')
 
-[^9]: Joseph Larsen, “Drug Development Incentives,” CDC, June 27, 2017, [https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html](https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html "https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html")
+[^9]:
 
-[^10]: World Health Assembly, “Global action plan on antimicrobial resistance,” May 2015, [http://www.who.int/antimicrobial-resistance/global-action-plan/en/](http://www.who.int/antimicrobial-resistance/global-action-plan/en/ "http://www.who.int/antimicrobial-resistance/global-action-plan/en/")
+  Joseph Larsen, “Drug Development Incentives,” CDC, June 27, 2017, [https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html](https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html 'https://www.cdc.gov/drugresistance/tatfar/news/drugdevelopment.html')
 
-[^11]: G7 Health Ministers, “Declaration of the G7 Health Ministers,” October 2015, [http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf](http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf "http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf")
+[^10]:
 
-[^12]: WHO, “United Nations high-level meeting on antimicrobial resistance,” September 21, 2016, [http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/](http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/ "http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/")
+  World Health Assembly, “Global action plan on antimicrobial resistance,” May 2015, [http://www.who.int/antimicrobial-resistance/global-action-plan/en/](http://www.who.int/antimicrobial-resistance/global-action-plan/en/ 'http://www.who.int/antimicrobial-resistance/global-action-plan/en/')
+
+[^11]:
+
+  G7 Health Ministers, “Declaration of the G7 Health Ministers,” October 2015, [http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf](http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf 'http://www.g8.utoronto.ca/healthG8/2015-berlin.pdf')
+
+[^12]:
+
+  WHO, “United Nations high-level meeting on antimicrobial resistance,” September 21, 2016, [http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/](http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/ 'http://www.who.int/antimicrobial-resistance/events/UNGA-meeting-amr-sept2016/en/')
 
 [^13]: CDC, “Antibiotic/Antimicrobial Resistance.”
+[^14]:
 
-[^14]: The White House, “National Action Plan for Combating Antibiotic-Resistant Bacteria,” March 2015, [https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf](https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf "https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf")
+  The White House, “National Action Plan for Combating Antibiotic-Resistant Bacteria,” March 2015, [https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf](https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf 'https://www.cdc.gov/drugresistance/pdf/national_action_plan_for_combating_antibotic-resistant_bacteria.pdf')
 
-[^15]: Office of the Assistant Secretary for Health, “Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (PACCARB),” last reviewed August 21, 2018, [https://www.hhs.gov/ash/advisory-committees/paccarb/index.html](https://www.hhs.gov/ash/advisory-committees/paccarb/index.html "https://www.hhs.gov/ash/advisory-committees/paccarb/index.html")
+[^15]:
+
+  Office of the Assistant Secretary for Health, “Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (PACCARB),” last reviewed August 21, 2018, [https://www.hhs.gov/ash/advisory-committees/paccarb/index.html](https://www.hhs.gov/ash/advisory-committees/paccarb/index.html 'https://www.hhs.gov/ash/advisory-committees/paccarb/index.html')

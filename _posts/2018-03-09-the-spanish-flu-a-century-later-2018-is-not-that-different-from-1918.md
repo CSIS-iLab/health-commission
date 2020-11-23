@@ -1,30 +1,31 @@
 ---
 title: 'The Spanish Flu a Century Later: 2018 is Not That Different From 1918'
 keywords:
-- Influenza
+  - Influenza
 is_commission_related:
   description: ''
   related_event: ''
 date: 2018-03-09 16:08:32 +0000
 authors:
-- _authors/stephen-morrison.md
-- _authors/Jonathan-Hillman.md
-excerpt: The Spanish influenza cataclysm ignited 100 years ago, and while we certainly
+  - _authors/stephen-morrison.md
+  - _authors/Jonathan-Hillman.md
+excerpt:
+  The Spanish influenza cataclysm ignited 100 years ago, and while we certainly
   live today in a superior state of preparedness, modernization and globalization
   have also driven up health security risks.
 content_type: commentary
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
-- _themes/global-disorder.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537913423/health-commission/GettyImages-3304848.jpg
-image_caption: A man preparing 'Anti-flu' spray for buses of the London General Omnibus
+image_caption:
+  A man preparing 'Anti-flu' spray for buses of the London General Omnibus
   Co, London, 2nd March 1920.
 image_credit: H. F. Davis/Topical Press Agency/Getty Images
 pdf: ''
 references: ''
-
 ---
+
 The Spanish influenza cataclysm ignited 100 years ago this month. A startlingly dangerous molecular mutation, utterly unforeseen, ushered in a flu that swiftly tore through armies, public health defenses, and geographic barriers. It took full advantage of the disorder of World War I and the profound changes wrought by modernization. It leaped across oceans and sped along transportation pathways. Ultimately, it left in its wake over 50 million dead, before immunities and health systems caught up and the world eventually restabilized.
 
 The frightening but frank truth is that it is impossible to predict when the next epochal influenza may surface and threaten human health and security. We certainly live today in a superior state of preparedness. But a hundred years of modernization and accelerating globalization also drive up health security risks, and much more work remains to build elementary defenses, especially among poorer and weaker cash-strapped states.

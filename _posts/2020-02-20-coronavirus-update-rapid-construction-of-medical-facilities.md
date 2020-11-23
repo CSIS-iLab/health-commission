@@ -1,33 +1,35 @@
 ---
 keywords:
-- China
-- Coronavirus
-- COVID-19
+  - China
+  - Coronavirus
+  - COVID-19
 title: 'Coronavirus Update: Rapid Construction of Medical Facilities'
 content_type: commentary
-excerpt: CSIS experts analyze new satellite imagery showing that the Chinese government
+excerpt:
+  CSIS experts analyze new satellite imagery showing that the Chinese government
   has made exceptional progress in constructing two emergency medical facilities in
   Wuhan.
 date: 2020-02-20 05:00:00 +0000
 authors:
-- _authors/stephen-morrison.md
-- _authors/jude-blanchette.md
-- _authors/joseph-s-bermudez-jr.md
+  - _authors/stephen-morrison.md
+  - _authors/jude-blanchette.md
+  - _authors/joseph-s-bermudez-jr.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1582303465/health-commission/GettyImages-1197870974_uj3xaj.jpg
-image_caption: This photo taken on January 28, 2020 shows medical staff members cheering
+image_caption:
+  This photo taken on January 28, 2020 shows medical staff members cheering
   up a patient infected by the novel coronavirus in an isolation ward at a hospital
   in Zouping in China's easter Shandong province.
-image_credit: " STR / Contributor via Getty Images"
+image_credit: ' STR / Contributor via Getty Images'
 pdf: ''
 is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 The Chinese government has made exceptional progress in constructing [two emergency medical facilities](https://www.wsj.com/articles/how-china-can-build-a-coronavirus-hospital-in-10-days-11580397751?mod=article_inli&mod=article_inline) in Wuhan, Hubei province. Wuhan is the epicenter of the coronavirus outbreak first reported at the end of 2019, which has swiftly risen to over 75,000 cases in China and 25 other countries (the vast majority in Hubei) and left over 2,000 dead (these figures are as of February 19, 2020). According to Chinese officials, the 1,000-bed Huoshenshan hospital and 1,600-bed Leishenshan hospital were modeled after the Xiaotangshan hospital, a temporary facility built in Beijing to treat the SARS outbreak in 2003. As of [February 2, 2020](https://www.wsj.com/articles/chinas-leader-wages-a-war-on-two-frontsviral-and-political-11581116451), the Chinese government, using both civilian and military assets, has set up 13 field hospitals, sent over 8,000 medical staff to Wuhan from across China, and spent over 5.4 billion yuan (about $800 million) to address the coronavirus outbreak.
 
 The crash construction of these hospitals is just the most visible sign of the extreme urgency the Chinese government feels—in the face of popular discontent and a dangerous virus spreading at exceptional speed—to significantly expand its capacity to isolate and treat those infected with the coronavirus. While reports have emerged that the facilities are suffering from substandard construction, the facilities are nonetheless stark symbols of the government’s top-down, muscular national mobilization capabilities.
@@ -42,15 +44,15 @@ There remain many unknowns—the source of the virus, its precise transmissibili
 
 _Leishenshan Hospital is located on what was an approximately 43.7-acre bus station. Construction plans were announced on January 25. Although construction was ongoing, the hospital was opened on February 8._
 
-![Satellite image of Leishenshan Hospital on December 13, 2019](https://res.cloudinary.com/csisideaslab/image/upload/v1582320003/health-commission/Coronavirus_Hospitals_Image_1_eikbgz.jpg "Leishenshan Hospital December 13, 2020")
+![Satellite image of Leishenshan Hospital on December 13, 2019](https://res.cloudinary.com/csisideaslab/image/upload/v1582320003/health-commission/Coronavirus_Hospitals_Image_1_eikbgz.jpg 'Leishenshan Hospital December 13, 2020')
 
-![Satellite image of Leishenshan Hospital on February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582320019/health-commission/Coronavirus_Hospitals_Image_2_ahtsgr.jpg "Leishenshan Hospital February 3, 2020")
+![Satellite image of Leishenshan Hospital on February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582320019/health-commission/Coronavirus_Hospitals_Image_2_ahtsgr.jpg 'Leishenshan Hospital February 3, 2020')
 
 _Huoshenshan Hospital is located on a previously forested region by a lake that covers 24.2 acres. Construction began on January 23, and although construction was ongoing, the hospital admitted its first patient on February 3._
 
-![Satellite image of Huoshenshan Hospital on October 1, 2019](https://res.cloudinary.com/csisideaslab/image/upload/v1582320202/health-commission/Coronavirus_Hospitals_Image_3_euish0.jpg "Huoshenshan Hospital October 1, 2019")
+![Satellite image of Huoshenshan Hospital on October 1, 2019](https://res.cloudinary.com/csisideaslab/image/upload/v1582320202/health-commission/Coronavirus_Hospitals_Image_3_euish0.jpg 'Huoshenshan Hospital October 1, 2019')
 
-![Satellite image of Huoshenshan Hospital on February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582320217/health-commission/Coronavirus_Hospitals_Image_4_kucaxu.jpg "Huoshenshan Hospital February 3, 2020")
+![Satellite image of Huoshenshan Hospital on February 3, 2020](https://res.cloudinary.com/csisideaslab/image/upload/v1582320217/health-commission/Coronavirus_Hospitals_Image_4_kucaxu.jpg 'Huoshenshan Hospital February 3, 2020')
 
 _For more on the coronavirus, watch “_[What's Happening with Coronavirus](https://www.youtube.com/watch?v=QW0Q8cSBpUA&feature=youtu.be)_,” and read the CSIS critical questions, “_[The Novel Coronavirus Outbreak](https://www.csis.org/analysis/novel-coronavirus-outbreak)_.”_
 

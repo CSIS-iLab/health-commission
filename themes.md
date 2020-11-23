@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Themes
+title: Thematic Pillars
 permalink: /themes/
 post_list_collection: themes
 ---

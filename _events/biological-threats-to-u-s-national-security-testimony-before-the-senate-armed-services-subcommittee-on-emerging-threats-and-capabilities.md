@@ -12,7 +12,8 @@ excerpt:
   on Armed Services Subcommittee on Emerging Threats and Capabilities on “Biological
   Threats to U.S. National Security."
 series: ''
-themes: []
+themes:
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1574804219/health-commission/Biological_Threats_to_U.S._National_Security_Testimony_Photo_ax0jv0.jpg
 image_caption: Biological Threats to U.S. National Security Testimony Photo
 image_credit: CSIS iDeas Lab

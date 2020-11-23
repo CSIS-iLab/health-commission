@@ -13,8 +13,8 @@ excerpt:
 date: 2019-10-29 04:00:00 +0000
 authors:
   - _authors/janet-fleischman.md
-series: _series/access-to-critical-health-services-in-a-disordered-world.md
-themes: []
+themes:
+  - _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1572361087/health-commission/Women_s_Health_Security_Report_vbjyf2.jpg
 image_caption:
   "LALIYA, UGANDA - MAY 26: Gladys Aromo, age 12, carries a container

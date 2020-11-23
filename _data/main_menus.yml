@@ -1,47 +1,38 @@
----
-- commission:
-  identifier: commission
+- identifier: commission
   title: The Commission
   items:
     - identifier: about
-      url: "/about"
+      url: '/about'
       weight: 2
       title: About the Commission
       desc: Learn about the Commission
     - identifier: members
-      url: "/members"
+      url: '/members'
       weight: 3
       title: Commission Members and Contributors
       desc: Learn about Commission Members
     - identifier: events
-      url: "/events"
+      url: '/events'
       weight: 4
       title: Events
       desc: Health Commission Events
-- work:
-  identifier: work
+- identifier: work
   title: Our Work
-  footer_title: Our Work — Themes
+  footer_title: Our Work — Thematic Pillars
   footer_subheadings: false
   items:
     - identifier: themes
       collection: themes
-      section_title: Themes
+      section_title: Thematic Pillars
       item_title_field: short_title
-    - identifier: series
-      collection: series
-      section_title: Series
-      item_title_field: title
-      hide_footer: true
     - identifier: all_work
-      section_title:
+      section_title: ''
       hide_footer: true
       items:
         - identifier: all_articles
-          url: "/articles"
+          url: '/articles'
           weight: 1
           title: All Articles
-- report:
-  identifier: report
-  title: Final Report
-  url: "/final-report/"
+- identifier: report
+  title: 2019 Commission Report
+  url: '/final-report/'

@@ -1,22 +1,24 @@
 ---
 keywords:
-- Coronavirus
-- COVID-19
+  - Coronavirus
+  - COVID-19
 title: 'Find My Friends in a Pandemic: The Future of Contact Tracing in America'
 content_type: commentary
-excerpt: Many countries that have slowed the spread of Covid-19 have used digital
+excerpt:
+  Many countries that have slowed the spread of Covid-19 have used digital
   tools to monitor transmission and movement. This poses a challenge for the United
   States as it seeks to expand contact tracing and roll back social distancing measures
   while protecting privacy rights.
 date: 2020-04-16T04:00:00.000+00:00
 authors:
-- _authors/anna-carroll.md
-- _authors/samantha-stroman.md
+  - _authors/anna-carroll.md
+  - _authors/samantha-stroman.md
 series: ''
 themes:
-- _themes/high-risk-disease-outbreaks.md
+  - _themes/science-and-anti-science.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1587669768/health-commission/GettyImages-1207755792_zkkni3.jpg
-image_caption: A Government Technology Agency (GovTech) staff demonstrates Singapore's
+image_caption:
+  A Government Technology Agency (GovTech) staff demonstrates Singapore's
   new contact-tracing smarthphone app called TraceTogether, as a preventive measure
   against the COVID-19 coronavirus in Singapore on March 20, 2020.
 image_credit: Catherine Lai/Getty Images
@@ -25,8 +27,8 @@ is_commission_related:
   description: ''
   related_event: ''
 references: ''
-
 ---
+
 Today, the United States faces unprecedented twin crises. The Covid-19 pandemic is racing across the globe, having infected over [2 million](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) people and killed over [130,000](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) at time of publication. Until we have a vaccine, [social distancing](https://www.nytimes.com/2020/03/22/health/coronavirus-restrictions-us.html) measures are the most effective tools at governments’ disposal to stop the spread of the virus and prevent even higher death rates. While social distancing measures can “[flatten the curve](https://www.nytimes.com/article/flatten-curve-coronavirus.html),” they have also frozen the global economy, generating the greatest [economic shock](https://www.nytimes.com/2020/04/14/us/politics/coronavirus-economy-recession-depression.html) in modern history.
 
 Bringing an end to the public health and economic crises in the United States will require a widespread expansion of [testing](https://www.wsj.com/articles/testing-is-our-way-out-11585869705), [contact tracing](https://www.kff.org/coronavirus-policy-watch/is-contact-tracing-getting-enough-attention-in-u-s-coronavirus-response/), and isolation. This is the only path out of the nation-wide social distancing guidelines that are saving lives but suffocating the economy. But [contact tracing](https://www.npr.org/sections/health-shots/2020/04/14/833726999/how-contact-tracing-can-help-fight-coronavirus?utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_source=facebook.com&fbclid=IwAR1yq3wKAE1gnrJEsn2DVXgT5iu4vDvkRab7LvMhbTy88u0D8sJkW9Pzlek&fbclid=IwAR1XB0InLK7KRPi_5DvHWdrm2LExwrgQi-pcYTkkL2pKTmMCiZTXevjtHHE)—identifying everyone who has interacted with a confirmed Covid-19 case—is a resource- and time-intensive effort, and to keep up with the rapid and pervasive spread of Covid-19 will likely require some degree of digital monitoring using cell phones.

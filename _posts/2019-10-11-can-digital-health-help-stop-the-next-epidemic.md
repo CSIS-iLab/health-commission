@@ -11,7 +11,8 @@ excerpt:
 date: 2019-10-11 04:00:00 +0000
 authors: []
 series: ''
-themes: []
+themes:
+  - _themes/science-and-anti-science.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1571147360/health-commission/digital-health_y7wotg.jpg
 image_caption:
   An Ivorian doctor uses a tablet computer in Bouake hospital's trailblazer

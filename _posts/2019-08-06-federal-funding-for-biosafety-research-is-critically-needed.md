@@ -14,7 +14,7 @@ authors:
   - _authors/rocco-casagrande.md
 series: ''
 themes:
-  - _themes/managing-biotechnology.md
+  - _themes/science-and-anti-science.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1554312659/health-commission/doctor_bqaagp.jpg
 image_caption:
   This photo taken on April 16, 2013 shows a doctor at the Beijing Center

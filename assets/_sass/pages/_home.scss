@@ -9,47 +9,47 @@
   grid-template-rows: minmax(400px, auto) repeat(4, auto);
   grid-template-columns: 1fr;
   grid-template-areas:
-    "hero"
-    "desc"
-    "commission-img"
-    "commission-desc"
-    "featured-header"
-    "featured-primary"
-    "featured-secondary"
-    "recent-header"
-    "recent-posts"
-    "articles-btn"
-    "events-series"
-    "themes"
-    "themes-img";
+    'hero'
+    'desc'
+    'commission-img'
+    'commission-desc'
+    'featured-header'
+    'featured-primary'
+    'featured-secondary'
+    'recent-header'
+    'recent-posts'
+    'articles-btn'
+    'events-series'
+    'themes'
+    'themes-img';
 
   @include breakpoint('medium') {
     grid-template-rows: minmax(515px, auto) repeat(5, auto);
     grid-template-columns: repeat(2, 1fr);
     grid-template-areas:
-      "hero hero"
-      "desc desc"
-      "commission-img commission-desc "
-      "featured-header featured-header"
-      "featured-primary featured-primary"
-      "featured-secondary featured-secondary"
-      "recent-header recent-header"
-      "recent-posts recent-posts"
-      "articles-btn articles-btn"
-      "events-series events-series"
-      "themes themes"
-      "themes-img themes-img";
+      'hero hero'
+      'desc desc'
+      'commission-img commission-desc '
+      'featured-header featured-header'
+      'featured-primary featured-primary'
+      'featured-secondary featured-secondary'
+      'recent-header recent-header'
+      'recent-posts recent-posts'
+      'articles-btn articles-btn'
+      'events-series events-series'
+      'themes themes'
+      'themes-img themes-img';
   }
 
   @include breakpoint($breakpoint-desktop) {
     grid-template-columns: repeat(4, 1fr);
     grid-template-areas:
-      "hero hero hero hero"
-      "desc desc featured-primary featured-primary"
-      "commission-img commission-desc featured-primary featured-primary"
-      "events-series featured-secondary featured-secondary recent-posts"
-      "events-series articles-btn articles-btn recent-posts"
-      "themes themes themes-img themes-img";
+      'hero hero hero hero'
+      'desc desc featured-primary featured-primary'
+      'commission-img commission-desc featured-primary featured-primary'
+      'events-series featured-secondary featured-secondary recent-posts'
+      'events-series articles-btn articles-btn recent-posts'
+      'themes themes themes-img themes-img';
   }
 
   &__hero {
@@ -60,7 +60,12 @@
     flex-direction: column;
     justify-content: flex-end;
     background-color: $color-darkest-blue;
-    background-image: linear-gradient(to top, $color-darkest-blue, $color-darkest-blue 25%, $gradient-dark 100%);
+    background-image: linear-gradient(
+      to top,
+      $color-darkest-blue,
+      $color-darkest-blue 25%,
+      $gradient-dark 100%
+    );
     color: $color-white;
     @include fullWidthBackground($color-darkest-blue);
 
@@ -70,7 +75,12 @@
 
     &::before,
     &::after {
-      background-image: linear-gradient(to top, $color-darkest-blue, $color-darkest-blue 25%, $gradient-dark 100%);
+      background-image: linear-gradient(
+        to top,
+        $color-darkest-blue,
+        $color-darkest-blue 25%,
+        $gradient-dark 100%
+      );
     }
 
     &-subtitle,
@@ -158,7 +168,7 @@
     position: relative;
     min-height: 220px;
     background-color: $color-off-white;
-    background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1548438225/health-commission/About_Header_Photo.jpg');
+    background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1605912024/health-commission/6718_Lynch_200204.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -256,7 +266,12 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background-image: linear-gradient(to bottom, rgba(90, 108, 122, 0), rgba(21, 29, 35, 0.58)), linear-gradient(rgba(20, 52, 89, 0.11), rgba(20, 52, 89, 0.11));
+      background-image: linear-gradient(
+          to bottom,
+          rgba(90, 108, 122, 0),
+          rgba(21, 29, 35, 0.58)
+        ),
+        linear-gradient(rgba(20, 52, 89, 0.11), rgba(20, 52, 89, 0.11));
       background-color: transparent;
     }
 
@@ -396,11 +411,10 @@
     padding: $padding 0;
 
     @include breakpoint($breakpoint-desktop) {
-     padding: $padding;
+      padding: $padding;
     }
 
     .post-block {
-
       @include breakpoint($breakpoint-desktop) {
         border-top: 0;
       }
@@ -462,7 +476,7 @@
         @include breakpoint($breakpoint-desktop) {
           margin-top: 1rem;
           padding-top: 1rem;
-         border-top: 1px solid $color-silver;
+          border-top: 1px solid $color-silver;
         }
       }
     }
@@ -543,14 +557,13 @@
         }
       }
     }
-
   }
 
   &__themes-img {
-   grid-area: themes-img;
-   position: relative;
-   min-height: 280px;
-   background-color: $color-off-white;
+    grid-area: themes-img;
+    position: relative;
+    min-height: 280px;
+    background-color: $color-off-white;
     background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1537904699/health-commission/About_Smaller_Photo.jpg');
     background-repeat: no-repeat;
     background-position: center center;

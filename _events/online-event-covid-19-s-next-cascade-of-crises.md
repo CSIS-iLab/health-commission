@@ -1,23 +1,23 @@
 ---
 content_type: event
 keywords:
-- Global Health
-- Global Health Policy Center
-- Global Disorder
-- Humanitarian Aid
-- Congress
+  - Global Health
+  - Global Health Policy Center
+  - Global Disorder
+  - Humanitarian Aid
+  - Congress
 title: 'Online Event: Covid-19’s Next Cascade of Crises'
 date: 2020-07-22 04:00:00 +0000
 excerpt: ''
 series: ''
 themes:
-- _themes/global-disorder.md
+  - _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1595972217/health-commission/OCHA_Event_Banner_Image_pwon8s.jpg
 image_caption: ''
 image_credit: Mohammed Hamoud/Getty Images
 documents: []
-
 ---
+
 On July 22, the Commission hosted a public discussion with **_Mark Lowcock_**_,_ Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator and the Head of the United Nations Office for the Coordination of Humanitarian Affairs, along with **_Congresswoman Susan Brooks_** (R-IN-05) and **_Congressman Ami Bera_** (D-CA-07). **_Dr. Julie Gerberding_**_,_ Executive Vice President and Chief Patient Officer at Merck and Commission Co-Chair, moderated the discussion.
 
 On July 17, the United Nations Office for the Coordination of Humanitarian Affairs released an updated [_Global Humanitarian Response Plan for COVID-19_](https://www.unocha.org/sites/unocha/files/GHRP-COVID19_July_update.pdf), an effort to direct attention and resources to the insufficient response to Covid-19 globally, especially in humanitarian settings. The Plan outlines how without early coordinated intervention, we will see a drastic deterioration in humanitarian conditions, economic prosperity, and civil stability in fragile states. The Panel discussed the cost of inaction at this critical moment, implications for U.S. leadership, and how U.S. interests could be harmed without more decisive support and engagement.
@@ -28,6 +28,6 @@ On July 17, the United Nations Office for the Coordination of Humanitarian Affai
 
 Full video of the event is available here:
 
-[https://www.youtube.com/watch?v=PtYzrXp_TVs&feature=youtu.be](https://www.youtube.com/watch?v=PtYzrXp_TVs&feature=youtu.be "https://www.youtube.com/watch?v=PtYzrXp_TVs&feature=youtu.be")
+[https://www.youtube.com/watch?v=PtYzrXp_TVs&feature=youtu.be](https://www.youtube.com/watch?v=PtYzrXp_TVs&feature=youtu.be 'https://www.youtube.com/watch?v=PtYzrXp_TVs&feature=youtu.be')
 
 _This event was made possible by the generous support of the Bill & Melinda Gates Foundation._

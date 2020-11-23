@@ -2,11 +2,11 @@
 title: Managing the Promise and Threat of Evolving Biotechnology
 date: 2018-09-13 00:00:00 +0000
 authors: []
-excerpt: Biotechnology is moving swiftly and holds the potential to revolutionize
+excerpt:
+  Biotechnology is moving swiftly and holds the potential to revolutionize
   many fields if properly managed.
 content_type: commentary
-themes:
-- _themes/managing-biotechnology.md
+themes: ''
 series: ''
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886678/health-commission/Managing-Biotechnology.jpg
 image_caption: ''
@@ -19,8 +19,8 @@ references: ''
 links: []
 keywords: []
 undefined: ''
-
 ---
+
 ## Key Challenges
 
 ### Balancing Gains Versus Risks
@@ -39,7 +39,7 @@ Fortunately, there have not yet been instances of actual misuse of modern biotec
 
 ### Disagreement within the Expert Community
 
-Uncertainty about the risk of misuse contributes to a lack of agreement among experts about the magnitude and nature of the threat posed by bioweapons and biotechnology as well as the costs and benefits associated with regulating high-risk research.  Indeed, when science and defense experts were surveyed about the likelihood of a large-scale bioweapons attack in any country in the next 10 years and the most likely actor or agent, their answers were highly divergent.[^3] While the opportunity for misuse is high, so too is the importance this rapidly evolving and innovative technologies to provide essential capabilities to respond to many of the globe’s health security challenges in the form of vaccines, treatments and countermeasures, and advanced diagnostics. The scientific and policy community remain divided about the need and efficacy of efforts to regulate and manage biotech risks. There is no clear consensus on the path forward and significant disagreement in the scientific community about the appropriate level and form of policing.
+Uncertainty about the risk of misuse contributes to a lack of agreement among experts about the magnitude and nature of the threat posed by bioweapons and biotechnology as well as the costs and benefits associated with regulating high-risk research. Indeed, when science and defense experts were surveyed about the likelihood of a large-scale bioweapons attack in any country in the next 10 years and the most likely actor or agent, their answers were highly divergent.[^3] While the opportunity for misuse is high, so too is the importance this rapidly evolving and innovative technologies to provide essential capabilities to respond to many of the globe’s health security challenges in the form of vaccines, treatments and countermeasures, and advanced diagnostics. The scientific and policy community remain divided about the need and efficacy of efforts to regulate and manage biotech risks. There is no clear consensus on the path forward and significant disagreement in the scientific community about the appropriate level and form of policing.
 
 ### Regulatory Challenges
 
@@ -53,22 +53,42 @@ In October 2014, the U.S. government paused federal funding of gain-of-function 
 
 Three U.S. oversight policies govern research of dual use concern that is conducted or funded by the U.S. government. The 2012 United States Government Policy for Oversight of Life Sciences Dual Use Research of Concern (DURC) establishes regular review of such research.[^8] A complementary policy, the 2014 United States Government Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern, enumerates policies, practices, and procedures to identify and mitigate risks of DURC.[^9] The U.S. Department of Health and Human Services Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens, published in 2017, lifted a three-year U.S. government funding moratorium on certain gain-of-function experiments and provides criteria for guiding funding decisions and oversight of research involving potential pandemic pathogens.[^10]
 
-[^1]: Huimin Zhao, Synthetic Biology: Tools and Applications, 1st ed. (Amsterdam and Boston: Academic Press, 2013).
+[^1]:
 
-[^2]: Michael J. Selgelid, “Governance of dual-use research: an ethical dilemma,” Bulletin of the World Health Organization 87 (2009): 720-723, [https://doi.org/10.2471/BLT.08.051383](https://doi.org/10.2471/BLT.08.051383 "https://doi.org/10.2471/BLT.08.051383")
+  Huimin Zhao, Synthetic Biology: Tools and Applications, 1st ed. (Amsterdam and Boston: Academic Press, 2013).
 
-[^3]: Crystal Boddie et al, “Assessing the bioweapons threat,” Science 349, no. 6250 (2015): 792-793, [http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf](http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf "http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf")
+[^2]:
 
-[^4]: Paul Berg, David Baltimore, Sydney Brenner, Richard O. Roblin, and Maxine F. Singer, “Summary Statement of the Asimolar Conference on Recombinant DNA Molecules,” Proceedings of the National Academy of Sciences of the United States of America 72, no. 6 (June 1975): 1981-1984, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf")
+  Michael J. Selgelid, “Governance of dual-use research: an ethical dilemma,” Bulletin of the World Health Organization 87 (2009): 720-723, [https://doi.org/10.2471/BLT.08.051383](https://doi.org/10.2471/BLT.08.051383 'https://doi.org/10.2471/BLT.08.051383')
 
-[^5]: National Research Council, “Biotechnology Research in an Age of Terrorism,” The National Academies Press, 2004, [https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism](https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism "https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism")
+[^3]:
 
-[^6]: Francis S. Collins, “Statement on Funding Pause on Certain Types of Gain-of-Function Research,” National Institutes of Health, October 16, 2014, [https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research")
+  Crystal Boddie et al, “Assessing the bioweapons threat,” Science 349, no. 6250 (2015): 792-793, [http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf](http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf 'http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf')
 
-[^7]: “Federal Experts Security Advisory Panel (FESAP),” U.S. Department of Health and Human Services, last reviewed September 13, 2017, [https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx](https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx "https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx")
+[^4]:
 
-[^8]: “United States Government Policy for Oversight of Life Sciences DURC,” U.S. Department of Health and Human Services, March 29, 2012, [https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx](https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx "https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx")
+  Paul Berg, David Baltimore, Sydney Brenner, Richard O. Roblin, and Maxine F. Singer, “Summary Statement of the Asimolar Conference on Recombinant DNA Molecules,” Proceedings of the National Academy of Sciences of the United States of America 72, no. 6 (June 1975): 1981-1984, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC432675/pdf/pnas00049-0007.pdf')
 
-[^9]: “USG Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern,” U.S. Department of Health and Human Services, September 24, 2014, [https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx](https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx "https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx")
+[^5]:
 
-[^10]: “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens,” U.S. Department of Health and Human Services, 2017, [https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf](https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf")
+  National Research Council, “Biotechnology Research in an Age of Terrorism,” The National Academies Press, 2004, [https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism](https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism 'https://www.nap.edu/catalog/10827/biotechnology-research-in-an-age-of-terrorism')
+
+[^6]:
+
+  Francis S. Collins, “Statement on Funding Pause on Certain Types of Gain-of-Function Research,” National Institutes of Health, October 16, 2014, [https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research 'https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-funding-pause-certain-types-gain-function-research')
+
+[^7]:
+
+  “Federal Experts Security Advisory Panel (FESAP),” U.S. Department of Health and Human Services, last reviewed September 13, 2017, [https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx](https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx 'https://www.phe.gov/Preparedness/legal/boards/fesap/Pages/default.aspx')
+
+[^8]:
+
+  “United States Government Policy for Oversight of Life Sciences DURC,” U.S. Department of Health and Human Services, March 29, 2012, [https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx](https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx 'https://www.phe.gov/s3/dualuse/Pages/USGOversightPolicy.aspx')
+
+[^9]:
+
+  “USG Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern,” U.S. Department of Health and Human Services, September 24, 2014, [https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx](https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx 'https://www.phe.gov/about/OPP/DURCworkshop/Pages/default.aspx')
+
+[^10]:
+
+  “Framework for Guiding Funding Decisions about Proposed Research Involving Enhanced Potential Pandemic Pathogens,” U.S. Department of Health and Human Services, 2017, [https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf](https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf 'https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf')

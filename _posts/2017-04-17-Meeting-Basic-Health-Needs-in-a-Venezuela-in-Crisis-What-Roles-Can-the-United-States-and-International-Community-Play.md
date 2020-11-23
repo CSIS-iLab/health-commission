@@ -14,7 +14,7 @@ authors:
   - _authors/Katherine-Bliss.md
 series: ''
 themes:
-  - _themes/global-disorder.md
+  - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537915123/health-commission/GettyImages-634138758.jpg
 image_caption:
   A health care worker carrying a banner confronts police agents during

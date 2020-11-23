@@ -1,33 +1,59 @@
 ---
 layout: about
 title: About the Commission
-permalink: "/about/"
+permalink: '/about/'
 show_page_highlights: true
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1537985741/health-commission/About-Header.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1605912220/health-commission/commission-v2-about.jpg
 image_credit: Liz Lynch
-excerpt: The CSIS Commission on Strengthening America’s Health Security aims to chart
-  a bold vision for the future of U.S. leadership in global health security, at home
-  and abroad.
-credits: <em>Health Commission</em> is a product of the <a href="https://www.csis.org/programs/dracopoulos-ideas-lab"
+excerpt: The CSIS Commission on Strengthening America’s Health Security aims to chart a bold vision for U.S. global health security that addresses the acute vulnerabilities exploited by the coronavirus, at home and abroad.
+credits:
+  <em>Health Commission</em> is a product of the <a href="https://www.csis.org/programs/dracopoulos-ideas-lab"
   target="_blank" rel="noopener">Andreas C. Dracopoulos iDeas Lab</a>, the in-house
   digital, multimedia, and design agency at the Center for Strategic and International
   Studies.
-funder_acknowledgements: This project is funded through the generous support of the
+funder_acknowledgements:
+  This project is funded through the generous support of the
   Bill & Melinda Gates Foundation.
 header_image: https://res.cloudinary.com/csisideaslab/image/upload/v1548438225/health-commission/About_Header_Photo.jpg
 post_image: https://res.cloudinary.com/csisideaslab/image/upload/v1548438055/health-commission/About_Smaller_Photo.jpg
 post_image_credit: Liz Lynch
-post_image_caption: Commission co-chairs Kelly Ayotte and Julie Gerberding at the
+post_image_caption:
+  Commission co-chairs Kelly Ayotte and Julie Gerberding at the
   April 17, 2018 Commission launch.
-header_image_caption: "(From left) Commissioners General Carter Ham, Congressman Tom
-  Cole, Ambassador Karl Hofmann, Congresswoman Anna Eshoo."
+header_image_caption:
+  '(From left) Commissioners General Carter Ham, Congressman Tom
+  Cole, Ambassador Karl Hofmann, Congresswoman Anna Eshoo.'
 header_image_credit: Liz Lynch
-
 ---
-The CSIS Commission on Strengthening America’s Health Security is a two-year effort organized by the CSIS Global Health Policy Center. The Commission brings together a distinguished and diverse group of high-level opinion leaders who bridge security and health, comprising members of Congress, past administrations, industry, foundations, universities, and NGOs, and the Commission is advised by a group of preeminent subject experts. The Commission’s core aim is to chart a bold vision for the future of U.S. leadership in global health security – at home and abroad.
 
-In recent years, U.S. senior policymakers have shown greater appreciation of the growing importance of health security to U.S. national interests and of the need for a stronger, more coherent, integrated, better resourced and more reliably sustained U.S. approach. Multiple threats fall under a health security umbrella: risk of emerging and re-emerging infectious disease epidemics; rapid spread of drug-resistant infections; and advances in biotechnology that may make organisms both more lethal and more accessible for use as weapons. There is recognition that increasing levels of global disorder and conflict across the world are resulting in destruction of public health infrastructure and capacity, reduced access to critical services for vulnerable populations, and heightened risk of sudden outbreaks. These health risks undermine the economic and political security of nations.
+The CSIS Global Health Policy Center established the CSIS Commission on Strengthening America’s Health Security Commission in April 2018. Over the following two years, the Commission worked to identify the key weaknesses and gaps in U.S. global health security policy, with a special focus on strengthening U.S. engagement outside our borders while also addressing domestic preparedness.
 
-A shared recognition has now emerged within U.S. policy circles that indeed the world has changed. There is a growing consensus that the rapidity and ferocity of successive outbreaks – SARS, H1N1, MERS, Ebola, Zika, H7N9 – means these threats cannot be treated as single, episodic events but rather need to be understood as a continuous threat that requires ongoing capabilities to prevent, detect, and respond, both on the part of the United States and within the international community. Reemerging as well as novel pathogens should be expected, both naturally occurring and potentially manmade, aided by advances in synthetic biology and genetic engineering, as well as changes in climate and land use. With this new consensus comes an awareness that national and international approaches have to be carefully integrated and investments managed to achieve strategic effect. That includes taking steps to ensure that civilian and military agencies are aligned, that public health and security spheres understand and support one another, and that we plan for and respond to both emergency demands and the need for long-term engagement and investment to address continuing trends and challenges.
+In November 2019, the Commission released a major report, _[Ending the Cycle of Crisis and Complacency in U.S. Global Health Security](https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/191122_EndingTheCycle_GHSC_WEB_FULL_11.22.pdf)_. In the report, the Commission calls for the reestablishment of health security capacity at the White House; several new long-term and fast-acting funding mechanisms to build capacities in vulnerable low- and middle-income countries; new executive operational capacities to respond to health security threats in disordered settings; and accelerated efforts to develop new technologies and battle misinformation more systematically. The Commission continues to advance these strategic actions and track progress in their adoption and implementation.
 
-While formidable obstacles remain – in high-level leadership, resources, basic capacities, interagency coordination, governance of WHO – we are convinced there is a ripeness to health security, an opportunity to press for strengthening America’s policy approaches in a way that can drive forward overall U.S. global health engagement, bring about new resources, and heighten the engagement of industry and security institutions, in partnership with other partner countries, multilateral institutions, and civil organizations.
+The Covid-19 pandemic subsequently exposed additional vulnerabilities both at home and abroad, triggering massive health, economic, and social crises. Building on its record of achievement, its strong reputation and credibility, and its exceptional membership, over the next two years the Commission will drive discourse and develop concrete action agendas for U.S. health security policy in the Covid-19 era. The Commission has begun this work, which will continue through October 2022.
+
+The Commission will focus on the following key issues as it seeks to generate a concrete vision for U.S. global health security that addresses evolving geopolitical challenges and the acute vulnerabilities exploited by the coronavirus.
+
+## U.S. Leadership in the Covid-19 Era
+
+U.S. leadership is essential in shaping and supporting diplomatic and multilateral efforts in response to health security emergencies. That is true for the Covid-19 response and recovery efforts, including Covid-19 vaccine distribution and the economic recovery. Yet U.S. government capacities have withered as the United States receded from the world stage both before and during the pandemic.
+
+The Commission will map out how U.S. leadership is to be restored after a period of significant regression, with what priorities and through what concrete steps, both during and after the pandemic. This will involve an assessment of key U.S. institutions and their role in global health security, particularly the U.S. Department of State, the U.S. Centers for Disease Control and Prevention (CDC), and White House capacities. The Commission will reexamine the unique capacities that the military can bring to global health security issues and how that role might evolve in the Covid-19 era. The Commission will also pursue reform to enhance the resilience and independence of U.S. public health institutions, particularly the CDC.
+
+Sustaining immunizations and community health programs and ensuring public trust and confidence in vaccines will be critical to global security in the Covid-19 era. In rethinking U.S. leadership, the Commission will focus on promoting health security through immunizations and the growing recognition of the essential role played by the primary health care system in disease prevention and outbreak response.
+
+## Building a New Order
+
+Throughout the Covid-19 pandemic, there has been a political paralysis in such key institutions as the UN Security Council, G-7, and G-20 and a conspicuous dearth of high-level diplomacy on global health security issues. U.S. diplomatic leadership has been largely absent as this void has widened. The Commission will weigh in on the many efforts to reform the current global health, development, and health security institutions and partnerships, including the World Health Organization and the Global Health Security Agenda, and it will advance a renewed U.S. health security diplomatic strategy for the Covid-19 era.
+
+The Commission will recommend steps that the United States should take to rebuild a more effective and responsive international order, both politically and operationally. This will include recommendations for how the United States can revitalize its relationship with the European Union and other key partners and allies in an effort to achieve a united reform effort.
+
+The Commission will also examine the toxic U.S.-China strategic competition and options for achieving a more effective and pragmatic interaction with China on health security issues. The Commission will examine options to secure markets and supply chains and address overreliance on foreign manufacturing (particularly Chinese manufacturing) for critical medical supplies and equipment.
+
+## Science and Anti-Science
+
+We live in a paradoxical moment of both scientific renaissance and burgeoning assaults upon the legitimacy and credibility of science. We are in the midst of an accelerating revolution in the life sciences, an Age of Biology. The bioeconomy has moved front and center in U.S. national security priorities and policies. This momentous shift will create new opportunities for gains in public and global health, along with challenges of equity and access and increased risks in biosecurity and biosafety.
+
+At the same time, the rapid spread of misinformation and disinformation has weakened public trust and confidence in science and public health institutions. The misuse and weaponization of social media has helped to fuel a resurgence of vaccine preventable disease and will significantly impede the introduction of Covid-19 vaccines, both domestically and globally.
+
+The Commission will strive to illuminate these trends, assess their implications for global health security, and identify what new U.S. policies, capacities, and programs are required.

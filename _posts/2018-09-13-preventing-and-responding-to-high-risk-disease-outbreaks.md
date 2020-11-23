@@ -2,14 +2,15 @@
 title: Preventing and Responding to High-Risk Disease Outbreaks
 date: 2018-09-13 00:00:00 +0000
 authors: []
-excerpt: High-risk disease outbreaks are a real and growing threat to U.S. national
+excerpt:
+  High-risk disease outbreaks are a real and growing threat to U.S. national
   security at home and abroad.
 content_type: commentary
-themes:
-- _themes/high-risk-disease-outbreaks.md
+themes: ''
 series: ''
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537886678/health-commission/High-Risk-Disease-Outbreaks.jpg
-image_caption: A man dressed in protective hazmat clothing treats the front porch
+image_caption:
+  A man dressed in protective hazmat clothing treats the front porch
   of an apartment where a second person diagnosed with the Ebola virus resides on
   October 12, 2014 in Dallas, Texas.
 image_credit: Mike Stone/Getty Images
@@ -21,8 +22,8 @@ references: ''
 links: []
 keywords: []
 undefined: ''
-
 ---
+
 ## Key Challenges
 
 ### Rapidly Changing Nature of Infectious Disease
@@ -41,7 +42,7 @@ Domestically at present, the United States cannot effectively deliver critical m
 
 ### Economic Cost of Inaction
 
-The estimated economic consequences of major outbreaks, at the national and global level, are enormous. A large-scale outbreak would cause major economic disruptions, especially to the U.S. export economy and American jobs.  A hypothetical epidemic spanning nine countries in Asia could cost the United States over $40 billion in export revenues and put more than 1 million American jobs at risk.[^8]
+The estimated economic consequences of major outbreaks, at the national and global level, are enormous. A large-scale outbreak would cause major economic disruptions, especially to the U.S. export economy and American jobs. A hypothetical epidemic spanning nine countries in Asia could cost the United States over $40 billion in export revenues and put more than 1 million American jobs at risk.[^8]
 
 ### Global Health Security Agenda
 
@@ -59,32 +60,51 @@ Global threats are domestic threats. For example, when Ebola erupted in West Afr
 
 The 2017 National Security Strategy explicitly states that the U.S. will work with other countries to detect and mitigate outbreaks early to prevent the spread of disease.[^14] This involves “encouraging other countries to invest in basic health care systems and to strengthen global health security across the intersection of human and animal health to prevent infectious disease outbreaks.”[^15] Naturally-occurring virus outbreaks, including Ebola and SARS, and the deliberate 2001 anthrax attacks were recognized as national security threats that can exact tolls on American public health and economic gains.[^16]
 
-***
+---
 
-[^1]: WHO, “The World Health Report 2007: A Safer Future – Global Public Health Security in the 21st Century,” 2007, [http://www.who.int/whr/2007/whr07_en.pdf?ua=1](http://www.who.int/whr/2007/whr07_en.pdf?ua=1 "http://www.who.int/whr/2007/whr07_en.pdf?ua=1")
+[^1]:
 
-[^2]: Baylor College of Medicine, “Emerging Infectious Diseases,” 2018, [https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases](https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases "https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases")
+  WHO, “The World Health Report 2007: A Safer Future – Global Public Health Security in the 21st Century,” 2007, [http://www.who.int/whr/2007/whr07_en.pdf?ua=1](http://www.who.int/whr/2007/whr07_en.pdf?ua=1 'http://www.who.int/whr/2007/whr07_en.pdf?ua=1')
 
-[^3]: WHO, “2018 Annual review of diseases prioritized under the Research and Development Blueprint (Meeting report),” February 6-7, 2018, [http://www.who.int/emergencies/diseases/2018prioritization-report.pdf?ua=1](http://www.who.int/emergencies/diseases/2018prioritization-report.pdf?ua=1 "http://www.who.int/emergencies/diseases/2018prioritization-report.pdf?ua=1")
+[^2]:
 
-[^4]: Bryan Walsh, “The World Is Not Ready for the Next Pandemic,” TIME, May 4, 2017, [http://time.com/4766624/next-global-security/](http://time.com/4766624/next-global-security/ "http://time.com/4766624/next-global-security/")
+  Baylor College of Medicine, “Emerging Infectious Diseases,” 2018, [https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases](https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases 'https://www.bcm.edu/departments/molecular-virology-and-microbiology/emerging-infections-and-biodefense/emerging-infectious-diseases')
 
-[^5]: The National Academies of Sciences, Engineering, and Medicine, “Global Health and the Future Role of the United States,” The National Academies Press, May 15, 2017, [http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx](http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx "http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx")
+[^3]:
+
+  WHO, “2018 Annual review of diseases prioritized under the Research and Development Blueprint (Meeting report),” February 6-7, 2018, [http://www.who.int/emergencies/diseases/2018prioritization-report.pdf?ua=1](http://www.who.int/emergencies/diseases/2018prioritization-report.pdf?ua=1 'http://www.who.int/emergencies/diseases/2018prioritization-report.pdf?ua=1')
+
+[^4]:
+
+  Bryan Walsh, “The World Is Not Ready for the Next Pandemic,” TIME, May 4, 2017, [http://time.com/4766624/next-global-security/](http://time.com/4766624/next-global-security/ 'http://time.com/4766624/next-global-security/')
+
+[^5]:
+
+  The National Academies of Sciences, Engineering, and Medicine, “Global Health and the Future Role of the United States,” The National Academies Press, May 15, 2017, [http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx](http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx 'http://nationalacademies.org/hmd/reports/2017/global-health-and-the-future-role-of-the-united-states.aspx')
 
 [^6]: Ibid.
+[^7]:
 
-[^7]:Blue Ribbon Study Panel on Biodefense, “A National Blueprint for Biodefense: Leadership and Major Reform Needed to Optimize Efforts,” October 2015, [http://www.biodefensestudy.org/a-national-blueprint-for-biodefense](http://www.biodefensestudy.org/a-national-blueprint-for-biodefense "http://www.biodefensestudy.org/a-national-blueprint-for-biodefense")
+  Blue Ribbon Study Panel on Biodefense, “A National Blueprint for Biodefense: Leadership and Major Reform Needed to Optimize Efforts,” October 2015, [http://www.biodefensestudy.org/a-national-blueprint-for-biodefense](http://www.biodefensestudy.org/a-national-blueprint-for-biodefense 'http://www.biodefensestudy.org/a-national-blueprint-for-biodefense')
 
-[^8]: Zoe Bamberry, Cynthia H. Cassell, Rebecca E. Bunnell, Kakoli Roy, Zara Ahmed, Rebecca L. Payne, and Martin I. Meltzer, “Impact of a Hypothetical Infectious Disease Outbreak on US Exports and Export-Based Jobs,” Health Security 16, no. 1 (2018): 1-7, [https://doi.org/10.1089/hs.2017.0052](https://doi.org/10.1089/hs.2017.0052 "https://doi.org/10.1089/hs.2017.0052")
+[^8]:
 
-[^9]: GHSA, “Implementing the Global Health Security Agenda: Progress and Impact from U.S. Government Investments,” February 2018, [https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf?sfvrsn=4](https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf?sfvrsn=4 "https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf?sfvrsn=4")
+  Zoe Bamberry, Cynthia H. Cassell, Rebecca E. Bunnell, Kakoli Roy, Zara Ahmed, Rebecca L. Payne, and Martin I. Meltzer, “Impact of a Hypothetical Infectious Disease Outbreak on US Exports and Export-Based Jobs,” Health Security 16, no. 1 (2018): 1-7, [https://doi.org/10.1089/hs.2017.0052](https://doi.org/10.1089/hs.2017.0052 'https://doi.org/10.1089/hs.2017.0052')
+
+[^9]:
+
+  GHSA, “Implementing the Global Health Security Agenda: Progress and Impact from U.S. Government Investments,” February 2018, [https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf?sfvrsn=4](https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf?sfvrsn=4 'https://www.ghsagenda.org/docs/default-source/default-document-library/global-health-security-agenda-2017-progress-and-impact-from-u-s-investments.pdf?sfvrsn=4')
 
 [^10]: Ibid.
-
 [^11]: Ibid.
+[^12]:
 
-[^12]: WHO, “Implementation of the International Health Regulations (2005): Report of the Review Committee on the Role of the International Health Regulations (2005) in the Ebola Outbreak and Response,” May 13, 2016, [http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_21-en.pdf](http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_21-en.pdf "http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_21-en.pdf")
+  WHO, “Implementation of the International Health Regulations (2005): Report of the Review Committee on the Role of the International Health Regulations (2005) in the Ebola Outbreak and Response,” May 13, 2016, [http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_21-en.pdf](http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_21-en.pdf 'http://apps.who.int/gb/ebwha/pdf_files/WHA69/A69_21-en.pdf')
 
-[^13]: UN High-level Panel on Global Response to Health Crises, “Protecting humanity from future health crises (A/70/723),” February 9, 2016, [http://www.un.org/ga/search/view_doc.asp?symbol=A/70/723](http://www.un.org/ga/search/view_doc.asp?symbol=A/70/723 "http://www.un.org/ga/search/view_doc.asp?symbol=A/70/723")
+[^13]:
 
-[^14]: The White House, “National Security Strategy of the United States of America,” December 2017, [https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf](https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf "https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf")
+  UN High-level Panel on Global Response to Health Crises, “Protecting humanity from future health crises (A/70/723),” February 9, 2016, [http://www.un.org/ga/search/view_doc.asp?symbol=A/70/723](http://www.un.org/ga/search/view_doc.asp?symbol=A/70/723 'http://www.un.org/ga/search/view_doc.asp?symbol=A/70/723')
+
+[^14]:
+
+  The White House, “National Security Strategy of the United States of America,” December 2017, [https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf](https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf 'https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf')
