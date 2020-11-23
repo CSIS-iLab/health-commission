@@ -57,25 +57,17 @@ $color__border-input: $color-black;
 $color__border-abbr: $color-gray;
 
 $themes: (
-  global-disorder: (
+  building-a-new-order: (
     $color-purple,
     $color-dark-purple
   ),
-  managing-biotechnology: (
+  science-and-anti-science: (
     $color-turquoise,
     $color-dark-turquoise
   ),
-  drug-resistance: (
+  u-s-leadership-in-the-covid-19-era: (
     $color-yellow,
     $color-dark-yellow
-  ),
-  high-risk-disease-outbreaks: (
-    $color-orange,
-    $color-dark-orange
-  ),
-  developing-countermeasures: (
-    $color-brown,
-    $color-dark-brown
   )
 );
 
