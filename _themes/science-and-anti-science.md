@@ -4,7 +4,7 @@ date: 2020-11-20 02:47:01 +0000
 long_title_formatted: Science and Anti-Science
 short_title: Science and Anti-Science
 excerpt: We live in a paradoxical moment of both scientific renaissance and burgeoning assaults upon the legitimacy and credibility of science.
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1605913669/health-commission/science-and-antiscience.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1606154053/health-commission/science-and-anti-science-2.jpg
 image_caption: US soldiers and airport workers of Vnukovo International Airport unload the batch of medical aid donated by the United States, including ventilators, in order to help Russia tackle the coronavirus outbreak, upon the landing of the shipment at Vnukovo International Airport outside Moscow, on June 4, 2020.
 image_credit: PAVEL GOLOVKIN/POOL/AFP via Getty Images
 short_description: ''

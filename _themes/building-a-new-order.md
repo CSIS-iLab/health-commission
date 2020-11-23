@@ -4,7 +4,7 @@ date: 2020-11-20 02:47:01 +0000
 long_title_formatted: Building a New Order
 short_title: Building a New Order
 excerpt: Covid-19 has delivered a shock to international institutions. U.S. diplomatic leadership has been largely absent and the diplomatic void has widened.
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1605913562/health-commission/building-a-new-order.jpg
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1606154053/health-commission/building-a-new-order-2.jpg
 image_caption: Leaders of the G20 major economies are holding an online summit on March 26, in a bid to fend off a coronavirus-triggered recession, after criticism the group has been slow to address the crisis.
 image_credit: GARY RAMAGE/POOL/AFP via Getty Images
 short_description: ''
