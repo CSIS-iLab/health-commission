@@ -55,9 +55,3 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-pages:
-- _themes/developing-countermeasures.md
-- _themes/drug-resistance.md
-- _themes/global-disorder.md
-- _themes/high-risk-disease-outbreaks.md
-- _themes/managing-biotechnology.md
