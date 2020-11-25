@@ -19,7 +19,7 @@ image_credit: ''
 documents: []
 
 ---
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/-dFZz8EeiQo](https://www.youtube.com/embed/-dFZz8EeiQo "https://www.youtube.com/embed/-dFZz8EeiQo")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/-dFZz8EeiQo](https://www.youtube.com/embed/-dFZz8EeiQo "https://www.youtube.com/embed/-dFZz8EeiQo")"></iframe></div>
 
 On **Thursday, November 5**, the [_CSIS Commission on Strengthening America’s Health Security _](https://healthsecurity.csis.org/final-report/)hosted a conversation with **_Dr. Rajiv J. Shah_**, President of The Rockefeller Foundation, on the Foundation’s recent [announcement](https://www.rockefellerfoundation.org/news/the-rockefeller-foundation-commits-usd1-billion-to-catalyze-a-green-recovery-from-pandemic/?utm_source=Twitter&utm_medium=organic_social&utm_campaign=Philanthropy&utm_content=PR_ReimagineFuture) of a $1 billion investment that will primarily focus on increasing healthcare access in the U.S. and globally to end the pandemic and driving historic public-private investment that expands renewable energy across Africa, Asia, and Latin America. **_J. Stephen Morrison_**, Senior Vice President and Director of the CSIS Global Health Policy Center, and **_Sarah Ladislaw_**, Senior Vice President and Director of the CSIS Energy Security and Climate Change Program, joined with Dr. Shah in a discussion of the Foundation’s strategy of catalyzing a more inclusive, climate-friendly recovery from the Covid-19 pandemic.
 
