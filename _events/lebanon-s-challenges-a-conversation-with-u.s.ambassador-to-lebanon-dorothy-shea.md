@@ -20,7 +20,7 @@ documents: []
 published: false
 
 ---
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/rkV9K44Bmwo](https://www.youtube.com/embed/rkV9K44Bmwo "https://www.youtube.com/embed/rkV9K44Bmwo")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/rkV9K44Bmwo](https://www.youtube.com/embed/rkV9K44Bmwo "https://www.youtube.com/embed/rkV9K44Bmwo")"></iframe></div>
 
 On **Friday, November 13**, the [_CSIS Commission on Strengthening America’s Health Security_](https://healthsecurity.csis.org/final-report/) hosted a conversation with **_Dorothy Shea_**, U.S. Ambassador to Lebanon. **_J. Stephen Morrison_**, Senior Vice President and Director of the Global Health Policy Center, and **_Jon B. Alterman_**, Senior Vice President, Zbigniew Brzezinski Chair in Global Security and Geostrategy, and Director of the CSIS Middle East Program, engaged with the Ambassador on the evolving humanitarian, health, economic, and political crises in Lebanon. They covered the aftermath of the August 4 Beirut explosion and evolution of U.S. policy since.
 
