@@ -1,25 +1,24 @@
 ---
 content_type: event
 keywords:
-  - Vaccines
-  - Russia
-  - Coronavirus
-  - Geopolitics
+- Vaccines
+- Russia
+- Coronavirus
+- Geopolitics
 title: 'Online Event: The Scramble for a Vaccine: Putin''s Sputnik V— "Trust me!"'
-date: 2020-09-02 18:00:00 +0000
-excerpt:
-  On September 2, Steve Morrison, Senior Vice President and Director, Global
-  Health Policy Center moderated a discussion on Vladimir Putin's Sputnik V vaccine
-  and its implications for the global scramble for a Covid-19 vaccine.
+date: 2020-09-02T18:00:00.000+00:00
+excerpt: On September 2, J. Stephen Morrison, Senior Vice President and Director,
+  Global Health Policy Center moderated a discussion on Vladimir Putin's Sputnik V
+  vaccine and its implications for the global scramble for a Covid-19 vaccine.
 series: ''
 themes:
-  - _themes/us-leadership-in-the-covid-19-era.md
+- _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1601584108/health-commission/GettyImages-154214223_0_caso1r.jpg
 image_caption: Vladimir Putin at Campaign Rally
 image_credit: YURI KADOBNOV/AFP/Getty Images
 documents: []
----
 
+---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/Xn75awjjIms](https://www.youtube.com/embed/Xn75awjjIms "https://www.youtube.com/embed/Xn75awjjIms")"></iframe></div>
 
 On September 2, 2020, the CSIS [Commission on Strengthening America’s Health Security](https://healthsecurity.csis.org/) hosted a discussion on Vladimir Putin's _Sputnik V_ vaccine, examining its implications for Russian health security and the global scramble for a vaccine. The Commission was joined by **_Heather A. Conley_**, Senior Vice President and Director of the CSIS Europe Program; **_Judyth Twigg_**_,_ Senior Associate with the CSIS Global Health Policy Center and Professor at Virginia Commonwealth University; and **_Vasily Vlassov,_** Professor and Senior Research Fellow at the National Research University Higher School of Economics. **_J. Stephen Morrison_**, Senior Vice President and Director of the CSIS Global Health Policy Center, moderated the event discussion.
