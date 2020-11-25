@@ -17,7 +17,6 @@ image: ''
 image_caption: ''
 image_credit: ''
 documents: []
-published: false
 
 ---
 [https://www.youtube.com/embed/-dFZz8EeiQo](https://www.youtube.com/embed/-dFZz8EeiQo "https://www.youtube.com/embed/-dFZz8EeiQo")
