@@ -13,9 +13,9 @@ excerpt: Dr. Rajiv Shah, President of the Rockefeller Foundation, speaks with J.
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1606334051/health-commission/GettyImages-1228328219_lbubqc.jpg
+image_caption: 'Equitable Recovery Banner '
+image_credit: 'Photo: Photo: Bruna Prado/Getty Images'
 documents: []
 
 ---
