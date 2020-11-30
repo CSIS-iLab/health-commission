@@ -43,6 +43,12 @@
     }
   }
 
+  // Shift events & specific theme's background image so it is focused on the bottom instead of the center.
+  .post--events &,
+  .themes--u-s-leadership-in-the-covid-19-era & {
+    background-position: center bottom;
+  }
+
   &__wrapper {
     @extend .wrapper;
     position: absolute;

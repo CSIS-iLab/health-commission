@@ -8,6 +8,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1606154053/health-c
 image_caption: US soldiers and airport workers of Vnukovo International Airport unload the batch of medical aid donated by the United States, including ventilators, in order to help Russia tackle the coronavirus outbreak, upon the landing of the shipment at Vnukovo International Airport outside Moscow, on June 4, 2020.
 image_credit: PAVEL GOLOVKIN/POOL/AFP via Getty Images
 short_description: ''
+order: 3
 ---
 
 We are in the midst of an accelerating revolution in the life sciences, an Age of Biology. The bioeconomy has moved front and center in U.S. national security priorities and policies. This momentous shift will create new opportunities for gains in public and global health, along with challenges of equity and access and increased risks in biosecurity and biosafety.

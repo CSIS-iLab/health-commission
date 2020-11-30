@@ -26,6 +26,8 @@ const Members = () => {
             member,
             json.placeholder
           )
+          console.log(member)
+          console.log(memberHTML)
           container.innerHTML = memberHTML
         })
     }
