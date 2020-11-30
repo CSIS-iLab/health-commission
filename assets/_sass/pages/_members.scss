@@ -18,7 +18,7 @@
     }
 
     .about-table-contents a {
-      transition: .2s;
+      transition: 0.2s;
     }
 
     .member-directory {
@@ -52,12 +52,12 @@
 
         &__member {
           position: relative;
-          
+
           padding-bottom: 4.5rem;
 
           @include breakpoint('large') {
             display: grid;
-            grid-template-columns: minmax(50px, 150px) minmax(250px, auto);
+            grid-template-columns: 150px minmax(250px, auto);
           }
 
           @include breakpoint('large') {
@@ -122,14 +122,12 @@
   img[class$='member__photo'] {
     margin: auto auto 0.75rem;
     display: block;
-    width: 100%;
-    max-width: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
 
     @include breakpoint('large') {
       margin: 0;
-      max-width: none;
-      border-radius: 0%;
     }
   }
   div[class$='member__text'] {

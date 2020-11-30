@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-<article class="post h-entry" role="content" itemscope itemtype="http://schema.org/BlogPosting">
+{% assign primary_theme_class = '' %}
+{% if page.collection == 'posts' and page.themes.size > 0 %}
+{% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
+{% assign primary_theme_class = primary_theme.title | slugify | prepend: 'themes--' %}
+{% endif %}
+
+<article class="post h-entry {{ page.collection | prepend: 'post--' }} {{ primary_theme_class }}" role="content" itemscope itemtype="http://schema.org/BlogPosting">
 
   {% include page-header.html %}
   <section class="post__header">
@@ -18,7 +24,6 @@ layout: default
       {% assign header_image_credit = page.image_credit %}
 
       {% if page.collection == 'posts' and page.themes.size > 0 %}
-      {% assign primary_theme = site.themes | where: 'relative_path', page.themes[0] | first %}
       {% if primary_theme.image.size > 0 %}
       {% assign header_image_credit = primary_theme.image_credit %}
       {% endif %}

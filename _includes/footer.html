@@ -42,7 +42,8 @@
         <ul>
           {%- for item in items -%}
             {% if item.collection %}
-              {% for post in site[item.collection] %}
+              {% assign sortedCollection = site[item.collection] | sort: 'order' %}
+              {% for post in sortedCollection %}
                 <li class="menu-item"><a href="{{ post.url | relative_url }}" title="{{ post.title | escape }}">{{ post[item.item_title_field] | default: post.title | escape }}</a></li>
               {% endfor %}
             {% else %}

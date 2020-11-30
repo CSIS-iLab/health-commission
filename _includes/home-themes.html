@@ -2,7 +2,8 @@
   <h3 class="section-title-lg">{{ site.data.language.home.themes_header | escape }}</h3>
   <p>{{ site.data.language.home.themes_desc | escape }}</p>
   <ul>
-{% for theme in site.themes %}
+    {% assign sortedThemes = site.themes | sort: 'order' %}
+{% for theme in sortedThemes %}
   <li class="home__themes-item--{{ theme.short_title | slugify }}"><a href="{{ theme.url | relative_url }}">{{ theme.long_title_formatted | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
 {% endfor %}
   </ul>
