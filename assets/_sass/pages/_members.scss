@@ -57,7 +57,7 @@
 
           @include breakpoint('large') {
             display: grid;
-            grid-template-columns: minmax(50px, 150px) minmax(250px, auto);
+            grid-template-columns: 150px minmax(250px, auto);
           }
 
           @include breakpoint('large') {
