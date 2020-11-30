@@ -1,18 +1,5 @@
 [
   {
-    "Last Name": "Segal",
-    "First Name": "Stephanie",
-    "Display Name": "Stephanie Segal",
-    "Role in Commission": "",
-    "Short Title": "CSIS Economics Program",
-    "Title": "Senior Fellow, CSIS Economics Program",
-    "Has Photo": "TRUE",
-    "Short Bio": "Stephanie Segal is a Senior Fellow with the CSIS Economics Program, where her research interests include economic competitiveness, U.S.-China economic relations, and the role of international financial institutions in the global economy. Until 2017, Ms. Segal served as codirector of the East Asia Office at the U.S. Department of the Treasury. ",
-    "Long Bio": "Stephanie Segal is senior fellow of the CSIS Economics Program, where her research interests include economic competitiveness, U.S.-China economic relations, and the role of international financial institutions in the global economy. Until 2017, Ms. Segal served as codirector of the East Asia Office at the U.S. Department of the Treasury. Prior to Treasury, she was senior economist at the International Monetary Fund (IMF), where she covered a range of emerging market and advanced country economies. Earlier in her career, Ms. Segal served as an economist in the Western Hemisphere, South and Southeast Asia, and International Monetary Policy offices at Treasury; as an adviser to the U.S. director at the IMF; and as an analyst and associate in mergers & acquisitions at J.P. Morgan in New York. She earned her master's degree from the Johns Hopkins School of Advanced International Studies and her undergraduate degree from the University of North Carolina at Chapel Hill. ",
-    "signature": "",
-    "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1605906363/health-commission/Stephanie_Segal_Headshot_goy4wq.jpg"
-  },
-  {
     "Last Name": "Bera",
     "First Name": "Ami",
     "Display Name": "U.S. Congressman Ami Bera",
@@ -245,6 +232,19 @@
     "Long Bio": "Senator Patty Murray is the senior Senator from the state of Washington. Serving as a member of Senate Democratic leadership since 2007, Senator Murray has established herself as a tireless and effective leader on education, transportation, budget issues, port security, healthcare, women, and veterans’ issues.\n\nSenator Murray is the top-ranking Democrat on the Senate Health, Education, Labor, and Pensions (HELP) Committee, and a senior member of both the Appropriations and Veterans Affairs Committees. Over the last few years, she has been one of the few members of Congress able to break through the partisanship and gridlock. After the government shutdown in 2013, she worked to restore investments in education, health care, and jobs, and by bringing Democrats and Republicans together in 2015, she worked to pass a law that finally replaced the broken No Child Left Behind law.\n\nAs a member of the Commission, Senator Murray is interested in addressing antimicrobial resistance, pandemic threats, and women’s health issues. She is also focused on making sure policy solutions account for how global health security impacts families and communities and how global health threats are also countless personal tragedies.\n\nSenator Murray began her public service career in the 1980s by serving on the Shoreline School Board, and in 1988 was elected to the Washington State Senate. In 1992, she ran for the United States Senate as a voice for Washington families who were not being heard. Dramatically outspent, Senator Murray ran a grassroots campaign of family, friends, supporters, and public interest groups to beat a 10-year veteran of the U.S. House of Representatives.",
     "signature": "https://res.cloudinary.com/csisideaslab/image/upload/v1576089396/health-commission/Patty_Murray_rwoyid.jpg",
     "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1605907783/health-commission/Murray_Patty_ldkupg.jpg"
+  },
+  {
+    "Last Name": "Segal",
+    "First Name": "Stephanie",
+    "Display Name": "Stephanie Segal",
+    "Role in Commission": "",
+    "Short Title": "CSIS Economics Program",
+    "Title": "Senior Fellow, CSIS Economics Program",
+    "Has Photo": "TRUE",
+    "Short Bio": "Stephanie Segal is a Senior Fellow with the CSIS Economics Program, where her research interests include economic competitiveness, U.S.-China economic relations, and the role of international financial institutions in the global economy. Until 2017, Ms. Segal served as codirector of the East Asia Office at the U.S. Department of the Treasury. ",
+    "Long Bio": "Stephanie Segal is senior fellow of the CSIS Economics Program, where her research interests include economic competitiveness, U.S.-China economic relations, and the role of international financial institutions in the global economy. Until 2017, Ms. Segal served as codirector of the East Asia Office at the U.S. Department of the Treasury. Prior to Treasury, she was senior economist at the International Monetary Fund (IMF), where she covered a range of emerging market and advanced country economies. Earlier in her career, Ms. Segal served as an economist in the Western Hemisphere, South and Southeast Asia, and International Monetary Policy offices at Treasury; as an adviser to the U.S. director at the IMF; and as an analyst and associate in mergers & acquisitions at J.P. Morgan in New York. She earned her master's degree from the Johns Hopkins School of Advanced International Studies and her undergraduate degree from the University of North Carolina at Chapel Hill. ",
+    "signature": "",
+    "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1605906363/health-commission/Stephanie_Segal_Headshot_goy4wq.jpg"
   },
   {
     "Last Name": "Underwood",
