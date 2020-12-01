@@ -6,7 +6,7 @@ keywords:
 - Humanitarian Aid
 title: 'Lebanon''s Challenges: A Conversation with U.S. Ambassador to Lebanon Dorothy
   Shea'
-date: 2020-11-13 15:00:00 +0000
+date: 2020-11-13T15:00:00.000+00:00
 excerpt: Dorothy Shea, U.S. Ambassador to Lebanon, speaks with J. Stephen Morrison
   on the humanitarian and health crisis confront Lebanon in the wake of the August
   4 Beruit explosion.
@@ -20,7 +20,7 @@ documents: []
 published: false
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/rkV9K44Bmwo](https://www.youtube.com/embed/rkV9K44Bmwo "https://www.youtube.com/embed/rkV9K44Bmwo")"></iframe></div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/rkV9K44Bmwo"></iframe></div>
 
 On **Friday, November 13**, the [_CSIS Commission on Strengthening America’s Health Security_](https://healthsecurity.csis.org/final-report/) hosted a conversation with **_Dorothy Shea_**, U.S. Ambassador to Lebanon. **_J. Stephen Morrison_**, Senior Vice President and Director of the Global Health Policy Center, and **_Jon B. Alterman_**, Senior Vice President, Zbigniew Brzezinski Chair in Global Security and Geostrategy, and Director of the CSIS Middle East Program, engaged with the Ambassador on the evolving humanitarian, health, economic, and political crises in Lebanon. They covered the aftermath of the August 4 Beirut explosion and evolution of U.S. policy since.
 
