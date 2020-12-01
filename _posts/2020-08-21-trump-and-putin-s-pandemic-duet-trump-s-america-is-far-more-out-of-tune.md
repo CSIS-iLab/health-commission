@@ -10,7 +10,7 @@ excerpt: Vladimir Putin and Donald Trump share a Covid-19 response playbook that
   led each country into deep trouble. Yet historic failures of leadership in the United
   States have led to runaway outbreaks and staggering death counts that far outrace
   Russia’s.
-date: 2020-08-21 04:00:00 +0000
+date: 2020-08-21T04:00:00.000+00:00
 authors:
 - _authors/judyth-twigg.md
 - _authors/stephen-morrison.md
