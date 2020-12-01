@@ -10,7 +10,7 @@ title: What Can the United States Do to Prevent Another Pandemic? Commit to Mode
   Influenza Vaccines
 content_type: report
 excerpt: ''
-date: 2020-11-14 05:00:00 +0000
+date: 2020-11-14T05:00:00.000+00:00
 authors: []
 series: ''
 themes: []
