@@ -5,7 +5,7 @@ content_type: commentary
 excerpt: J. Stephen Morrison and Carolyn Reynolds offer advice to the Independent
   Panel for Pandemic Preparedness and Response on how to meet this historic moment
   and capture the attention of world leaders to effect meaningful change.
-date: 2020-09-17 04:00:00 +0000
+date: 2020-09-17T04:00:00.000+00:00
 authors:
 - _authors/carolyn-reynolds.md
 - _authors/stephen-morrison.md
