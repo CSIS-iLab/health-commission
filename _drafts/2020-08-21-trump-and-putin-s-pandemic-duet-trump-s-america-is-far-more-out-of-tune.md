@@ -33,7 +33,7 @@ Russian president Vladimir Putin and President Donald Trump share a playbook tha
 
 The United States has [over one-quarter](https://coronavirus.jhu.edu/us-map) of the globe’s total cases, around 5.5 million, and average deaths have exceeded 1,000 per day for over three weeks running. The pandemic has officially claimed over 170,000 lives in the United States and almost 16,000 in Russia, though these reported numbers likely undercount the virus’s true toll. The United States is [on course to top 300,000 deaths](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) by year’s end. [Russia](https://xn--80aesfpebagmfblc0a.xn--p1ai/) currently has the fourth-largest reported Covid-19 caseload in the world, almost 1 million, behind only the United States, Brazil, and India. Its daily incidence has slowly declined over the last two months, currently registering around 5,000 new cases per day.
 
-![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/Covid-19%20cases.jpg)
+![Graph](https://csis-website-prod.s3.amazonaws.com/s3fs-public/Covid-19%20cases.jpg "Reported Covid-19 Cases in the United States and Russia")
 
 ### **Trump and Putin’s Shared Harmony**
 
@@ -69,7 +69,7 @@ The many compelling parallels notwithstanding, Russia and the United States dive
 
 No city or province in Russia is now experiencing a runaway resurgent outbreak as extreme as what has been seen since July in the American South and Southwest, and now increasingly in the Midwest. [Over 1,000](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) Americans are still dying of Covid-19 every day. Even if Russia’s numbers are fudged by a factor of two or three, and taking into account that the U.S. population is double that of Russia, the U.S. death toll is still an order of magnitude higher than Russia’s.
 
-![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/Covid-19%20circle%20graph.jpg)
+![Graph](https://csis-website-prod.s3.amazonaws.com/s3fs-public/Covid-19%20circle%20graph.jpg "Deaths Per 100,000 Population")
 
 Most Russian regions have retained and extended a reasonable set of public health measures designed to curb spread of the virus. Transmission within and between health facilities, one of the most common problems early in Russia’s epidemic, has been largely interrupted there. In the United States, the virus has had free rein to exploit weak local public health infrastructure, underfinanced and short of staff after [suffering a 30 percent loss of capacity](https://www.nytimes.com/2020/03/14/us/coronavirus-health-departments.html) in the 2008 recession.
 
@@ -85,7 +85,7 @@ Early in the pandemic, when everyone was counting respirators and scrambling for
 
 But we have learned that defeat of a new virus as fast and insidious as the coronavirus requires communal spirit and shared sacrifice, actions that can only take place in an atmosphere of widescale social trust and inspiring, effective leadership. Yes, Russia, like the United States, has seen individual displays of appalling, selfish irresponsibility. Russian head doctors have underreported Covid-19 cases to [avoid paying promised pandemic bonuses](https://www.reuters.com/article/us-health-coronavirus-russia-healthcare/russian-prosecutors-intervene-after-some-virus-bonuses-to-medics-go-awry-idUSKBN22U23C) to their medical staffs. Corrupt Russian businessmen and their public sector regulators have [skimmed funds off the top](https://www.znak.com/2020-05-01/saratovskiy_ministr_ushla_v_otstavku_posle_zakupki_odnorazovyh_masok_po_425_rubley) of emergency PPE procurements. But Russia has not embraced mass denial, deliberately engineered from the top down. As a consequence, Russia has unquestionably fared better.
 
-![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/Covid-19%20deaths.jpg)
+![Graph](https://csis-website-prod.s3.amazonaws.com/s3fs-public/Covid-19%20deaths.jpg "Reported Covid-19 Deaths in the United States and Russia")
 
 None of this absolves Putin from Russia’s abhorrent behavior in Ukraine, from disinformation campaigns and election interference in the United States and elsewhere, from barely concealed assassinations of political opponents at home and abroad. But it does lay bare Washington’s profoundly inept pandemic response and Trump’s starring role in it. Along all three broad, interrelated dimensions of this crisis—health infrastructure, social cohesion, and leadership—the United States has abjectly failed, in ways that even Putin has not matched. As the United States invites global disappointment and derision with its [withdrawal](https://www.nytimes.com/2020/07/07/us/politics/coronavirus-trump-who.html) from the World Health Organization (WHO), [hoarding](https://www.cnn.com/2020/07/01/health/remdesivir-drug-supply-us-intl/index.html) of remdesivir, and touting of its plan to apply those same “America First” principles to eventual Covid-19 vaccine distribution, both Russia and China stand poised to fill the leadership vacuum.
 
