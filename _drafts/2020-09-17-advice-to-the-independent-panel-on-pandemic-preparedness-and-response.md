@@ -13,7 +13,7 @@ series: ''
 themes:
 - _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1606336711/health-commission/201014_health_ojaugp.jpg
-image_caption: ''
+image_caption: Independent Panel
 image_credit: 'Photo: BRYAN R. SMITH/AFP/Getty Images '
 pdf: ''
 is_commission_related:
