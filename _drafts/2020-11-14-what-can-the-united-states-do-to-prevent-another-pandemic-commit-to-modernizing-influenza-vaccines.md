@@ -9,7 +9,10 @@ keywords:
 title: What Can the United States Do to Prevent Another Pandemic? Commit to Modernizing
   Influenza Vaccines
 content_type: report
-excerpt: ''
+excerpt: '_The Covid-19 pandemic has laid bare the acute vulnerabilities in the United
+  States’ health security policies and capacities. While the Covid-19 crisis is far
+  from over, we cannot afford to be complacent about what has long been understood
+  to be a principal health security threat: influenza viruses._'
 date: 2020-11-14T05:00:00.000+00:00
 authors: []
 series: ''
