@@ -39,7 +39,7 @@ _To address this threat, there are concrete steps the United States should take 
 
 ### **Why Should We Worry about Influenza?**
 
-In the midst of a historic coronavirus pandemic, it may be difficult to believe that another virus could pose a threat to the public health and economic security of the American people. Yet, history has proven the reality of this threat with influenza pandemics in 1918, 1957–58, 1968, and 2009.iii Just because we are reeling from a coronavirus pandemic does not mean we are exempt from another influenza pandemic—now or in the future. The same conditions that propelled SARS-Cov-2—the coronavirus that causes Covid-19—around the globe in December 2019 persist today: population growth, urbanization, increasing animal-human interactions, rising global temperatures, and globalization.iv![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GHPC_WebGraphics-03.jpg)  
+In the midst of a historic coronavirus pandemic, it may be difficult to believe that another virus could pose a threat to the public health and economic security of the American people. Yet, history has proven the reality of this threat with influenza pandemics in 1918, 1957–58, 1968, and 2009.iii Just because we are reeling from a coronavirus pandemic does not mean we are exempt from another influenza pandemic—now or in the future. The same conditions that propelled SARS-Cov-2—the coronavirus that causes Covid-19—around the globe in December 2019 persist today: population growth, urbanization, increasing animal-human interactions, rising global temperatures, and globalization.iv![Visual Graph](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GHPC_WebGraphics-03.jpg "Recent History of Pandemic Influenza")  
 Of more immediate concern, experts warn that if Americans do not practice appropriate prevention measures such as seeking influenza vaccination, washing their hands, social distancing, and wearing a mask, circulating seasonal influenza and Covid-19 will exacerbate one another, adding further strain to an already overburdened health system. Dr. Redfield, Director of the Centers for Disease Control and Prevention (CDC), expressed this concern in August saying this could be the “worst fall” that “we’ve ever had.”v In preparation, the CDC has purchased 9.3 million additional doses of influenza vaccines for uninsured adults as compared to last year’s 500,000.vi
 
 Several countries in the southern hemisphere—such as Australia, Chile, and South Africa—have experienced mild influenza seasons due to increased influenza vaccine uptake and other protective measures in place as a result of Covid-19.vii The CDC released a report in mid-September predicting that Covid-19 interventions and influenza vaccination could reduce influenza transmission in the 2020—2021 season. viii
@@ -98,7 +98,7 @@ Is it possible to develop one vaccine that could protect against all possible va
 
 ### _What Is UIV?_
 
-In theory, a true UIV would protect against all strains for a lifetime, encompassing both seasonal and pandemic flu. In practice, this idea has proven to be highly complex, leading to varying definitions of UIV. The U.S. government has defined UIV as a vaccine with 75 percent effectiveness against a certain subgroups of influenza viruses with protection for at least one year for all age groups.xx,xxi![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GHPC_WebGraphics-02.jpg)
+In theory, a true UIV would protect against all strains for a lifetime, encompassing both seasonal and pandemic flu. In practice, this idea has proven to be highly complex, leading to varying definitions of UIV. The U.S. government has defined UIV as a vaccine with 75 percent effectiveness against a certain subgroups of influenza viruses with protection for at least one year for all age groups.xx,xxi![Visual](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GHPC_WebGraphics-02.jpg "Seasonal vs. Universal Influenza Vaccines")
 
 ### _The Complicated Science_
 
@@ -108,7 +108,7 @@ While the science behind development efforts is complicated, researchers are gen
 
 Scientists are working on a multitude of approaches other than stem-specific responses; some candidates target proteins inside the virus while others hope to stimulate T cell response to infection.xxiv Despite the often-cited ten-year timeline, scientists lack a clear consensus on the most effective path to the development of UIV. It is still unclear whether these UIV candidates will truly protect against all strains. Because influenza viruses mutate so frequently and rapidly, they have an infinite ability to produce new strains. How can scientists protect against viruses that do not yet exist, but will inevitably occur?
 
-Despite these challenges, there is a broad consensus that UIV would be a major step in strengthening pandemic preparedness globally. With as little as one year of broad protection, the current production system would become obsolete—no longer requiring influenza vaccines to be reformulated every six months. Increased effectiveness would likely increase confidence and could raise influenza vaccination rates. A recent study published by the National Academy of Sciences simulated a future in which Americans had access to a 75 percent efficacious UIV. If UIV replaced all seasonal vaccines, the study projects the prevention of 17 million cases, 251,000 hospitalizations, 19,500 deaths, and $3.5 billion in direct healthcare costs.xxv![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GHPC_WebGraphics-01.jpg)The road to UIV remains long and complicated, but the United States should take sustained action to capitalize on the potential of a long lasting, broad spectrum influenza vaccine.
+Despite these challenges, there is a broad consensus that UIV would be a major step in strengthening pandemic preparedness globally. With as little as one year of broad protection, the current production system would become obsolete—no longer requiring influenza vaccines to be reformulated every six months. Increased effectiveness would likely increase confidence and could raise influenza vaccination rates. A recent study published by the National Academy of Sciences simulated a future in which Americans had access to a 75 percent efficacious UIV. If UIV replaced all seasonal vaccines, the study projects the prevention of 17 million cases, 251,000 hospitalizations, 19,500 deaths, and $3.5 billion in direct healthcare costs.xxv![Visual](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GHPC_WebGraphics-01.jpg "Influenza Statistics")The road to UIV remains long and complicated, but the United States should take sustained action to capitalize on the potential of a long lasting, broad spectrum influenza vaccine.
 
 ### **Vaccine Production Technologies**
 
@@ -116,7 +116,7 @@ Despite the extensive efforts of the scientific community, UIV may be ten years 
 
 ### _Traditional Egg-based Production_
 
-![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GettyImages-88555982.jpg)_Taiwan researchers sort through eggs used for the cultivation of swine flu vaccine in 2009.  
+![Image](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GettyImages-88555982.jpg "Traditional Egg-based Production")_Taiwan researchers sort through eggs used for the cultivation of swine flu vaccine in 2009.  
 Photo By Patrick Lin/AFP via Getty Images_
 
 Influenza vaccine production utilizing chicken eggs has been the standard for 70 years. While inexpensive and time-tested, egg-based production is simply too slow to respond effectively to emergency pandemic threats or adjust to viral mutations mid-influenza season.xxvi It is for this reason that seasonal influenza predictions occur six months in advance and may poorly match circulating strains. Additionally, eggs have the potential to mutate the virus in the laboratory, resulting in vaccines that stimulate weaker or completely different immune responses than intended.
@@ -129,7 +129,6 @@ Former Biomedical Advanced Research and Development Authority (BARDA) Director R
 
 Adjuvants have the potential to boost the body’s immune response to existing vaccines.xxviii Utilized for over 70 years, adjuvants are substances added to vaccines to help the body recognize the vaccine’s antigens as foreign. This strengthens the body’s immune response, conferring longer and stronger protection from the virus. Modern adjuvants target specific components of the immune system. Adjuvants also have the potential to extend influenza supplies, as many countries demonstrated during the 2009 H1N1 pandemic. With the addition of these specific compounds, less vaccine can be used for each person.
 
-  
 Other alternatives exist and are FDA approved for producing influenza vaccines. The first is cell-based vaccine production, which uses animal cells instead of eggs to host virus replication. This production method is preferable to egg-based production for several reasons. First, it allows the vaccine production to be completed much more quickly. Experts also believe that cell-based vaccine production could produce stronger immune responses more similar to what is seen with wild influenza viruses. Former FDA Commissioner Scott Gottlieb reported that the only cell-based vaccine on the market in 2018 was about 20 percent more effective than its egg-based counterparts.xxix Additionally, cells can be frozen and banked in advance of an emergency, and therefore are less susceptible to supply chain disruptions.
 
 A second FDA approved method of producing influenza vaccines is recombinant technology, the only 100 percent egg free approach on the market. This method isolates a certain gene found in the wild influenza virus and combines it with another virus. This virus grows effectively in insect cells where it is allowed to replicate before it is purified for vaccine production.xxx
@@ -163,12 +162,11 @@ The order directs actions to accomplish the following:
 **•** Advance the development of new, broadly protective vaccine candidates that provide more effective and longer lasting immunities; and  
 **•** Support the promotion of increased influenza vaccine immunization across recommended populations.
 
-  
 The order calls for the establishment of a National Influenza Task Force co-chaired by the Secretaries of Defense and Health and Human Services (HHS). The Task Force had 120 days to submit a report with a five-year plan including recommendations to encourage non-profit, academic, and private sector innovation and to increase vaccination rates amongst key populations.xxxiv Understandably, the report has stalled likely due to the Covid-19 pandemic.
 
 ### **Vaccine Preparedness Saves Time, Money, and Lives**
 
-![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GettyImages-1228870174.jpg)_A health worker administers a flu vaccine to a man in Mexico City, on October 3, 2020_.  
+![Image](https://csis-website-prod.s3.amazonaws.com/s3fs-public/GettyImages-1228870174.jpg "Vaccine Preparedness Saves Time, Money, and Lives")_A health worker administers a flu vaccine to a man in Mexico City, on October 3, 2020_.  
 _Photo By Claudio Cruz/AFP via Getty Images_
 
 It must also be acknowledged that strides are being made in the herculean global effort to develop a Covid-19 vaccine. In the United States, the federal government has launched Operation Warp Speed, a $10 billion effort that aims to accelerate the Covid-19 vaccine development and manufacturing process. A partnership between the Department of Defense (DoD) and Health and Human Services, Operation Warp Speed seeks to develop 300 million doses of safe and effective vaccine for American citizens by January 2021.xxxv Thus far, the project has committed $6.5 billion for BARDA and $3.5 billion for NIH field trials—a massive investment in comparison to previous influenza vaccine investments.
@@ -187,15 +185,15 @@ As the United States reconsiders its health security capacities, the improvement
 
 The U.S. government should ensure that the modernization of influenza vaccine technologies receives the necessary investment to prevent another potential pandemic. In fall 2019, the CSIS Commission on Strengthening America’s Health Security recommended $200 million annually over five years as an important step to further the critical UIV effort.xxxviii While this level of funding was achieved for FY 2020, it is critical to ensure that this funding is sustained over the next four years, even as the Covid-19 response demands ample federal resources.
 
-2. **Invest in Modernizing Vaccine Production Technology**
+1. **Invest in Modernizing Vaccine Production Technology**
 
 Funding for later stage universal influenza vaccine research at BARDA should also be maintained, as its efforts are crucial for bringing universal influenza vaccines and alternatives to egg-based vaccines to the market. There should also be serious consideration given to expanding CDC’s complementary research on emerging and circulating influenza viruses, vaccine effectiveness, and the production of vaccine candidates for newer production platforms.
 
-3. **Boost Annual Vaccine Demand and Confidence**
+1. **Boost Annual Vaccine Demand and Confidence**
 
 These additional complementary research efforts should focus on combatting vaccine hesitancy and improving influenza vaccine uptake in the United States and globally.
 
-4. **Reverse Withdrawal from the WHO**
+1. **Reverse Withdrawal from the WHO**
 
 The United States should ensure that its role in the Global Influenza Surveillance and Response System is not disrupted by its withdrawal from the WHO. Deciding which influenza vaccines are available each fall is wholly dependent on a WHO-led collaboration to collect data from over 100 countries. To date, it is not fully understood how the United States will continue to participate in the global influenza community once it is no longer a member of WHO—which could make the United States vulnerable to developing less effective influenza vaccines.
 
@@ -209,8 +207,8 @@ _The author wishes to give special thanks to Anna Carroll and J. Stephen Morriso
 
 _This brief is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
 
-**_CSIS Briefs_ are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**  
-  
-**© 2020 by the Center for Strategic and International Studies. All rights reserved.  
-  
+**_CSIS Briefs_ are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**
+
+\**© 2020 by the Center for Strategic and International Studies. All rights reserved.
+
 _Please consult the PDF for references._**
