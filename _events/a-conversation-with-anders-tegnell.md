@@ -11,11 +11,10 @@ excerpt: Please join the CSIS Commission on Strengthening America’s Health Sec
 series: ''
 themes:
 - _themes/science-and-anti-science.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1607964224/health-commission/GettyImages-1212458818_1_pvuoqi.jpg
+image_caption: JONATHAN NACKSTRAND
+image_credit: AFP/Getty Images
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/15ikQ1BAHU0"></iframe></div>
