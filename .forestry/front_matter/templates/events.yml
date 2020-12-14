@@ -38,6 +38,7 @@ fields:
   label: Documents
   description: Upload PDFs here with user-friendly titles.
 pages:
+- _events/a-conversation-with-anders-tegnell.md
 - _events/a-conversation-with-rajiv-j.shah-a-vision-for-equitable-recovery.md
 - _events/biological-threats-to-u-s-national-security-testimony-before-the-senate-armed-services-subcommittee-on-emerging-threats-and-capabilities.md
 - _events/clade-x-pandemic-simulation-exercise.md
