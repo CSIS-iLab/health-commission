@@ -5,8 +5,8 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: final-report.md
 featured_post_secondary:
-- _posts/2020-08-21-trump-and-putin-s-pandemic-duet-trump-s-america-is-far-more-out-of-tune.md
 - _posts/2020-11-14-what-can-the-united-states-do-to-prevent-another-pandemic-commit-to-modernizing-influenza-vaccines.md
+- _posts/2020-09-17-advice-to-the-independent-panel-on-pandemic-preparedness-and-response.md
 featured_events: _events/a-conversation-with-anders-tegnell.md
 
 ---
