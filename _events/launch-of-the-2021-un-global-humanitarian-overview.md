@@ -10,11 +10,10 @@ excerpt: The Center for Strategic and International Studies (CSIS) is pleased to
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1607964167/health-commission/GettyImages-1210210217_1_xqvabd.jpg
+image_caption: MADAREE TOHLALA
+image_credit: AFP/Getty Images
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/NcDGRf_sDJE"></iframe></div>
