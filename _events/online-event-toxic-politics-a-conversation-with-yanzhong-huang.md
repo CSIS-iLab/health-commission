@@ -11,11 +11,10 @@ excerpt: 'J. Stephen Morrison and Jude Blanchette speak with Yanzhong Huang, Exp
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1608143029/health-commission/GettyImages-502376968_ads8hd.jpg
 image_caption: ''
-image_credit: ''
+image_credit: Getty Images
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/Jkk70Qh5Nvw"></iframe></div>
