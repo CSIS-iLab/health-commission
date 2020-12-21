@@ -33,19 +33,13 @@ On December 2, 2020, the CSIS Commission on Strengthening America’s Health Sec
 
 In November 2019, the CSIS Commission on Strengthening America’s Health Security released its major report, [_Ending the Cycle of Crisis and Complacency in U.S. Global Health Security_](https://healthsecurity.csis.org/final-report/). In it, the Commission advocated to Congress and the administration seven strategic recommendations needed to establish a doctrine of continuous prevention, protection, and resilience abroad:
 
- 1. Restore health security leadership at the White House National Security Council.
- 2. 
- 3. Commit to full and sustained multiyear funding for the Global Health Security Agenda to build partner capacity.
- 4. 
- 5. Establish a Pandemic Preparedness Challenge at the World Bank to incentivize countries to invest in their own preparedness.
- 6. 
- 7. Ensure rapid access to resources for health emergencies.
- 8. 
- 9. Establish a U.S. Global Health Crises Response Corps.
-10. 
-11. Strengthen the delivery of critical health services in disordered settings.
-12. 
-13. Accelerate new vaccines and therapeutics and address the threat of a polluted digital environment.
+1. Restore health security leadership at the White House National Security Council.
+2. Commit to full and sustained multiyear funding for the Global Health Security Agenda to build partner capacity.
+3. Establish a Pandemic Preparedness Challenge at the World Bank to incentivize countries to invest in their own preparedness.
+4. Ensure rapid access to resources for health emergencies.
+5. Establish a U.S. Global Health Crises Response Corps.
+6. Strengthen the delivery of critical health services in disordered settings.
+7. Accelerate new vaccines and therapeutics and address the threat of a polluted digital environment.
 
 Since early 2020, the Covid-19 pandemic has profoundly changed our world. The Commission’s seven recommendations remain powerful and relevant, and the Commission will continue to pursue them while recognizing how significantly the context for action has changed. We can no longer presume reliable U.S. baseline preparedness nor presume that most dangerous outbreaks will do their greatest harm outside our borders. Indeed, we are deep into a dangerous and highly uncertain struggle with a pandemic—unlike anything seen in over a century—that poses still-unresolved strategic threats to the United States and the rest of the world.
 
@@ -140,14 +134,10 @@ At the same time, the rapid spread of misinformation and disinformation has weak
 Over the next three to six months, the Commission will focus on five priority workstreams:
 
 1. Mitigating the Looming Crisis: Fiscal Space in the Covid-19 Era;
-2. 
-3. Ensuring Equitable Covid-19 Vaccine Distribution Globally;
-4. 
-5. Restoring the Independence of U.S. Public Health Agencies;
-6. 
-7. Defining the Role of the Military in Health Security in the Covid-19 Era; and
-8. 
-9. Evolving a Diplomatic Strategy for the Covid-19 Era.
+2. Ensuring Equitable Covid-19 Vaccine Distribution Globally;
+3. Restoring the Independence of U.S. Public Health Agencies;
+4. Defining the Role of the Military in Health Security in the Covid-19 Era; and
+5. Evolving a Diplomatic Strategy for the Covid-19 Era.
 
 Through these workstreams it is our goal to lay out concrete action agendas for the administration and Congress to address current gaps in U.S. health security policy and the Covid-19 response.
 
