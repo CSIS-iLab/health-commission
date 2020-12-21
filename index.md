@@ -5,8 +5,8 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: final-report.md
 featured_post_secondary:
+- _posts/2020-12-21-co-chair-statement-on-the-december-2020-commission-meeting.md
 - _posts/2020-11-14-what-can-the-united-states-do-to-prevent-another-pandemic-commit-to-modernizing-influenza-vaccines.md
-- _posts/2020-09-17-advice-to-the-independent-panel-on-pandemic-preparedness-and-response.md
 featured_events: _events/online-event-year-end-reflections-on-2020-with-dr.anthony-fauci.md
 
 ---
