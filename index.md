@@ -3,7 +3,7 @@ layout: home
 commission_desc: The CSIS Commission on Strengthening America’s Health Security brings
   together a distinguished and diverse group of high-level opinion leaders who bridge
   security and health.
-featured_post_primary: ''
+featured_post_primary: final-report.md
 featured_post_secondary:
 - _posts/2021-01-22-new-variants-rattle-the-world.md
 - _posts/2020-12-21-co-chair-statement-on-the-december-2020-commission-meeting.md
