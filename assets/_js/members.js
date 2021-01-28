@@ -56,7 +56,6 @@ const Members = () => {
 
 const toggleNavigator = () => {
   list.classList.toggle('hide')
-  scroll.freeze()
   let overlayIs = overlay.style.display
   overlayIs === 'block' ? 'none' : 'block'
 }
