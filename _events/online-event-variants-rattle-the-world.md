@@ -20,7 +20,7 @@ documents: []
 published: false
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/crUnUtp6ML8]( "https://www.youtube.com/embed/crUnUtp6ML8")"></iframe></div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/crUnUtp6ML8"></iframe></div>
 
 On **Monday, February 1 from 2:00 p.m. - 3:00 p.m. EST,** the [CSIS Commission on Strengthening America’s Health Security](https://healthsecurity.csis.org/) hosted a timely exchange on the swift global emergence of SARS-CoV-2 variants and their impact on both the domestic and global Covid-19 response. Moderated by **Peggy Hamburg**, Former Commissioner of the U.S. Food and Drug Administration, the conversation featured **Rochelle Walensky**, Director of the U.S. Centers for Disease Control and Prevention (CDC); **John Brooks**, Chief Medical Officer of the CDC’s Covid-19 Task Force; **Maria Van Kerkhove**, Covid-19 Technical Lead of the WHO Health Emergencies Programme; **Oliver Morgan**, Director of the WHO Department of Health Emergency Information and Risk Assessment; and **Loyce Pace**, Executive Director of the Global Health Council and member of the Biden-Harris Transition Covid-19 Advisory Group.
 
