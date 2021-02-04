@@ -13,9 +13,9 @@ excerpt: Please join the CSIS Commission on Strengthening America’s Health Sec
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1612449123/health-commission/GettyImages-1207596427_ez8lqh.jpg
 image_caption: ''
-image_credit: ''
+image_credit: JOSEPH PREZIOSO/AFP/Getty Images
 documents: []
 
 ---
