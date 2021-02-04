@@ -17,7 +17,6 @@ image: ''
 image_caption: ''
 image_credit: ''
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/crUnUtp6ML8"></iframe></div>
