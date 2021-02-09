@@ -11,11 +11,10 @@ excerpt: Please join the CSIS Global Health Policy Center on Friday, January 29,
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
-image_caption: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1612903764/health-commission/GettyImages-1205406963_kywxhm.jpg
+image_caption: JUNIOR KANNAH/AFP/Getty Images
 image_credit: ''
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/JQ5sYx_T_F0]( "https://www.youtube.com/embed/JQ5sYx_T_F0")"></iframe></div>
