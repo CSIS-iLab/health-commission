@@ -13,7 +13,7 @@ authors:
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1613071848/health-commission/GettyImages-1211010481_jifpgl.jpg
 image_caption: ''
 image_credit: ''
 pdf: ''
