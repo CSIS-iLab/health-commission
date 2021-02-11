@@ -17,8 +17,8 @@ authors:
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
-image_caption: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1613071877/health-commission/GettyImages-1230521257_ebgn5i.jpg
+image_caption: Octavio Jones/Getty Images
 image_credit: ''
 pdf: ''
 is_commission_related:
