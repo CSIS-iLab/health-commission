@@ -14,7 +14,7 @@ series: ''
 themes:
 - _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1613071848/health-commission/GettyImages-1211010481_jifpgl.jpg
-image_caption: ''
+image_caption: ZINYANGE AUNTONY/AFP/Getty Images
 image_credit: ''
 pdf: ''
 is_commission_related:
