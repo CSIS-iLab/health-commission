@@ -13,11 +13,10 @@ excerpt: Please join the CSIS Commission on Strengthening America’s Health Sec
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1613069968/health-commission/GettyImages-1230847804_qkosvk.jpg
+image_caption: LAKRUWAN WANNIARACHCHI
+image_credit: AFP/Getty Images
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/BOWBtGpqi4o]()"></iframe></div>
