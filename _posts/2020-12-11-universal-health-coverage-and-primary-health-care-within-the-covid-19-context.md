@@ -31,7 +31,7 @@ Nearly a year into the Covid-19 pandemic, as the world marks [International Univ
 
 Within the 2015 UN Sustainable Development Goals, [target 3.8](https://www.un.org/sustainabledevelopment/health/) emphasizes the importance of achieving universal health coverage, including “financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all.” The UHC framework defines essential services as those related to child health, reproductive health, malaria, tuberculosis, HIV, and noncommunicable diseases, as well as mental health. In practice, this translates to a prioritization of preventive services, such as immunizations and regular checkups, and the provision of high-quality care by well-trained personnel to safeguard peoples’ health and protect them from sliding into poverty because of unexpected medical expenses. Countries’ progress toward UHC is tracked through the [Service Coverage Index](https://apps.who.int/iris/bitstream/handle/10665/259817/9789241513555-eng.pdf;jsessionid=29F90743F59B0A200212B47BF7E03DC0?sequence=1), which uses household and other survey data to measure peoples’ access to the set of essential services.
 
-[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/201216_Timeline_Health_Coverage.jpg)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/201216_Timeline_Health_Coverage.jpg)
+[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/201216_Timeline_Health_Coverage.jpg)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/201216_Timeline_Health_Coverage.jpg "Universal Healthcare Coverage Timeline")
 
 **Q2: What is primary health care within the UHC concept?**
 
