@@ -5,7 +5,7 @@ keywords:
 - Public Event
 - Global Health
 - Global Health Policy Center
-title: A Conversation with Dr. Anthony Fauci and Professor Paul Kelly
+title: 'Online Event: A Conversation with Dr. Anthony Fauci and Professor Paul Kelly'
 date: 2021-03-09 20:00:00 +0000
 excerpt: The CSIS Commission on Strengthening America’s Health Security and the Indo-Pacific
   Centre for Health Security co-hosted a discussion with Dr. Anthony Fauci, Chief
