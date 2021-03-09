@@ -7,7 +7,7 @@ featured_post_primary: final-report.md
 featured_post_secondary:
 - _posts/2021-01-22-new-variants-rattle-the-world.md
 - _posts/2020-12-21-co-chair-statement-on-the-december-2020-commission-meeting.md
-featured_events: _events/online-event-a-global-approach-to-covid-19-vaccination.md
+featured_events: _events/a-conversation-with-dr.anthony-fauci-and-professor-paul-kelly.md
 
 ---
 The Covid-19 pandemic has exposed deep and diverse weaknesses in U.S. global health security policy and infrastructure and has triggered massive health, economic, and social crises. The <em>CSIS Commission on Strengthening America’s Health Security</em> aims to chart a bold vision for U.S. global health security that addresses the acute vulnerabilities exploited by the coronavirus, at home and abroad. The Commission will drive discourse and develop concrete, pragmatic action agendas for U.S. health security policy in the Covid-19 era.
