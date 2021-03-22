@@ -17,9 +17,9 @@ authors:
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1616430779/health-commission/GettyImages-1271526362_vupfht.jpg
+image_caption: 'Alissa Everett/Getty Images '
+image_credit: 'Alissa Everett/Getty Images '
 pdf: ''
 is_commission_related:
   description: ''
