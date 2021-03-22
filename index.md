@@ -5,8 +5,8 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: final-report.md
 featured_post_secondary:
+- _posts/2021-03-22-wash-as-a-critical-component-of-primary-health-care-and-health-security.md
 - _posts/2021-03-19-making-gender-a-primary-focus-of-global-health-security.md
-- _posts/2021-01-22-new-variants-rattle-the-world.md
 featured_events: _events/a-conversation-with-dr.anthony-fauci-and-professor-paul-kelly.md
 
 ---
