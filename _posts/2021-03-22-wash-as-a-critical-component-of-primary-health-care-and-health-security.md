@@ -17,9 +17,9 @@ authors:
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1616439777/health-commission/GettyImages-1209293322_d0ejin.jpg
+image_caption: PATRICK MEINHARDT
+image_credit: 'AFP/Getty Images '
 pdf: ''
 is_commission_related:
   description: ''
