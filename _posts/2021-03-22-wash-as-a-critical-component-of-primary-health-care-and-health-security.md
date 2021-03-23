@@ -5,12 +5,12 @@ keywords:
 - Health and Security
 title: WASH as a Critical Component of Primary Health Care and Health Security
 content_type: commentary
-excerpt: More than three decades have passed since the [Declaration of Alma-Ata](https://www.who.int/docs/default-source/documents/almaata-declaration-en.pdf?sfvrsn=7b3c2167_2)
-  proclaimed primary health care (PHC), along with water, sanitation, and hygiene
-  (WASH), to be basic inputs for public health. More recently, the UN Sustainable
-  Development Goals (SDGs) highlighted [universal health coverage](https://sdgs.un.org/goals/goal3)
-  and access to safely managed [water and sanitation](https://sdgs.un.org/goals/goal6)
-  services as key pillars of human security.
+excerpt: More than three decades have passed since the Declaration of Alma-Ata proclaimed
+  primary health care (PHC), along with water, sanitation, and hygiene (WASH), to
+  be basic inputs for public health. The outbreaks of Ebola virus in West Africa and
+  in the Democratic Republic of Congo reinforced the important role WASH services
+  play in protecting clinical staff from infection and preventing community transmission
+  of the virus.
 date: 2021-03-22T04:00:00.000+00:00
 authors:
 - _authors/Katherine-Bliss.md
