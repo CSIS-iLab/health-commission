@@ -11,7 +11,7 @@ excerpt: More than three decades have passed since the [Declaration of Alma-Ata]
   Development Goals (SDGs) highlighted [universal health coverage](https://sdgs.un.org/goals/goal3)
   and access to safely managed [water and sanitation](https://sdgs.un.org/goals/goal6)
   services as key pillars of human security.
-date: 2021-03-22 04:00:00 +0000
+date: 2021-03-22T04:00:00.000+00:00
 authors:
 - _authors/Katherine-Bliss.md
 series: ''
@@ -49,7 +49,7 @@ There is evidence that tighter budgets are already leading to deferred maintenan
 
 In 2017, more than 80 percent of countries which shared WASH funding data with the United Nations reported having [insufficient](https://www.who.int/water_sanitation_health/publications/glaas-report-2017/en/) funds to meet their national WASH targets. While official development assistance (ODA) for WASH activities rose slightly from 2017 to 2018, reaching $9.4 billion, it was still a fraction of the [$114 billion a year](http://documents1.worldbank.org/curated/en/847191468000296045/pdf/103172-PUB-Box394556B-PUBLIC-EPI-K8632-ADD-SERIES.pdf) needed to finance new infrastructure for meeting the SDGs for safely managed water and sanitation services. In 2020, 20 developing countries and territories showed a [funding gap](https://unstats.un.org/sdgs/report/2020/The-Sustainable-Development-Goals-Report-2020.pdf) of 61 percent between identified needs to achieve national WASH targets and available funding.
 
-[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210322_Bliss_Impact_Covid.jpg?MilQPJGNSCX_7bxlwETGriYeXojO0oes)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210322_Bliss_Impact_Covid.jpg?MilQPJGNSCX_7bxlwETGriYeXojO0oes)
+[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210322_Bliss_Impact_Covid.jpg?MilQPJGNSCX_7bxlwETGriYeXojO0oes)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210322_Bliss_Impact_Covid.jpg?MilQPJGNSCX_7bxlwETGriYeXojO0oes "Impact of Covid-19 on Poverty in Regions with Limited Access to Clean Drinking Water")
 
 International donors and multilateral financial institutions have [promised](https://www.imf.org/en/Topics/imf-and-covid19/COVID-Lending-Tracker) and released hundreds of billions of dollars to governments for debt service relief and to cope with the fiscal shocks imposed by the pandemic. While donor commitments for health-related programs are not insignificant, the bulk of funds are [earmarked](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00029-5/fulltext) for vaccine production and distribution ($8.5 billion). Strengthening health systems, especially primary care services, has not been a priority, and projects focused on health systems have received approximately 6 percent of the total commitments ($560 million). Water and sanitation, where they are mentioned, are low on the list of priorities. According to the Devex Funding the Response to Covid-19 Dashboard, a mere 0.03 percent of bilateral and multi-region funding has been allocated to strengthening existing WASH programs or implementing new ones.
 
