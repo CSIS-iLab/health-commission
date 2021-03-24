@@ -11,13 +11,15 @@ excerpt: How has the military coped with ensuring its own readiness during the p
   health emergency—natural, accidental, or intentional—but they will have global applications
   as well.
 date: 2021-03-23 04:00:00 +0000
-authors: []
+authors:
+- _authors/mark-cancian.md
+- _authors/adam-saxton.md
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1616606802/health-commission/200406-Z-IB607-1018_loxu9w.jpg
+image_caption: Army Spc. Michael Schwenk, New Jersey Army National Guard
+image_credit: Army Spc. Michael Schwenk, New Jersey Army National Guard
 pdf: https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/210323_Cancian_What_Military.pdf?AHA1o8n2Yo5ZqnLjAtDfNQei3YJQr0rs
 is_commission_related:
   description: ''
