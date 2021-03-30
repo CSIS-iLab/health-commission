@@ -1,11 +1,13 @@
 <section class="final-report__members">
   <h2>Commission Members</h2>
   {% assign groups = site.data.members | where: "signatory", "true" %}
+
   {% for group in groups %}
   <div class="group {{ group.type }}">
     <h3 class="group__title" id="{{ group.type }}">{{ group.title }}</h3>
 
-    {% for member in site.data[group.type] %}
+    {% assign members = site.data[group.type] | where_exp: "item", "item.commission contains '2019'" %}
+    {% for member in members %}
     <div class="group__member">
       {% if member.signature.size > 0 %}
       <img src="{{ member.signature }}" alt="" title="The signature of {{ member['Display Name'] }}" />

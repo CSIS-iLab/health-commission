@@ -11,7 +11,8 @@
     <h3 class="group__title" id="{{ group.type }}">{{ group.title }}</h3>
     {% endif %}
 
-    {% for member in site.data[group.type] %}
+    {% assign members = site.data[group.type] | where_exp: "item", "item.commission contains '2020'" %}
+    {% for member in members %}
     <div class="group__member">
       <a class="group__member-anchor" name="{{ member['Last Name'] | append: member['First Name'] | slugify }}"></a>
 
