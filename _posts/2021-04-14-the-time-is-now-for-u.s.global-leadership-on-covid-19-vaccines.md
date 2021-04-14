@@ -19,7 +19,7 @@ themes:
 - _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1618429375/health-commission/210414_COVID_Vaccine_c7iclm.jpg
 image_caption: ''
-image_credit: ''
+image_credit: 'JIM WATSON/AFP via Getty Images '
 pdf: ''
 is_commission_related:
   description: ''
