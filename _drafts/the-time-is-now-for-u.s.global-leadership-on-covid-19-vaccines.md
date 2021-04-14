@@ -106,22 +106,18 @@ The U.S. strategy can rest on four clear, concrete, quantifiable goals:
 
 1. **Bring Order to the Covid-19 Vaccine Marketplace**
 
-* The United States should join with other partners in the establishment of a mechanism that will bring greater predictability, transparency, and investment partnerships to the vaccine marketplace, including creating incentives for technology transfer to increase regional vaccine manufacturing capacity. This effort should increase the visibility of manufacturing and supply chain needs and forecasts among manufacturers, suppliers, and purchasers; align regulations that improve the free flow of materials and expertise across borders; and define concrete actions and norms to create a more transparent and accountable vaccine marketplace.  
-    
+* The United States should join with other partners in the establishment of a mechanism that will bring greater predictability, transparency, and investment partnerships to the vaccine marketplace, including creating incentives for technology transfer to increase regional vaccine manufacturing capacity. This effort should increase the visibility of manufacturing and supply chain needs and forecasts among manufacturers, suppliers, and purchasers; align regulations that improve the free flow of materials and expertise across borders; and define concrete actions and norms to create a more transparent and accountable vaccine marketplace.
+
   This could take the form of an ad hoc coalition of the willing, or an international task force under the auspices of the G-20. It would need to bring in major vaccine-producing countries as well as vaccine developers. To spearhead this effort, the appointment of a respected former statesperson—or multiple—would potentially add substantial credibility and gravitas. They would also need the support of a cadre of seasoned global health experts.
 
-2. **Expand Global Covid-19 Vaccine Supply**
+1. **Expand Global Covid-19 Vaccine Supply**
 
-* The United States should ensure the success of COVAX in vaccinating 20 percent or more of the populations of its 92 AMC eligible lower- and lower-middle-income partner countries and can support efforts to increase that percentage as doses become available. Gavi, the Vaccine Alliance, will be launching an investment case for COVAX funding on April 15, co-hosted by Secretary Blinken, and the United States has further committed to supporting a June 2021 meeting intended to mobilize much-needed financing for COVAX.  
-    
+* The United States should ensure the success of COVAX in vaccinating 20 percent or more of the populations of its 92 AMC eligible lower- and lower-middle-income partner countries and can support efforts to increase that percentage as doses become available. Gavi, the Vaccine Alliance, will be launching an investment case for COVAX funding on April 15, co-hosted by Secretary Blinken, and the United States has further committed to supporting a June 2021 meeting intended to mobilize much-needed financing for COVAX.
+
   U.S. influence will be considerable in determining the allocation of its $4 billion contribution to Gavi (some of which will go toward non-vaccine purchases, as detailed below). The United States will potentially also have valuable contributions to make through the sharing of doses, provision of technical expertise, assistance in unwinding logistical and supply chain logjams, and participation in early planning for long-term financing.
+* The United States should support efforts to expand Covid-19 vaccine manufacturing capacity in key countries with existing manufacturing and transport infrastructure, regional influence and reach, and demonstrated adherence to regulatory norms. This effort should build manufacturing for all safe and effective vaccine technologies, including mRNA, viral vector, and protein-based vaccines. The mRNA vaccine technology, including the Moderna and Pfizer-BioNTech vaccines, have substantial advantages, including faster production scale-up, greater ease and speed of adjustment to manage SARS-CoV-2 variants and future disease threats, and less vulnerability to production delay. The Johnson & Johnson vaccine, a single-dose adenovirus vaccine that can be stored in standard refrigerators, may be especially important in international settings where there is no ultra-cold chain.
 
-
-* The United States should support efforts to expand Covid-19 vaccine manufacturing capacity in key countries with existing manufacturing and transport infrastructure, regional influence and reach, and demonstrated adherence to regulatory norms. This effort should build manufacturing for all safe and effective vaccine technologies, including mRNA, viral vector, and protein-based vaccines. The mRNA vaccine technology, including the Moderna and Pfizer-BioNTech vaccines, have substantial advantages, including faster production scale-up, greater ease and speed of adjustment to manage SARS-CoV-2 variants and future disease threats, and less vulnerability to production delay. The Johnson & Johnson vaccine, a single-dose adenovirus vaccine that can be stored in standard refrigerators, may be especially important in international settings where there is no ultra-cold chain.  
-    
   The United States should partner with industry to ensure the free flow of vaccine manufacturing components, facilitate voluntary licensing and technology transfers, and implement fair pricing models to ensure affordable access in low- and middle-income countries. This effort should be part of a longer-term strategy to build medical countermeasure capacity, vaccine manufacturing capabilities, and ownership outside of Europe and North America in an effort to strengthen global health security and combat inequity.
-
-
 * The president should announce, as soon as possible, that the United States will be moving ahead with vaccine sharing and creating incentives for technology transfer to increase regional manufacturing capacity as central elements of its enlarged diplomatic engagement. The United States should begin to share doses soon thereafter, early in the summer, at an initial level of 10 percent of surplus stocks, growing incrementally to 50 percent of surplus stocks by the end of 2021. The effort can include substantial contributions from the AstraZeneca stockpile, building off of the recent precedent of the U.S. loan to Mexico and Canada. In the meantime, plans should be laid out in advance, now, for production and sharing levels for 2022. The U.S. dose donation strategy should be reviewed and adjusted as more information about long-term immunity conferred by vaccines is made available.
 
 The sharing of vaccine doses will likely be a mix of contributions to COVAX and U.S.-branded contributions to key regional bodies and partner countries with significant trade, transportation, and diaspora links to the United States. It will be important to refine the mix of criteria—disease burden, humanitarian stakes, geopolitical alliance, and economic stabilization—that will ultimately inform the distribution process.
@@ -132,27 +128,17 @@ The United States can also take a leadership position by supporting internationa
 
 * The United States should extend further support for CEPI, which has taken a global leadership role in the development of variant vaccines, as well as sorting out raw material shortages in manufacturing. CEPI could also support technology transfer efforts. The American Rescue Plan set aside $300 million for CEPI. CEPI is further seeking a U.S. contribution of $200 million during its next five-year funding cycle.
 
-3. **Build Local Covid-19 Vaccine Distribution Capacity**
+1. **Build Local Covid-19 Vaccine Distribution Capacity**
 
 * The United States should strengthen regional bodies—the Africa Centres for Disease Control and Prevention (ACDC), ASEAN, and the Pan American Health Organization (PAHO)—in their efforts to assist member states in achieving epidemic control. This can take several forms, such as sharing of doses, financing, and technical expertise, including secondment of U.S. personnel and strengthening and harmonizing regulatory processes.
-
-
 * The United States should launch a concerted effort to strengthen key U.S. bilateral partner countries in achieving readiness in the equitable distribution, administration, and tracking of vaccines and in the establishment of integrated disease surveillance systems, including genomic sequencing systems. It will be critically important in this regard to leverage U.S. programmatic capacities, such as PEPFAR—especially their existing platforms and networks of health workers—to distribute vaccines and engage hard-to-reach populations.
-
-
 * The United States should work with key multilateral partners, including COVAX, the UN High Commissioner for Refugees (UNHCR), UNICEF, and international NGOs, to ensure that vaccines reach the most vulnerable populations, including internally displaced populations, refugees, migrants, and detainees. COVAX has committed to reserving [5 percent](https://www.gavi.org/vaccineswork/covax-explained) of its stockpile to respond to acute outbreaks and support humanitarian organizations, but more concerted efforts will be needed to ensure that these groups are not left behind.
-
-
 * The United States should work with multilateral efforts to create fiscal space in lower- and middle-income countries to invest in their health infrastructure, which will be essential for responding to the current crisis as well as making investments in future pandemic preparedness. The United States should also strengthen and bolster the World Bank’s technical assistance capacity for the dozens of countries that are leveraging World Bank loans and grants to bolster their frontline vaccine distribution capacities. At the same time, significant attention must be given to minimizing the unintended consequences of Covid-19 vaccine distribution on weakening essential health service delivery.
 
-4. **Strengthen Global Demand for Covid-19 Vaccines**
+1. **Strengthen Global Demand for Covid-19 Vaccines**
 
 * The United States, working with existing multilateral partners, including Gavi, the WHO, UNICEF, and bilateral partners, should reinforce global efforts to boost demand for and confidence in immunizations, including Covid-19 vaccines.
-
-
 * The United States can press that there be a specific spending stream under its foreign assistance investments dedicated to increasing vaccine confidence. U.S. diplomats can emphasize the importance of equitable vaccine distribution in speeches and written communications and can support U.S. agency efforts at the country level to strengthen vaccine access and confidence in Covid-19 vaccines. The [Vaccination Demand Hub](https://www.demandhub.org/) is led by a coalition of partners, including the CDC, that gathers evidence and builds tools to promote demand for immunizations internationally. The United States can increase support for this coalition’s work that seeks to identify the best ways to improve communities’ confidence about vaccines.
-
-
 * The United States, recognizing that Covid-19 vaccine misinformation and disinformation circulate internationally and undermine vaccine confidence, can work with social media companies and digital platforms to support domestic and international efforts to reduce the amplification of misinformation and better connect online users with compelling and accurate public health content.
 
 ### **The President Must Engage Americans to Seize This Moment**
@@ -197,13 +183,12 @@ For complete bios, please visit [https://healthsecurity.csis.org/members](https:
 
 **Jimmy Kolker** is a non-resident senior associate with the CSIS Global Health Policy Center and retired in January 2017 as assistant secretary for global affairs at the U.S. Department of Health and Human Services (HHS).
 
-**Anna McCaffrey** is a fellow with the CSIS Global Health Policy Center.  
-  
+**Anna McCaffrey** is a fellow with the CSIS Global Health Policy Center.
+
 **Michelle McMurry-Heath** is the president and chief executive officer of the Biotechnology Innovation Organization (BIO).
 
 **Stephen Morrison**is senior vice president at CSIS and is director of its Global Health Policy Center, and previously served in the Clinton administration, as committee staff in the U.S. House of Representatives.
 
-  
 **Carolyn Reynolds** is co-founder of the Pandemic Action Network and is a senior associate with the CSIS Global Health Policy Center.
 
 **Stephanie Segal** is a senior fellow with the CSIS Economics Program, where her research interests include economic competitiveness, U.S.-China economic relations, and the role of international financial institutions in the global economy.
