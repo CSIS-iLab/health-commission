@@ -104,13 +104,13 @@ To carry forward this vision of U.S. global leadership, it will also be essentia
 
 The U.S. strategy can rest on four clear, concrete, quantifiable goals:
 
-1. **Bring Order to the Covid-19 Vaccine Marketplace**
+**1. Bring Order to the Covid-19 Vaccine Marketplace** 
 
 * The United States should join with other partners in the establishment of a mechanism that will bring greater predictability, transparency, and investment partnerships to the vaccine marketplace, including creating incentives for technology transfer to increase regional vaccine manufacturing capacity. This effort should increase the visibility of manufacturing and supply chain needs and forecasts among manufacturers, suppliers, and purchasers; align regulations that improve the free flow of materials and expertise across borders; and define concrete actions and norms to create a more transparent and accountable vaccine marketplace.
 
   This could take the form of an ad hoc coalition of the willing, or an international task force under the auspices of the G-20. It would need to bring in major vaccine-producing countries as well as vaccine developers. To spearhead this effort, the appointment of a respected former statesperson—or multiple—would potentially add substantial credibility and gravitas. They would also need the support of a cadre of seasoned global health experts.
 
-1. **Expand Global Covid-19 Vaccine Supply**
+**2. Expand Global Covid-19 Vaccine Supply**
 
 * The United States should ensure the success of COVAX in vaccinating 20 percent or more of the populations of its 92 AMC eligible lower- and lower-middle-income partner countries and can support efforts to increase that percentage as doses become available. Gavi, the Vaccine Alliance, will be launching an investment case for COVAX funding on April 15, co-hosted by Secretary Blinken, and the United States has further committed to supporting a June 2021 meeting intended to mobilize much-needed financing for COVAX.
 
@@ -128,14 +128,14 @@ The United States can also take a leadership position by supporting internationa
 
 * The United States should extend further support for CEPI, which has taken a global leadership role in the development of variant vaccines, as well as sorting out raw material shortages in manufacturing. CEPI could also support technology transfer efforts. The American Rescue Plan set aside $300 million for CEPI. CEPI is further seeking a U.S. contribution of $200 million during its next five-year funding cycle.
 
-1. **Build Local Covid-19 Vaccine Distribution Capacity**
+**3. Build Local Covid-19 Vaccine Distribution Capacity**
 
 * The United States should strengthen regional bodies—the Africa Centres for Disease Control and Prevention (ACDC), ASEAN, and the Pan American Health Organization (PAHO)—in their efforts to assist member states in achieving epidemic control. This can take several forms, such as sharing of doses, financing, and technical expertise, including secondment of U.S. personnel and strengthening and harmonizing regulatory processes.
 * The United States should launch a concerted effort to strengthen key U.S. bilateral partner countries in achieving readiness in the equitable distribution, administration, and tracking of vaccines and in the establishment of integrated disease surveillance systems, including genomic sequencing systems. It will be critically important in this regard to leverage U.S. programmatic capacities, such as PEPFAR—especially their existing platforms and networks of health workers—to distribute vaccines and engage hard-to-reach populations.
 * The United States should work with key multilateral partners, including COVAX, the UN High Commissioner for Refugees (UNHCR), UNICEF, and international NGOs, to ensure that vaccines reach the most vulnerable populations, including internally displaced populations, refugees, migrants, and detainees. COVAX has committed to reserving [5 percent](https://www.gavi.org/vaccineswork/covax-explained) of its stockpile to respond to acute outbreaks and support humanitarian organizations, but more concerted efforts will be needed to ensure that these groups are not left behind.
 * The United States should work with multilateral efforts to create fiscal space in lower- and middle-income countries to invest in their health infrastructure, which will be essential for responding to the current crisis as well as making investments in future pandemic preparedness. The United States should also strengthen and bolster the World Bank’s technical assistance capacity for the dozens of countries that are leveraging World Bank loans and grants to bolster their frontline vaccine distribution capacities. At the same time, significant attention must be given to minimizing the unintended consequences of Covid-19 vaccine distribution on weakening essential health service delivery.
 
-1. **Strengthen Global Demand for Covid-19 Vaccines**
+**4. Strengthen Global Demand for Covid-19 Vaccines**
 
 * The United States, working with existing multilateral partners, including Gavi, the WHO, UNICEF, and bilateral partners, should reinforce global efforts to boost demand for and confidence in immunizations, including Covid-19 vaccines.
 * The United States can press that there be a specific spending stream under its foreign assistance investments dedicated to increasing vaccine confidence. U.S. diplomats can emphasize the importance of equitable vaccine distribution in speeches and written communications and can support U.S. agency efforts at the country level to strengthen vaccine access and confidence in Covid-19 vaccines. The [Vaccination Demand Hub](https://www.demandhub.org/) is led by a coalition of partners, including the CDC, that gathers evidence and builds tools to promote demand for immunizations internationally. The United States can increase support for this coalition’s work that seeks to identify the best ways to improve communities’ confidence about vaccines.
