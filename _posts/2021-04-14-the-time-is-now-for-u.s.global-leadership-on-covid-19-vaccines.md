@@ -154,7 +154,7 @@ A presidential speech in the spring of 2021 can make the case directly to the Am
 
 For complete bios, please visit [https://healthsecurity.csis.org/members](https://healthsecurity.csis.org/members "https://healthsecurity.csis.org/members").
 
-**Congressman Ami Bera** represents California’s 7th Congressional District. Rep. Bera serves on the House Committee on Foreign Affairs, including as chair of the Subcommittee on Oversight and Investigations, and is the vice chair of the House Committee on Science, Space, and Technology.
+**Congressman Ami Bera**, M.D., represents California’s 7th Congressional District. Rep. Bera serves on the House Committee on Foreign Affairs, including as chair of the Subcommittee on Asia, the Pacific, Central Asia, and Nonproliferation, and is the vice chair of the House Committee on Science, Space, and Technology.
 
 **Asaf Bitton**, M.D., M.P.H., is the executive director of Ariadne Labs, a joint center for health systems innovation at Brigham and Women's Hospital and the Harvard T.H. Chan School of Public Health.
 
