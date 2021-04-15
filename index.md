@@ -6,7 +6,6 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
 featured_post_primary: final-report.md
 featured_post_secondary:
 - _posts/2021-04-14-the-time-is-now-for-u.s.global-leadership-on-covid-19-vaccines.md
-- _posts/navigating-collapse-in-lebanon-s-covid-19-response.md
 featured_events: _events/a-conversation-with-dr.anthony-fauci-and-professor-paul-kelly.md
 
 ---
