@@ -20,7 +20,7 @@ themes:
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1618429375/health-commission/210414_COVID_Vaccine_c7iclm.jpg
 image_caption: ''
 image_credit: 'JIM WATSON/AFP via Getty Images '
-pdf: ''
+pdf: https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/210415_Morrison_Global_Leadership.pdf?Dj0mNVCxCoEVYegR5ZgAHEjjAhXC4jki
 is_commission_related:
   description: ''
   related_event: ''
