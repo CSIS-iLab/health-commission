@@ -12,6 +12,7 @@ excerpt: Lebanon faces cascading crises. The United States should expand its tec
 date: 2021-04-14 04:00:00 +0000
 authors:
 - _authors/anna-carroll.md
+- _authors/will-todman.md
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
