@@ -16,8 +16,8 @@ authors:
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
-image: ''
-image_caption: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1618522342/health-commission/GettyImages-1211131451_bwvvt3.jpg
+image_caption: 'IBRAHIM CHALHOUB | AFP via Getty Images '
 image_credit: ''
 pdf: ''
 is_commission_related:
