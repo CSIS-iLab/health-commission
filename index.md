@@ -7,7 +7,7 @@ commission_desc:
 featured_post_primary: final-report.md
 featured_post_secondary:
   - _posts/2021-04-14-the-time-is-now-for-u.s.global-leadership-on-covid-19-vaccines.md
-  - _posts/2014-04-15-navigating-collapse-in-lebanon-s-covid-19-response.md
+  - _posts/2021-04-14-navigating-collapse-in-lebanon-s-covid-19-response.md
 featured_events: _events/a-conversation-with-dr.anthony-fauci-and-professor-paul-kelly.md
 ---
 
