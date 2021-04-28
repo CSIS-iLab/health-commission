@@ -8,12 +8,11 @@ title: The COVAX Advance Market Commitment ‘One World Protected’ Investment 
   Launch
 content_type: commentary
 excerpt: On April 15, Gavi, the Vaccine Alliance, and the U.S. government co-hosted
-  a high-level [meeting](https://www.gavi.org/news/media-room/global-leaders-rally-accelerate-access-covid-19-vaccines-lower-income-countries)
-  centered around the theme of “One World Protected” to launch a fundraising campaign
-  for the COVAX Advance Market Commitment (AMC). Securing the funds necessary to enable
-  a rapid and equitable distribution of vaccines to lower- and lower-middle income
-  countries is essential to protecting global health security and preventing further
-  social and economic disruptions.
+  a high-level meeting centered around the theme of “One World Protected” to launch
+  a fundraising campaign for the COVAX Advance Market Commitment (AMC). Securing the
+  funds necessary to enable a rapid and equitable distribution of vaccines to lower-
+  and lower-middle income countries is essential to protecting global health security
+  and preventing further social and economic disruptions.
 date: 2021-04-27 04:00:00 +0000
 authors:
 - _authors/Katherine-Bliss.md
@@ -42,7 +41,7 @@ Given surging Covid-19 caseloads in several world regions; the proliferation of 
 
 **A2:** Prior to the April 15 event, COVAX had secured approximately $6 billion in funding from governments, foundations, and the private sector. Its goal has been to provide 1.8 billion people, or 20 percent of those living in the AMC-eligible countries, with Covid-19 vaccines by the end of 2021. The new campaign seeks an additional $2 billion in donor government, foundation, and private sector support, along with $1 billion from multilateral development banks and AMC-eligible country contributions, to reach an even greater number—nearly 30 percent of the population in AMC-eligible countries—over the next nine months. While commitments totaling nearly $400 million were [announced](https://www.gavi.org/news/media-room/global-leaders-rally-accelerate-access-covid-19-vaccines-lower-income-countries) at the April 15 event, Gavi is hoping a greater number of governments will announce contributions at a pledging conference in June, to be hosted by Japan.
 
-[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210427_Bliss_Commitments_COVAXAMC.jpg?BivUDQyLEfgpUIoxGiz4BptlYE9FyL1X)](Commitments to the COVAX AMC "Commitments to the COVAX AMC")
+![Commitments to the COVAX AMC](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210427_Bliss_Commitments_COVAXAMC.jpg?BivUDQyLEfgpUIoxGiz4BptlYE9FyL1X "Commitments to the COVAX AMC")
 
 **Q3: What have COVAX and the COVAX AMC achieved?**
 
@@ -64,7 +63,7 @@ Even when the COVAX-procured vaccines are available to countries, some governmen
 
 At the same time, some are hesitant about being injected with vaccines, and the recent press coverage regarding the suspensions of AstraZeneca and Johnson & Johnson vaccine distribution in Europe and the United States has fueled [concerns](https://www.theguardian.com/global-development/2021/apr/16/malawi-to-bin-16000-astrazeneca-doses-amid-fears-of-rise-in-vaccine-hesitancy) among populations in lower- and lower-middle income countries about the safety of those products. Gavi, UNICEF, and the WHO all support [efforts](https://www.demandhub.org/) to provide people with accurate information about the Covid-19 vaccines and to help health workers and trusted community leaders both answer peoples’ questions and address the misinformation, [rumors](https://www.msn.com/en-us/money/other/here-s-your-covid-vaccine-rumor-roundup/ar-BB1c9jm6), and conspiracy theories that may limit peoples’ willingness to be immunized once vaccines are available to them.
 
-[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210427_Bliss_Building_COVAXAMC.jpg?wHRzvHw2.Jiwpse4wBUh5AKpko7FbGcA)](Building thee COVAX AMC "Building the COVAX AMC")
+![Building the COVAX AMC](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210427_Bliss_Building_COVAXAMC.jpg?wHRzvHw2.Jiwpse4wBUh5AKpko7FbGcA "Building the COVAX AMC")
 
 **Q5: How is the United States supporting COVAX?**
 
