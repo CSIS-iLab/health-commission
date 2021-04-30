@@ -21,7 +21,7 @@ image_credit: Getty Images
 documents: []
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="[https://www.youtube.com/embed/SoW_dky0ANA](https://www.youtube.com/embed/SoW_dky0ANA "https://www.youtube.com/embed/SoW_dky0ANA")" src=""></iframe></div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/SoW_dky0ANA](https://www.youtube.com/embed/SoW_dky0ANA "https://www.youtube.com/embed/SoW_dky0ANA")"></iframe></div>
 
 On **Thursday, April 29 from 2:00 – 3:30 p.m. EDT**, the [CSIS Commission on Strengthening America’s Health Security](https://healthsecurity.csis.org/) and CSIS Economics Program co-hosted a panel discussion on the major findings of a new Commission report: _Creating Fiscal Space in the Covid-19 Era_. This event featured keynote remarks followed by a distinguished panel of experts, who discussed innovative, concrete options for generating financial resources for pandemic preparedness and response in low- and middle-income countries (LMICs). The Covid-19 pandemic is a call to action to rethink the roles of official and private sectors in financing pandemic preparedness and response in LMICs with fragile public health systems. The discussion will explore the potential for new approaches to create space for essential investments, leveraging international finance institutions, addressing debt sustainability, and mobilizing new resources to sustain investment in global public health.
 
