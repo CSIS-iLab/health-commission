@@ -6,13 +6,9 @@ keywords:
 title: Creating Fiscal Space in the Covid-19 Era
 content_type: report
 excerpt: _Global health challenges threaten the United States’ health and economic
-  security, a reality made painfully clear over the past 14 months. Many low- and
-  middle-income countries lack adequate domestic resources to invest in public health
-  and, at the same time, face mounting debt burdens that impede their ability to raise
-  new funding for essential investments. The Covid-19 pandemic is a call to action
-  to rethink how the United States prioritizes pandemic preparedness and investments
-  in public health. U.S. leadership will be essential to mobilizing investment from
-  the official sector and private investors._
+  security, a reality made painfully clear over the past 14 months. U.S. leadership
+  will be essential to mobilizing investment from the official sector and private
+  investors._
 date: 2021-04-29 04:00:00 +0000
 authors:
 - _authors/stephanie-segal.md
