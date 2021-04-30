@@ -7,8 +7,7 @@ title: Creating Fiscal Space in the Covid-19 Era
 content_type: report
 excerpt: _Global health challenges threaten the United States’ health and economic
   security, a reality made painfully clear over the past 14 months. U.S. leadership
-  will be essential to mobilizing investment from the official sector and private
-  investors._
+  is essential to mobilizing investment from the official sector and private investors._
 date: 2021-04-29 04:00:00 +0000
 authors:
 - _authors/stephanie-segal.md
