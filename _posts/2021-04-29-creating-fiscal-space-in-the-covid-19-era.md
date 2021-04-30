@@ -15,9 +15,9 @@ authors:
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
-image_caption: ''
-image_credit: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1619793801/health-commission/GettyImages-1208945372_j3hhgn.jpg
+image_caption: Getty Images
+image_credit: Getty Images
 pdf: https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/210429_Segal_Fiscal_Space_Covid-19.pdf?72BDbLYyZPzGqPY5LLG1_csgllrmSX1J
 is_commission_related:
   description: ''
