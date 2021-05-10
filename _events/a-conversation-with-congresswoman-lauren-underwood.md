@@ -18,7 +18,7 @@ image_credit: Getty Images
 documents: []
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/3ExmZusN1Es](https://www.youtube.com/embed/3ExmZusN1Es "https://www.youtube.com/embed/3ExmZusN1Es")"></iframe></div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/3ExmZusN1Es]()"></iframe></div>
 
 On **Friday, May 7 from 10:00 a.m. – 11:00 a.m. EDT,** the [CSIS Commission on Strengthening America’s Health Security](https://healthsecurity.csis.org/) hosted a timely conversation with **Congresswoman Lauren Underwood** (D-IL-14). The _American Rescue Plan Act_ has ushered in a new phase in the national Covid-19 response. A majority of the adult population in the United States has received at least one dose of the vaccine, resulting in declining daily death counts. Control of the virus, however, remains elusive and many communities continue to experience high caseloads. Abroad, the United States faces a vaccine marketplace in disarray. Low- and middle-income countries struggle to secure doses and remain susceptible to uncontrolled transmission. A rapid, equitable and global recovery is at risk.
 
