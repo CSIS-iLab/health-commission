@@ -13,7 +13,7 @@ excerpt: Please join the CSIS Commission on Strengthening America’s Health Sec
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1623249037/health-commission/210518_Bliss_Building_Resilience_ykfl1g.jpg
 image_caption: Getty Images
 image_credit: ''
 documents: []
