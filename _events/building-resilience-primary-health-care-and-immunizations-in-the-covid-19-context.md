@@ -17,9 +17,10 @@ image: ''
 image_caption: Getty Images
 image_credit: ''
 documents: []
-published: false
 
 ---
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/T2Bsniy3DcY]()"></iframe></div>
+
 The Covid-19 pandemic has disrupted the provision of essential health services worldwide, including routine immunizations. According to the [Institute for Health Metrics and Evaluation](http://www.healthdata.org/), in 2020, 25 years of progress in increasing immunization coverage worldwide was wiped out in 25 weeks, leading to the risk of resurgence of vaccine-preventable diseases and threatening progress on other hard-won global health gains. Re-igniting progress on immunization coverage will require not just access to vaccines but also strong primary health care systems to efficiently deliver those vaccines to the public. Strong primary health care systems are also critical for extending other services to hard-to-reach populations, for advancing progress towards universal health coverage, and for promoting health security.
 
 **On May 28, 2021**, the CSIS Commission on Strengthening America’s Health Security hosted the first in a series of conversations about the role of strong primary health care services in supporting routine immunizations and building resilience in the face of global health threats.
