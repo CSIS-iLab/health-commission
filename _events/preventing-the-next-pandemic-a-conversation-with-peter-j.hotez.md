@@ -11,7 +11,7 @@ excerpt: Please join the CSIS Commission on Strengthening America’s Health Sec
 series: ''
 themes:
 - _themes/building-a-new-order.md
-image: ''
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1623249051/health-commission/210504_vaccine_qhlryw.jpg
 image_caption: Getty Images
 image_credit: ''
 documents: []
