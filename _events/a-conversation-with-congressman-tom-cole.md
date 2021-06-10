@@ -17,6 +17,7 @@ image_credit: ''
 documents: []
 
 ---
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Ae4BNim15eA"></iframe> </div>
 
 **On June 9, 2021,** the [CSIS Commission on Strengthening America’s Health Security](https://healthsecurity.csis.org/) hosted a conversation with **Congressman Tom Cole** (R-OK-04), Member of the CSIS Commission on Strengthening America’s Health Security, Ranking Member of the Appropriations Subcommittee on Labor, Health and Human Services, Education and Related Agencies, and Member of the Appropriations Defense Subcommittee. **_J. Stephen Morrison_**_,_ Senior Vice President and Director of the CSIS Global Health Policy Center, joined with the Congressman in a discussion of timely health-security issues:
 
