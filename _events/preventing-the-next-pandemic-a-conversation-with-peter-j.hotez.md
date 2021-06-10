@@ -17,7 +17,7 @@ image_credit: ''
 documents: []
 
 ---
-<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="[https://www.youtube.com/embed/G9hDxgsZ94Q]()"></iframe></div>
+<div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/G9hDxgsZ94Q"></iframe></div>
 
 The Covid-19 pandemic has laid bare the threat infectious diseases pose to economic growth, social programs, and political stability, as well as global security. Yet prior to the emergence of Covid-19, global health experts had encouraged a [greater focus](https://healthsecurity.csis.org/final-report/) on pandemic preparedness, noting the roles conflict, poverty, urbanization, climate change, and even anti-science sentiments play in undermining the progress made in addressing vaccine-preventable diseases and anticipating the emergence of new ones. The response to the Covid-19 pandemic has been characterized both by heightened nationalism and protectionism, along with unprecedented cooperation on science and vaccine research and development. As global Covid-19 immunization efforts accelerate, and equitable access to vaccines becomes central to global recovery, what opportunities are there to re-energize international diplomatic engagement on global health security and pandemic preparedness?
 
