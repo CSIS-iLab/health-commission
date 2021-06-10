@@ -1,0 +1,8 @@
+---
+title: David M. Rodriguez
+short_title: General (Retired)
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1623332970/health-commission/Rodriguez_Headshot_guy2vk.jpg
+published: false
+
+---
+General (Retired) David M. Rodriguez served over 40 years in the United States Army with his final assignment being the Commander of the United States Africa Command.  A native of West Chester Pennsylvania, he earned his commission from the United States Military Academy at West Point, New York in 1976.  General Rodriguez has commanded at every level to include Commanding General of Army Forces Command, Commander of the International Security Assistance Force - Joint Command in Afghanistan, Commander of the 82nd Airborne Division in Afghanistan, and Commander of the Multi - National Force North West in Iraq. His commands included 4 years in combat at the 2 and 3 star level.  He also served as the Senior Military Advisor to Secretary of Defense Gates as a 3 star.  His education includes a Master of Arts in National Security and Strategic Studies from the United States Naval War College and a Master of Military Art and Science from the United States Army Command and General Staff College.  He is married to the former Virginia E. Flaherty of Red Bank, New Jersey.  They have four children, Amy, Melissa, David and Andrew and eight grandchildren, Eliza, Amelia, Molly, Abe, David, Isla, Jett and Hadley.
