@@ -1,18 +1,5 @@
 [
   {
-    "Last Name": "Horoho",
-    "First Name": "Patrica",
-    "Display Name": "Patrica Horoho",
-    "Role in Commission": "",
-    "Short Title": " 43rd Army Surgeon General",
-    "Title": " 43rd Army Surgeon General",
-    "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1624367492/health-commission/Patty_Horoho_Optum_Headshot_huqz87.jpg",
-    "Has Photo": "TRUE",
-    "Short Bio": "LTG Patricia (Patty) D. Horoho, Retired, is the Chief Executive Officer of OptumServe, the end-to-end federal business of Optum and UnitedHealth Group. Patty is a values-based servant leader whose life’s calling is to improve the U.S. health care system, focused in the areas of health care delivery and health disparities. Patty’s distinguished professional career includes 33 years with the U.S. Army, retiring as a Lieutenant General, the 43rd Army Surgeon General and Commander of the U.S. Army Medical Command.",
-    "Long Bio": "LTG Patricia (Patty) D. Horoho, Retired, is the Chief Executive Officer of OptumServe, the end-to-end federal business of Optum and UnitedHealth Group. Patty is a values-based servant leader whose life’s calling is to improve the U.S. health care system, focused in the areas of health care delivery and health disparities. Patty’s distinguished professional career includes 33 years with the U.S. Army, retiring as a Lieutenant General, the 43rd Army Surgeon General and Commander of the U.S. Army Medical Command.",
-    "signature": ""
-  },
-  {
     "Last Name": "Bera",
     "First Name": "Ami",
     "Display Name": "U.S. Congressman Ami Bera, M.D.",
@@ -291,6 +278,19 @@
       "2019"
     ],
     "image_field": ""
+  },
+  {
+    "Last Name": "Horoho",
+    "First Name": "Patrica",
+    "Display Name": "Patrica Horoho",
+    "Role in Commission": "",
+    "Short Title": " 43rd Army Surgeon General",
+    "Title": " 43rd Army Surgeon General",
+    "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1624367492/health-commission/Patty_Horoho_Optum_Headshot_huqz87.jpg",
+    "Has Photo": "TRUE",
+    "Short Bio": "LTG Patricia (Patty) D. Horoho, Retired, is the Chief Executive Officer of OptumServe, the end-to-end federal business of Optum and UnitedHealth Group. Patty is a values-based servant leader whose life’s calling is to improve the U.S. health care system, focused in the areas of health care delivery and health disparities. Patty’s distinguished professional career includes 33 years with the U.S. Army, retiring as a Lieutenant General, the 43rd Army Surgeon General and Commander of the U.S. Army Medical Command.",
+    "Long Bio": "LTG Patricia (Patty) D. Horoho, Retired, is the Chief Executive Officer of OptumServe, the end-to-end federal business of Optum and UnitedHealth Group. Patty is a values-based servant leader whose life’s calling is to improve the U.S. health care system, focused in the areas of health care delivery and health disparities. Patty’s distinguished professional career includes 33 years with the U.S. Army, retiring as a Lieutenant General, the 43rd Army Surgeon General and Commander of the U.S. Army Medical Command.",
+    "signature": ""
   },
   {
     "Last Name": "Hudson",
