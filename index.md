@@ -5,8 +5,8 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: ''
 featured_post_secondary:
-- _posts/2021-04-14-the-time-is-now-for-u.s.global-leadership-on-covid-19-vaccines.md
-- _posts/2021-04-29-creating-fiscal-space-in-the-covid-19-era.md
+- _posts/co-chair-statement-on-the-june-2021-meeting-of-commissioners.md
+- _posts/time-to-escalate-u.s.leadership-on-covid-19-and-beyond.md
 featured_events: _events/a-conversation-with-congresswoman-lauren-underwood.md
 
 ---
