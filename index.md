@@ -4,7 +4,9 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   together a distinguished and diverse group of high-level opinion leaders who bridge
   security and health.
 featured_post_primary: ''
-featured_post_secondary: []
+featured_post_secondary:
+- _posts/co-chair-statement-on-the-june-2021-meeting-of-commissioners.md
+- _posts/time-to-escalate-u.s.leadership-on-covid-19-and-beyond.md
 featured_events: _events/a-conversation-with-congresswoman-lauren-underwood.md
 
 ---
