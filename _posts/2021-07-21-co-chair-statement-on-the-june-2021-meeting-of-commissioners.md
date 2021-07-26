@@ -37,7 +37,7 @@ Across the world, high-level diplomacy, largely paralyzed in 2020, is resuming, 
 
 Below is a summary of the commission’s recommendations to Congress and the administration.
 
-[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210721_Gerberding_Brooks_Statement.jpg?mpigniGWtfeAjkb9bXN_Xi5jVl6sN8Ho)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210721_Gerberding_Brooks_Statement.jpg?mpigniGWtfeAjkb9bXN_Xi5jVl6sN8Ho)
+[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/210721_Gerberding_Brooks_Statement.jpg?mpigniGWtfeAjkb9bXN_Xi5jVl6sN8Ho)](Summary "Summary")
 
 **Julie Gerberding**  
 Executive Vice President and Chief Patient Officer, Merck  
