@@ -1,21 +1,5 @@
 [
   {
-    "Last Name": "Kolker",
-    "First Name": "Jimmy",
-    "Display Name": "Ambassador Jimmy Kolker",
-    "Short Title": "U.S. Department of Health and Human Services (former)",
-    "Title": "Former Assistant Secretary for Global Affairs, U.S. Department of Health and Human Services",
-    "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1605907749/health-commission/Kolker_Jimmy_pyhed2.jpg",
-    "Has Photo": "TRUE",
-    "Short Bio": "Ambassador Jimmy Kolker is a non-resident senior associate with the CSIS Global Health Policy Center. He retired in January 2017 as Assistant Secretary for Global Affairs at the U.S. Department of Health and Human Services (HHS), where he served as the Department’s chief health diplomat. His 30-year State Foreign Service career included ambassador posts in Burkina Faso and Uganda.",
-    "Long Bio": "Ambassador Jimmy Kolker is a non-resident senior associate with the CSIS Global Health Policy Center. He retired in January 2017 as Assistant Secretary for Global Affairs at the U.S. Department of Health and Human Services (HHS). In this role, Ambassador Kolker was the Department’s chief health diplomat, representing the United States at World Health Organization meetings and as alternate Board Member of the Global Fund to Fight AIDS, Tuberculosis and Malaria.\n\nAmbassador Kolker had a 30-year diplomatic career with the US Department of State where he served as the U.S. Ambassador to Burkina Faso (1999-2002) and to Uganda (2002-2005). From 2005-2007, he was Deputy U. S. Global AIDS Coordinator, leading the implementation of the President’s Emergency Plan for AIDS Relief (PEPFAR).  Ambassador Kolker was Deputy Chief of Mission at US embassies in Denmark and Botswana and won awards for political reporting at earlier posts in the UK, Sweden, Zimbabwe, and Mozambique.\n\nFrom 2007-2011, Ambassador Kolker was Chief of the AIDS Section at UNICEF’s New York headquarters. He led UNICEF's work focusing on mother-to-child-transmission of HIV, pediatric treatment, prevention among adolescents, and protection for children affected by AIDS.\n\nAmbassador Kolker is also a visiting scholar at the American Association for the Advancement of Science and Georgetown's Center for Global Health Science and Security.  He serves on the boards of Building Tomorrow and the AB InBev and Firelight foundations.\n\nAmbassador Kolker holds a Master’s in Public Administration from Harvard Kennedy School and a B.A. magna cum laude from Carleton College in Minnesota. He was a Thomas J. Watson Foundation Fellow (1970-1971). He speaks French, Swedish, and Portuguese.",
-    "signature": "https://res.cloudinary.com/csisideaslab/image/upload/v1576089017/health-commission/Jimmy_Kolker_wcfbkw.jpg",
-    "commission": [
-      "2019",
-      "2020"
-    ]
-  },
-  {
     "Last Name": "Bliss",
     "First Name": "Katherine",
     "Display Name": "Katherine Bliss",
@@ -110,6 +94,22 @@
     "Long Bio": "Jennifer Kates is Vice President and Director of Global Health & HIV Policy at the Kaiser Family Foundation, where she oversees the Foundation’s policy analysis and research focused on the U.S. government’s role in global health and on the global and domestic HIV epidemics. Widely regarded as an expert in the field, she regularly publishes and presents on global health and HIV policy issues and is particularly known for her work analyzing global health financing. Before joining the Foundation in 1998, Dr. Kates was a Senior Associate with The Lewin Group, a health care consulting firm, where she focused on HIV policy, strategic planning/health systems analysis, and health care for vulnerable populations. Among other prior positions, she directed the Princeton University Office of Lesbian, Gay, and Bisexual Concerns.\n\nDr. Kates serves on numerous federal and private sector advisory committees on global health and HIV issues, and is currently a member of PEPFAR’s Scientific Advisory Board, the NIH Office of AIDS Research Advisory Council, and the CDC/HRSA Advisory Committee on HIV, Viral Hepatitis and STD Prevention and Treatment.  She also serves as an Alternate Board Member of the Global Fund to Fight AIDS, Tuberculosis and Malaria and is on the Governing Council of the International AIDS Society.\n\nDr. Kates received her Ph.D. in Health Policy from George Washington University, where she is also a lecturer. She is also a lecturer at the Johns Hopkins School of Advanced International Studies.  She holds a Bachelor’s degree from Dartmouth College, a Master’s degree in Public Affairs from Princeton University’s Woodrow Wilson School of Public and International Affairs, and a Master’s degree in Political Science from the University of Massachusetts.",
     "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1605907430/health-commission/Kates_Jennifer_cnlatr.jpg",
     "commission": [
+      "2020"
+    ]
+  },
+  {
+    "Last Name": "Kolker",
+    "First Name": "Jimmy",
+    "Display Name": "Ambassador Jimmy Kolker",
+    "Short Title": "U.S. Department of Health and Human Services (former)",
+    "Title": "Former Assistant Secretary for Global Affairs, U.S. Department of Health and Human Services",
+    "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1605907749/health-commission/Kolker_Jimmy_pyhed2.jpg",
+    "Has Photo": "TRUE",
+    "Short Bio": "Ambassador Jimmy Kolker is a non-resident senior associate with the CSIS Global Health Policy Center. He retired in January 2017 as Assistant Secretary for Global Affairs at the U.S. Department of Health and Human Services (HHS), where he served as the Department’s chief health diplomat. His 30-year State Foreign Service career included ambassador posts in Burkina Faso and Uganda.",
+    "Long Bio": "Ambassador Jimmy Kolker is a non-resident senior associate with the CSIS Global Health Policy Center. He retired in January 2017 as Assistant Secretary for Global Affairs at the U.S. Department of Health and Human Services (HHS). In this role, Ambassador Kolker was the Department’s chief health diplomat, representing the United States at World Health Organization meetings and as alternate Board Member of the Global Fund to Fight AIDS, Tuberculosis and Malaria.\n\nAmbassador Kolker had a 30-year diplomatic career with the US Department of State where he served as the U.S. Ambassador to Burkina Faso (1999-2002) and to Uganda (2002-2005). From 2005-2007, he was Deputy U. S. Global AIDS Coordinator, leading the implementation of the President’s Emergency Plan for AIDS Relief (PEPFAR).  Ambassador Kolker was Deputy Chief of Mission at US embassies in Denmark and Botswana and won awards for political reporting at earlier posts in the UK, Sweden, Zimbabwe, and Mozambique.\n\nFrom 2007-2011, Ambassador Kolker was Chief of the AIDS Section at UNICEF’s New York headquarters. He led UNICEF's work focusing on mother-to-child-transmission of HIV, pediatric treatment, prevention among adolescents, and protection for children affected by AIDS.\n\nAmbassador Kolker is also a visiting scholar at the American Association for the Advancement of Science and Georgetown's Center for Global Health Science and Security.  He serves on the boards of Building Tomorrow and the AB InBev and Firelight foundations.\n\nAmbassador Kolker holds a Master’s in Public Administration from Harvard Kennedy School and a B.A. magna cum laude from Carleton College in Minnesota. He was a Thomas J. Watson Foundation Fellow (1970-1971). He speaks French, Swedish, and Portuguese.",
+    "signature": "https://res.cloudinary.com/csisideaslab/image/upload/v1576089017/health-commission/Jimmy_Kolker_wcfbkw.jpg",
+    "commission": [
+      "2019",
       "2020"
     ]
   },
