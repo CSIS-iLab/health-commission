@@ -355,8 +355,7 @@
     "signature": "https://res.cloudinary.com/csisideaslab/image/upload/v1576089017/health-commission/Jimmy_Kolker_wcfbkw.jpg",
     "image_field": "https://res.cloudinary.com/csisideaslab/image/upload/v1605907749/health-commission/Kolker_Jimmy_pyhed2.jpg",
     "commission": [
-      "2019",
-      "2020"
+      "2019"
     ]
   },
   {
@@ -367,10 +366,13 @@
     "Short Title": "Vice President of Global Corporate Government Affairs & Policy GSK",
     "Title": "Vice President of Global Corporate Government Affairs & Policy GSK",
     "image_field": "",
-    "Has Photo": "",
+    "Has Photo": "FALSE",
     "Short Bio": "",
     "Long Bio": "Ramneek is responsible for partnering with Government and developing impactful policy to support scientific innovation and delivery of medicines to patients.  Priority areas include: Global Health, Innovation, Life Sciences and AMR.\n\nRamneek joined GSK in 2003, holding progressive roles with a focus on patient access across the respiratory, vaccines, oncology and HIV businesses.  Ramneek recently moved to the UK to lead Government Affairs for Europe and then later for GSK’s Global and Corporate teams.  Prior to joining GSK, Ramneek worked 6 years at management consulting firm Accenture architecting change to achieve growth and global competitiveness for top-tier clients.  Her biggest project was working with the Government of Ontario in Canada on their delivery of Social Care programmes. ",
-    "signature": ""
+    "signature": "",
+    "commission": [
+      "2020"
+    ]
   },
   {
     "Last Name": "McMurry-Heath",
