@@ -1,12 +1,12 @@
 ---
 keywords:
-- Biosafety
-- Military
 - Department of Defense
 - Coronavirus
+- Military
 - Global Health Policy Center
-- Infectious Diseases
 - Health and Security
+- Infectious Diseases
+- Biosafety
 title: Department of Defense Contributions to the U.S. Covid-19 Response, at Home
   and Abroad
 content_type: commentary
@@ -19,8 +19,8 @@ excerpt: The U.S. Department of Defense (DOD) should be systematically incorpora
   of the pandemic and build long-term preparedness capacities.
 date: 2021-12-16 05:00:00 +0000
 authors:
-- _authors/stephen-morrison.md
 - _authors/thomas-cullison.md
+- _authors/stephen-morrison.md
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
