@@ -11,7 +11,7 @@ title: Pulling Afghanistan back from the Precipice—without Capitulation
 content_type: commentary
 excerpt: Two months after the Taliban rushed to power, Afghanistan is hurtling toward
   economic chaos, the collapse of its health system, and a runaway humanitarian emergency.
-date: 
+date: 2021-10-26 04:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
 series: ''
