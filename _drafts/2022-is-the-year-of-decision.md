@@ -1,12 +1,12 @@
 ---
 keywords:
-- Department of Defense
-- China
-- COVID-19
+- Health and Security
 - Global Health
 - Global Health Policy Center
 - Infectious Diseases
-- Health and Security
+- COVID-19
+- Department of Defense
+- China
 - Multilateral Institutions
 title: 2022 Is the Year of Decision
 content_type: report
