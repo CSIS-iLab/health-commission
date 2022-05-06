@@ -1,8 +1,8 @@
 ---
 content_type: event
 keywords:
-- COVID-19
 - Global Health Policy Center
+- COVID-19
 - Health and Security
 title: 'Fireside Chat with Dr. Anthony Fauci: Is the Pandemic in Transition?'
 date: 2022-01-11 05:00:00 +0000
@@ -13,9 +13,10 @@ excerpt: 'J. Stephen Morrison, Senior Vice President and Director of the CSIS Gl
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
-image: ''
+- _themes/science-and-anti-science.md
+image: https://res.cloudinary.com/csisideaslab/image/upload/v1651875007/health-commission/GettyImages-1236889223_wkllpr.jpg
 image_caption: ''
-image_credit: ''
+image_credit: 'Photo: MANDEL NGAN/AFP/Getty Images'
 documents: []
 published: false
 
