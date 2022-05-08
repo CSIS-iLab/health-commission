@@ -23,10 +23,11 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1652038119/health-c
 image_caption: ''
 image_credit: 'Photo: PRAKASH MATHEMA/AFP/Getty Images'
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/06xo-681ilA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"></iframe> </div>
+
+[Download Transcript](https://csis-website-prod.s3.amazonaws.com/s3fs-public/event/210621_Bliss_Hamre_Vaccines.pdf?p0oxioPOrz6UqkRxd7ec2KWvCMteNffD)
 
 The latest phase of the Covid-19 pandemic response has exposed a wide chasm between high-income and lower-income countries, as some states race ahead in their Covid-19 vaccination campaigns while others have yet to begin. As the global vaccination effort contends with supply shocks and geopolitical challenges, national health leaders must confront a reality of scarce resources, surging caseloads in some areas, and pandemic fatigue. How have lower- and lower-middle income countries approached this unprecedented immunization campaign, and what are the prospects for the next phase of the rollout as supply is scaled up? How can the needs and challenges lower- and lower-middle income countries are facing be better addressed in efforts to achieve more equitable distribution of Covid-19 vaccines?
 
