@@ -21,7 +21,9 @@ authors:
 - _authors/thomas-cullison.md
 - _authors/stephen-morrison.md
 series: ''
-themes: []
+themes:
+- _themes/building-a-new-order.md
+- _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1652037762/health-commission/GettyImages-1208679446_gvpasw.jpg
 image_caption: ''
 image_credit: 'Photo: JOSEPH PREZIOSO/AFP/Getty Images'
