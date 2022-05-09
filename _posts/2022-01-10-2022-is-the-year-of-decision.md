@@ -51,4 +51,4 @@ What scale and type of U.S. leadership and enhanced diplomacy are essential to s
 
 [![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/220110_Brooks_Summary_Table.jpg?7pr4LOsRGWBoCc7qhwV2FLu9r7a4CBPA)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/220110_Brooks_Summary_Table.jpg?7pr4LOsRGWBoCc7qhwV2FLu9r7a4CBPA)
 
-_This report is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
+_This report is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._ 
