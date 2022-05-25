@@ -14,10 +14,11 @@ excerpt: Recently many experts have spotlighted China’s acute vulnerability in
   China’s Zero-Covid policy, infecting millions of weakly protected Chinese, in particular
   a massive elderly population with little immune protection, who in turn could swamp
   China’s poorly prepared, under-resourced health system.
-date: 2022-02-09 05:00:00 +0000
+date: 2022-02-09T05:00:00.000+00:00
 authors:
 - _authors/stephen-morrison.md
 - _authors/scott-kennedy.md
+- _authors/yanzhong-huang.md
 series: ''
 themes:
 - _themes/building-a-new-order.md
