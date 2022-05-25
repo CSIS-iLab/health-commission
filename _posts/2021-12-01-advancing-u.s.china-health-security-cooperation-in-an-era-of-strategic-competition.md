@@ -12,9 +12,10 @@ excerpt: Although the United States and China have entered a period of strategic
   bilateral cooperation on health security is more important than ever. The Covid-19
   pandemic, with its novel nature and devastating impact globally, represents another
   critical opportunity for bilateral cooperation.
-date: 2021-12-01 05:00:00 +0000
+date: 2021-12-01T05:00:00.000+00:00
 authors:
 - _authors/scott-kennedy.md
+- _authors/yanzhong-huang.md
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
