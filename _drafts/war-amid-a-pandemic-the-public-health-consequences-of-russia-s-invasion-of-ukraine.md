@@ -24,7 +24,9 @@ excerpt: Russia's invasion has inflicted extreme physical and psychological trau
   populations have been met with a surge of support, but receiving health systems,
   both within and outside Ukraine, are under stress.
 date: 2022-04-22 04:00:00 +0000
-authors: []
+authors:
+- _authors/michaela-simoneau.md
+- _authors/humzah-khan.md
 series: ''
 themes: []
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1653495038/health-commission/GettyImages-1239523880_j8hwm6.jpg
