@@ -10,19 +10,11 @@ title: 'War amid a Pandemic: The Public Health Consequences of Russia’s Invasi
   Ukraine'
 content_type: commentary
 excerpt: Russia's invasion has inflicted extreme physical and psychological trauma
-  inside Ukraine. As a [renewed Russian assault](https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496)
-  against Ukraine’s southeast begins, Ukrainians are likely to face persistent and
-  intensifying public health challenges as a direct result of the conflict, compounding
-  the impact of the Covid-19 pandemic. The security and safety of healthcare facilities,
-  workers, and supply lines remain paramount concerns. Disruptions to surveillance
-  and treatment programs risk an eruption of infectious disease outbreaks. Interruptions
-  to chronic care and routine health services threaten to increase mortality and decrease
-  life expectancy. The long-term mental health consequences of war-related trauma
-  will be considerable. Over [5 million](https://data2.unhcr.org/en/situations/ukraine)
-  people have fled the country, while an estimated [7 million](https://www.iom.int/news/71-million-people-displaced-war-ukraine-iom-survey)
-  or more are internally displaced out of a pre-war population of 44 million. Fleeing
-  populations have been met with a surge of support, but receiving health systems,
-  both within and outside Ukraine, are under stress.
+  inside Ukraine. As a renewed Russian assault against Ukraine’s southeast begins,
+  Ukrainians are likely to face persistent and intensifying public health challenges
+  as a direct result of the conflict, compounding the impact of the Covid-19 pandemic.
+  The security and safety of healthcare facilities, workers, and supply lines remain
+  paramount concerns.
 date: 2022-04-22 04:00:00 +0000
 authors:
 - _authors/michaela-simoneau.md
