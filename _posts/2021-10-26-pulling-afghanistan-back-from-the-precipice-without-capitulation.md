@@ -16,7 +16,8 @@ authors:
 - _authors/stephen-morrison.md
 - _authors/leonard-rubenstein.md
 series: ''
-themes: []
+themes:
+- _themes/us-leadership-in-the-covid-19-era.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1651872132/health-commission/GettyImages-1235174740_0_qiijso.jpg
 image_caption: ''
 image_credit: 'Photo: HOSHANG HASHIMI/AFP via Getty Images'
