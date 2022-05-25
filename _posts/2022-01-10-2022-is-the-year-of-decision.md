@@ -14,7 +14,7 @@ excerpt: The year 2022 is the year of decision. Confronted at the year’s openi
   the Omicron surge, we have no choice but to rethink U.S. approaches, at home and
   abroad, in both managing the ongoing pandemic and in creating better preparedness
   for the future.
-date: 2022-01-10 05:00:00 +0000
+date: 2022-01-10T05:00:00.000+00:00
 authors:
 - _authors/stephen-morrison.md
 - _authors/u.s.-congresswoman-susan-brooks.md
@@ -23,6 +23,7 @@ series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
 - _themes/building-a-new-order.md
+- _themes/science-and-anti-science.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1651873977/health-commission/GettyImages-1235400980_wxyxjw.jpg
 image_caption: ''
 image_credit: 'Photo: BRENDAN SMIALOWSKI/AFP/Getty Images'
@@ -51,4 +52,4 @@ What scale and type of U.S. leadership and enhanced diplomacy are essential to s
 
 [![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/220110_Brooks_Summary_Table.jpg?7pr4LOsRGWBoCc7qhwV2FLu9r7a4CBPA)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/220110_Brooks_Summary_Table.jpg?7pr4LOsRGWBoCc7qhwV2FLu9r7a4CBPA "Summary of recommendations to congress and the Biden administration")
 
-_This report is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._ 
+_This report is a product of the CSIS Commission on Strengthening America’s Health Security, generously supported by the Bill & Melinda Gates Foundation._
