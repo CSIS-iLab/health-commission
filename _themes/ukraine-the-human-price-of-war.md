@@ -3,7 +3,7 @@ title: 'Ukraine: The Human Price of War'
 long_title_formatted: 'Ukraine: The Human Price of War'
 short_title: 'Ukraine: The Human Price of War'
 excerpt: 'The CSIS Commission on Strengthening America’s Health Security presents
-  _Ukraine: The Human Price of War_, a short documentary series examining the shocking
+  Ukraine: The Human Price of War, a short documentary series examining the shocking
   attack on the country and whether Russian President Vladimir Putin and his armed
   forces will continue their past behavior in Syria and Chechnya - targeting civilian
   populations and infrastructure - including the medical sector. Our exploration includes
