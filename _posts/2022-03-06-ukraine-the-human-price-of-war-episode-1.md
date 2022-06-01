@@ -21,7 +21,7 @@ themes:
 - _themes/ukraine-the-human-price-of-war.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1654102208/health-commission/Ukraine_The_Human_Price_of_War_Final_THUMBNAIL.Still001_ayxt55.jpg
 image_caption: ''
-image_credit: ''
+image_credit: Paul Franz
 pdf: ''
 is_commission_related:
   description: ''
