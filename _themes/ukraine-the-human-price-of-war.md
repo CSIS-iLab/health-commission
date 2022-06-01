@@ -11,7 +11,7 @@ excerpt: 'The CSIS Commission on Strengthening America’s Health Security prese
   issues and international law.'
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1654102208/health-commission/Ukraine_The_Human_Price_of_War_Final_THUMBNAIL.Still001_ayxt55.jpg
 image_caption: ''
-image_credit: CSIS
+image_credit: Paul Franz
 in_depth_overview: ''
 featured_post: ''
 further_reading: ''
