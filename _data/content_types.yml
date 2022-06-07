@@ -1,4 +1,8 @@
 ---
+- type: video
+  title_single: Video
+  title_plural: Videos
+  filterable: true
 - type: commentary
   title_single: Commentary
   title_plural: Commentaries
