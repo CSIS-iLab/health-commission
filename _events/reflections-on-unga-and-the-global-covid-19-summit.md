@@ -27,7 +27,6 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1655156922/health-c
 image_caption: ''
 image_credit: 'Photo: DOMINICK REUTER/AFP/Getty Images'
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/8wIHJBHZBSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"></iframe> </div>
