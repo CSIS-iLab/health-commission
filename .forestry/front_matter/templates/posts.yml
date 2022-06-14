@@ -16,6 +16,7 @@ fields:
     - report
     - news
     - video
+    - event
   label: Content Type
   hidden: false
 - type: textarea
