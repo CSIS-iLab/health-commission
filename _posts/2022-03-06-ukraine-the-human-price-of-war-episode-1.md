@@ -5,14 +5,14 @@ keywords:
 - Geopolitics
 - Russia
 title: 'Ukraine: The Human Price of War Episode 1'
-content_type: commentary
+content_type: video
 excerpt: Russia has shown a pattern of indiscriminate violence in their past behavior
   in Syria and Chechnya, historically taking a "scorched earth" approach that targets
   civilian populations and medical infrastructure. On days 8 and 9 of the invasion,
   Seth G. Jones, Marti Flacks, Jacob Kurtzer, Leonard Rubenstein, and Alla Soroka-Krotova
   assess the rapid escalation of the war thus far and look forward to the dangerous
   days ahead.
-date: 2022-03-06 05:00:00 +0000
+date: 2022-03-06T05:00:00.000+00:00
 authors:
 - _authors/stephen-morrison.md
 - _authors/Justin-Kenny.md
