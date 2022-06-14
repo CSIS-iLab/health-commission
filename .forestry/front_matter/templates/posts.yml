@@ -15,6 +15,7 @@ fields:
     - commentary
     - report
     - news
+    - video
   label: Content Type
   hidden: false
 - type: textarea
