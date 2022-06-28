@@ -14,15 +14,14 @@ excerpt: 'More than two years into the Covid-19 pandemic, there is a glaring glo
   Covid-19 symptoms to access available treatments in a timely manner. A promising
   moment has arisen to make significant progress in advancing these essential companions:
   tests and therapies.'
-date: 2022-01-13 05:00:00 +0000
+date: 2022-01-13T05:00:00.000+00:00
 authors:
 - _authors/Katherine-Bliss.md
 - _authors/stephen-morrison.md
 series: ''
 themes:
-- _themes/building-a-new-order.md
+- _themes/pandemic-therapies.md
 - _themes/us-leadership-in-the-covid-19-era.md
-- _themes/science-and-anti-science.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1651874313/health-commission/GettyImages-1237664870_f4ox20.jpg
 image_caption: ''
 image_credit: 'Photo: JOSEPH PREZIOSO/AFP/Getty Images'
