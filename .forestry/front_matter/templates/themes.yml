@@ -56,4 +56,5 @@ fields:
     schema:
       format: markdown
 pages:
+- _themes/pandemic-therapies.md
 - _themes/ukraine-the-human-price-of-war.md
