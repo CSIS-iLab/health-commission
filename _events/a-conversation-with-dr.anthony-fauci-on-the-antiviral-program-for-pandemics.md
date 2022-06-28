@@ -18,8 +18,8 @@ excerpt: On Tuesday, August 3rd from 2:00 p.m. – 3:00 p.m. EDT, the CSIS Commi
   other viruses with the potential to become pandemics.
 series: ''
 themes:
+- _themes/pandemic-therapies.md
 - _themes/us-leadership-in-the-covid-19-era.md
-- _themes/science-and-anti-science.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1655156416/health-commission/GettyImages-1223643376_uheadr.jpg
 image_caption: ''
 image_credit: 'Photo: AL DRAGO/AFP/Getty Images'
