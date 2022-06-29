@@ -1,7 +1,7 @@
 ---
 title: J. Stephen Morrison
-date: 2018-09-13 15:30:52 +0000
-short_title: Center for Strategic and International Studies
+date: '2018-09-13T15:30:52.000+00:00'
+short_title: Senior Vice President and Director, Global Health Policy Center
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1537905130/health-commission/Morrison_Stephen.jpg
 
 ---
