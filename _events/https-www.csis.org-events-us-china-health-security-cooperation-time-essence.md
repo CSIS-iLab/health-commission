@@ -5,7 +5,7 @@ keywords:
 - Geopolitics
 - Health and Security
 - China
-title: https://www.csis.org/events/us-china-health-security-cooperation-time-essence
+title: 'U.S.-China Health Security Cooperation: Time is of the Essence'
 date: 2021-12-14 05:00:00 +0000
 excerpt: |-
   Please join the CSIS Trustee Chair in Chinese Business and Economics and CSIS Commission on Strengthening America’s Health Security for a discussion on the key takeaways of the new CSIS Commission report: “Advancing U.S.-China
