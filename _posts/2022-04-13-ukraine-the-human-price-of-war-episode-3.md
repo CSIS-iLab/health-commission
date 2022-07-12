@@ -20,9 +20,9 @@ authors:
 series: ''
 themes:
 - _themes/ukraine-the-human-price-of-war.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1657652225/health-commission/TheHumanPriceEp3ThumnailGettyImages_ajkmh2.jpg
+image: ''
 image_caption: ''
-image_credit: Fadel Senna / AFP
+image_credit: ''
 pdf: ''
 is_commission_related:
   description: ''
