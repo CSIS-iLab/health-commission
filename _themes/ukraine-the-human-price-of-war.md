@@ -1,6 +1,6 @@
 ---
 title: 'Ukraine: The Human Price of War'
-long_title_formatted: 'Ukraine: The Human Price of War'
+long_title_formatted: "##### Ukraine: The Human Price of War"
 short_title: 'Ukraine: The Human Price of War'
 excerpt: 'The CSIS Commission on Strengthening America’s Health Security presents
   Ukraine: The Human Price of War, a short documentary series examining the shocking
