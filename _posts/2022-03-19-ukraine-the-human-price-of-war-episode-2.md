@@ -21,9 +21,9 @@ authors:
 series: ''
 themes:
 - _themes/ukraine-the-human-price-of-war.md
-image: https://res.cloudinary.com/csisideaslab/image/upload/v1657651702/health-commission/UHPW_EP2_Thumbnail_b9oq4v.jpg
+image: ''
 image_caption: ''
-image_credit: 'Andriy Dubchak - dia images via Getty Images.jpeg '
+image_credit: ''
 pdf: ''
 is_commission_related:
   description: ''
