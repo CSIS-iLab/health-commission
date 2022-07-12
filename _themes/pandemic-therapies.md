@@ -1,6 +1,6 @@
 ---
 title: Pandemic Therapies
-long_title_formatted: "# Pandemic Therapies"
+long_title_formatted: "##### Pandemic Therapies"
 short_title: Pandemic Therapies
 excerpt: The last two and a half years of the global Covid-19 pandemic have witnessed
   unprecedented research and development collaboration that has resulted in the availability—in
