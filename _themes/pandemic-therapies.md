@@ -13,7 +13,7 @@ excerpt: The last two and a half years of the global Covid-19 pandemic have witn
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1656408484/health-commission/GettyImages-1238318325_qqttoa.jpg
 image_caption: ''
 image_credit: 'Photo: JONATHAN NACKSTRAND/AFP/Getty Images'
-in_depth_overview: _posts/2022-01-13-call-to-action-global-coordination-to-scale-up-access-to-covid-19-therapies.md
+in_depth_overview: ''
 featured_post: ''
 further_reading: ''
 
