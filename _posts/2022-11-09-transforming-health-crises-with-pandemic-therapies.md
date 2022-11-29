@@ -16,6 +16,8 @@ authors:
 series: ''
 themes:
 - _themes/pandemic-therapies.md
+- _themes/us-leadership-in-the-covid-19-era.md
+- _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1669753201/health-commission/GettyImages-1238318288_hdirvm.jpg
 image_caption: ''
 image_credit: 'Photo: JONATHAN NACKSTRAND/AFP/GETTYIMAGES'
