@@ -14,7 +14,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1656408484/health-c
 image_caption: ''
 image_credit: 'Photo: JONATHAN NACKSTRAND/AFP/Getty Images'
 in_depth_overview: ''
-featured_post: _posts/2022-07-06-covid-19-therapies-at-the-crossroads.md
+featured_post: _posts/2022-11-09-transforming-health-crises-with-pandemic-therapies.md
 further_reading: ''
 
 ---
