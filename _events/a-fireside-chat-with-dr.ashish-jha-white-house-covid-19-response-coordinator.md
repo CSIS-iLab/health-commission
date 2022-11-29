@@ -5,7 +5,7 @@ keywords:
 - COVID-19
 - Health and Security
 title: A Fireside Chat with Dr. Ashish Jha, White House Covid-19 Response Coordinator
-date: 2022-09-27 04:00:00 +0000
+date: 2022-09-27 20:00:00 +0000
 excerpt: 'Please join the CSIS Commission on Strengthening America’s Health Security
   on Tuesday, September 27, from 4:00 pm to 4:20 pm ET, for a fireside chat with Dr.
   Ashish Jha, White House Covid-19 Response Coordinator. '
