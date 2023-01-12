@@ -5,8 +5,8 @@ commission_desc: The CSIS Commission on Strengthening America’s Health Securit
   security and health.
 featured_post_primary: final-report.md
 featured_post_secondary:
+- _posts/2023-01-12-building-the-cdc-the-country-needs.md
 - _posts/2022-01-10-2022-is-the-year-of-decision.md
-- _posts/2022-04-22-war-amid-a-pandemic-the-public-health-consequences-of-russia-s-invasion-of-ukraine.md
 featured_events: _events/a-conversation-with-congressman-tom-cole.md
 
 ---
