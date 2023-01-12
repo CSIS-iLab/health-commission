@@ -20,6 +20,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1673543411/health-c
 image_caption: ''
 image_credit: 'Photo: The White House/Flickr'
 documents: []
+published: false
 
 ---
 The U.S. Centers for Disease Control and Prevention (CDC) has entered a moment of peril. Long heralded a national public health asset, CDC has suffered a sharp decline in popular trust and confidence, a signal of widespread concern over its performance in preventing and responding, at home and abroad, to dangerous outbreaks. The United States needs a strong, effective, and more accountable national public health agency to protect the health of all Americans and ensure the stability of the broader world.
