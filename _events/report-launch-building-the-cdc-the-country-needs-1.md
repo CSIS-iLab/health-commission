@@ -6,8 +6,8 @@ keywords:
 - Infectious Diseases
 - Global Health
 - COVID-19
-title: Report Launch Building the CDC the Country Needs
-date: 2023-01-17 16:30:00 +0000
+title: 'Report Launch: Building the CDC the Country Needs'
+date: 2023-01-13 05:00:00 +0000
 excerpt: Please join the CSIS Commission on Strengthening America's Health Security
   for a lively roundtable discussion on a new CSIS report, "Building the CDC the Country
   Needs."
