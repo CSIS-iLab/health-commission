@@ -20,7 +20,6 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1673543411/health-c
 image_caption: ''
 image_credit: 'Photo: The White House/Flickr'
 documents: []
-published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/live/6C5krwDtmwQ?feature=share"></iframe></div>
