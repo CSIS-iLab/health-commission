@@ -67,6 +67,7 @@ defaults:
     show_page_highlights: true
     page_highlights_cite: true
     page_highlights_share: true
+    future: true
     permalink: "/events/:slug/"
 - scope:
     path: ''
