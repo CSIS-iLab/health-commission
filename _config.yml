@@ -11,6 +11,7 @@ date_format: '%b %-d, %Y'
 tag_url: /search/?dFR[keywords][0]=
 theme_url: /search/?dFR[themes][0]=
 content_type_url: /search/?dFR[content_type][0]=
+future: true
 
 # Content types will be defined here
 collections:
