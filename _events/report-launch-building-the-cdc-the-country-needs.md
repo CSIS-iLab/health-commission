@@ -7,7 +7,7 @@ keywords:
 - Global Health
 - COVID-19
 title: 'Report Launch: Building the CDC the Country Needs'
-date: 2023-01-20 16:30:00 +0000
+date: 2023-01-20T16:30:00.000+00:00
 excerpt: Please join the CSIS Commission on Strengthening America's Health Security
   for a lively roundtable discussion on a new CSIS report, "Building the CDC the Country
   Needs."
@@ -20,6 +20,7 @@ image: https://res.cloudinary.com/csisideaslab/image/upload/v1673543411/health-c
 image_caption: ''
 image_credit: 'Photo: The White House/Flickr'
 documents: []
+published: false
 
 ---
 <div class="video-wrapper post-feature-video"> <iframe width="560" height="315" src="https://www.youtube.com/embed/6C5krwDtmwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
