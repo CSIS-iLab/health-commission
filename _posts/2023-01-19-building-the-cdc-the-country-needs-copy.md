@@ -11,7 +11,7 @@ excerpt: The CSIS Commission on Strengthening America’s Health Security’s bi
   working group on the CDC recommends a package of reforms to strengthen CDC’s performance
   in preventing and responding to dangerous outbreaks and drive a significant reset
   within the agency.
-date: 2023-01-12T05:00:00.000+00:00
+date: 2023-01-19 14:00:00 +0000
 authors:
 - _authors/stephen-morrison.md
 - _authors/tom-inglesby.md
