@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "npx tinacms dev -c \"gulp\"",
-    "dev": "tinacms dev -c \"gulp\"",
+    "dev": "tinacms dev -c gulp",
     "browsersync": "gulp browsersync",
     "browsersync-production": "gulp browsersync --jekyllEnv='production'",
     "build": "tinacms build && gulp build --jekyllEnv='production'",
