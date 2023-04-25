@@ -1,6 +1,3 @@
-const BundleAnalyzerPlugin = require('webpack-bundle-analyzer')
-  .BundleAnalyzerPlugin
-
 module.exports = {
   port: 4000,
 
@@ -9,7 +6,6 @@ module.exports = {
     eslint: true,
     imagemin: true,
     sass: true,
-    styleLint: true,
     watch: true,
     webpack: true
   },
@@ -36,7 +32,6 @@ module.exports = {
     exclude: /node_modules/,
     loader: 'eslint-loader'
   },
-
   imagemin: {
     src: '_images',
     dest: 'images',
@@ -54,7 +49,12 @@ module.exports = {
     data: '_data',
     includes: '_includes',
     layouts: '_layouts',
-    posts: '_posts'
+    posts: '_posts',
+    series: '_series',
+    themes: '_themes',
+    events: '_events',
+    authors: '_authors',
+    plugins: '_plugins'
   },
 
   js: {
@@ -62,13 +62,9 @@ module.exports = {
     dest: 'js',
     entry: [
       'bundle.js',
-      'spotlights.js',
       'archives.js',
-      'home.js',
-      'lazy-load.js',
-      'newsletter.js',
-      'spotlights/arctic/arctic.js',
-      'spotlights/scs/scs.js'
+      'members.js',
+      'interactive/disorder-outbreak.js'
     ]
   },
 
@@ -77,55 +73,28 @@ module.exports = {
     dest: 'css',
     outputStyle: 'compressed',
     autoprefixer: {
-      grid: 'autoplace'
+      grid: true,
+      browsers: ['> 1%', 'last 2 versions', 'Firefox ESR']
     }
   },
 
   webpack: {
     mode: 'production',
-    // devtool: 'source-map',
-    // plugins: [new BundleAnalyzerPlugin()],
+    module: {
+      rules: []
+    },
+    externals: {
+      highcharts: 'Highcharts'
+    },
     output: {
       filename: chunkData => {
-        return chunkData.chunk.entryModule._identifier.includes('spotlights/')
-          ? 'spotlights/[name].js'
+        return chunkData.chunk.entryModule._identifier.includes('interactive/')
+          ? 'interactive/[name].js'
           : '[name].js'
       }
     },
-    externals: {
-      algoliasearch: 'algoliasearch',
-      Flickity: 'flickity',
-      LuminousLightbox: 'luminous-lightbox',
-      'instantsearch.js/es': 'instantsearch',
-      'pixi.js': 'PIXI',
-      Plyr: 'plyr',
-      objectFitImages: 'object-fit-images',
-      objectFitVideos: 'object-fit-videos',
-      ScrollMagic: 'ScrollMagic',
-      SmoothScroll: 'smooth-scroll',
-      Stickyfill: 'stickyfilljs',
-      TimelineMax: 'TimelineMax',
-      'tippy.js': 'tippy',
-      TweenLite: 'TweenLite',
-      TweenMax: 'TweenMax',
-      Highcharts: 'Highcharts'
-    },
-    module: {
-      rules: [
-        { test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' }
-      ]
-    },
-    resolve: {
-      modules: ['node_modules'],
-      alias: {
-        TweenLite: 'gsap/src/minified/TweenLite.min.js',
-        TweenMax: 'gsap/src/minified/TweenMax.min.js',
-        TimelineLite: 'gsap/src/minified/TimelineLite.min.js',
-        TimelineMax: 'gsap/src/minified/TimelineMax.min.js',
-        ScrollMagic: 'scrollmagic/scrollmagic/minified/ScrollMagic.min.js',
-        'animation.gsap':
-          'scrollmagic/scrollmagic/minified/plugins/animation.gsap.min.js'
-      }
+    performance: {
+      hints: false
     }
   }
 }
