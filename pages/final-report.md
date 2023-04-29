@@ -73,7 +73,7 @@ The Commission urges Congress and the administration to adopt the following inte
     <p>U.S. multilateral leadership is necessary to address the financing gap for preparedness, one of the starkest problems in health security. Congress should press for U.S. leadership to launch a challenge initiative at the World Bank that will incentivize long-term investment by fragile and conflict-affected countries in their own basic health security capacities. Such country ownership is the ultimate and only sustainable solution to the finance gap.</p>
   </li>
   <li>
-    <h3>Ensure rapid access to resources for health emergencies.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec4_a9i0kk.jpg" alt="" /></h3> 
+    <h3>Ensure rapid access to resources for health emergencies.<img src="https://res.cloudinary.com/csisideaslab/image/upload/v1574091007/health-commission/RecommendationIcons_Rec4_a9i0kk.jpg" alt="" /></h3>
     <p>Stopping a global health security crisis requires swift and early action, backed by quick-disbursing resources. Congress should increase contingency fund levels for the U.S. Centers for Disease Control and Prevention’s (CDC) Infectious Diseases Rapid Response Reserve Fund and the U.S. Agency for International Development’s (USAID) Emergency Reserve Fund for infectious disease outbreaks. The U.S. government should also make annual contributions to the World Health Organization (WHO) Contingency Fund for Emergencies (CFE).</p>
   </li>
   <li>
