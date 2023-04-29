@@ -1,35 +1,36 @@
 ---
-layout: default
-permalink: '/404.html'
-is_404: true
+title: '404'
+permalink: "/404/"
 ---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{%- include head.html -%}
 
-<article class="container404">
-  <div class="container404__bg">
-    <video preload="auto" playsinline="true" loop muted autoplay poster="https://res.cloudinary.com/csisideaslab/image/upload/f_auto,c_fill,e_blur:1000,w_2000/v1546467681/ocean/scs-hero-bg.png" >
-      <source src="https://res.cloudinary.com/csisideaslab/video/upload/v1546892967/ocean/404.mp4" type="video/mp4">
-    </video>
-  </div>
-
-  <header class="container404__header">
-    <h1>404 <span>Page not found</span></h1>
-  </header>
-  <section class="container404__content">
-    <p>Looks like you took a wrong turn! The page you are looking for was moved, removed, renamed, or might never have existed.</p>
-    <p>Return to the <a href="/index" title="Go to homepage">homepage</a> or use the search box below.</p>
-    <form class="ais-search-box" method="get" action="/search/" role="search">
-      <input id="search-404" type="search" class="input archive__search-input input--search ais-search-box--input" id="header-search" placeholder="{{ site.data.language.search_placeholder }}" autocomplete="on" name="query">
-      <span class="ais-search-box--reset-wrapper">
-        <button type="reset" title="Clear the search query." class="ais-search-box--reset">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="100%" height="100%">
-            <path d="M8.114 10L.944 2.83 0 1.885 1.886 0l.943.943L10 8.113l7.17-7.17.944-.943L20 1.886l-.943.943-7.17 7.17 7.17 7.17.943.944L18.114 20l-.943-.943-7.17-7.17-7.17 7.17-.944.943L0 18.114l.943-.943L8.113 10z" fill-rule="evenodd">
-            </path>
-          </svg>
-        </button>
-      </span>
-      <button type="submit" class="container404__search-submit">
-        <i class="icon-search" aria-label="Search"></i>
-      </button>
+<body ontouchstart="">
+  {%- include header.html -%}
+  <div class="page-404">
+    <main class="page-404__content">
+      {% assign wrapper_class = 'wrapper-full' %}
+      <div class="page-404__content__container {{ wrapper_class }}">
+        <div class="stage">
+        <div class="table" style="background-image: url('{{site.cloudinary_url}}v3/health-commission/404-bg.png')">
+          <div class="slide">
+            <img class="specimen" src="{{ site.cloudinary_url }}/v3//health-commission/404-img.png ">
+            <div class="blur"></div>
+          </div>
+          </div>
+        </div>
+        <div class="text-content">
+          <div class="text-content__section-title">404</div>
+          <h1 class="text-content__page-title" itemprop="name headline">Page not found</h1>
+          <p>
+            Our apologies, this is probably not the page you were looking for.
+            <br /> Please try the search tool above or visit our <a href="{{ "/" | relative_url }}">home page</a>.
+          </p>
+        </div>
+    </main>
     </div>
-  </section>
-</article>
+    {%- include footer.html -%}
+</body>
+
+</html>

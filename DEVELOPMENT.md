@@ -3,7 +3,6 @@ The below tools are included in the [Frasco](https://github.com/ixkaito/frasco/)
 
 - [gulp](https://gulpjs.com/)
 - [Sass](http://sass-lang.com/)
-- [Stylelint](http://stylelint.io)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 - [PostCSS](http://postcss.org/)
 - [Webpack](https://webpack.github.io/)
@@ -47,18 +46,10 @@ You can change the configurations by editing `frasco.config.js`.
 
     - #### sass
 
-        To compile Sass. Runs Style lint first.
+        To compile Sass.
 
         default: `true`  
         options: boolean (`true` / `false`)
-
-    - #### stylelint
-
-        To run Stylelint.
-
-    - #### stylelint-fix
-
-        To run Stylelint and automatically fix errors.
 
     - #### watch
 

@@ -1,0 +1,64 @@
+---
+---
+{% assign path = site.cloudinary_url | append: "v2/health-commission/" %}
+{
+"placeholder": {{ path | append: "Anon.jpg" | escape | jsonify }},
+"members":[
+{%- assign co_chairs = site.data.co_chairs | where_exp: "item", "item.commission contains '2020'" -%}
+{%- for member in co_chairs -%}
+{% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+{
+    "objectID": "co_chairs_{{ forloop.index0 }}",
+    "photo": {{ member.image_field | escape | jsonify }},
+    "last_name": {{ member['Last Name'] | escape | jsonify }},
+    "first_name": {{ member['First Name'] | escape | jsonify }},
+    "display_name": {{ member['Display Name'] | escape | jsonify }},
+    "title": {{ member['Title'] | escape | jsonify }},
+    "bio": {{ member['Long Bio'] | escape | jsonify }}
+
+  },
+{%- endfor -%}
+{%- assign members_contributors = site.data.members_contributors | where_exp: "item", "item.commission contains '2020'" -%}
+{%- for member in members_contributors -%}
+{% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+{
+    "objectID": "members_contributors_{{ forloop.index0 }}",
+    "photo": {{ member.image_field | escape | jsonify }},
+    "last_name": {{ member['Last Name'] | escape | jsonify }},
+    "first_name": {{ member['First Name'] | escape | jsonify }},
+    "display_name": {{ member['Display Name'] | escape | jsonify }},
+    "title": {{ member['Title'] | escape | jsonify }},
+    "bio": {{ member['Long Bio'] | escape | jsonify }}
+
+  },
+{%- endfor -%}
+{%- assign experts_advisors = site.data.experts_advisors | where_exp: "item", "item.commission contains '2020'" -%}
+{%- for member in experts_advisors -%}
+{% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+{
+    "objectID": "experts_advisors_{{ forloop.index0 }}",
+    "photo": {{ member.image_field | escape | jsonify }},
+    "last_name": {{ member['Last Name'] | escape | jsonify }},
+    "first_name": {{ member['First Name'] | escape | jsonify }},
+    "display_name": {{ member['Display Name'] | escape | jsonify }},
+    "title": {{ member['Title'] | escape | jsonify }},
+    "bio": {{ member['Long Bio'] | escape | jsonify }}
+
+  },
+{%- endfor -%}
+{%- assign secretariat = site.data.secretariat | where_exp: "item", "item.commission contains '2020'" -%}
+{%- for member in secretariat -%}
+{% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+{
+    "objectID": "secretariat_{{ forloop.index0 }}",
+    "photo": {{ member.image_field | escape | jsonify }},
+    "last_name": {{ member['Last Name'] | escape | jsonify }},
+    "first_name": {{ member['First Name'] | escape | jsonify }},
+    "display_name": {{ member['Display Name'] | escape | jsonify }},
+    "title": {{ member['Title'] | escape | jsonify }},
+    "bio": {{ member['Long Bio'] | escape | jsonify }}
+
+  }{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+]
+}

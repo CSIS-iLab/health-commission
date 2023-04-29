@@ -2,20 +2,22 @@
 .sass-cache
 *.scssc
 
-# Editors
+# Sublime Text
 sftp-config.json
-.vscode
 
 # Jekyll
 _site
 .jekyll-metadata
 /.bundle
 /vendor
-.jekyll-cache
+.jekyll-cache/
 
 # Compiled Files
 /assets/css/**/*.css
-/assets/js/*.js
+/assets/js/**/*.js
+
+# Forestry
+_forestry_site
 
 # Node.js
 node_modules/
@@ -35,4 +37,5 @@ doc/
 .idea
 .secret
 
-node_modules
+# Netlify
+.netlify/

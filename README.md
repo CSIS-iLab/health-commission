@@ -1,6 +1,6 @@
-# Ocean
+# CSIS Commission on Strengthening America's Health Security
 
-The website for the CSIS Stephenson Ocean Security project. It is built on the [CSIS Jekyll Starter](https://github.com/CSIS-iLab/csis-jekyll-starter) that utilizes gulp, Sass, Autoprefixer, PostCSS, Webpack, imagemin, and Browsersync to speed-up development.
+The website for the CSIS Commission on Strengthening America's Health Security. It is built on the [CSIS Jekyll Starter](https://github.com/CSIS-iLab/csis-jekyll-starter) that utilizes gulp, Sass, Autoprefixer, PostCSS, Webpack, imagemin, and Browsersync to speed-up development.
 
 ## Table of Contents
 
@@ -15,10 +15,10 @@ The website for the CSIS Stephenson Ocean Security project. It is built on the [
 ## Quick-start Instructions
 
 ```shell
-$ git clone https://github.com/CSIS-iLab/ocean.git
-$ cd csis-jekyll-starter
-$ bundle install --path vendor/bundle
+$ git clone https://github.com/CSIS-iLab/health-commission.git
+$ cd health-commission
 $ npm install
+$ bundle install --path vendor/bundle
 $ npm start
 ```
 
@@ -26,7 +26,7 @@ $ npm start
 
 ### Local Development
 
-This will give you file watching, browser synchronization, auto-rebuild, CSS injecting, etc.
+This will give you file watching, browser synchronisation, auto-rebuild, CSS injecting, etc.
 
 ```shell
 $ npm start
@@ -58,7 +58,6 @@ For more information on what is included and modifying the default configuration
 
 - [gulp](https://gulpjs.com/)
 - [Sass](http://sass-lang.com/)
-- [Stylelint](http://stylelint.io)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 - [PostCSS](http://postcss.org/)
 - [Webpack](https://webpack.github.io/)
@@ -91,12 +90,7 @@ Write clear and concise commit messages describing the changes you are making an
 ### CSS Styles
 
 - This project uses the [BEM](http://getbem.com/introduction/) naming convention.
-- This project uses [Stylelint](https://stylelint.io) to maintain a consistent code style. Errors are flagged in the console during development and can be automatically fixed by running `npm run stylelint-fix`.
-
-### Includes
-
-When creating a [Jekyll include](https://jekyllrb.com/docs/includes/) that accepts parameters, add it to the [Includes](INCLUDES.md) document with a description of what the include is, how to call it, and what the parameters are.
 
 ## Copyright / License
 
-Copyright © 2018 CSIS iDeas Lab under the [MIT License](https://github.com/CSIS-iLab/on-the-radar/blob/master/LICENSE).
+Copyright © 2018 CSIS iDeas Lab under the [MIT License](https://github.com/ixkaito/frasco/blob/master/LICENSE).
