@@ -53,6 +53,20 @@
 
     #{$sf}__desc {
       @extend %footer-description;
+
+      a {
+        color: inherit;
+        @include box-shadow(0px, -2px, 0px, 0, $color-dust, true);
+
+        &:visited {
+          color: $color-slate;
+        }
+
+        &:hover {
+          color: $color-dust;
+          box-shadow: none;
+        }
+      }
     }
 
     i {
