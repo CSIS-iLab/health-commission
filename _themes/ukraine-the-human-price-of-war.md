@@ -15,7 +15,7 @@ image_credit: Paul Franz
 in_depth_overview: ''
 featured_post: ''
 further_reading: ''
-
+order: 5
 ---
 The CSIS Commission on Strengthening America’s Health Security presents _Ukraine: The Human Price of War,_ a short documentary series examining the shocking attack on the country and whether Russian President Vladimir Putin and his armed forces will continue their past behavior in Syria and Chechnya - targeting civilian populations and infrastructure - including the medical sector. Our exploration includes voices of Ukrainians on the ground and leading experts on security, humanitarian issues and international law.   
    

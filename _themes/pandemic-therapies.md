@@ -16,7 +16,7 @@ image_credit: 'Photo: JONATHAN NACKSTRAND/AFP/Getty Images'
 in_depth_overview: ''
 featured_post: _posts/2022-11-09-transforming-health-crises-with-pandemic-therapies.md
 further_reading: ''
-
+order: 4
 ---
 The last two and a half years of the global Covid-19 pandemic have witnessed unprecedented research and development collaboration that has resulted in the availability—in record time—of new vaccines. But with the Covid-19 vaccine coverage in many low- and middle-income countries stuck at low levels, and with new variants threatening the durability of immune protection, therapies have emerged as an important weapon in the pandemic arsenal. When paired with expanded testing, therapies have the ability to reduce the likelihood of severe illness and hospitalizations that can rapidly overwhelm health systems.
 
