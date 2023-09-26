@@ -19,6 +19,7 @@ authors:
 series: ''
 themes:
 - _themes/us-leadership-in-the-covid-19-era.md
+- _themes/building-a-new-order.md
 image: https://res.cloudinary.com/csisideaslab/image/upload/v1651873250/health-commission/GettyImages-1233823266_eg4vof.jpg
 image_caption: ''
 image_credit: 'Photo: STR/AFP via Getty Images'
