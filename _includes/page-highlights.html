@@ -15,10 +15,9 @@
       {{ page.excerpt }}
     </p>
     {% if page.header_image_caption.size > 0 or page.header_image_credit.size > 0 %}
-    {%- include img-caption.html tag='p' desc=page.header_image_caption source=page.header_image_credit -%}
-    {% else %}
-    {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
+    {%- include img-caption.html tag='p' desc=page.header_image_caption -%}
     {% endif %}
+    {%- include img-caption.html tag='p' desc=site.data.language.photo_credit source=page.image_credit -%}
 
     {% if page.name == 'members.md' %}
     {% include about-table-contents.html %}

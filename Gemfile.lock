@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.1)
+    addressable (2.8.4)
       public_suffix (>= 2.0.2, < 6.0)
     algoliasearch (1.6.1)
       httpclient (~> 2.4)
       json (>= 1.5.1)
     colorator (1.1.0)
-    concurrent-ruby (1.1.10)
+    concurrent-ruby (1.2.2)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -16,7 +16,7 @@ GEM
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     httpclient (2.8.3)
-    i18n (1.12.0)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     jekyll (4.0.1)
       addressable (~> 2.4)
