@@ -5,6 +5,10 @@ layout: default
 <div class="home">
   <section class="home__hero">
     {%- include home-animated-map.html -%}
+    <div class="home__hero-archived">
+      <p>This website is no longer updated. For the latest from CSIS’s Global Health Security Center, please visit the
+        <a href="https://www.csis.org/programs/global-health-policy-center">CSIS website</a> and the Commission’s successor project, the <a href="https://www.csis.org/programs/global-health-policy-center/csis-bipartisan-alliance-global-health-security">CSIS Bipartisan Alliance for Global Health Security</a>.</p>
+    </div>
     <div class="home__hero-subtitle">{{ site.data.language.home.subtitle | escape }}</div>
     <div class="home__hero-title">{{ site.data.language.home.title | escape }}</div>
   </section>
@@ -14,7 +18,8 @@ layout: default
   <section class="home__commission-img"></section>
   <section class="home__commission-desc">
     <p>{{ page.commission_desc }}</p>
-    <a href="/members" class="btn btn--dark-gray" aria-label="site.data.language.home.commission_btn_aria_label">{{ site.data.language.home.commission_btn | escape }}</a>
+    <a href="/members" class="btn btn--dark-gray" aria-label="site.data.language.home.commission_btn_aria_label">{{
+      site.data.language.home.commission_btn | escape }}</a>
   </section>
   {% include home-featured-primary.html %}
   <section class="home__events-series">
@@ -23,7 +28,8 @@ layout: default
   {% include home-featured-secondary.html %}
   {% include home-recent-posts.html %}
   <section class="home__articles-btn">
-    <a href="/articles/" class="btn btn--dark-gray" aria-label="site.data.language.home.articles_btn_aria_label">{{ site.data.language.home.articles_btn | escape }}</a>
+    <a href="/articles/" class="btn btn--dark-gray" aria-label="site.data.language.home.articles_btn_aria_label">{{
+      site.data.language.home.articles_btn | escape }}</a>
   </section>
   {% include home-themes.html %}
   <section class="home__themes-img"></section>

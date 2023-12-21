@@ -84,9 +84,33 @@
     }
 
     &-subtitle,
-    &-title {
+    &-title,
+    &-archived {
       position: relative;
       z-index: 5;
+    }
+
+    &-archived {
+      color: $color__logo-white-dots;
+      background-color: $color__logo-color-lines;
+      font-weight: bold;
+      padding: 1rem;
+    }
+
+    &-archived a {
+      &:not(.btn) {
+          color: inherit;
+          @include box-shadow(0px, -2px, 0px, 0, $color-dust, true);
+
+          &:visited {
+            color: $color-slate;
+          }
+
+          &:hover {
+            color: $color-dust;
+            box-shadow: none;
+          }
+        }
     }
 
     &-subtitle {

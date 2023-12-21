@@ -22,10 +22,7 @@ const Members = () => {
         .then(resp => resp.json())
         .then(json => {
           let member = json.members.find(m => m.objectID === id)
-          let memberHTML = compose(
-            member,
-            json.placeholder
-          )
+          let memberHTML = compose(member, json.placeholder)
           container.innerHTML = memberHTML
         })
     }
@@ -59,9 +56,7 @@ const toggleNavigator = () => {
 }
 
 const compose = (member, placeholder) => {
-  let image = `<img class="member__photo" onerror="this.src='${placeholder}'" src="${
-    member.photo
-  }" />`
+  let image = `<img class="member__photo" onerror="this.src='${placeholder}'" src="${member.photo}" />`
 
   let display_name = `<div class="bio-name">${member.display_name}</div>`
   let title = `<div class="bio-title">${member.title}</div>`

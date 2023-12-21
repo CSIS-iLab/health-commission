@@ -16,6 +16,11 @@
       weight: 4
       title: Events
       desc: Health Commission Events
+    - identifier: all_articles
+      url: '/articles'
+      weight: 5
+      title: All Articles
+      desc: All Articles
 - identifier: work
   title: Our Work
   footer_title: Our Work — Thematic Pillars
